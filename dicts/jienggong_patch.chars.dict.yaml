@@ -1,0 +1,23 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 阳江话词库, 由 Lumen 手工整理生成
+# 读音来源: 黄伯荣 《广东阳江方言研究》（2018，中山大学）
+#
+# Lumen <lumen01@qq.com>
+#
+
+---
+name: "jienggong_patch.chars"
+version: "2024.06.23"
+sort: by_weight
+...
+
+啲	di5
+奇	gei1
+曳	jai2
+挍	kaau2
+摎	laau2
+眯	mi5
+匿	nei4
+匿	nik5

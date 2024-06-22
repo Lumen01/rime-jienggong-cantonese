@@ -1,0 +1,150 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: jienggong
+  name: '阳江话拼音'
+  version: "2024.06.22"
+  author:
+    - Lumen <lumen01@qq.com>
+
+  description: |-
+    阳江话方言拼音方案
+    https://www.github.com/Lumen01
+    支持声调显示及输入
+    用户交流QQ群 <待定>
+
+    特点：
+      - 使用 pinyin_simp 作为普通话反查
+      - 添加 easy_en 实现中英混输
+
+  dependencies:
+    - pinyin_simp
+    - easy_en
+
+switches:
+  - name: ascii_mode
+    states: [ 中文, 英文 ]
+  - name: simplification
+    states: [ 简体, 繁体]
+    reset: 0
+  - name: emoji_suggestion
+    states: [ 关Emoji, 开Emoji ]
+    reset: 1
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: extended_charset
+    states: [ 常用, 增廣 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@reverse_lookup
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - script_translator
+    - lua_translator@date_translator        # librime-lua 输入动态时间和日期
+    - table_translator@english
+  filters:
+    - simplifier@simplification
+    - reverse_lookup_filter@reverse_lookup
+    - simplifier
+    - uniquifier
+    - lua_filter@*en_spacer
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    # 取消下兩行註釋，支援疑影交替： ng- 通 Ø-，Ø- 通 ng-
+    #- derive/^ng([aeiou])/$1/
+    #- derive/^([aeiou])/ng$1/
+
+    # 取消下行註釋，支援泥來合流： n- 併入 l- ，如「你」讀若「理」
+    #- derive/^n(?!g)/l/
+
+    # 取消下行註釋，支援圓唇輔音合口韻缺位： gw-, kw- 併入 g-, k- ，如「國」讀若「各」、「廓」讀若「確」
+    #- derive/^(g|k)w/$1/
+
+    # 取消下行註釋，支援獨立鼻音韻 ng 併入 m，如「吳」讀若「唔」
+    #- derive/^ng([123456])$/m$1/
+
+    - derive/^y/j/                # 容錯 y -> j
+    - derive/aa(?=\d)/a/          # 容錯
+    - derive/\d//                 # 忽略聲調
+
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+
+    - xform/1/q/                  # 阴平
+    - xform/2/r/                  # 阳上
+    - xform/3/v/                  # 上声
+    - xform/4/x/                  # 阴去
+    - xform/5/qq/                 # 阳上
+    - xform/5/xx/                 # 阳上
+
+translator:
+  dictionary: jienggong
+  enable_charset_filter: true
+  spelling_hints: 8  # 將呢度改作 0，可以去除候選字後邊嘅粵拼提示
+  enable_user_dict: true
+  enable_sentence: false
+  #encode_commit_history: false
+  preedit_format:
+    - xform/([aeiouymngptk])v/${1}33/
+    - xform/([aeiouymngptk])x/${1}43/
+    - xform/([aeiouymngptk])q/${1}21/
+    - xform/([aeiouymngptk])vv/${1}24/
+    - xform/([aeiouymngptk])xx/${1}54/
+
+reverse_lookup:
+  tag: reverse_lookup
+  dictionary: pinyin_simp
+  prefix: "`"
+  suffix: "'"
+  tips: '〔普通话〕'
+
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+    - xform/^`//              # 去除反查符号`
+
+english:
+  dictionary: easy_en
+  spelling_hints: 9
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: -3
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+
+punctuator:
+  import_preset: symbols_cantonese
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    reverse_lookup: "^`[a-z]*'?$" # 反查词条的正则

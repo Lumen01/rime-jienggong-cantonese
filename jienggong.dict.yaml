@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 阳江话词库, 由 Lumen 手工整理生成
+# 读音来源: 黄伯荣 《广东阳江方言研究》（2018，中山大学）
+#
+# Lumen <lumen01@qq.com>
+#
+
+---
+name: "jienggong"
+version: "2024.06.22"
+sort: by_weight
+vocabulary: essay-jienggong
+
+import_tables:
+  - dicts/jienggong.chars
+  - dicts/jienggong_patch.chars
+  - dicts/jienggong_sogo
+...
