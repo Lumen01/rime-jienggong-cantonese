@@ -4,16 +4,16 @@
 schema:
   schema_id: jienggong
   name: '阳江话拼音'
-  version: "2024.06.22"
+  version: "2024.06.28"
   author:
     - Lumen <lumen01@qq.com>
 
   description: |-
     阳江话方言拼音方案
-    https://www.github.com/Lumen01
-    支持声调显示及输入
+      - https://github.com/Lumen01/rime-jienggong-cantonese
 
     特点：
+      - 支持声调显示及输入
       - 使用 pinyin_simp 作为普通话反查
       - 添加 easy_en 实现中英混输
 
@@ -62,6 +62,7 @@ engine:
     - table_translator@english
   filters:
     - simplifier@simplification
+    - simplifier@emoji_suggestion
     - reverse_lookup_filter@reverse_lookup
     - simplifier
     - uniquifier
@@ -71,44 +72,49 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    # 取消下兩行註釋，支援疑影交替： ng- 通 Ø-，Ø- 通 ng-
+    # 取消下两行注释，支持疑影交替： ng- 通 Ø-，Ø- 通 ng-
     #- derive/^ng([aeiou])/$1/
     #- derive/^([aeiou])/ng$1/
 
-    # 取消下行註釋，支援泥來合流： n- 併入 l- ，如「你」讀若「理」
+    # 取消下一行注释，支持泥来合流： n- 并入 l- ，如「你」读作「理」
     #- derive/^n(?!g)/l/
 
-    # 取消以下一行的注释，将 gw-, kw- 并入 g, k，[瓜]读作[家]，[夸]读作[卡]
-    #- derive/^(g|k)w/$1/
+    # 取消以下一行的注释, 将 gw-, kw- 并入 g, k, 「瓜」读作「家」, 「夸」读作「卡」
+    #- derive/^(g|k)w([aeiou])/$1$2/
 
-    # 取消下行註釋，支援獨立鼻音韻 ng 併入 m，如「吳」讀若「唔」
-    #- derive/^ng([123456])$/m$1/
+    # 对于讲海话个人, 根据习惯, 遇到 [sl] 音都发 [s], 因此
+    # 取消下一行注释, 将 sl 并入 s, 「星」读作「声」, 「姓」读作「胜」
+    #- derive/^sl([aeiou])/s$1/
 
-    - derive/^j([aeiou])/y$1/     # 容錯 j -> y
-    - derive/aa(?=\d)/a/          # 容錯
-    - derive/\d//                 # 忽略聲調
+    # 取消下一行注释, 优化 x -> sl, 输入[x] 可以得到输入 [sl] 的效果，提升输入效率
+    - derive/^sl([aeiou])/x$1/
 
-    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - derive/^j([aeiou])/y$1/     # 容错 j -> y
+    - derive/aa(?=\d)/a/          # 容错
+    - derive/\d//                 # 忽略声调
 
-    - xform/5/qq/                 # 阳上
+    - abbrev/^([a-z]).+$/$1/      # 首字母简拼
+
     - xform/1/q/                  # 阴平
-    - xform/2/r/                  # 阳上
+    - xform/2/r/                  # 阳平
     - xform/3/v/                  # 上声
-    - xform/4/x/                  # 阴去
+    - xform/4/qq/                 # 阴去
+    - xform/5/rr/                 # 阳去
 
 translator:
   dictionary: jienggong
   enable_charset_filter: true
-  spelling_hints: 9  # 將呢度改作 0，可以去除候選字後邊嘅粵拼提示
-  enable_user_dict: true
-  enable_sentence: true
-  #encode_commit_history: false
+  spelling_hints: 9                   # 将该处改作 0，可以去除候选字后面个拼音提示
+  enable_user_dict: true              # 将该处改作 true，会根据你个输入习惯自动调整候选词个顺序
+  enable_sentence: true               # 将该处改作 true，输入长句
+  encode_commit_history: false        # 将该处改作 true，同时 enable_user_dict 也系 true，可以学习你个历史输入词语
   preedit_format:
-    - xform/([aeioumngptk])qq/${1}5/
+    - xform/x([aeiou])/sl$1/
+    - xform/([aeioumngptk])qq/${1}4/
+    - xform/([aeioumngptk])rr/${1}5/
     - xform/([aeioumngptk])q/${1}1/
     - xform/([aeioumngptk])r/${1}2/
     - xform/([aeioumngptk])v/${1}3/
-    - xform/([aeioumngptk])x/${1}4/
 
 reverse_lookup:
   tag: reverse_lookup
@@ -130,13 +136,17 @@ english:
   enable_sentence: false
   initial_quality: -3
 
+simplifier:
+  opencc_config: s2t.json
+  opencc_name: simplification
+
 emoji_suggestion:
-  opencc_config: emoji.json
+  opencc_config: emoji.chs.json
   option_name: emoji_suggestion
   tips: all
 
 punctuator:
-  import_preset: symbols_cantonese
+  import_preset: symbols
 
 key_binder:
   import_preset: default

@@ -1,5882 +1,7573 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# 阳江话词库, 由 Lumen 手工整理生成
+# 阳江话单字词库
+#
 # 读音来源: 黄伯荣 《广东阳江方言研究》（2018，中山大学）
+# 由 Lumen 用勤劳个双手整理, 使用简陋个工具生成
 #
 # Lumen <lumen01@qq.com>
 #
 
 ---
 name: "jienggong.chars"
-version: "2024.06.24"
+version: "2024.07.04"
 sort: by_weight
 ...
 
-丫	aa1
-啊	aa1
-桠	aa1
-腌	aa1
-钶	aa1
-阿	aa1
-鸦	aa1
-啊	aa2
-哑	aa3
-痖	aa3
-亚	aa4
-垭	aa4
-娅	aa4
-桠	aa4
-氩	aa4
-埃	aai1
-娭	aai1
-挨	aai1
-唉	aai2
-叆	aai3
-嗳	aai3
-暧	aai3
-欸	aai3
-矮	aai3
-蔼	aai3
-霭	aai3
-握	aak3
-晏	aan4
-鷃	aan4
-罂	aang1
-罃	aang1
-莺	aang1
-押	aap3
-鸭	aap3
-压	aat3
-拗	aau3
-坳	aau4
-垇	aau4
-拗	aau4
-缢	ai4
-翳	ai4
-喑	am1
+钶	aa1	255
+啊	aa1	26905491
+鸦	aa1	34293
+桠	aa1	3440
+阿	aa1	4486961
+丫	aa1	686222
+腌	aa1	83127
+啊	aa2	26905491
+哑	aa3	107424
+痖	aa3	609
+垭	aa4	10303
+亚	aa4	1708542
+氩	aa4	24416
+桠	aa4	3440
+娅	aa4	48500
+娭	aai1	1780
+挨	aai1	292699
+埃	aai1	816737
+唉	aai2	1064583
+蔼	aai3	10360
+暧	aai3	16145
+霭	aai3	19948
+嗳	aai3	23694
+欸	aai3	24915
+叆	aai3	274
+矮	aai3	473647
+扼	aak3	21509
+轭	aak3	2235
+握	aak3	371022
+厄	aak3	70732
+鷃	aan4	52
+晏	aan4	77763
+罂	aang1	15174
+罃	aang1	70
+莺	aang1	70924
+押	aap3	287476
+狎	aap3	4126
+鸭	aap3	418656
+压	aat3	1454691
+拗	aau3	47198
+坳	aau4	12209
+垇	aau4	427
+拗	aau4	47198
+缢	ai4	10468
+翳	ai4	11220
 媕	am1
-愔	am1
-盦	am1
-鹌	am1
-庵谙	am1
-揞	am3
-谙	am3
-黯	am3
-暗	am4
-鹌	am4
-因	an1
-姻	an1
-恩	an1
-殷	an1
-氤	an1
-茵	an1
-铟	an1
-䲟	an4
-印	an4
+喑	am1	10770
+盦	am1	176
+谙	am1	35749
+鹌	am1	5777
+愔	am1	582
+庵	am1	81945
+揞	am3	129
+黯	am3	30322
+谙	am3	35749
+鹌	am4	5777
+暗	am4	927259
+恩	an1	1164553
+氤	an1	14043
+殷	an1	57192
+因	an1	5965157
+茵	an1	63667
+铟	an1	9279
+姻	an1	9796
+印	an4	1065594
+䲟	an4	30
 𬒔	ang3
-区	au1
-欧	au1
-瓯	au1
-讴	au1
-鸥	au1
-吽	au2
-呕	au3
-殴	au3
-沤	au4
-叭	baa1
-吧	baa1
-岜	baa1
-巴	baa1
-疤	baa1
-笆	baa1
-粑	baa1
-芭	baa1
-葩	baa1
-叭	baa2
-把	baa3
-钯	baa3
-靶	baa3
-坝	baa4
+匎	ap4
+罨	ap4	11683
+讴	au1	1846
+瓯	au1	30486
+鸥	au1	40330
+区	au1	6058071
+欧	au1	651287
+吽	au2	6819
+呕	au3	108720
+殴	au3	48358
+沤	au4	27423
+疤	baa1	102459
+粑	baa1	131132
+岜	baa1	15460
+芭	baa1	160230
+吧	baa1	17812571
+巴	baa1	1817799
+葩	baa1	4713
+笆	baa1	49852
+叭	baa1	65066
+叭	baa2	65066
+靶	baa3	138879
+钯	baa3	17935
+把	baa3	25511304
 欛	baa4
-灞	baa4
-爸	baa4
-霸	baa4
-拔	baa5
-罢	baa5
+爸	baa4	1289274
+坝	baa4	294550
+霸	baa4	336790
+灞	baa4	59328
+罢	baa5	352878
+拔	baa5	448543
 䙓	baai3
-捭	baai3
-摆	baai3
-拜	baai4
-湃	baai4
-败	baai5
-伯	baak3
+摆	baai3	1166038
+捭	baai3	1450
+湃	baai4	22592
+拜	baai4	586084
+败	baai5	786187
 百	baak3
-白	baak5
-攽	baan1
-斑	baan1
-班	baan1
-瘢	baan1
-癍	baan1
-颁	baan1
-坂	baan3
-板	baan3
-版	baan3
-舨	baan3
-扮	baan4
-办	baan5
-扮	baan5
-瓣	baan5
+伯	baak3	460289
+佰	baak3	64779
+铂	baak5	113598
+白	baak5	3109093
+帛	baak5	32620
+癍	baan1	1005
+班	baan1	2066829
+斑	baan1	322810
+攽	baan1	47
+瘢	baan1	48264
+颁	baan1	76598
+板	baan3	1724545
+版	baan3	3932903
+舨	baan3	4390
+坂	baan3	61685
+扮	baan4	180373
+扮	baan5	180373
+瓣	baan5	214857
+办	baan5	3111258
 八	baat3
-拔	baat5
-包	baau1
-孢	baau1
-狍	baau1
-胞	baau1
-苞	baau1
-饱	baau3
-爆	baau4
-豹	baau4
-趵	baau4
-鲍	baau4
+捌	baat3	37071
+鼥	baat5
+魃	baat5	17372
+拔	baat5	448543
+钹	baat5	5457
+跋	baat5	88384
+鲅	baat5	9241
+狍	baau1	1511
+苞	baau1	19469
+胞	baau1	226594
+包	baau1	3463373
+孢	baau1	88587
+饱	baau3	421884
+爆	baau4	1629970
+豹	baau4	295572
+鲍	baau4	65531
+趵	baau4	7079
 瞖	bai4
-蔽	bai4
-闭	bai4
-币	bai5
-弊	bai5
-敝	bai5
-毙	bai5
-狴	bai5
-稗	bai5
-陛	bai5
-北	bak4
-倴	ban1
-奔	ban1
-宾	ban1
-彬	ban1
-斌	ban1
-栟	ban1
-槟	ban1
-滨	ban1
-缤	ban1
-膑	ban1
-豳	ban1
-邠	ban1
-锛	ban1
-镔	ban1
-髌	ban1
-品	ban3
-榀	ban3
-禀	ban3
-嫔	ban4
-殡	ban4
-贲	ban4
-鬓	ban4
-笨	ban5
-嘣	bang1
-崩	bang1
-绷	bang1
-镚	bang1
-呯	bang2
-崩	bang3
-凭	bang5
-不	bat4
-毕	bat4
-笔	bat4
-抔	bau1
-掊	bau1
-裒	bau1
-褒	bau1
-踎	bau1
-啤	be1
-卑	bei1
-埤	bei1
-悲	bei1
-椑	bei1
-痺	bei1
-碑	bei1
-笓	bei1
+蔽	bai4	44725
+闭	bai4	465561
+弊	bai5	138852
+狴	bai5	1769
+币	bai5	684581
+稗	bai5	6860
+陛	bai5	7702
+敝	bai5	80640
+毙	bai5	89177
+北	bak4	1950181
+槟	ban1	10173
+滨	ban1	140027
+宾	ban1	147566
+锛	ban1	16406
+缤	ban1	19617
+膑	ban1	2336
+髌	ban1	23844
+邠	ban1	271
+豳	ban1	3181
+镔	ban1	3538
+栟	ban1	358
+倴	ban1	55
+奔	ban1	691055
+斌	ban1	82109
+彬	ban1	87278
+品	ban3	1651932
+禀	ban3	34331
+榀	ban3	8152
+殡	ban4	11818
+鬓	ban4	18840
+贲	ban4	23109
+嫔	ban4	29950
+笨	ban5	340664
+镚	bang1	1644
+崩	bang1	177250
+嘣	bang1	27290
+绷	bang1	87557
+呯	bang2	2977
+崩	bang3	177250
+凭	bang5	904476
+筚	bat4	1073
+跸	bat4	11041
+呸	bat4	127858
+荜	bat4	1443
+笔	bat4	1608287
+毕	bat4	243674
+钚	bat4	30250
+不	bat4	70153387
+苾	bat5	1924
+弼	bat5	20842
+抔	bau1	1461
+裒	bau1	1624
+褒	bau1	32343
+踎	bau1	820
+掊	bau1	846
+啤	be1	199756
 箄	bei1
-罴	bei1
-萆	bei1
-蓖	bei1
-蜱	bei1
-裨	bei1
-郫	bei1
-陂	bei1
-鼙	bei1
-仳	bei3
-俾	bei3
-匕	bei3
-妣	bei3
-彼	bei3
-比	bei3
-沘	bei3
-畀	bei3
-睥	bei3
-秕	bei3
-篦	bei3
-裨	bei3
-髀	bei3
-庇	bei4
-毖	bei4
-泌	bei4
-渒	bei4
-珌	bei4
-痹	bei4
-秘	bei4
-臂	bei4
-邶	bei4
-备	bei5
-惫	bei5
-蓖	bei5
-被	bei5
-避	bei5
-鐾	bei5
+郫	bei1	1054
+笓	bei1	110
+蜱	bei1	14591
+鼙	bei1	15580
+陂	bei1	15839
+蓖	bei1	16014
+碑	bei1	161378
+痺	bei1	1622
+椑	bei1	164
+罴	bei1	20750
+裨	bei1	23584
+悲	bei1	566922
+萆	bei1	6626
+卑	bei1	69483
+埤	bei1	961
+妣	bei3	1230
+比	bei3	14464951
+沘	bei3	147
+彼	bei3	156116
+俾	bei3	207938
+裨	bei3	23584
+秕	bei3	2695
+匕	bei3	40123
+篦	bei3	4640
+仳	bei3	613
+睥	bei3	6623
+髀	bei3	8383
+畀	bei3	8563
+秘	bei4	249389
+庇	bei4	31041
+臂	bei4	332023
+渒	bei4	37
+泌	bei4	42996
+痹	bei4	57821
+珌	bei4	72
+邶	bei4	841
+毖	bei4	9804
 鞁	bei5
-鞴	bei5
-鼻	bei5
-匾	bien3
-扁	bien3
-窆	bien3
-褊	bien3
-贬	bien3
-鳊	bien3
-壁	bik4
-璧	bik4
-碧	bik4
-迫	bik4
-逼	bik4
-煸	bin1
-砭	bin1
-笾	bin1
-辫	bin1
-边	bin1
-鞭	bin1
-变	bin4
-遍	bin4
-便	bin5
-卞	bin5
-弁	bin5
-忭	bin5
-抃	bin5
-汴	bin5
-辨	bin5
-辩	bin5
-兵	bing1
-冰	bing1
-丙	bing3
-秉	bing3
-饼	bing3
-并	bing4
-柄	bing4
-迸	bing4
-病	bing5
-必	bit3
-鳖	bit3
-别	bit5
-俵	biu3
-婊	biu3
-彪	biu3
-标	biu3
-票	biu3
-膘	biu3
-表	biu3
-裱	biu3
-镖	biu3
-镳	biu3
-飙	biu3
-骠	biu3
-坡	bo1
-棵	bo1
-波	bo1
-玻	bo1
-菠	bo1
-陂	bo1
-嶓	bo4
-播	bo4
-簸	bo4
-鄱	bo4
-剥	bok3
-驳	bok3
-薄	bok5
-帮	bong1
-邦	bong1
-榜	bong3
-绑	bong3
-彪	bou1
-标	bou1
-煲	bou1
-保	bou3
-堡	bou3
-宝	bou3
-捕	bou3
-斧	bou3
-葆	bou3
-补	bou3
-褓	bou3
-鸨	bou3
-佈	bou4
-埔	bou4
-布	bou4
-怖	bou4
-报	bou4
-哺	bou5
-埠	bou5
-捕	bou5
-暴	bou5
-曝	bou5
-步	bou5
-瀑	bou5
-簿	bou5
-菢	bou5
-部	bou5
-杯	bui1
-抔	bui3
-枧	bui4
-狈	bui4
-背	bui4
-褙	bui4
-贝	bui4
-辈	bui4
-邶	bui4
-钡	bui4
-焙	bui5
-碚	bui5
-背	bui5
-腹	buk4
-仆	buk5
-伏	buk5
-雹	buk5
-搬	bun1
-般	bun1
-本	bun3
-畚	bun3
-苯	bun3
-半	bun4
-伴	bun5
-叛	bun5
-拌	bun5
-畔	bun5
-绊	bun5
-胖	bun5
-捧	bung3
-拨	but3
-勃	but5
-叉	caa1
-岔	caa1
-差	caa1
-扠	caa1
-杈	caa1
-槎	caa1
-茬	caa1
-蹅	caa1
-嵖	caa2
-搽	caa2
-查	caa2
-碴	caa2
-茶	caa2
-侘	caa4
-咤	caa4
-姹	caa4
-岔	caa4
-汊	caa4
-痄	caa4
-诧	caa4
-差	caai1
-搓	caai1
-猜	caai1
-钗	caai1
-侪	caai2
-柴	caai2
-豺	caai2
-踩	caai3
-踹	caai3
-册	caak3
-拆	caak3
-策	caak3
-参	caam1
-骖	caam1
-惭	caam2
-搀	caam2
-蚕	caam2
-馋	caam2
+鐾	bei5	13298
+蓖	bei5	16014
+鞴	bei5	20112
+惫	bei5	25548
+被	bei5	30434636
+避	bei5	340541
+备	bei5	476764
+鼻	bei5	507447
+窆	bien3	20394
+扁	bien3	277996
+贬	bien3	57635
+鳊	bien3	878
+褊	bien3	888
+匾	bien3	93668
+愊	bik4	129
+迫	bik4	160997
+愎	bik4	18872
+逼	bik4	2179216
+碧	bik4	292982
+璧	bik4	42363
+壁	bik4	538096
+襞	bik4	7016
+偪	bik4	99
+鞭	bin1	122740
+砭	bin1	19066
+笾	bin1	24655
+边	bin1	3385425
+辫	bin1	41816
+煸	bin1	49518
+遍	bin4	1234983
+变	bin4	3496479
+弁	bin5	14403
+辨	bin5	161375
+辩	bin5	161678
+汴	bin5	21501
+卞	bin5	26856
+便	bin5	5274816
+忭	bin5	711
+抃	bin5	88
+兵	bing1	1046156
+冰	bing1	996578
+丙	bing3	235782
+饼	bing3	311875
+秉	bing3	32198
+怲	bing3	33
+邴	bing3	3591
+炳	bing3	38813
+摒	bing3	9490
+并	bing4	19061803
+柄	bing4	194208
+迸	bing4	25984
+病	bing5	2893603
+蹩	bit3	11994
+必	bit3	1341390
+鳌	bit3	161967
+憋	bit3	255887
+瘪	bit3	37303
+鳖	bit3	50533
+别	bit5	5547188
+俵	biu3	1711
+裱	biu3	21273
+票	biu3	2277946
+飙	biu3	230387
+表	biu3	2602315
+镳	biu3	2737
+膘	biu3	29915
+婊	biu3	47303
+彪	biu3	60250
+镖	biu3	61492
+骠	biu3	7098
+标	biu3	903959
+波	bo1	1434798
+陂	bo1	15839
+坡	bo1	231796
+玻	bo1	303099
+棵	bo1	416400
+菠	bo1	6848
+嶓	bo4	26
+簸	bo4	3543
+播	bo4	527021
+鄱	bo4	9663
+馎	bok3	154
+剥	bok3	165554
+搏	bok3	245211
+膊	bok3	43487
+驳	bok3	75092
+博	bok3	7730422
+㯷	bok5
+薄	bok5	795221
+䦁	bong1
+梆	bong1	16555
+邦	bong1	325834
+帮	bong1	3573358
+浜	bong1	39945
+绑	bong3	212253
+膀	bong3	27114
+榜	bong3	920398
+蒡	bong5	206
+磅	bong5	210074
+镑	bong5	27096
+煲	bou1	229326
+彪	bou1	60250
+标	bou1	903959
+褓	bou3	1290
+补	bou3	1576887
+捕	bou3	158325
+保	bou3	2417716
+堡	bou3	259864
+宝	bou3	2653766
+葆	bou3	34447
+斧	bou3	87216
+鸨	bou3	9303
+布	bou4	1507474
+佈	bou4	17079
+怖	bou4	18202
+埔	bou4	55065
+报	bou4	7497313
+曝	bou5	109049
+捕	bou5	158325
+步	bou5	2052460
+菢	bou5	30
+瀑	bou5	31186
+哺	bou5	39865
+暴	bou5	484806
+埠	bou5	54970
+部	bou5	7718766
+簿	bou5	84317
+杯	bui1	2603357
+抔	bui3	1461
+背	bui4	1333515
+钡	bui4	144318
+辈	bui4	175432
+狈	bui4	25137
+褙	bui4	410
+枧	bui4	4347
+贝	bui4	457172
+邶	bui4	841
+背	bui5	1333515
+碚	bui5	22721
+焙	bui5	63358
+卜	buk4	277988
+腹	buk4	464935
+趵	buk4	7079
+仆	buk5	108673
+朴	buk5	127180
+璞	buk5	25637
+伏	buk5	265367
+瀑	buk5	31186
+濮	buk5	31917
+雹	buk5	32111
+蹼	buk5	6499
+般	bun1	1378728
+搬	bun1	619148
+本	bun3	15546838
+苯	bun3	203411
+畚	bun3	9751
+半	bun4	2854116
+拌	bun5	179911
+畔	bun5	195105
+绊	bun5	24626
+叛	bun5	44226
+伴	bun5	734724
+胖	bun5	865527
+甭	bung2	63883
+抔	bung3	1461
+捧	bung3	589367
+钵	but3	54653
+拨	but3	947678
+鋍	but5
+悖	but5	100346
+桲	but5	106
+渤	but5	15289
+孛	but5	20482
+荸	but5	222
+脖	but5	454211
+勃	but5	57268
+饽	but5	5782
+鹁	but5	8693
+槎	caa1	14285
+叉	caa1	206571
+差	caa1	2575850
+蹅	caa1	31
+岔	caa1	41161
+扠	caa1	62
+茬	caa1	78683
+杈	caa1	8482
+碴	caa2	13601
+茶	caa2	1384389
+查	caa2	1607904
+嵖	caa2	234
+搽	caa2	33027
+姹	caa4	14218
+诧	caa4	20303
+汊	caa4	3865
+岔	caa4	41161
+痄	caa4	47
+咤	caa4	5509
+侘	caa4	99
+搓	caai1	163794
+钗	caai1	192663
+差	caai1	2575850
+猜	caai1	578742
+柴	caai2	203789
+侪	caai2	4561
+豺	caai2	6568
+踹	caai3	107950
+踩	caai3	575807
+䜺	caak3
+坼	caak3	1343
+策	caak3	196651
+册	caak3	388480
+拆	caak3	568175
+骖	caam1	1395
+参	caam1	687603
+惭	caam2	14830
+搀	caam2	19272
+蚕	caam2	65402
+馋	caam2	77662
 噆	caam3
-惨	caam3
-掺	caam3
-渗	caam3
-瘆	caam3
-穇	caam3
-篸	caam3
-忏	caam4
-杉	caam4
-餐	caan1
-残	caan2
-产	caan3
-浐	caan3
-铲	caan3
-骣	caan3
-灿	caan4
-粲	caan4
-撑	caang1
-柽	caang1
-蛏	caang1
-伥	caang2
-橙	caang2
-撑	caang4
-瞠	caang4
-插	caap3
-刷	caat3
-察	caat3
-擦	caat3
-獭	caat3
-抄	caau1
+掺	caam3	102484
+渗	caam3	157518
+瘆	caam3	2063
+篸	caam3	242
+穇	caam3	43
+惨	caam3	435824
+杉	caam4	132569
+忏	caam4	4594
+餐	caan1	993709
+残	caan2	688025
+骣	caan3	115
+铲	caan3	159115
+产	caan3	1620843
+浐	caan3	50087
+粲	caan4	26297
+灿	caan4	70518
+柽	caang1	1073
+蛏	caang1	22097
+撑	caang1	540955
+伥	caang2	1169
+橙	caang2	138706
+瞠	caang4	1772
+撑	caang4	540955
+插	caap3	618430
+锸	caap3	9017
+䂘	caat3
+刷	caat3	1010700
+獭	caat3	102138
+察	caat3	112076
+擦	caat3	1143723
+唰	caat3	22754
+涮	caat3	73132
 𫚌	caau1
-巢	caau2
-吵	caau3
-炒	caau3
-抄	caau4
-摷	caau4
-耖	caau4
-钞	caau4
-凄	cai1
-妻	cai1
-悽	cai1
-栖	cai1
-萋	cai1
-郪	cai1
-蛴	cai2
-齐	cai2
-切	cai4
-砌	cai4
-测	cak4
-贼	cak5
-侵	cam1
+抄	caau1	279592
+巢	caau2	202777
+吵	caau3	530274
+炒	caau3	907381
+摷	caau4	107
+耖	caau4	1228
+钞	caau4	130731
+抄	caau4	279592
+郪	cai1	176
+萋	cai1	2844
+妻	cai1	307557
+凄	cai1	49754
+悽	cai1	506
+栖	cai1	72261
+蛴	cai2	16477
+齐	cai2	956429
+切	cai4	1297335
+砌	cai4	91022
+测	cak4	1216186
+恻	cak4	19277
+贼	cak5	487950
 梫	cam1
-谮	cam1
-骎	cam1
-寻	cam2
-沉	cam2
-寝	cam3
-亲	can1
-春	can1
-椿	can1
-膥	can1
-鰆	can1
-尘	can2
-巡	can2
-秦	can2
-陈	can2
-哂	can3
-畛	can3
-疹	can3
-稹	can3
-缜	can3
-胗	can3
-蠢	can3
-诊	can3
-轸	can3
-鬒	can3
-榇	can4
-衬	can4
-趁	can4
-龀	can4
-层	cang2
-曾	cang2
+骎	cam1	1226
+侵	cam1	166161
+谮	cam1	4974
+沉	cam2	536317
+寻	cam2	677002
+寝	cam3	39438
+春	can1	1709033
+亲	can1	3022054
+膥	can1	310
+椿	can1	32172
+鰆	can1	42
+陈	can2	1211188
+秦	can2	374450
+尘	can2	422037
+巡	can2	425443
+畛	can3	11598
+胗	can3	13565
+蠢	can3	156250
+诊	can3	208285
+缜	can3	31389
+疹	can3	31452
+鬒	can3	38
+哂	can3	47483
+稹	can3	49120
+轸	can3	6513
+榇	can4	10104
+衬	can4	129141
+趁	can4	399959
+龀	can4	63443
+嶒	cang2	139
+层	cang2	2931775
+曾	cang2	4853783
+蹭	cang4	160742
+蕺	cap4	1057
+缉	cap4	15714
+葺	cap4	1753
+楫	cap4	2604
+戢	cap4	3940
+辑	cap4	82231
 七	cat4
-出	cat4
-漆	cat4
+漆	cat4	199049
+出	cat4	23324245
 䌷	cau1
-抽	cau1
 揫	cau1
-楸	cau1
-湫	cau1
-瘳	cau1
-瞅	cau1
-秋	cau1
-鞧	cau1
-鳅	cau1
 鹙	cau1
-俦	cau2
-囚	cau2
-帱	cau2
-惆	cau2
-泅	cau2
-畴	cau2
-稠	cau2
-筹	cau2
-绸	cau2
-裯	cau2
-踌	cau2
-酬	cau2
-丑	cau3
-凑	cau4
-嗅	cau4
-溴	cau4
-臭	cau4
-奢	ce1
-车	ce1
-斜	ce2
-邪	ce2
-且	ce3
-扯	ce3
-斜	ce4
-疽	cei1
-蛆	cei1
-趄	cei1
-趋	cei1
-雌	cei1
-佽	cei2
-徐	cei2
-慈	cei2
-泚	cei2
-瓷	cei2
-磁	cei2
-祠	cei2
-糍	cei2
-脐	cei2
-词	cei2
-跐	cei2
-辞	cei2
+瞅	cau1	106228
+楸	cau1	12680
+瘳	cau1	1282
+抽	cau1	1353424
+鞧	cau1	144
+湫	cau1	15453
+秋	cau1	1589094
+鳅	cau1	3821
+俦	cau2	15337
+踌	cau2	1780
+酬	cau2	205927
+畴	cau2	22189
+帱	cau2	231
+裯	cau2	43
+筹	cau2	430044
+绸	cau2	61900
+囚	cau2	73773
+泅	cau2	7496
+惆	cau2	9134
+稠	cau2	93663
+丑	cau3	414331
+溴	cau4	26477
+凑	cau4	316085
+臭	cau4	456904
+嗅	cau4	53809
+奢	ce1	43610
+车	ce1	9131035
+邪	ce2	451222
+斜	ce2	477203
+且	ce3	2554791
+扯	ce3	390008
+斜	ce4	477203
+趄	cei1	1346
+蛆	cei1	24717
+疽	cei1	26415
+趋	cei1	271255
+雌	cei1	78943
 餈	cei2
-鹚	cei2
-似	cei3
-取	cei3
-娶	cei3
-此	cei3
-刺	cei4
-厕	cei4
-娶	cei4
-次	cei4
-赐	cei4
-趣	cei4
-嗤	ci1
-媸	ci1
-痴	ci1
-眵	ci1
-笞	ci1
-蚩	ci1
-雉	ci1
-鸱	ci1
-黐	ci1
-厨	ci2
-坻	ci2
-墀	ci2
-弛	ci2
-持	ci2
-橱	ci2
-池	ci2
-滁	ci2
-箎	ci2
-茌	ci2
-蚔	ci2
-蜍	ci2
-褫	ci2
-踟	ci2
-蹰	ci2
-躇	ci2
-迟	ci2
-钱	ci2
-除	ci2
-驰	ci2
-伫	ci3
-侈	ci3
-储	ci3
-处	ci3
-始	ci3
-拄	ci3
-杵	ci3
-杼	ci3
-柱	ci3
-楮	ci3
-橥	ci3
-渚	ci3
-潴	ci3
-矢	ci3
-耻	ci3
-苎	ci3
-褚	ci3
-豖	ci3
-贮	ci3
-齿	ci3
-处	ci4
-翅	ci4
-绰	ciek3
-鹊	ciek3
-倡	cieng1
-昌	cieng1
-枪	cieng1
-场	cieng2
-墙	cieng2
-祥	cieng2
-翔	cieng2
-肠	cieng2
-详	cieng2
-长	cieng2
-抢	cieng3
-唱	cieng4
-畅	cieng4
-蠘	ciet5
-刺	cik4
-尺	cik4
-戚	cik4
-赤	cik4
-佥	cim1
-忏	cim1
-扦	cim1
+词	cei2	1083788
+磁	cei2	155413
+瓷	cei2	194215
+慈	cei2	204034
+跐	cei2	226
+辞	cei2	348202
+徐	cei2	396770
+泚	cei2	440
+祠	cei2	49145
+佽	cei2	494
+脐	cei2	68623
+鹚	cei2	8360
+糍	cei2	8605
+似	cei3	1173198
+取	cei3	2138471
+娶	cei3	386368
+此	cei3	5824450
+趣	cei4	151131
+次	cei4	17518177
+赐	cei4	209767
+娶	cei4	386368
+刺	cei4	689805
+厕	cei4	84337
+雉	ci1	12243
+鸱	ci1	14076
+黐	ci1	1798
+笞	ci1	18929
+蚩	ci1	19608
+痴	ci1	264754
+媸	ci1	33878
+嗤	ci1	34091
+眵	ci1	508
+持	ci2	1540086
+坻	ci2	1581
+除	ci2	2076961
+箎	ci2	209
+弛	ci2	22954
+踟	ci2	2299
+褫	ci2	2375
+厨	ci2	241365
+驰	ci2	246133
+迟	ci2	309118
+墀	ci2	3304
+躇	ci2	3546
+橱	ci2	43105
+滁	ci2	4478
+池	ci2	479284
+钱	ci2	6768858
+蹰	ci2	821
+蚔	ci2	86
+茌	ci2	869
+蜍	ci2	917
+矢	ci3	101097
+苎	ci3	10797
+始	ci3	1115287
+耻	ci3	115182
+齿	ci3	164393
+杵	ci3	23587
+渚	ci3	27102
+拄	ci3	30408
+豖	ci3	33
+柱	ci3	333027
+潴	ci3	3416
+伫	ci3	3517
+褚	ci3	41706
+楮	ci3	4497
+处	ci3	5080805
+储	ci3	513258
+贮	ci3	60810
+橥	ci3	7398
+侈	ci3	7491
+杼	ci3	9236
+翅	ci4	113676
+处	ci4	5080805
+嚼	ciek3	120182
+爵	ciek3	121130
+绰	ciek3	21533
+踔	ciek3	29852
+逴	ciek3	34
+鹊	ciek3	72068
+卓	ciek3	97790
+昌	cieng1	168532
+娼	cieng1	19495
+倡	cieng1	25263
+鲳	cieng1	2565
+锵	cieng1	35115
+菖	cieng1	4136
+猖	cieng1	5066
+阊	cieng1	6728
+枪	cieng1	920184
+墙	cieng2	1323216
+庠	cieng2	15454
+樯	cieng2	19293
+翔	cieng2	249390
+祥	cieng2	263589
+蔷	cieng2	26448
+详	cieng2	379757
+肠	cieng2	428481
+场	cieng2	7657555
+徜	cieng2	840
+嫱	cieng2	8544
+长	cieng2	8800220
+抢	cieng3	2227698
+唱	cieng4	2235244
+畅	cieng4	261634
+鬯	cieng4	8230
+蠘	ciet5	70
+勅	cik4	145
+赤	cik4	313673
+戚	cik4	36141
+尺	cik4	395050
+敕	cik4	45732
+叱	cik4	66360
+刺	cik4	689805
+斥	cik4	71537
 櫼	cim1
-歼	cim1
-签	cim1
-纤	cim1
+纤	cim1	173965
+佥	cim1	4352
+忏	cim1	4594
+歼	cim1	53506
+扦	cim1	5961
+签	cim1	693014
 挦	cim2
-汘	cim2
-潜	cim2
-谄	cim3
-僭	cim4
-堑	cim4
-暹	cim4
-椠	cim4
-钎	cim4
+汘	cim2	26
+潜	cim2	280349
+谄	cim3	23334
+暹	cim4	12799
+僭	cim4	16009
+椠	cim4	383
+堑	cim4	87812
+钎	cim4	9764
 千	cin1
-川	cin1
-氚	cin1
-穿	cin1
-芊	cin1
-迁	cin1
-阡	cin1
-传	cin2
-佺	cin2
-全	cin2
-前	cin2
-廛	cin2
-悛	cin2
-拴	cin2
+氚	cin1	12418
+迁	cin1	277862
+穿	cin1	3884646
+芊	cin1	46503
+川	cin1	662673
+阡	cin1	9458
 朘	cin2
-栓	cin2
-泉	cin2
-瀍	cin2
-痊	cin2
-筌	cin2
-缠	cin2
-荃	cin2
-诠	cin2
-醛	cin2
-钱	cin2
-铨	cin2
-镌	cin2
 鳈	cin2
-浅	cin3
-串	cin4
+荃	cin2	11946
+廛	cin2	1208
+镌	cin2	12445
+悛	cin2	1251
+栓	cin2	127746
+瀍	cin2	143
+筌	cin2	1461
+佺	cin2	1462
+前	cin2	18590729
+传	cin2	1980953
+缠	cin2	231660
+痊	cin2	3307
+醛	cin2	38063
+泉	cin2	393256
+诠	cin2	49917
+铨	cin2	5090
+全	cin2	5527100
+拴	cin2	57690
+钱	cin2	6768858
+浅	cin3	479720
 賗	cin4
-钏	cin4
-清	cing1
-称	cing1
-青	cing1
-呈	cing2
-情	cing2
-惩	cing2
-晴	cing2
-澄	cing2
-程	cing2
-请	cing3
-秤	cing4
-称	cing4
-妾	cip3
-窃	cit3
-彻	cit4
-撤	cit4
-昭	ciu1
-超	ciu1
-钊	ciu1
-锹	ciu1
-晁	ciu2
-朝	ciu2
-潮	ciu2
-瞧	ciu2
-悄	ciu3
-沼	ciu3
-俏	ciu4
-峭	ciu4
-撬	ciu4
-肖	ciu4
-刍	co1
-初	co1
-嵯	co1
-搓	co1
-磋	co1
-蹉	co1
-雏	co1
-锄	co2
-剉	co3
-坐	co3
-憷	co3
-楚	co3
-础	co3
-脞	co3
-锉	co3
-座	co4
-挫	co4
-锉	co4
-错	co4
-才	coi2
-攙	coi2
-材	coi2
-裁	coi2
-财	coi2
-倸	coi3
-在	coi3
-彩	coi3
-睬	coi3
-茝	coi3
-采	coi3
-菜	coi4
-蔡	coi4
-戳	cok3
-错	cok3
-仓	cong1
-疮	cong1
-窗	cong1
-苍	cong1
-藏	cong2
-创	cong3
-厂	cong3
-敞	cong3
-闯	cong3
-撞	cong4
-操	cou1
-粗	cou1
-鏖	cou1
-嘈	cou2
-曹	cou2
-槽	cou2
-殂	cou2
-漕	cou2
-艚	cou2
-螬	cou2
-储	cou3
-草	cou3
-噪	cou4
-慥	cou4
-措	cou4
-操	cou4
-澡	cou4
-燥	cou4
+串	cin4	391002
+钏	cin4	9265
+青	cing1	1341875
+清	cing1	2461689
+鲭	cing1	2531
+蜻	cing1	3083
+称	cing1	5556949
+	cing2
+呈	cing2	1207736
+情	cing2	2158653
+惩	cing2	36902
+程	cing2	414125
+酲	cing2	425
+晴	cing2	554248
+埕	cing2	7452
+澄	cing2	88478
+逞	cing3	30504
+请	cing3	6760332
+秤	cing4	436425
+称	cing4	5556949
+踥	cip3
+妾	cip3	100225
+窃	cit3	126079
+撤	cit4	341586
+彻	cit4	71944
+昭	ciu1	118366
+锹	ciu1	31162
+钊	ciu1	33018
+超	ciu1	5557574
+潮	ciu2	1041282
+朝	ciu2	1720059
+晁	ciu2	18712
+瞧	ciu2	372963
+沼	ciu3	40479
+悄	ciu3	49445
+撬	ciu4	106265
+俏	ciu4	172856
+峭	ciu4	28881
+肖	ciu4	99502
+嵯	co1	11212
+雏	co1	119519
+刍	co1	15816
+搓	co1	163794
+磋	co1	217916
+初	co1	2327589
+蹉	co1	2834
+锄	co2	54725
+憷	co3	16404
+锉	co3	17869
+础	co3	188404
+剉	co3	2416
+坐	co3	3800762
+楚	co3	383186
+脞	co3	594
+锉	co4	17869
+挫	co4	224998
+错	co4	2571415
+座	co4	4292815
+才	coi2	11164766
+攙	coi2	143
+裁	coi2	189770
+材	coi2	603615
+财	coi2	860051
+彩	coi3	1109297
+睬	coi3	13699
+在	coi3	197672850
+倸	coi3	35
+茝	coi3	60
+采	coi3	638950
+菜	coi4	1686135
+蔡	coi4	202463
+簎	cok3
+错	cok3	2571415
+龊	cok3	31136
+戳	cok3	351930
+沧	cong1	111122
+苍	cong1	139256
+伧	cong1	1689
+怆	cong1	2372
+鸧	cong1	25
+舱	cong1	252114
+疮	cong1	46295
+窗	cong1	559878
+仓	cong1	957882
+藏	cong2	1036630
+床	cong2	1756978
+创	cong3	1555534
+氅	cong3	2548
+厂	cong3	2615188
+敞	cong3	29316
+闯	cong3	352909
+撞	cong4	728455
+𨳍	cot5
+粗	cou1	619660
+鏖	cou1	836
+操	cou1	891942
+漕	cou2	14101
+螬	cou2	158
+殂	cou2	2113
+曹	cou2	246277
+嘈	cou2	47856
+艚	cou2	6765
+槽	cou2	823101
+草	cou3	1267268
+储	cou3	513258
 簉	cou4
-糙	cou4
-藻	cou4
-躁	cou4
-酢	cou4
-醋	cou4
-催	cui1
-吹	cui1
-崔	cui1
-摧	cui1
-炊	cui1
-璀	cui1
-垂	cui2
-捶	cui2
-棰	cui2
-椎	cui2
-槌	cui2
-箠	cui2
-锤	cui2
-隋	cui2
-随	cui2
-馟	cui2
-喘	cui3
-坐	cui3
-惴	cui3
-揣	cui3
-舛	cui3
+燥	cou4	128672
+慥	cou4	133
+糙	cou4	22310
+澡	cou4	256537
+醋	cou4	273451
+酢	cou4	28324
+藻	cou4	45616
+措	cou4	49902
+噪	cou4	74763
+躁	cou4	87251
+操	cou4	891942
+吹	cui1	1054451
+璀	cui1	12592
+崔	cui1	131485
+炊	cui1	32163
+摧	cui1	40504
+催	cui1	567890
+捶	cui2	108623
+锤	cui2	133994
+椎	cui2	175036
+垂	cui2	267752
+箠	cui2	28
+馟	cui2	31
+槌	cui2	46436
+棰	cui2	4931
+随	cui2	5074097
+隋	cui2	64776
 踳	cui3
-踹	cui3
-啐	cui4
-悴	cui4
-毳	cui4
-淬	cui4
-瘁	cui4
-祟	cui4
-粹	cui4
-翠	cui4
-脆	cui4
+踹	cui3	107950
+惴	cui3	17120
+舛	cui3	17985
+喘	cui3	197378
+坐	cui3	3800762
+揣	cui3	77854
 脺	cui4
-萃	cui4
-促	cuk4
-束	cuk4
-畜	cuk4
-蓄	cuk4
-触	cuk4
-速	cuk4
-村	cun1
-存	cun2
-喘	cun3
-吋	cun4
-寸	cun4
-撺	cun4
-窜	cun4
-蹿	cun4
-充	cung1
-冲	cung1
-匆	cung1
-聪	cung1
-葱	cung1
-衷	cung1
-丛	cung2
-从	cung2
-松	cung2
-虫	cung2
-重	cung2
-宠	cung3
-重	cung3
-撮	cut3
-打	daa3
-但	daa5
-弹	daa5
-惮	daa5
-瘅	daa5
-蛋	daa5
-歹	daai1
-歹	daai3
-带	daai4
-戴	daai4
-大	daai5
-汏	daai5
-儋	daam1
-担	daam1
-眈	daam1
-耽	daam1
-聃	daam1
-酖	daam1
-胆	daam3
-担	daam4
-啖	daam5
-氮	daam5
-淡	daam5
-澹	daam5
-萏	daam5
-赕	daam5
-丹	daan1
-单	daan1
-殚	daan1
-箪	daan1
-郸	daan1
+毳	cui4	1224
+啐	cui4	14404
+脆	cui4	151926
+悴	cui4	20677
+淬	cui4	21111
+翠	cui4	224072
+萃	cui4	29421
+瘁	cui4	2996
+粹	cui4	50303
+祟	cui4	7199
+踧	cuk4
+蔟	cuk4	1060
+速	cuk4	1290122
+蓄	cuk4	140453
+觫	cuk4	145
+涑	cuk4	17859
+畜	cuk4	237161
+束	cuk4	261397
+蹙	cuk4	26745
+促	cuk4	350263
+矗	cuk4	369096
+触	cuk4	432809
+娖	cuk4	53
+搐	cuk4	6646
+俶	cuk4	6758
+蹴	cuk4	8729
+村	cun1	2565467
+存	cun2	1398860
+喘	cun3	197378
+吋	cun4	14822
+窜	cun4	204737
+寸	cun4	567565
+蹿	cun4	71239
+撺	cun4	951
+𩨂	cung1
+忡	cung1	10196
+聪	cung1	111163
+翀	cung1	11325
+茺	cung1	1283
+冲	cung1	1364565
+葱	cung1	282178
+涌	cung1	287505
+充	cung1	430203
+匆	cung1	43139
+衷	cung1	70743
+丛	cung2	151469
+淞	cung2	19049
+从	cung2	29106991
+重	cung2	4004920
+虫	cung2	639122
+松	cung2	808666
+宠	cung3	271995
+重	cung3	4004920
+冢	cung3	71529
+揰	cung4
+铳	cung4	9456
+捽	cut3	185
+蕞	cut3	2404
+撮	cut3	32081
+打	daa3	10141725
+歹	daai1	18835
+歹	daai3	18835
+戴	daai4	838292
+带	daai4	8410064
+汏	daai5	1270
+大	daai5	38361973
+儋	daam1	1593
+担	daam1	2232104
+耽	daam1	39128
+酖	daam1	56
+眈	daam1	9167
+聃	daam1	924
+胆	daam3	336912
+担	daam4	2232104
+淡	daam5	1115330
+啖	daam5	18975
+氮	daam5	209335
+萏	daam5	2747
+澹	daam5	39073
+赕	daam5	461
+箪	daan1	1445
+郸	daan1	1598
+殚	daan1	1769
+丹	daan1	515609
+单	daan1	5175593
 䋎	daan4
-旦	daan4
-诞	daan4
-搭	daap3
-答	daap3
-踏	daap5
-达	daat5
-低	dai1
-氐	dai1
-坻	dai3
-底	dai3
-抵	dai3
-柢	dai3
-氐	dai3
-牴	dai3
-砥	dai3
-羝	dai3
-胝	dai3
-诋	dai3
-邸	dai3
-骶	dai3
-帝	dai4
-渧	dai4
-碲	dai4
-缔	dai4
-蒂	dai4
+旦	daan4	120656
+诞	daan4	32986
+蛋	daan5	1262156
+但	daan5	29614263
+瘅	daan5	586
+弹	daan5	616661
+惮	daan5	6605
+咂	daap2	20807
+耷	daap2	8442
+瘩	daap3	1619
+褡	daap3	21625
+溚	daap3	222
+嗒	daap3	28614
+搭	daap3	839143
+褟	daap3	94
+答	daap3	956192
+遝	daap5	32
+沓	daap5	33207
+踏	daap5	629138
+笪	daat3	14540
+达	daat5	5111805
+低	dai1	5383247
+氐	dai1	93322
+砥	dai3	11469
+胝	dai3	13710
+坻	dai3	1581
+柢	dai3	1882
+牴	dai3	222
+诋	dai3	2538
+底	dai3	2665829
+骶	dai3	32067
+羝	dai3	4582
+抵	dai3	551335
+邸	dai3	77789
+氐	dai3	93322
 褅	dai4
-谛	dai4
-弟	dai5
-悌	dai5
-棣	dai5
+碲	dai4	1782
+谛	dai4	38435
+蒂	dai4	429268
+渧	dai4	47
+缔	dai4	7204
+帝	dai4	888649
 第	dai5
-递	dai5
-逮	dai5
-隶	dai5
-得	dak4
-德	dak4
-特	dak5
-泵	dam1
-抌	dam3
-墩	dan1
-敦	dan1
-囤	dan3
-墩	dan3
-盾	dan3
-趸	dan3
-扽	dan4
-燉	dan4
-遁	dan5
-顿	dan5
-噔	dang1
-灯	dang1
-登	dang1
-蹬	dang1
-镫	dang1
-鼟	dang1
-戥	dang3
-等	dang3
-凳	dang4
-磴	dang4
-邓	dang5
+隶	dai5	19589
+递	dai5	235589
+弟	dai5	351721
+悌	dai5	5714
+棣	dai5	5893
+逮	dai5	90619
+德	dak4	2072636
+得	dak4	22420955
+樴	dak5
+特	dak5	3254880
+泵	dam1	180253
+抌	dam3	32
+敦	dan1	50632
+墩	dan1	96161
+盾	dan3	157872
+趸	dan3	30868
+囤	dan3	51015
+墩	dan3	96161
+扽	dan4	340
+燉	dan4	4472
+顿	dan5	1213458
+遁	dan5	61704
+灯	dang1	1010975
+蹬	dang1	111261
+镫	dang1	3317
+鼟	dang1	44
+噔	dang1	5796
+登	dang1	627684
+等	dang3	36263392
+戥	dang3	944
+凳	dang4	133586
+磴	dang4	1733
 𢯭	dang5
-突	dat5
-兜	dau1
-篼	dau1
-蔸	dau1
-抖	dau3
-斗	dau3
-纠	dau3
-蚪	dau3
-赳	dau3
-陡	dau3
-斗	dau4
-窦	dau4
-兜	dau5
-痘	dau5
-窦	dau5
-脰	dau5
-读	dau5
-豆	dau5
-逗	dau5
-饾	dau5
-爹	de1
-地	dei5
-啲	di4
-啄	diek3
-滴	dik4
-的	dik4
-敌	dik5
-狄	dik5
-笛	dik5
-掂	dim1
+邓	dang5	172391
+𠕳	dap4
+耷	dap4	8442
+磼	dap5
+𠱂	dat4
+葖	dat5
+凸	dat5	379943
+突	dat5	464814
+兜	dau1	280590
+篼	dau1	4467
+蔸	dau1	5161
+蚪	dau3	15323
+赳	dau3	2186
+抖	dau3	312459
+陡	dau3	72379
+斗	dau3	740849
+纠	dau3	86045
+窦	dau4	139920
+斗	dau4	740849
+窦	dau5	139920
+读	dau5	1849464
+兜	dau5	280590
+逗	dau5	285950
+痘	dau5	459205
+脰	dau5	50
+饾	dau5	66
+豆	dau5	853536
+爹	de1	868302
+地	dei5	35624818
+啲	di4	51707
+斫	diek2	21842
+涿	diek3	11137
+诼	diek3	14339
+琢	diek3	19992
+斫	diek3	21842
+椓	diek3	30
+啄	diek3	33051
+𪜃	dieng5
+蹢	dik4
+滴	dik4	1816904
+镝	dik4	2792
+嫡	dik4	33814
+嘀	dik4	53904
+趯	dik4	74
+菂	dik4	867
+的	dik4	943370349
+逖	dik5	15397
+荻	dik5	20669
+籴	dik5	3686
+翟	dik5	50047
+狄	dik5	56707
+涤	dik5	64996
+迪	dik5	663636
+敌	dik5	712448
+笛	dik5	86704
+掂	dim1	90462
 点	dim3
-坫	dim4
-店	dim4
-惦	dim4
-阽	dim4
-巅	din1
-癫	din1
-颠	din1
-典	din3
-碘	din3
-腆	din3
-觍	din3
-垫	din4
-佃	din5
-奠	din5
-殿	din5
-淀	din5
-电	din5
-甸	din5
-畑	din5
-癜	din5
-靛	din5
-丁	ding1
-钉	ding1
-顶	ding3
-鼎	ding3
-订	ding4
-定	ding5
-锭	ding5
-碟	dip5
-蝶	dip5
-谍	dip5
-跌	dit3
-丢	diu1
-凋	diu1
-刁	diu1
-叨	diu1
-汈	diu1
-碉	diu1
-貂	diu1
-铥	diu1
-雕	diu1
-岧	diu2
-屌	diu3
-吊	diu4
-钓	diu4
-掉	diu5
-调	diu5
-铞	diu5
-铫	diu5
-哆	do1
+阽	dim4	317
+店	dim4	3193100
+坫	dim4	646
+惦	dim4	9130
+颠	din1	157828
+巅	din1	35448
+癫	din1	76803
+碘	din3	137512
+觍	din3	185
+典	din3	235765
+腆	din3	8559
+垫	din4	268045
+佃	din5	11469
+淀	din5	14473
+奠	din5	14533
+殿	din5	215923
+畑	din5	2202
+甸	din5	46254
+电	din5	5915529
+癜	din5	7244
+靛	din5	9533
+靪	ding1
+叮	ding1	140732
+疔	ding1	2180
+汀	ding1	220361
+玎	ding1	2633
+钉	ding1	263710
+耵	ding1	290
+町	ding1	37771
+饤	ding1	45
+酊	ding1	5933
+盯	ding1	606278
+仃	ding1	7989
+丁	ding1	852679
+顶	ding3	1785208
+鼎	ding3	203979
+碇	ding4	14852
+订	ding4	578843
+定	ding5	3017491
+锭	ding5	47993
+堞	dip5	1640
+蝶	dip5	205099
+牒	dip5	21216
+碟	dip5	330434
+谍	dip5	63366
+蹀	dip5	661
+喋	dip5	7722
+鲽	dip5	937
+跌	dit3	1378661
+奀	dit4	1437
+绖	dit5
+胅	dit5
+帙	dit5	1252
+瓞	dit5	367
+紩	dit5	38
+垤	dit5	388
+耋	dit5	3985
+昳	dit5	409
+秩	dit5	51554
+轶	dit5	7195
+泆	dit5	97
+迭	dit5	98589
+雕	diu1	172775
+凋	diu1	191135
+貂	diu1	35170
+叨	diu1	60413
+刁	diu1	62614
+碉	diu1	6623
+汈	diu1	84
+丢	diu1	924924
+铥	diu1	965
+岧	diu2	42
+屌	diu3	122962
+钓	diu4	135732
+吊	diu4	380002
+调	diu5	1731453
+掉	diu5	2809049
+铫	diu5	893
+铞	diu5	903
 多	do1
-剁	do3
-垛	do3
-朵	do3
-跺	do3
-躲	do3
-堕	do5
-惰	do5
-代	doi5
-叇	doi5
-岱	doi5
-待	doi5
-怠	doi5
-殆	doi5
-玳	doi5
-给	doi5
-袋	doi5
-跆	doi5
-迨	doi5
-逮	doi5
-骀	doi5
-黛	doi5
-当	dong1
-党	dong3
-当	dong3
-挡	dong3
-荡	dong5
-刀	dou1
+哆	do1	84671
+垛	do3	19276
+跺	do3	22168
+朵	do3	414430
+躲	do3	619626
+剁	do3	76497
+惰	do5	18734
+堕	do5	37325
+待	doi5	1323625
+迨	doi5	16993
+玳	doi5	1938
+绐	doi5	2275
+代	doi5	2517147
+岱	doi5	34545
+怠	doi5	398298
+叇	doi5	62
+袋	doi5	630196
+骀	doi5	694
+跆	doi5	7323
+殆	doi5	73910
+逮	doi5	90619
+黛	doi5	94863
+铎	dok5	18131
+踱	dok5	25779
+度	dok5	4723348
+当	dong1	10365360
+铛	dong1	36515
+珰	dong1	804
+当	dong3	10365360
+党	dong3	3863164
+挡	dong3	575131
+档	dong3	782884
+镋	dong3	97
+当	dong4	10365360
+档	dong4	782884
+荡	dong5	171799
+宕	dong5	20327
+菪	dong5	7302
+砀	dong5	8100
 唗	dou1
-嘟	dou1
-氘	dou1
-都	dou1
-魛	dou1
-倒	dou3
-堵	dou3
-岛	dou3
-捣	dou3
-睹	dou3
-祷	dou3
-赌	dou3
-到	dou4
-妒	dou4
-蠧	dou4
+刀	dou1	1684609
+魛	dou1	25
+氘	dou1	3985
+都	dou1	52527496
+嘟	dou1	67715
+捣	dou3	118245
+倒	dou3	2399404
+祷	dou3	44088
+赌	dou3	470130
+堵	dou3	659884
+睹	dou3	81347
+岛	dou3	895816
+妒	dou4	36545
+蠧	dou4	456
+到	dou4	50645570
 㤽	dou5
-妒	dou5
-导	dou5
-度	dou5
-悼	dou5
-杜	dou5
-渡	dou5
-盗	dou5
-稻	dou5
-蹈	dou5
-道	dou5
-镀	dou5
-堆	dui1
-搥	dui2
-兑	dui4
-对	dui4
-玳	dui4
-碓	dui4
-兑	dui5
-对	dui5
-队	dui5
-督	duk4
-毒	duk5
-牍	duk5
-独	duk5
-读	duk5
-端	dun1
-断	dun4
-锻	dun4
-断	dun5
-段	dun5
-缎	dun5
-锻	dun5
-东	dung1
-冬	dung1
-懂	dung3
-董	dung3
-冻	dung4
-动	dung5
-栋	dung5
-洞	dung5
-夺	dut5
-花	faa1
-化	faa4
-快	faai4
-幡	faan1
-番	faan1
-翻	faan1
-返	faan1
-凡	faan2
-墦	faan2
-帆	faan2
-憣	faan2
-樊	faan2
-烦	faan2
-燔	faan2
-璠	faan2
-矾	faan2
-繁	faan2
+道	dou5	13776897
+稻	dou5	152695
+杜	dou5	256095
+蹈	dou5	26275
+渡	dou5	293477
+悼	dou5	29891
+妒	dou5	36545
+盗	dou5	427332
+度	dou5	4723348
+镀	dou5	61753
+导	dou5	721060
+堆	dui1	464673
+搥	dui2	1001
+碓	dui4	11061
+玳	dui4	1938
+对	dui4	56546971
+兑	dui4	661089
+队	dui5	5050937
+对	dui5	56546971
+兑	dui5	661089
+㧻	duk4
+𡰪	duk4
+涿	duk4	11137
+督	duk4	186626
+笃	duk4	50927
+椟	duk5	1203
+毒	duk5	1203040
+碡	duk5	147
+读	duk5	1849464
+犊	duk5	21779
+渎	duk5	23683
+牍	duk5	23766
+黩	duk5	867
+独	duk5	950401
+端	dun1	1949715
+短	dun3	3282018
+断	dun4	1127238
+锻	dun4	40385
+断	dun5	1127238
+段	dun5	3033562
+锻	dun5	40385
+缎	dun5	40968
+鸫	dung1	10385
+冬	dung1	1246401
+东	dung1	2227600
+氡	dung1	26206
+咚	dung1	83522
+岽	dung1	9704
+㨂	dung2
+懂	dung3	2817020
+董	dung3	289553
+踵	dung3	6018
+胨	dung4	11591
+栋	dung4	478280
+冻	dung4	727675
+恫	dung5	15421
+垌	dung5	1784
+峒	dung5	17990
+动	dung5	3047197
+硐	dung5	34693
+恸	dung5	4401
+栋	dung5	478280
+侗	dung5	56847
+洞	dung5	857281
+夺	dut5	421202
+花	faa1	4562491
+化	faa4	1459853
+快	faai4	8057227
+翻	faan1	2169216
+番	faan1	389259
+幡	faan1	39497
+返	faan1	545554
 膰	faan2
-蕃	faan2
-藩	faan2
-蹯	faan2
-钒	faan2
-反	faan3
-返	faan3
-梵	faan4
-泛	faan4
-贩	faan4
-犯	faan5
-范	faan5
-饭	faan5
-发	faat3
-法	faat3
-乏	faat5
-伐	faat5
-罚	faat5
-徽	fai1
-挥	fai1
-晖	fai1
-珲	fai1
-翚	fai1
-辉	fai1
-麾	fai1
-匪	fai3
-悱	fai3
-斐	fai3
-榧	fai3
-毁	fai3
-翡	fai3
+墦	faan2	105
+繁	faan2	130688
+矾	faan2	14404
+帆	faan2	229356
+燔	faan2	2505
+憣	faan2	31
+樊	faan2	39658
+蹯	faan2	442
+藩	faan2	46500
+钒	faan2	48395
+璠	faan2	5106
+蕃	faan2	55603
+凡	faan2	741126
+烦	faan2	887404
+反	faan3	2405389
+返	faan3	545554
+贩	faan4	103471
+泛	faan4	337538
+梵	faan4	87123
+饭	faan5	1618796
+范	faan5	548547
+犯	faan5	936392
+法	faat3	3072162
+珐	faat3	4689
+发	faat3	7143812
+砝	faat3	8722
+垡	faat5	10776
+筏	faat5	14660
+伐	faat5	384549
+乏	faat5	57128
+罚	faat5	746083
+阀	faat5	90670
+徽	fai1	119999
+翚	fai1	1225
+辉	fai1	263576
+珲	fai1	2995
+挥	fai1	564939
+麾	fai1	5955
+晖	fai1	68880
 胐	fai3
-菲	fai3
-虺	fai3
-诽	fai3
-卉	fai4
-废	fai4
-肺	fai4
-芾	fai4
+诽	fai3	12516
+翡	fai3	14066
+榧	fai3	16089
+虺	fai3	20921
+匪	fai3	209353
+悱	fai3	2715
+毁	fai3	408215
+菲	fai3	515800
+斐	fai3	96791
 茷	fai4
-讳	fai4
-费	fai4
-吠	fai5
-扉	fai5
-狒	fai5
-痱	fai5
-分	fan1
-勋	fan1
-吩	fan1
-婚	fan1
-懃	fan1
-昏	fan1
-曛	fan1
-棻	fan1
-氛	fan1
-熏	fan1
-纷	fan1
-芬	fan1
-荤	fan1
-薰	fan1
-酚	fan1
-醺	fan1
-阍	fan1
-坟	fan2
-棼	fan2
-汾	fan2
-浑	fan2
-濆	fan2
-焚	fan2
+费	fai4	1366920
+讳	fai4	13700
+卉	fai4	25659
+废	fai4	376230
+肺	fai4	784351
+芾	fai4	85051
+痱	fai5	2107
+狒	fai5	3445
+吠	fai5	39610
+扉	fai5	7564
+阍	fan1	11257
+昏	fan1	115485
+分	fan1	11826179
+薰	fan1	158711
+棻	fan1	1605
+曛	fan1	16219
+吩	fan1	17143
+熏	fan1	174737
+醺	fan1	19022
+芬	fan1	206305
+勋	fan1	41745
+氛	fan1	42698
+懃	fan1	49
+荤	fan1	51654
+纷	fan1	66873
+婚	fan1	761818
+酚	fan1	97095
 豶	fan2
-鼢	fan2
-偾	fan3
-奋	fan3
-忿	fan3
-愤	fan3
-粉	fan3
-睏	fan4
-粪	fan4
-训	fan4
-份	fan5
-分	fan5
-忿	fan5
-宏	fang2
-弘	fang2
-忽	fat4
-窟	fat4
-佛	fat5
-浮	fau2
-涪	fau2
-苤	fau2
-蜉	fau2
-否	fau3
-缶	fau3
+汾	fan2	19908
+鼢	fan2	303
+焚	fan2	53891
+濆	fan2	642
+浑	fan2	75371
+坟	fan2	87410
+棼	fan2	929
+粉	fan3	2102834
+忿	fan3	21952
+奋	fan3	37527
+偾	fan3	4904
+愤	fan3	76987
+睏	fan4	11795
+粪	fan4	169667
+训	fan4	706539
+分	fan5	11826179
+忿	fan5	21952
+份	fan5	2778148
+弘	fang2	111939
+宏	fang2	333202
+淴	fat4
+唿	fat4	1423
+笏	fat4	17714
+弗	fat4	348917
+忽	fat4	350648
+窟	fat4	39466
+佛	fat4	820072
+惚	fat4	9918
+鉘	fat5
+韨	fat5
+艴	fat5	161
+氟	fat5	186548
+黻	fat5	1980
+怫	fat5	2091
+绂	fat5	2578
+绋	fat5	276
+狒	fat5	3445
+弗	fat5	348917
+沸	fat5	55293
+祓	fat5	553
+佛	fat5	820072
+茀	fat5	906
+拂	fat5	92027
+涪	fau2	11446
+苤	fau2	21010
+蜉	fau2	375
+浮	fau2	614773
 缹	fau3
-埠	fau5
-阜	fau5
-啡	fei1
-妃	fei1
-扉	fei1
-绯	fei1
-腓	fei1
-菲	fei1
-蜚	fei1
-霏	fei1
-非	fei1
-飞	fei1
-騑	fei1
-淝	fei2
-肥	fei2
-科	fo1
-稞	fo1
-蝌	fo1
-伙	fo3
-棵	fo3
-火	fo3
-稞	fo3
-钬	fo3
-颗	fo3
-课	fo4
-货	fo4
-缚	fok5
-坊	fong1
-慌	fong1
-方	fong1
-芳	fong1
-荒	fong1
-谎	fong1
-妨	fong2
-房	fong2
-防	fong2
-仿	fong3
-恍	fong3
-晃	fong3
-纺	fong3
-访	fong3
-况	fong4
-放	fong4
-伕	fu1
-俘	fu1
-呋	fu1
-呼	fu1
-夫	fu1
-孚	fu1
-孵	fu1
-敷	fu1
-桴	fu1
-涪	fu1
-滹	fu1
+缶	fau3	17843
+否	fau3	416553
+阜	fau5	45482
+埠	fau5	54970
+騑	fei1	100
+腓	fei1	13448
+妃	fei1	239435
+绯	fei1	26898
+飞	fei1	3105818
+啡	fei1	32604
+蜚	fei1	3444
+非	fei1	4668866
+菲	fei1	515800
+霏	fei1	6967
+扉	fei1	7564
+肥	fei2	885961
+淝	fei2	9951
+揈	fing4
+稞	fo1	1574
+蝌	fo1	1872
+科	fo1	2246064
+颗	fo3	1558504
+稞	fo3	1574
+火	fo3	1683003
+钬	fo3	2025
+伙	fo3	348484
+棵	fo3	416400
+课	fo4	1435527
+货	fo4	1679809
+缚	fok5	36332
+谎	fong1	112043
+肓	fong1	18275
+坊	fong1	190595
+慌	fong1	214455
+荒	fong1	246511
+枋	fong1	30214
+邡	fong1	333
+芳	fong1	337469
+方	fong1	5144385
+肪	fong1	53828
+钫	fong1	8337
+妨	fong2	16957
+防	fong2	2021321
+鲂	fong2	34649
+房	fong2	4335980
+恍	fong3	102319
+纺	fong3	174414
+仿	fong3	176681
+舫	fong3	22267
+晃	fong3	283350
+昉	fong3	4360
+幌	fong3	69411
+访	fong3	744136
+况	fong4	154102
+放	fong4	5784906
+贶	fong4	828
 烰	fu1
-稃	fu1
-肤	fu1
-莩	fu1
-蚨	fu1
-轷	fu1
-郛	fu1
-鄜	fu1
-鈇	fu1
-麸	fu1
-乎	fu2
-凫	fu2
-扶	fu2
-符	fu2
-芙	fu2
-苻	fu2
-蚨	fu2
-俯	fu3
-唬	fu3
-妇	fu3
-庑	fu3
-府	fu3
-怃	fu3
-抚	fu3
-拊	fu3
-斧	fu3
-浒	fu3
-滏	fu3
-琥	fu3
-甫	fu3
-簠	fu3
-腑	fu3
-苦	fu3
-莆	fu3
-虎	fu3
-釜	fu3
-黼	fu3
-付	fu4
-傅	fu4
-副	fu4
-咐	fu4
-富	fu4
-库	fu4
-戽	fu4
-裤	fu4
-讣	fu4
-赋	fu4
-赙	fu4
-赴	fu4
-附	fu4
-驸	fu4
-鲋	fu4
-互	fu5
-付	fu5
-傅	fu5
-冱	fu5
+涪	fu1	11446
+郛	fu1	1513
+莩	fu1	17233
+桴	fu1	1766
+呋	fu1	18009
+敷	fu1	248565
+俘	fu1	25894
+孵	fu1	26702
+蚨	fu1	27935
+麸	fu1	4050
+呼	fu1	451535
+鄜	fu1	457
+肤	fu1	494637
+鈇	fu1	506
+轷	fu1	53
+稃	fu1	544
+滹	fu1	793
+夫	fu1	827796
+孚	fu1	84859
+伕	fu1	964
+芙	fu2	110869
+符	fu2	167247
+蚨	fu2	27935
+乎	fu2	371115
+扶	fu2	390505
+凫	fu2	4181
+苻	fu2	9565
+浒	fu3	12005
+滏	fu3	1324
+甫	fu3	133662
+苦	fu3	1451321
+抚	fu3	173337
+釜	fu3	17783
+拊	fu3	17790
+琥	fu3	17964
+妇	fu3	198969
+腑	fu3	23665
+莆	fu3	29013
+黼	fu3	3442
+俯	fu3	42871
+庑	fu3	46379
+怃	fu3	602
+唬	fu3	66173
+府	fu3	667396
+虎	fu3	832772
+斧	fu3	87216
+簠	fu3	91
+傅	fu4	101539
+富	fu4	1116699
+赋	fu4	150695
+副	fu4	1596191
+讣	fu4	18858
+驸	fu4	2281
+鲋	fu4	25671
+戽	fu4	4900
+附	fu4	534169
+裤	fu4	692524
+赴	fu4	765800
+付	fu4	805772
+咐	fu4	8098
+库	fu4	838415
+赙	fu4	872
 坿	fu5
-妇	fu5
-护	fu5
-父	fu5
-腐	fu5
-蠖	fu5
-负	fu5
-赴	fu5
-辅	fu5
-恢	fui1
-灰	fui1
-诙	fui1
-晦	fui3
-喙	fui4
-悔	fui4
-诲	fui4
-复	fuk4
-福	fuk4
-腹	fuk4
-覆	fuk4
-伏	fuk5
-服	fuk5
-焕	fun3
-唤	fun4
-奂	fun4
-涣	fun4
-焕	fun4
-痪	fun4
-浣	fun5
-缓	fun5
-丰	fung1
-封	fung1
-峰	fung1
-枫	fung1
-疯	fung1
-蜂	fung1
-锋	fung1
-风	fung1
-冯	fung2
-缝	fung2
-适	fung2
-捧	fung3
-棒	fung3
-讽	fung4
-凤	fung5
-奉	fung5
-阔	fut3
-伽	gaa1
-傢	gaa1
-加	gaa1
-咖	gaa1
-嘉	gaa1
-家	gaa1
-旮	gaa1
-枷	gaa1
-珈	gaa1
-痂	gaa1
-笳	gaa1
-耞	gaa1
-葭	gaa1
-袈	gaa1
-跏	gaa1
-迦	gaa1
-镓	gaa1
-假	gaa3
-嘎	gaa3
-嘏	gaa3
-尕	gaa3
-尜	gaa3
-斝	gaa3
-槚	gaa3
-缶	gaa3
-贾	gaa3
-价	gaa4
-嫁	gaa4
-架	gaa4
-稼	gaa4
-驾	gaa4
-笳	gaa5
-葭	gaa5
-佳	gaai1
-喈	gaai1
-楷	gaai1
-湝	gaai1
-皆	gaai1
-秸	gaai1
-街	gaai1
-锴	gaai1
-阶	gaai1
-解	gaai3
-介	gaai4
-尬	gaai4
-届	gaai4
-戒	gaai4
-玠	gaai4
-界	gaai4
-疥	gaai4
-芥	gaai4
-蚧	gaai4
-诫	gaai4
+傅	fu5	101539
+负	fu5	1229780
+冱	fu5	183
+妇	fu5	198969
+腐	fu5	219592
+辅	fu5	352601
+父	fu5	501892
+互	fu5	747039
+赴	fu5	765800
+付	fu5	805772
+护	fu5	847511
+恢	fui1	122355
+诙	fui1	52709
+灰	fui1	923838
+晦	fui3	22596
+诲	fui4	11416
+悔	fui4	233451
+喙	fui4	66330
+鰒	fuk4
+福	fuk4	1194513
+蝠	fuk4	12007
+馥	fuk4	12532
+辐	fuk4	14335
+褔	fuk4	1523
+蝮	fuk4	1737
+覆	fuk4	188746
+腹	fuk4	464935
+复	fuk4	963792
+斛	fuk5	17770
+幞	fuk5	196
+袱	fuk5	2287
+服	fuk5	2500775
+茯	fuk5	2549
+伏	fuk5	265367
+洑	fuk5	553
+槲	fuk5	9964
+宽	fun1	1100797
+髋	fun1	34231
+欢	fun1	391132
+獾	fun1	55855
+焕	fun3	58780
+唤	fun4	141280
+奂	fun4	29015
+痪	fun4	32082
+焕	fun4	58780
+涣	fun4	69967
+浣	fun5	36477
+缓	fun5	551725
+封	fung1	1276309
+葑	fung1	13186
+砜	fung1	13771
+沣	fung1	14438
+枫	fung1	153833
+烽	fung1	15807
+蜂	fung1	202019
+锋	fung1	234507
+沨	fung1	2672
+风	fung1	3000084
+酆	fung1	30272
+丰	fung1	433148
+峰	fung1	955343
+疯	fung1	991998
+冯	fung2	166598
+适	fung2	216920
+逢	fung2	252864
+缝	fung2	316101
+棒	fung3	1071768
+俸	fung3	17600
+捧	fung3	589367
+讽	fung4	19321
+唪	fung4	505
+奉	fung5	271046
+凤	fung5	478000
+阔	fut3	120136
+葭	gaa1	12684
+跏	gaa1	13064
+咖	gaa1	141642
+笳	gaa1	15745
+家	gaa1	17971399
+袈	gaa1	2248
+痂	gaa1	24945
+珈	gaa1	36937
+枷	gaa1	38786
+耞	gaa1	42
+镓	gaa1	4677
+迦	gaa1	51054
+加	gaa1	5526163
+伽	gaa1	62650
+旮	gaa1	6408
+嘉	gaa1	657191
+傢	gaa1	7393
+尜	gaa3	1545
+尕	gaa3	15587
+缶	gaa3	17843
+假	gaa3	2105617
+斝	gaa3	231
+贾	gaa3	234866
+嘎	gaa3	321494
+槚	gaa3	77
+嘏	gaa3	8491
+架	gaa4	1702352
+价	gaa4	4242287
+驾	gaa4	470769
+嫁	gaa4	730730
+稼	gaa4	9549
+葭	gaa5	12684
+笳	gaa5	15745
+喈	gaai1	10732
+楷	gaai1	11880
+街	gaai1	1658460
+秸	gaai1	37836
+湝	gaai1	41
+阶	gaai1	591580
+皆	gaai1	903273
+佳	gaai1	922336
+锴	gaai1	9433
+解	gaai3	1308949
 鎅	gaai4
-格	gaak3
-隔	gaak3
-革	gaak3
-尴	gaam1
-监	gaam1
-减	gaam3
-感	gaam3
-槛	gaam4
-监	gaam4
-鉴	gaam4
-奸	gaan1
-艰	gaan1
-菅	gaan1
-间	gaan1
-拣	gaan3
-枧	gaan3
-柬	gaan3
-硷	gaan3
-碱	gaan3
-简	gaan3
-锏	gaan3
-涧	gaan4
-裥	gaan4
-谏	gaan4
-间	gaan4
-庚	gaang1
-更	gaang1
-粳	gaang1
-羹	gaang1
-耕	gaang1
-赓	gaang1
-鹒	gaang1
-躀	gaang4
-迳	gaang4
-甲	gaap3
-鸽	gaap3
-夹	gaap5
-交	gaau1
-胶	gaau1
-艽	gaau1
-茭	gaau1
-蛟	gaau1
-跤	gaau1
-郊	gaau1
-鲛	gaau1
+届	gaai4	1485620
+尬	gaai4	22738
+玠	gaai4	2349
+诫	gaai4	25117
+芥	gaai4	25349
+蚧	gaai4	26002
+戒	gaai4	401857
+疥	gaai4	4729
+介	gaai4	746219
+界	gaai4	780134
+格	gaak3	1373527
+革	gaak3	155035
+鞽	gaak3	33
+膈	gaak3	39533
+镉	gaak3	45748
+滆	gaak3	537
+隔	gaak3	654248
+搿	gaak5	29884
+尴	gaam1	10617
+监	gaam1	1529721
+感	gaam3	2684347
+减	gaam3	974137
+鉴	gaam4	115857
+监	gaam4	1529721
+槛	gaam4	17182
+艰	gaan1	15546
+间	gaan1	4464230
+菅	gaan1	9077
+奸	gaan1	96395
+拣	gaan3	103097
+硷	gaan3	10479
+碱	gaan3	212817
+简	gaan3	279241
+枧	gaan3	4347
+柬	gaan3	47623
+锏	gaan3	96338
+裥	gaan4	12423
+涧	gaan4	37353
+间	gaan4	4464230
+谏	gaan4	77412
+更	gaang1	14182556
+粳	gaang1	14531
+赓	gaang1	2429
+鹒	gaang1	51
+庚	gaang1	69480
+羹	gaang1	79963
+耕	gaang1	98881
+迳	gaang4	30344
+躀	gaang4	43
+甲	gaap3	1680754
+鸽	gaap3	88104
+浃	gaap5	1577
+郏	gaap5	35120
+荚	gaap5	43913
+夹	gaap5	531012
 鵁	gaau1
-佼	gaau3
+郊	gaau1	132608
+艽	gaau1	27777
+茭	gaau1	3783
+交	gaau1	4078349
+跤	gaau1	51826
+胶	gaau1	539139
+蛟	gaau1	74286
+鲛	gaau1	8253
 恔	gaau3
-搅	gaau3
-搞	gaau3
-狡	gaau3
-皎	gaau3
-筊	gaau3
-绞	gaau3
-饺	gaau3
-教	gaau4
+绞	gaau3	132628
+搅	gaau3	230179
+狡	gaau3	23667
+搞	gaau3	4167691
+佼	gaau3	6296
+饺	gaau3	69165
+皎	gaau3	7583
+筊	gaau3	972
 斠	gaau4
-校	gaau4
-滘	gaau4
-漖	gaau4
-窖	gaau4
-觉	gaau4
-较	gaau4
-酵	gaau4
-铰	gaau4
-乩	gai1
-笄	gai1
-鸡	gai1
-洎	gai4
-継	gai4
-继	gai4
-薊	gai4
-计	gai4
-髻	gai4
-偈	gai5
-坩	gam1
-柑	gam1
-泔	gam1
-甘	gam1
-疳	gam1
-苷	gam1
-酣	gam1
-感	gam3
-敢	gam3
-橄	gam3
-澉	gam3
-瞰	gam3
-揿	gam5
-淦	gam5
-绀	gam5
-哏	gan1
-巾	gan1
-斤	gan1
-根	gan1
-筋	gan1
-跟	gan1
-亘	gan3
-仅	gan3
-卺	gan3
-堇	gan3
-槿	gan3
+滘	gaau4	12439
+觉	gaau4	1408448
+教	gaau4	1847051
+校	gaau4	2272929
+酵	gaau4	23141
+铰	gaau4	32947
+较	gaau4	3685900
+窖	gaau4	51017
+漖	gaau4	933
+笄	gai1	12070
+鸡	gai1	1470725
+乩	gai1	16427
+计	gai4	1139729
+髻	gai4	12892
+洎	gai4	2423
+薊	gai4	252
+継	gai4	47
+继	gai4	894915
+偈	gai5	25295
+甘	gam1	1099915
+坩	gam1	1318
+疳	gam1	1547
+泔	gam1	2154
+酣	gam1	28626
+苷	gam1	38544
+柑	gam1	84629
+敢	gam3	1759286
+感	gam3	2684347
+瞰	gam3	3826
+澉	gam3	555
+橄	gam3	9015
+绀	gam5	13462
+淦	gam5	18119
+揿	gam5	4993
+斤	gan1	1156291
+巾	gan1	136659
+根	gan1	1712841
+筋	gan1	186982
+哏	gan1	4241928
+跟	gan1	8722894
 殣	gan3
 漌	gan3
-瑾	gan3
-紧	gan3
-艮	gan3
-茛	gan3
-觐	gan3
-谨	gan3
-近	gan5
-梗	gang3
-耿	gang3
-更	gang4
-鸽	gap3
-吉	gat4
-佝	gau1
-勾	gau1
-岣	gau1
-沟	gau1
-笱	gau1
-篝	gau1
-缑	gau1
-鸠	gau1
-雠	gau2
-垢	gau3
-枸	gau3
-狗	gau3
-苟	gau3
-诟	gau3
-够	gau4
-嚿	gau5
-腘	gau5
-几	gei1
-叽	gei1
-基	gei1
-居	gei1
-机	gei1
-玑	gei1
-琚	gei1
-畿	gei1
-矶	gei1
-箕	gei1
-肌	gei1
-讥	gei1
-车	gei1
-饥	gei1
-举	gei3
-几	gei3
-屺	gei3
-己	gei3
-杞	gei3
-榉	gei3
-矩	gei3
+卺	gan3	1108
+茛	gan3	1196
+亘	gan3	12758
+堇	gan3	13449
+槿	gan3	25457
+瑾	gan3	29140
+艮	gan3	31707
+觐	gan3	3859
+仅	gan3	4421040
+紧	gan3	50753000
+谨	gan3	98483
+近	gan5	4235874
+鲠	gang3	1412
+梗	gang3	148903
+埂	gang3	183968
+耿	gang3	31667
+绠	gang3	497
+哽	gang3	9637
+更	gang4	14182556
+胛	gap3	14530
+甲	gap3	1680754
+合	gap3	1709797
+钾	gap3	180601
+搿	gap3	29884
+岬	gap3	44939
+夹	gap3	531012
+鸽	gap3	88104
+蛤	gap4	79889
+㓤	gat4
+佶	gat4	1045
+桔	gat4	196480
+姞	gat4	218
+吉	gat4	591305
+佝	gau1	2438
+勾	gau1	253957
+笱	gau1	31179
+沟	gau1	424297
+篝	gau1	455
+鸠	gau1	53689
+岣	gau1	62184
+缑	gau1	7647
+雠	gau2	9329
+狗	gau3	2568477
+枸	gau3	3159
+垢	gau3	38932
+苟	gau3	46422
+诟	gau3	60299
+够	gau4	1182766
+腘	gau5	1050
+嚿	gau5	552
+几	gei1	10023845
+居	gei1	1349438
+讥	gei1	15177
+玑	gei1	15770
+基	gei1	1971955
+箕	gei1	21341
+矶	gei1	30339
+饥	gei1	38909
+肌	gei1	591140
+叽	gei1	60971
+畿	gei1	8887
+车	gei1	9131035
+机	gei1	9269422
+琚	gei1	9624
 筥	gei3
-纪	gei3
-芑	gei3
-莒	gei3
-蒟	gei3
-麂	gei3
-句	gei4
-寄	gei4
-既	gei4
-暨	gei4
-纪	gei4
-记	gei4
-锯	gei4
-伎	gei5
-具	gei5
-妓	gei5
-巨	gei5
-忌	gei5
-惧	gei5
-技	gei5
-炬	gei5
-犋	gei5
-芰	gei5
-苣	gei5
-跽	gei5
-钜	gei5
-脚	giek3
-今	giem1
-金	giem1
-锦	giem3
-噤	giem4
-禁	giem4
-揿	giem5
-僵	gieng1
-姜	gieng1
-疆	gieng1
-羌	gieng1
-急	giep3
-及	giep5
-久	gieu3
+几	gei3	10023845
+麂	gei3	12796
+蒟	gei3	1724
+榉	gei3	17660
+屺	gei3	1839
+芑	gei3	20689
+纪	gei3	224544
+杞	gei3	23530
+己	gei3	419617
+矩	gei3	68935
+举	gei3	767948
+莒	gei3	8773
+记	gei4	1648943
+纪	gei4	224544
+既	gei4	2753906
+句	gei4	3688439
+暨	gei4	398765
+寄	gei4	516878
+锯	gei4	78884
+巨	gei5	1123075
+惧	gei5	112626
+具	gei5	1837913
+炬	gei5	19083
+苣	gei5	19715
+钜	gei5	24219
+忌	gei5	321025
+犋	gei5	330
+伎	gei5	42525
+技	gei5	450102
+跽	gei5	5069
+芰	gei5	54024
+妓	gei5	55251
+脚	giek3	2010834
+今	giem1	1444843
+金	giem1	4654068
+锦	giem3	296392
+噤	giem4	4800
+禁	giem4	509388
+揿	giem5	4993
+疆	gieng1	141903
+姜	gieng1	465830
+僵	gieng1	79969
+羌	gieng1	83438
+急	giep3	1407521
+及	giep5	14225879
+芨	giep5	23395
+喼	giep5	330
+夹	giep5	531012
+笈	giep5	64394
 九	gieu3
-玖	gieu3
-厩	gieu4
-咎	gieu4
-捄	gieu4
-救	gieu4
-灸	gieu4
-疚	gieu4
-究	gieu4
-旧	gieu5
-柩	gieu5
-臼	gieu5
-舅	gieu5
-击	gik4
-激	gik4
-极	gik5
-兼	gim1
-搛	gim1
-蒹	gim1
-鰜	gim1
-鹣	gim1
-捡	gim3
-检	gim3
-剑	gim4
-俭	gim5
-坚	gin1
-娟	gin1
-捐	gin1
-涓	gin1
-皲	gin1
-肩	gin1
-蠲	gin1
-鲣	gin1
-鹃	gin1
-卷	gin3
-囝	gin3
-笕	gin3
-茧	gin3
-趼	gin3
-蹇	gin3
-建	gin4
-狷	gin4
-眷	gin4
-绢	gin4
-罥	gin4
-见	gin4
-件	gin5
-倦	gin5
-健	gin5
-毽	gin5
-腱	gin5
-键	gin5
-鞬	gin5
-京	ging1
-惊	ging1
-经	ging1
-茎	ging1
-荆	ging1
-境	ging3
-景	ging3
-警	ging3
-颈	ging3
-敬	ging4
-竟	ging4
-镜	ging4
-劲	ging5
-竞	ging5
-劫	gip3
-决	git3
-洁	git3
-结	git3
-杰	git5
-竭	git5
-娇	giu1
-徼	giu1
-敫	giu1
-矫	giu1
-纠	giu1
-缴	giu1
-骄	giu1
-峤	giu3
-缴	giu3
-轿	giu3
-叫	giu4
-轿	giu5
-哥	go1
-戈	go1
-歌	go1
-倮	go3
-果	go3
-舸	go3
-蜾	go3
-裸	go3
-裹	go3
-馃	go3
-哥	go4
-过	go4
-个	go5
-垓	goi1
+久	gieu3	1448556
+玖	gieu3	54488
+救	gieu4	1213869
+究	gieu4	153318
+厩	gieu4	18308
+疚	gieu4	18448
+捄	gieu4	26
+咎	gieu4	26577
+灸	gieu4	59317
+旧	gieu5	1347949
+柩	gieu5	4449
+臼	gieu5	46388
+舅	gieu5	74532
+圧	gik2	479
+击	gik4	1739003
+激	gik4	242952
+棘	gik4	34456
+亟	gik4	41559
+戟	gik4	55689
+墼	gik4	7394
+极	gik5	2517411
+屐	gik5	3004
+鰜	gim1	26
+蒹	gim1	4621
+搛	gim1	536
+鹣	gim1	6860
+兼	gim1	886952
+捡	gim3	353645
+检	gim3	830351
+剑	gim4	2088711
+俭	gim5	28069
+鲣	gin1	1046
+娟	gin1	117167
+坚	gin1	171398
+鹃	gin1	17474
+涓	gin1	21026
+捐	gin1	337452
+皲	gin1	5720
+肩	gin1	614618
+蠲	gin1	7891
+蹇	gin3	19030
+笕	gin3	29671
+趼	gin3	3181
+茧	gin3	60318
+囝	gin3	6172
+卷	gin3	990239
+罥	gin4	150
+建	gin4	2243332
+眷	gin4	26659
+狷	gin4	3693
+绢	gin4	57370
+见	gin4	8490843
+腱	gin5	29437
+键	gin5	396126
+毽	gin5	4494
+件	gin5	5517461
+倦	gin5	57260
+鞬	gin5	62
+健	gin5	638653
+茎	ging1	105541
+京	ging1	1258981
+猄	ging1	1389
+荆	ging1	160392
+黥	ging1	3183
+泾	ging1	32215
+痉	ging1	34800
+经	ging1	4464018
+鲸	ging1	69119
+檠	ging1	8917
+惊	ging1	945139
+儆	ging3	15857
+憬	ging3	24947
+璟	ging3	33950
+颈	ging3	350485
+警	ging3	528415
+景	ging3	679712
+刭	ging3	880
+境	ging3	915274
+竟	ging4	1284486
+径	ging4	235032
+敬	ging4	275653
+迳	ging4	30344
+胫	ging4	43821
+獍	ging4	6316
+镜	ging4	835697
+竟	ging5	1284486
+勍	ging5	384
+竞	ging5	391293
+劲	ging5	649338
+涩	gip3	141793
+劫	gip3	311769
+刼	gip3	37
+㛃	git3
+𫘝	git3
+佶	git3	1045
+玦	git3	1205
+鲒	git3	229
+觖	git3	257
+洁	git3	283547
+劫	git3	311769
+决	git3	448223
+絜	git3	600
+颉	git3	60370
+抉	git3	6204
+拮	git3	64177
+诀	git3	91079
+诘	git3	93515
+结	git3	966291
+桀	git5	24564
+杰	git5	431719
+竭	git5	56436
+鳜	git5	716
+敫	giu1	11406
+矫	giu1	117495
+徼	giu1	2889
+缴	giu1	387156
+娇	giu1	414655
+骄	giu1	71559
+纠	giu1	86045
+轿	giu3	100413
+峤	giu3	16560
+缴	giu3	387156
+叫	giu4	7079928
+轿	giu5	100413
+戈	go1	162604
+歌	go1	2763966
+哥	go1	3173650
+馃	go3	1143
+果	go3	15758000
+裹	go3	211446
+蜾	go3	333
+裸	go3	346507
+倮	go3	6592
+舸	go3	8735
+过	go4	21257943
+哥	go4	3173650
+个	go5	87859759
 痎	goi1
-荄	goi1
-该	goi1
-赅	goi1
-陔	goi1
-改	goi3
-盖	goi4
-攰	goi5
-各	gok3
-国	gok3
-廓	gok3
-搁	gok3
-觉	gok3
-角	gok3
-郭	gok3
-阁	gok3
-干	gon1
-旰	gon1
-杆	gon1
-玕	gon1
-矸	gon1
-竿	gon1
-肝	gon1
-酐	gon1
-擀	gon3
-杆	gon3
-秆	gon3
-赶	gon3
-干	gon4
-光	gong1
-冈	gong1
-刚	gong1
-岗	gong1
-江	gong1
-纲	gong1
-缸	gong1
-广	gong3
-港	gong3
-讲	gong3
-杠	gong4
-钢	gong4
-降	gong4
-割	got3
-葛	got3
-槔	gou1
-皋	gou1
-睾	gou1
-篙	gou1
-糕	gou1
-羔	gou1
-膏	gou1
-高	gou1
-杲	gou3
-槁	gou3
-犒	gou3
-稿	gou3
-缟	gou3
-镐	gou3
-告	gou4
-诰	gou4
-郜	gou4
-锆	gou4
-咕	gu1
-姑	gu1
-孤	gu1
-枯	gu1
-沽	gu1
-罛	gu1
-罟	gu1
-菇	gu1
-菰	gu1
-蛄	gu1
-觚	gu1
-轱	gu1
-辜	gu1
-酤	gu1
-骷	gu1
-鸪	gu1
+该	goi1	15641284
+陔	goi1	1579
+赅	goi1	1668
+垓	goi1	2000
+荄	goi1	736
+改	goi3	3245913
+盖	goi4	1022644
+攰	goi5	32346
+袼	gok3	10100
+各	gok3	10270046
+觉	gok3	1408448
+阁	gok3	277925
+郭	gok3	314909
+帼	gok3	3707
+廓	gok3	40779
+国	gok3	4684995
+桷	gok3	4807
+蝈	gok3	5075
+椁	gok3	6265
+崞	gok3	6384
+漷	gok3	675
+角	gok3	837816
+珏	gok3	9335
+搁	gok3	94683
+杆	gon1	1107350
+矸	gon1	21846
+酐	gon1	29132
+干	gon1	2922650
+竿	gon1	44758
+玕	gon1	558
+旰	gon1	7675
+肝	gon1	964863
+杆	gon3	1107350
+秆	gon3	40499
+赶	gon3	730142
+擀	gon3	9902
+干	gon4	2922650
+	gong1
+冈	gong1	104550
+㭎	gong1	106
+江	gong1	1120912
+杠	gong1	117466
+纲	gong1	125549
+缸	gong1	170056
+扛	gong1	250992
+光	gong1	3038601
+胱	gong1	30628
+岗	gong1	347965
+刚	gong1	4241925
+肛	gong1	48436
+堽	gong1	515
+罡	gong1	58465
+豇	gong1	587
+洸	gong1	617
+广	gong3	1573188
+讲	gong3	3768916
+觥	gong3	59393
+港	gong3	934577
+杠	gong4	117466
+降	gong4	1264994
+绛	gong4	23909
+钢	gong4	826831
+葛	got3	135472
+割	got3	272041
+糕	gou1	116430
+高	gou1	13289918
+羔	gou1	14608
+槔	gou1	14997
+皋	gou1	22421
+膏	gou1	240341
+睾	gou1	39151
+篙	gou1	9078
+缟	gou3	13699
+犒	gou3	3088
+镐	gou3	39332
+稿	gou3	540576
+槁	gou3	7186
+杲	gou3	8045
+锆	gou4	14135
+郜	gou4	17178
+诰	gou4	42425
+告	gou4	636404
+枯	gu1	111257
+鸪	gu1	11553
+菰	gu1	13024
+菇	gu1	139923
+罟	gu1	14733
+蛄	gu1	15130
+姑	gu1	173638
+沽	gu1	177272
+骷	gu1	20138
+辜	gu1	23088
+觚	gu1	2322
+罛	gu1	332
+咕	gu1	39392
+轱	gu1	777
+酤	gu1	855
+孤	gu1	955748
 䀇	gu3
-估	gu3
-古	gu3
-嘏	gu3
-牯	gu3
-瞽	gu3
-羧	gu3
-股	gu3
-臌	gu3
-蛊	gu3
-诂	gu3
-贾	gu3
-鈷	gu3
-鼓	gu3
-固	gu4
-堌	gu4
-崮	gu4
-故	gu4
-痼	gu4
-锢	gu4
-雇	gu4
-顾	gu4
-菊	guk4
-谷	guk4
-局	guk5
-倌	gun1
-冠	gun1
-官	gun1
-棺	gun1
-观	gun1
-斡	gun3
-短	gun3
-管	gun3
-莞	gun3
-馆	gun3
-冠	gun4
-灌	gun4
-罐	gun4
-观	gun4
-贯	gun4
-鹳	gun4
-供	gung1
-公	gung1
-功	gung1
-宫	gung1
-工	gung1
-弓	gung1
-恭	gung1
-攻	gung1
-躬	gung1
-巩	gung3
-拱	gung3
-供	gung4
-汞	gung4
-贡	gung4
-共	gung5
-括	gut3
-括	gwaa1
-瓜	gwaa1
-呱	gwaa2
-剐	gwaa3
-寡	gwaa3
-卦	gwaa4
-褂	gwaa4
-乖	gwaai1
-拐	gwaai3
-蒯	gwaai3
-怪	gwaai4
-关	gwaan1
-冠	gwaan1
+羧	gu3	10644
+古	gu3	1189784
+贾	gu3	234866
+臌	gu3	2525
+鼓	gu3	296697
+诂	gu3	3078
+瞽	gu3	3143
+蛊	gu3	47527
+鈷	gu3	51
+估	gu3	578746
+股	gu3	7656373
+嘏	gu3	8491
+牯	gu3	8580
+故	gu4	1130448
+雇	gu4	126875
+堌	gu4	135
+固	gu4	330238
+顾	gu4	422229
+崮	gu4	6621
+痼	gu4	666
+锢	gu4	7191
+喾	guk4	10604
+掬	guk4	11379
+菊	guk4	230776
+鞫	guk4	26852
+鹄	guk4	28251
+鞠	guk4	38650
+榖	guk4	431
+麴	guk4	4937
+谷	guk4	768519
+跔	guk5
+焗	guk5	31327
+侷	guk5	330
+局	guk5	3869608
+锔	guk5	5221
+官	gun1	1152178
+观	gun1	1427187
+倌	gun1	17582
+棺	gun1	72252
+冠	gun1	888754
+斡	gun3	32355
+管	gun3	3367058
+莞	gun3	43722
+馆	gun3	928593
+观	gun4	1427187
+贯	gun4	202190
+罐	gun4	272176
+灌	gun4	344078
+冠	gun4	888754
+鹳	gun4	9110
+恭	gung1	110412
+供	gung1	1260497
+蚣	gung1	14988
+工	gung1	1752973
+弓	gung1	200914
+公	gung1	2987187
+躬	gung1	40494
+肛	gung1	48436
+龚	gung1	62035
+功	gung1	635896
+宫	gung1	759984
+塨	gung1	77
+攻	gung1	889301
+巩	gung3	11433
+栱	gung3	119
+拱	gung3	134915
+唝	gung3	592
+珙	gung3	635
+供	gung4	1260497
+豇	gung4	587
+汞	gung4	68209
+赣	gung4	78199
+贡	gung4	99046
+共	gung5	3571523
+括	gut3	47735
+瓜	gwaa1	274986
+括	gwaa1	47735
+呱	gwaa2	30371
+剐	gwaa3	29791
+寡	gwaa3	67441
+褂	gwaa4	83917
+卦	gwaa4	96230
+乖	gwaai1	411027
+蒯	gwaai3	1662
+拐	gwaai3	218089
+怪	gwaai4	1234837
+掴	gwaak3	10243
 瘝	gwaan1
-纶	gwaan1
-鳏	gwaan1
-惯	gwaan4
-掼	gwaan4
-逛	gwaang3
-躀	gwaang4
-掼	gwaang5
-刮	gwaat3
-圭	gwai1
-妫	gwai1
-归	gwai1
-皈	gwai1
-硅	gwai1
-邽	gwai1
-闺	gwai1
-鬼	gwai1
-鲑	gwai1
-龟	gwai1
-匦	gwai3
-宄	gwai3
-庋	gwai3
-晷	gwai3
-簋	gwai3
-诡	gwai3
-轨	gwai3
-鬼	gwai3
-刿	gwai4
-坏	gwai4
-季	gwai4
-悸	gwai4
-桂	gwai4
-瑰	gwai4
-癸	gwai4
-贵	gwai4
-鳜	gwai4
-匮	gwai5
-柜	gwai5
-篑	gwai5
-蒉	gwai5
-跪	gwai5
-馈	gwai5
-军	gwan1
-君	gwan1
-莙	gwan1
-混	gwan3
-滚	gwan3
-磙	gwan3
-绲	gwan3
-衮	gwan3
-辊	gwan3
-鲧	gwan3
-棍	gwan4
-轰	gwang1
-橘	gwat4
-骨	gwat4
-掘	gwat5
-鲑	gwe1
-哈	haa1
-虾	haa1
-蛤	haa1
-铪	haa1
-瑕	haa2
-遐	haa2
-霞	haa2
-下	haa3
-下	haa5
-厦	haa5
-吓	haa5
-夏	haa5
-暇	haa5
-揩	haai1
-偕	haai2
-咳	haai2
-嗐	haai2
-嗨	haai2
-嚡	haai2
-孩	haai2
-谐	haai2
-鞋	haai2
-骸	haai2
+关	gwaan1	1463591
+鳏	gwaan1	2959
+冠	gwaan1	888754
+纶	gwaan1	90452
+惯	gwaan4	173228
+掼	gwaan4	7439
+逛	gwaang3	430820
+躀	gwaang4	43
+掼	gwaang5	7439
+捖	gwaat3
+刷	gwaat3	1010700
+鸹	gwaat3	12126
+聒	gwaat3	1749
+蛞	gwaat3	19072
+刮	gwaat3	431696
+括	gwaat3	47735
+鬼	gwai1	1061984
+硅	gwai1	130576
+邽	gwai1	197
+闺	gwai1	210724
+龟	gwai1	229572
+皈	gwai1	2698
+鲑	gwai1	3754
+妫	gwai1	52763
+圭	gwai1	86028
+归	gwai1	882547
+簋	gwai3	10062
+鬼	gwai3	1061984
+宄	gwai3	14422
+轨	gwai3	218666
+诡	gwai3	24108
+匦	gwai3	45300
+庋	gwai3	51604
+晷	gwai3	6018
+坏	gwai4	1197540
+贵	gwai4	1228605
+瑰	gwai4	12492
+癸	gwai4	13604
+悸	gwai4	26257
+桂	gwai4	293261
+刿	gwai4	451
+鳜	gwai4	716
+季	gwai4	932797
+馈	gwai5	109069
+匮	gwai5	12897
+柜	gwai5	350768
+跪	gwai5	390782
+蒉	gwai5	709
+篑	gwai5	720
+啯	gwak2	221
+君	gwan1	1215979
+莙	gwan1	240
+军	gwan1	3783993
+绲	gwan3	24246
+磙	gwan3	290
+鲧	gwan3	3415
+辊	gwan3	48208
+衮	gwan3	6136
+滚	gwan3	692743
+混	gwan3	842940
+棍	gwan4	268335
+薨	gwang1	14197
+肱	gwang1	16612
+訇	gwang1	1714
+轰	gwang1	238079
+渹	gwang2
+郡	gwang5	207779
+珺	gwang5	21993
+骨	gwat4	1017501
+橘	gwat4	188040
+谲	gwat4	2013
+掘	gwat5	142342
+鲑	gwe1	3754
+铪	haa1	1911
+哈	haa1	3128646
+虾	haa1	390465
+蛤	haa1	79889
+霞	haa2	260844
+瑕	haa2	44121
+遐	haa2	8970
+下	haa3	26737542
+下	haa5	26737542
+厦	haa5	378492
+暇	haa5	42805
+吓	haa5	842989
+夏	haa5	910767
+揩	haai1	17945
+骸	haai2	150832
+谐	haai2	189947
+鞋	haai2	1967543
+咳	haai2	217774
+偕	haai2	26789
+孩	haai2	322987
+嗨	haai2	396041
+嚡	haai2	54
+嗐	haai2	798
 嶰	haai3
-澥	haai3
-蟹	haai3
-解	haai3
-邂	haai3
-骇	haai3
+邂	haai3	1233
+解	haai3	1308949
+澥	haai3	329
+骇	haai3	64978
+蟹	haai3	723670
 妎	haai5
-廨	haai5
-懈	haai5
-械	haai5
-瀣	haai5
-薢	haai5
-薤	haai5
-骱	haai5
 齘	haai5
-吓	haak3
-函	haam2
-咸	haam2
-涵	haam2
-衔	haam2
-瞰	haam3
-喊	haam4
-嵌	haam4
-阚	haam4
-憾	haam5
-撼	haam5
-陷	haam5
-馅	haam5
-悭	haan1
-娴	haan2
-闲	haan2
-鹇	haan2
-苋	haan5
-限	haan5
-坑	haang1
-桁	haang1
-烹	haang1
-桁	haang2
-珩	haang2
-行	haang2
-鸻	haang2
-行	haang4
-哮	haau1
-尻	haau1
-敲	haau1
-虓	haau1
-姣	haau2
-巧	haau3
-拷	haau3
-栲	haau3
-烤	haau3
-考	haau3
-铐	haau3
-孝	haau4
-酵	haau4
-効	haau5
-效	haau5
-校	haau5
-屄	hai1
-系	hai5
-客	hak3
-黑	hak4
-坩	ham1
-堪	ham1
-蚶	ham1
-龛	ham1
-函	ham2
-含	ham2
-衔	ham2
-颔	ham2
-坎	ham3
-扻	ham3
-砍	ham3
-勘	ham4
-坎	ham4
-墈	ham4
-崁	ham4
-磡	ham4
-䜣	han1
-忻	han1
-昕	han1
-欣	han1
-痕	han2
-垦	han3
-很	han3
-恳	han3
-狠	han3
-裉	han3
-衅	han4
-恨	han5
-衅	han5
-恒	hang2
-衡	hang2
-啃	hang3
-肯	hang3
-幸	hang5
-杏	hang5
-合	hap4
-匣	hap5
-合	hap5
-盒	hap5
-乞	hat4
-吃	hat4
-核	hat5
-瞎	hat5
-辖	hat5
-睺	hau1
-侯	hau2
-喉	hau2
-猴	hau2
-瘊	hau2
-睺	hau2
-篌	hau2
-糇	hau2
-骺	hau2
-齁	hau2
-厚	hau3
-口	hau3
-候	hau5
-厚	hau5
-后	hau5
-垕	hau5
-堠	hau5
-逅	hau5
-鲎	hau5
+廨	haai5	1388
+骱	haai5	15026
+械	haai5	177829
+薤	haai5	2500
+懈	haai5	41480
+瀣	haai5	762
+薢	haai5	86
+客	haak3	2138167
+吓	haak3	842989
+涵	haam2	172733
+函	haam2	176602
+咸	haam2	269908
+衔	haam2	76493
+瞰	haam3	3826
+喊	haam4	1064810
+阚	haam4	11251
+嵌	haam4	126319
+陷	haam5	200056
+撼	haam5	33580
+憾	haam5	72944
+馅	haam5	87362
+悭	haan1	5115
+闲	haan2	454796
+鹇	haan2	5336
+娴	haan2	74017
+苋	haan5	22598
+限	haan5	935162
+烹	haang1	38370
+桁	haang1	4848
+坑	haang1	874126
+鸻	haang2	421
+桁	haang2	4848
+行	haang2	5478924
+珩	haang2	5937
+行	haang4	5478924
+歃	haap3	1502
+呷	haap3	42864
+匣	haap5	48223
+峡	haap5	75079
+哮	haau1	10854
+虓	haau1	272
+敲	haau1	363988
+尻	haau1	4162
+姣	haau2	18961
+铐	haau3	18676
+考	haau3	1992002
+栲	haau3	3199
+巧	haau3	345458
+烤	haau3	428139
+拷	haau3	44128
+酵	haau4	23141
+孝	haau4	287724
+効	haau5	1095
+校	haau5	2272929
+效	haau5	815151
+屄	hai1	3200
+系	hai5	5052225
+客	hak3	2138167
+赫	hak4	187087
+黑	hak4	3124421
+龛	ham1	10790
+坩	ham1	1318
+蚶	ham1	16092
+堪	ham1	314423
+含	ham2	1716080
+函	ham2	176602
+衔	ham2	76493
+颔	ham2	8892
+坎	ham3	216072
+砍	ham3	457917
+扻	ham3	776
+坎	ham4	216072
+磡	ham4	7384
+勘	ham4	74869
+崁	ham4	851
+墈	ham4	980
+欣	han1	245914
+昕	han1	53944
+䜣	han1	749
+忻	han1	89576
+痕	han2	205205
+裉	han3	19924
+很	han3	29046232
+恳	han3	33750
+垦	han3	49885
+狠	han3	574200
+衅	han4	31034
+衅	han5	31034
+恨	han5	964055
+脝	hang1
+亨	hang1	153866
+铿	hang1	3499
+哼	hang1	660229
+恒	hang2	342354
+衡	hang2	77371
+蘅	hang2	8583
+啃	hang3	210376
+肯	hang3	423504
+摼	hang4	107
+杏	hang5	193264
+幸	hang5	282807
+荇	hang5	3168
+啈	hang5	52
+行	hang5	5478924
+悻	hang5	5579
+婞	hang5	88
+合	hap4	1709797
+合	hap5	1709797
+匣	hap5	48223
+盒	hap5	649506
+吃	hat4	12987492
+乞	hat4	55276
+劾	hat5	12378
+核	hat5	1321706
+辖	hat5	138418
+阂	hat5	14220
+翮	hat5	2774
+瞎	hat5	366887
+睺	hau1	359
+喉	hau2	161851
+骺	hau2	22708
+猴	hau2	237356
+侯	hau2	275556
+篌	hau2	348
+瘊	hau2	353
+睺	hau2	359
+糇	hau2	4223
+齁	hau2	5432
+口	hau3	4395540
+厚	hau3	813358
+堠	hau5	1235
+垕	hau5	200
+后	hau5	33767571
+鲎	hau5	36559
+候	hau5	473533
+厚	hau5	813358
+逅	hau5	9184
 㗾	he1
-靴	he1
-僖	hei1
-吁	hei1
-唏	hei1
-嘘	hei1
-嘻	hei1
-墟	hei1
-嬉	hei1
-希	hei1
-晞	hei1
-曦	hei1
-欷	hei1
-欺	hei1
-歔	hei1
-浠	hei1
-烯	hei1
-煦	hei1
-熙	hei1
-熹	hei1
-爔	hei1
-牺	hei1
-稀	hei1
-羲	hei1
-虚	hei1
-嘿	hei2
-喜	hei3
-岂	hei3
-栩	hei3
-许	hei3
-诩	hei3
-起	hei3
-超	hei3
-去	hei4
-器	hei4
-弃	hei4
-憇	hei4
-戏	hei4
-气	hei4
-汽	hei4
-觑	hei4
-呿	hei5
-咥	hi4
-嵌	hiem1
-揿	hiem1
-歆	hiem1
-鑫	hiem1
-钦	hiem1
-乡	hieng1
-香	hieng1
-享	hieng3
-响	hieng3
-向	hieng4
-丘	hieu1
-休	hieu1
-咻	hieu1
-庥	hieu1
-蚯	hieu1
-邱	hieu1
-髹	hieu1
-鸺	hieu1
-谦	him1
-猃	him3
-险	him3
-欠	him4
-圈	hin1
-岍	hin1
-愆	hin1
-掀	hin1
-搴	hin1
-楦	hin1
-牵	hin1
-褰	hin1
-謇	hin1
-轩	hin1
-骞	hin1
-岘	hin3
-显	hin3
-犬	hin3
-畎	hin3
-缱	hin3
-蚬	hin3
-遣	hin3
-券	hin4
-劝	hin4
-宪	hin4
-献	hin4
-绚	hin4
-兄	hing1
-兴	hing1
-卿	hing1
-轻	hing1
-兴	hing4
-庆	hing4
-馨	hing4
-怯	hip3
-歇	hip3
-歉	hip3
-泣	hip3
-协	hip5
-狭	hip5
-歇	hit3
-血	hit3
-侥	hiu1
-哓	hiu1
-嚣	hiu1
-枭	hiu1
-枵	hiu1
-浇	hiu1
-骁	hiu1
-晓	hiu3
-朽	hiu3
-噷	hm5
-呵	ho1
-何	ho2
-呵	ho2
-河	ho2
-荷	ho2
-菏	ho2
-可	ho3
-舸	ho3
-哬	ho4
-贺	ho5
-开	hoi1
-锎	hoi1
-胲	hoi2
-凯	hoi3
-剀	hoi3
-垲	hoi3
-恺	hoi3
-海	hoi3
-贿	hoi3
-醢	hoi3
-铠	hoi3
-闿	hoi3
-亥	hoi5
-害	hoi5
-氦	hoi5
-胲	hoi5
-壳	hok3
-学	hok5
-鹤	hok5
-刊	hon1
-汗	hon1
-看	hon1
-寒	hon2
-邗	hon2
-邯	hon2
-酣	hon2
-韩	hon2
-鼾	hon2
-旱	hon3
-罕	hon3
-汉	hon4
-看	hon4
-悍	hon5
-汗	hon5
-瀚	hon5
-焊	hon5
-翰	hon5
-康	hong1
-慷	hong1
-框	hong1
-筐	hong1
-糠	hong1
-腔	hong1
-杭	hong2
-航	hong2
-行	hong2
-巷	hong5
-项	hong5
-喝	hot3
-渴	hot3
-号	hou1
-嗥	hou1
-嚎	hou1
-蒿	hou1
-薅	hou1
-毫	hou2
-濠	hou2
-豪	hou2
+靴	he1	485998
+熙	hei1	100637
+熹	hei1	10895
+羲	hei1	11601
+欺	hei1	124511
+欷	hei1	1527
+墟	hei1	20727
+僖	hei1	22241
+浠	hei1	26392
+稀	hei1	283091
+嬉	hei1	32730
+歔	hei1	339
+烯	hei1	35122
+爔	hei1	41
+牺	hei1	4122
+吁	hei1	42249
+希	hei1	535255
+虚	hei1	559786
+晞	hei1	6299
+嘻	hei1	65367
+嘘	hei1	67416
+唏	hei1	6925
+曦	hei1	72882
+煦	hei1	8768
+嘿	hei2	377918
+起	hei3	11487882
+喜	hei3	1214518
+栩	hei3	12620
+许	hei3	1353620
+诩	hei3	60425
+岂	hei3	92337
+觑	hei4	10594
+憇	hei4	106
+戏	hei4	1162317
+器	hei4	1538643
+去	hei4	30059353
+气	hei4	3166410
+弃	hei4	413890
+汽	hei4	667836
+呿	hei5	922
+咥	hi4	530
+嵌	hiem1	126319
+鑫	hiem1	173480
+揿	hiem1	4993
+歆	hiem1	9552
+钦	hiem1	96937
+乡	hieng1	1043238
+香	hieng1	1714448
+芗	hieng1	21412
+垧	hieng3	2188
+饷	hieng3	40408
+享	hieng3	474965
+飨	hieng3	60190
+晌	hieng3	65144
+响	hieng3	894543
+向	hieng4	16135014
+湇	hiep3	68
+泣	hiep3	69052
+丘	hieu1	130327
+庥	hieu1	17481
+咻	hieu1	20898
+髹	hieu1	2281
+休	hieu1	309236
+蚯	hieu1	7985
+邱	hieu1	82438
+鸺	hieu1	9850
+吃	hik4	12987492
+谦	him1	74779
+猃	him3	308
+险	him3	803864
+欠	him4	747294
+搴	hin1	10715
+楦	hin1	11100
+掀	hin1	133181
+褰	hin1	13701
+圈	hin1	1451007
+骞	hin1	15761
+轩	hin1	211185
+岍	hin1	253
+愆	hin1	2530
+牵	hin1	624532
+謇	hin1	9297
+显	hin3	1608647
+遣	hin3	188449
+缱	hin3	21940
+蚬	hin3	22191
+畎	hin3	4220
+犬	hin3	453126
+岘	hin3	6287
+绚	hin4	12538
+献	hin4	382132
+劝	hin4	514074
+宪	hin4	62144
+券	hin4	812682
+氢	hing1	139224
+轻	hing1	1576752
+卿	hing1	160127
+兴	hing1	514852
+兄	hing1	558635
+馨	hing1	94026
+㷫	hing4
+磬	hing4	10736
+謦	hing4	1734
+罄	hing4	44811
+庆	hing4	487662
+兴	hing4	514852
+馨	hing4	94026
+嗛	hip3	138
+歇	hip3	168388
+慊	hip3	16875
+歉	hip3	63490
+泣	hip3	69052
+怯	hip3	93673
+梜	hip5
+蛱	hip5	10352
+叶	hip5	1070851
+勰	hip5	18130
+硖	hip5	22042
+箧	hip5	2547
+协	hip5	282582
+侠	hip5	326484
+惬	hip5	3558
+狭	hip5	53097
+胁	hip5	69366
+峡	hip5	75079
+颊	hip5	75460
+挟	hip5	75908
+铗	hip5	996
+歇	hit3	168388
+血	hit3	3031933
+骁	hiu1	13147
+嚣	hiu1	17033
+哓	hiu1	1876
+浇	hiu1	197905
+侥	hiu1	22302
+枵	hiu1	3362
+枭	hiu1	44326
+朽	hiu3	11649
+晓	hiu3	504575
+吟	hm2	109857
+噷	hm5	125
+呵	ho1	301415
+河	ho2	1034613
+何	ho2	1186523
+菏	ho2	13457
+荷	ho2	250174
+呵	ho2	301415
+可	ho3	17369621
+舸	ho3	8735
+哬	ho4	236
+贺	ho5	194808
+锎	hoi1	5061
+开	hoi1	7960803
+胲	hoi2	153
+剀	hoi3	1260
+铠	hoi3	18788
+贿	hoi3	20594
+恺	hoi3	24202
+海	hoi3	3771897
+醢	hoi3	3780
+凯	hoi3	514157
+垲	hoi3	609
+闿	hoi3	6844
+胲	hoi5	153
+亥	hoi5	20001
+氦	hoi5	22618
+害	hoi5	594988
+壳	hok3	527763
+鹤	hok5	175632
+学	hok5	4458826
+看	hon1	27275620
+刊	hon1	356155
+汗	hon1	431995
+邯	hon2	12434
+韩	hon2	1358925
+邗	hon2	1797
+酣	hon2	28626
+寒	hon2	724312
+鼾	hon2	7379
+旱	hon3	218052
+罕	hon3	46057
+看	hon4	27275620
+汉	hon4	851212
+瀚	hon5	19701
+汗	hon5	431995
+翰	hon5	68361
+焊	hon5	76383
+悍	hon5	85371
+框	hong1	170545
+慷	hong1	25906
+诓	hong1	37137
+腔	hong1	424261
+眶	hong1	42470
+康	hong1	484064
+糠	hong1	69526
+槺	hong1	73
+筐	hong1	75005
+迒	hong2
+降	hong2	1264994
+绗	hong2	2236
+杭	hong2	287187
+行	hong2	5478924
+航	hong2	766251
+夯	hong2	82975
+缿	hong3
+侃	hong3	39998
+巷	hong5	220949
+项	hong5	5810813
+渴	hot3	104585
+鹖	hot3	243
+鞨	hot3	262
+喝	hot3	3881270
+曷	hot5	5409
+褐	hot5	70965
+嗥	hou1	15187
+薅	hou1	33460
+蒿	hou1	54810
+嚎	hou1	56429
+号	hou1	7363824
 𧐢	hou2
-好	hou3
-好	hou4
-耗	hou4
-号	hou5
-昊	hou5
-浩	hou5
-滈	hou5
-灏	hou5
-皓	hou5
-皞	hou5
-耗	hou5
-颢	hou5
-咍	hui5
-哭	huk4
-酷	huk5
-宽	hun1
-欢	hun1
-獾	hun1
-髋	hun1
-垣	hun2
-桓	hun2
-洹	hun2
-萑	hun2
-凶	hung1
-匈	hung1
-空	hung1
-胸	hung1
-洪	hung2
-红	hung2
-虹	hung2
-雄	hung2
-鸿	hung2
-恐	hung3
-哄	hung4
-控	hung4
-烘	hung4
+濠	hou2	27201
+豪	hou2	479243
+毫	hou2	605405
+好	hou3	41528330
+耗	hou4	266239
+好	hou4	41528330
+灏	hou5	14433
+浩	hou5	243875
+滈	hou5	261
+耗	hou5	266239
+皞	hou5	398
+皓	hou5	42166
+颢	hou5	4690
+号	hou5	7363824
+昊	hou5	86964
+咍	hui5	63
+哭	huk4	2479603
+酷	huk5	653363
+桓	hun2	242477
+垣	hun2	37447
+洹	hun2	39828
+萑	hun2	8820
+讻	hung1
+胸	hung1	1081533
+崆	hung1	16248
+匈	hung1	16482
+箜	hung1	1700
+訇	hung1	1714
+空	hung1	1755273
+汹	hung1	2777
+凶	hung1	340797
+蕻	hung2	1333
+虹	hung2	190407
+鸿	hung2	200644
+洪	hung2	224356
+雄	hung2	331588
+红	hung2	4084578
+荭	hung2	6378
+恐	hung3	238387
+控	hung4	1525548
+空	hung4	1755273
+哄	hung4	206645
+烘	hung4	39202
+讧	hung4	574
+汞	hung4	68209
 亿	ik4
-忆	ik4
-益	ik4
-婴	ing1
-应	ing1
-樱	ing1
-缨	ing1
-英	ing1
-鹦	ing1
-鹰	ing1
-影	ing3
-应	ing4
+膉	ik4
+忆	ik4	140727
+肊	ik4	172
+呃	ik4	264569
+益	ik4	314206
+谥	ik4	61867
+鹦	ing1	11520
+撄	ing1	1227
+婴	ing1	134556
+膺	ing1	14305
+英	ing1	1584529
+樱	ing1	176428
+缨	ing1	20508
+瑛	ing1	21940
+瘿	ing1	2969
+鹰	ing1	365447
+应	ing1	6782004
+𠮳	ing3
+影	ing3	1166148
+映	ing3	238378
+应	ing4	6782004
 摣	jaa1
-呀	jaa2
-廿	jaa5
-曰	jaa5
-爪	jaau3
-兮	jai2
-拽	jai5
-曳	jai5
-跩	jai5
-愔	jam1
-荫	jam1
-阴	jam1
-音	jam1
-吟	jam2
-壬	jam2
-妊	jam2
-崟	jam2
-淫	jam2
-霪	jam2
-稔	jam3
-纴	jam3
-荏	jam3
-衽	jam3
-饪	jam3
-饮	jam3
-荫	jam4
-任	jam5
-赁	jam5
-人	jan2
-仁	jan2
-夤	jan2
-寅	jan2
-引	jan3
-忍	jan3
-瘾	jan3
-薳	jan3
-蚓	jan3
-隐	jan3
-润	jan4
-仞	jan5
-刃	jan5
-孕	jan5
+呀	jaa2	4283819
+曰	jaa5	691498
+廿	jaa5	98213
+爪	jaau3	269102
+𠯋	jai2
+兮	jai2	165360
+拽	jai5	198730
+跩	jai5	2400
+曳	jai5	26908
+音	jam1	1011634
+愔	jam1	582
+荫	jam1	66375
+阴	jam1	827435
+吟	jam2	109857
+淫	jam2	227597
+妊	jam2	34783
+崟	jam2	390
+壬	jam2	47246
+霪	jam2	687
+饪	jam3	15229
+荏	jam3	2019
+纴	jam3	33
+饮	jam3	513790
+稔	jam3	7304
+衽	jam3	7352
+荫	jam4	66375
+任	jam5	1869955
+赁	jam5	3433
+夤	jan2	17512
+寅	jan2	18417
+仁	jan2	592006
+人	jan2	65506298
+蚓	jan3	16652
+瘾	jan3	196140
+隐	jan3	325756
+薳	jan3	42
+引	jan3	730393
+忍	jan3	758620
+润	jan4	598374
 牣	jan5
-纫	jan5
-胤	jan5
-认	jan5
-轫	jan5
-闰	jan5
-韧	jan5
-入	jap5
+刃	jan5	129232
+纫	jan5	21917
+孕	jan5	226921
+闰	jan5	25593
+韧	jan5	30488
+仞	jan5	4234
+认	jan5	495644
+胤	jan5	62266
+轫	jan5	6597
+韧	jang3	30488
+揖	jap4	50541
+挹	jap4	5925
+邑	jap4	66672
+入	jap5	5523397
 一	jat4
-日	jat5
-优	jau1
-幽	jau1
-忧	jau1
+日	jat5	42260866
 𢯎	jau1
-尤	jau2
-悠	jau2
-攸	jau2
-柔	jau2
-油	jau2
-游	jau2
-犹	jau2
-猷	jau2
-由	jau2
-疣	jau2
-糅	jau2
-繇	jau2
-莜	jau2
-莸	jau2
-蝣	jau2
-蝤	jau2
-遒	jau2
-邮	jau2
-酋	jau2
-釉	jau2
-铀	jau2
+幽	jau1	149834
+忧	jau1	224714
+优	jau1	956011
 𧑐	jau2
-卣	jau3
-友	jau3
-宥	jau3
-揉	jau3
-有	jau3
-柚	jau3
-牖	jau3
-莠	jau3
-蚴	jau3
-诱	jau3
-蹂	jau3
-酉	jau3
-铕	jau3
-鞣	jau3
-黝	jau3
-幼	jau4
-佑	jau5
-侑	jau5
-又	jau5
-右	jau5
-囿	jau5
-宥	jau5
-狖	jau5
-祐	jau5
-倻	je2
-揶	je2
-椰	je2
-爷	je2
-耶	je2
-也	je3
-冶	je3
-嘢	je3
-惹	je3
-野	je3
+蝣	jau2	108
+酋	jau2	12816
+悠	jau2	128394
+由	jau2	12849824
+游	jau2	1285463
+铀	jau2	146017
+犹	jau2	202623
+莸	jau2	26740
+油	jau2	2990097
+尤	jau2	333251
+柔	jau2	340174
+糅	jau2	3883
+疣	jau2	43204
+猷	jau2	4938
+攸	jau2	52331
+釉	jau2	59952
+蝤	jau2	682
+莜	jau2	7919
+邮	jau2	845557
+遒	jau2	8590
+繇	jau2	9411
+牖	jau3	14574
+揉	jau3	192504
+卣	jau3	20509
+鞣	jau3	22377
+铕	jau3	2318
+蹂	jau3	2431
+友	jau3	2954282
+蚴	jau3	32742
+酉	jau3	40324
+莠	jau3	4399
+宥	jau3	51059
+柚	jau3	55898
+黝	jau3	5612
+诱	jau3	89059
+有	jau3	94271573
+幼	jau4	226572
+祐	jau5	10256
+右	jau5	1769990
+侑	jau5	21040
+又	jau5	26669137
+狖	jau5	385
+宥	jau5	51059
+囿	jau5	9500
+佑	jau5	98947
+倻	je2	271
+椰	je2	43262
+耶	je2	811248
+爷	je2	815807
+揶	je2	869
+惹	je3	416085
+也	je3	77259249
+野	je3	844245
+冶	je3	87336
+嘢	je3	90541
 㖿	je4
-夜	je5
-于	ji1
-伊	ji1
-依	ji1
-医	ji1
-咿	ji1
-於	ji1
-旖	ji1
-淤	ji1
-漪	ji1
-瘀	ji1
-竽	ji1
+夜	je5	2208635
 繄	ji1
-纡	ji1
-衣	ji1
-迂	ji1
-铱	ji1
-鹥	ji1
-黟	ji1
+咿	ji1	10780
+竽	ji1	11214
+瘀	ji1	136979
+于	ji1	16032510
+漪	ji1	17419
+黟	ji1	1847
+铱	ji1	20191
+旖	ji1	24359
+衣	ji1	2771469
+淤	ji1	42208
+鹥	ji1	47
+於	ji1	484192
+纡	ji1	4889
+依	ji1	727356
+医	ji1	773819
+迂	ji1	8056
+伊	ji1	870646
 㻌	ji2
 䱷	ji2
-仪	ji2
 余	ji2
-俞	ji2
-儒	ji2
-儿	ji2
-匜	ji2
-咦	ji2
-夷	ji2
-如	ji2
-姨	ji2
-娱	ji2
-孺	ji2
-宜	ji2
-嵛	ji2
-嶷	ji2
-庾	ji2
-彝	ji2
-怡	ji2
-愉	ji2
-愚	ji2
-揄	ji2
 椸	ji2
-榆	ji2
-檽	ji2
-欤	ji2
-沂	ji2
-洳	ji2
-渔	ji2
-渝	ji2
-瑜	ji2
-疑	ji2
-痍	ji2
-瘐	ji2
-盂	ji2
-眙	ji2
-禺	ji2
-移	ji2
-簃	ji2
-而	ji2
-胰	ji2
-臾	ji2
-舆	ji2
-茝	ji2
-茹	ji2
-荑	ji2
-虞	ji2
-蝓	ji2
-蠕	ji2
-觎	ji2
-诒	ji2
-谀	ji2
-谊	ji2
-贻	ji2
-迤	ji2
-铷	ji2
-颐	ji2
-饴	ji2
-馀	ji2
-鱼	ji2
-鸸	ji2
-与	ji3
-以	ji3
-伛	ji3
-倚	ji3
-圄	ji3
-圉	ji3
-宇	ji3
+痍	ji2	1013
+嵛	ji2	10325
+孺	ji2	10384
+贻	ji2	10422
+胰	ji2	107248
+夷	ji2	113588
+蝓	ji2	1178
+儒	ji2	126802
+娱	ji2	129637
+铷	ji2	1344
+盂	ji2	13987
+怡	ji2	144803
+鸸	ji2	15072
+渔	ji2	152232
+揄	ji2	1566
+渝	ji2	157902
+愉	ji2	16218
+匜	ji2	163
+姨	ji2	169171
+洳	ji2	18071
+鱼	ji2	2028606
+颐	ji2	204281
+咦	ji2	218770
+觎	ji2	2393
+谊	ji2	24080
+荑	ji2	2634
+蠕	ji2	27902
+疑	ji2	284578
+臾	ji2	2855
+榆	ji2	29938
+诒	ji2	30847
+舆	ji2	32221
+檽	ji2	33
+沂	ji2	35207
+而	ji2	35787779
+庾	ji2	36251
+嶷	ji2	3639
+茹	ji2	38462
+馀	ji2	38605
+欤	ji2	43986
+儿	ji2	4422334
+谀	ji2	47222
+簃	ji2	481
+眙	ji2	493
+虞	ji2	55447
+彝	ji2	56862
+仪	ji2	598999
+茝	ji2	60
+饴	ji2	6176
+瑜	ji2	66689
+禺	ji2	6678
+移	ji2	669904
+瘐	ji2	684
+迤	ji2	7626
+俞	ji2	82555
+如	ji2	8284190
+宜	ji2	830452
+愚	ji2	87149
 寙	ji3
-尔	ji3
-已	ji3
-庾	ji3
-拟	ji3
-旖	ji3
-椅	ji3
-汝	ji3
-淤	ji3
-漪	ji3
-矣	ji3
-禹	ji3
-绮	ji3
-羽	ji3
-耳	ji3
-苡	ji3
-语	ji3
-迤	ji3
-迩	ji3
-铒	ji3
-雨	ji3
-麂	ji3
-齮	ji3
-龉	ji3
-妪	ji4
-意	ji4
-懿	ji4
-殪	ji4
-洳	ji4
+倚	ji3	111746
+伛	ji3	1195
+麂	ji3	12796
+雨	ji3	1306669
+铒	ji3	1315
+已	ji3	15757995
+语	ji3	1604321
+漪	ji3	17419
+椅	ji3	201232
+旖	ji3	24359
+苡	ji3	25702
+以	ji3	27963704
+矣	ji3	281653
+迩	ji3	28640
+尔	ji3	2893166
+圄	ji3	2952
+龉	ji3	33963
+圉	ji3	3453
+羽	ji3	349816
+庾	ji3	36251
+禹	ji3	36293
+宇	ji3	386036
+淤	ji3	42208
+与	ji3	43497840
+齮	ji3	47
+绮	ji3	53590
+拟	ji3	627078
+迤	ji3	7626
+耳	ji3	841281
+汝	ji3	86043
 瘞	ji4
-薏	ji4
-镱	ji4
-义	ji5
+意	ji4	1401560
+洳	ji4	18071
+镱	ji4	2453
+薏	ji4	32120
+懿	ji4	50245
+妪	ji4	5213
+殪	ji4	654
 二	ji5
-佴	ji5
-俞	ji5
-劓	ji5
 勚	ji5
-喻	ji5
-寓	ji5
-峪	ji5
-异	ji5
-御	ji5
-愈	ji5
-易	ji5
-滪	ji5
-肄	ji5
-蓣	ji5
-裕	ji5
-誉	ji5
-誊	ji5
-议	ji5
-谕	ji5
-豫	ji5
-贰	ji5
-遇	ji5
-预	ji5
-驭	ji5
-约	jiek3
-弱	jiek5
-疟	jiek5
-若	jiek5
-药	jiek5
-虐	jiek5
-跃	jiek5
-钥	jiek5
-央	jieng1
-殃	jieng1
-秧	jieng1
-扬	jieng2
-杨	jieng2
-洋	jieng2
-羊	jieng2
-阳	jieng2
-仰	jieng3
-养	jieng3
-痒	jieng3
-恙	jieng5
-样	jieng5
-让	jieng5
-亦	jik5
-易	jik5
-液	jik5
-翼	jik5
-译	jik5
-俺	jim1
-恹	jim1
-淹	jim1
-腌	jim1
-阉	jim1
-严	jim2
-嫌	jim2
-檐	jim2
-炎	jim2
-盐	jim2
-贤	jim2
-阎	jim2
-阽	jim2
-俨	jim3
-冉	jim3
-剡	jim3
-厣	jim3
-埯	jim3
-弇	jim3
-掞	jim3
-掩	jim3
-染	jim3
-琰	jim3
-罨	jim3
-苒	jim3
-黡	jim3
+豫	ji5	110580
+裕	ji5	131014
+肄	ji5	1466
+贰	ji5	218346
+易	ji5	2266236
+峪	ji5	23989
+御	ji5	253088
+誊	ji5	3457
+驭	ji5	38232
+愈	ji5	452575
+异	ji5	548855
+寓	ji5	63128
+预	ji5	655515
+义	ji5	695852
+谕	ji5	71043
+议	ji5	778200
+滪	ji5	81
+俞	ji5	82555
+劓	ji5	843
+喻	ji5	86439
+遇	ji5	952482
+誉	ji5	96212
+佴	ji5	969
+蓣	ji5	98
+约	jiek3	4147327
+龠	jiek5	1108
+弱	jiek5	1273865
+蒻	jiek5	1735
+疟	jiek5	17722
+若	jiek5	2428982
+虐	jiek5	296291
+瀹	jiek5	3071
+药	jiek5	3201514
+跃	jiek5	354287
+婼	jiek5	397
+钥	jiek5	45284
+箬	jiek5	4625
+烁	jiek5	50917
+偌	jiek5	8527700
+殃	jieng1	11016
+怏	jieng1	1261
+鞅	jieng1	17080
+央	jieng1	173941
+鸯	jieng1	4583
+泱	jieng1	5614
+秧	jieng1	69067
+羊	jieng2	1217531
+旸	jieng2	12330
+徉	jieng2	1331
+疡	jieng2	13416
+佯	jieng2	18001
+玚	jieng2	226
+炀	jieng2	29160
+蛘	jieng2	33806
+烊	jieng2	34365
+扬	jieng2	415206
+攘	jieng2	46141
+洋	jieng2	553410
+阳	jieng2	799485
+杨	jieng2	845130
+养	jieng3	1493922
+仰	jieng3	162796
+痒	jieng3	170717
+壤	jieng3	35396
+氧	jieng3	472956
+样	jieng5	1111779
+恙	jieng5	13744
+让	jieng5	21971231
+烊	jieng5	34365
+漾	jieng5	60137
+酿	jieng5	91459
+射	jik5	1049212
+液	jik5	1183121
+绎	jik5	12605
+戈	jik5	162604
+亦	jik5	1710590
+翊	jik5	18967
+译	jik5	215556
+易	jik5	2266236
+怿	jik5	2448
+奕	jik5	30782
+掖	jik5	34013
+翼	jik5	340821
+腋	jik5	34525
+弈	jik5	37513
+驿	jik5	46968
+蜴	jik5	711
+翌	jik5	9214
+恹	jim1	248
+阉	jim1	33817
+淹	jim1	75835
+俺	jim1	783824
+腌	jim1	83127
+贤	jim2	293935
+阽	jim2	317
+檐	jim2	36913
+嫌	jim2	391618
+炎	jim2	443669
+阎	jim2	45924
+严	jim2	514189
+盐	jim2	847357
 	jim3
-厌	jim4
-餍	jim4
-魇	jim4
-滟	jim5
-焰	jim5
-焱	jim5
-琰	jim5
-艳	jim5
-艵	jim5
-验	jim5
-冤	jin1
-咽	jin1
-嫣	jin1
-渊	jin1
-湮	jin1
-烟	jin1
-焉	jin1
-燕	jin1
-眢	jin1
-胭	jin1
-鄢	jin1
-鸢	jin1
-丸	jin2
-元	jin2
-原	jin2
-员	jin2
-园	jin2
-圆	jin2
-塬	jin2
-妍	jin2
-嫒	jin2
-延	jin2
-弦	jin2
-悬	jin2
-援	jin2
+掞	jim3	103
+罨	jim3	11683
+掩	jim3	161651
+俨	jim3	17034
+弇	jim3	200
+厣	jim3	24561
+黡	jim3	29
+苒	jim3	2986
+剡	jim3	3276
+埯	jim3	3588
+染	jim3	447866
+冉	jim3	74696
+琰	jim3	7868
+厌	jim4	104749
+餍	jim4	24368
+魇	jim4	39911
+焱	jim5	16481
+验	jim5	213075
+艵	jim5	39
+艳	jim5	418863
+滟	jim5	4759
+焰	jim5	68035
+琰	jim5	7868
+烟	jin1	1013494
+眢	jin1	113
+鸢	jin1	12383
+鄢	jin1	13677
+湮	jin1	14085
+焉	jin1	145900
+咽	jin1	197676
+燕	jin1	467852
+渊	jin1	49119
+胭	jin1	4983
+嫣	jin1	67311
+冤	jin1	74427
 柪	jin2
-椽	jin2
-沿	jin2
-涎	jin2
-湲	jin2
-源	jin2
-然	jin2
-燃	jin2
-爰	jin2
-猿	jin2
-玄	jin2
-瑷	jin2
-痃	jin2
-眩	jin2
-研	jin2
-筵	jin2
 縓	jin2
-缘	jin2
-舷	jin2
-芫	jin2
-蜒	jin2
-螈	jin2
-袁	jin2
-言	jin2
-贤	jin2
-辕	jin2
-铅	jin2
-鼋	jin2
+湲	jin2	1000
+筵	jin2	10675
+辕	jin2	10888
+园	jin2	1120635
+源	jin2	1295608
+螈	jin2	1309
+沿	jin2	1325564
+瑷	jin2	1469
+痃	jin2	154
+嫒	jin2	15900
+袁	jin2	160789
+爰	jin2	17382
+弦	jin2	179542
+援	jin2	203937
+悬	jin2	210753
+芫	jin2	24483
+燃	jin2	245139
+铅	jin2	247851
+延	jin2	264122
+鼋	jin2	27380
+元	jin2	27576670
+眩	jin2	277715
+贤	jin2	293935
+言	jin2	2984423
+丸	jin2	319213
+原	jin2	3236891
+玄	jin2	326058
+涎	jin2	33136
+舷	jin2	34295
+研	jin2	439402
+缘	jin2	591876
+妍	jin2	68118
+员	jin2	708206
+塬	jin2	7502
+然	jin2	829162
+圆	jin2	864658
+猿	jin2	90986
+蜒	jin2	9451
+椽	jin2	9728
 䓕	jin3
-偃	jin3
-兖	jin3
-堰	jin3
-演	jin3
 蝘	jin3
-衍	jin3
-软	jin3
-远	jin3
-郾	jin3
-阮	jin3
-鼹	jin3
-咽	jin4
-宴	jin4
-怨	jin4
-燕	jin4
-苑	jin4
-县	jin5
-唁	jin5
-彦	jin5
-愿	jin5
-掾	jin5
-泫	jin5
-现	jin5
-砚	jin5
-谚	jin5
-谳	jin5
-院	jin5
+演	jin3	1117462
+兖	jin3	14182
+郾	jin3	14437
+偃	jin3	21426
+堰	jin3	30489
+远	jin3	3061803
+衍	jin3	44122
+阮	jin3	49520
+鼹	jin3	855
+软	jin3	898604
+宴	jin4	194700
+咽	jin4	197676
+怨	jin4	299227
+苑	jin4	310741
+燕	jin4	467852
+彦	jin5	101647
+愿	jin5	1023420
+谚	jin5	10458
+泫	jin5	12246
+院	jin5	2002115
+县	jin5	2432536
+谳	jin5	2540
+现	jin5	2746432
+唁	jin5	2776
+砚	jin5	36782
+掾	jin5	5692
 䊨	jing2
-盈	jing2
-蝇	jing2
-影	jing3
-映	jing3
-腌	jip3
-业	jip5
-叶	jip5
-页	jip5
-乙	jit3
-噎	jit3
-悦	jit5
-月	jit5
-热	jit5
-粤	jit5
-越	jit5
-逸	jit5
-阅	jit5
-么	jiu1
-吆	jiu1
-夭	jiu1
-妖	jiu1
-幺	jiu1
-腰	jiu1
-要	jiu1
-邀	jiu1
-侥	jiu2
-傜	jiu2
-垚	jiu2
-姚	jiu2
-娆	jiu2
-尧	jiu2
-峣	jiu2
-摇	jiu2
-珧	jiu2
-瑶	jiu2
+形	jing2	1035735
+邢	jing2	117830
+钘	jing2	127
+瀛	jing2	16962
+盈	jing2	202128
+型	jing2	2317516
+刑	jing2	246306
+楹	jing2	27512
+硎	jing2	41396
+羸	jing2	4304
+蝇	jing2	61401
+影	jing3	1166148
+映	jing3	238378
+醃	jip3	1707
+腌	jip3	83127
+叶	jip5	1070851
+业	jip5	1815246
+邺	jip5	30749
+页	jip5	903856
+钇	jit3	10777
+咽	jit3	197676
+噎	jit3	38428
+乙	jit3	495916
+阅	jit5	111546
+镒	jit5	11295
+刖	jit5	13271
+樾	jit5	13930
+溢	jit5	145819
+逸	jit5	185956
+粤	jit5	193719
+佾	jit5	2084
+热	jit5	2750130
+悦	jit5	286949
+穴	jit5	343259
+玥	jit5	35149
+月	jit5	40981378
+越	jit5	4934511
+茓	jit5	55
+钺	jit5	5625
+曰	jit5	691498
+泆	jit5	97
+吆	jiu1	23412
+邀	jiu1	294244
+幺	jiu1	47463
+妖	jiu1	495781
+要	jiu1	50753034
+么	jiu1	5139471
+夭	jiu1	91680
+腰	jiu1	920955
 窎	jiu2
-窑	jiu2
-窟	jiu2
-荛	jiu2
-蛲	jiu2
-谣	jiu2
-遥	jiu2
-铫	jiu2
-飖	jiu2
-饶	jiu2
-鳐	jiu2
-扰	jiu3
-绕	jiu3
-舀	jiu3
-要	jiu4
-曜	jiu5
-耀	jiu5
-鹞	jiu5
-哟	jo2
-唷	jo2
-锥	jui1
-乳	jui3
-蕊	jui3
-馁	jui3
-彗	jui5
-慧	jui5
-枘	jui5
+珧	jiu2	1151
+蛲	jiu2	11906
+荛	jiu2	1217
+飖	jiu2	141
+瑶	jiu2	144381
+饶	jiu2	147357
+鳐	jiu2	1513
+遥	jiu2	182417
+窑	jiu2	192673
+侥	jiu2	22302
+傜	jiu2	286
+谣	jiu2	35247
+窟	jiu2	39466
+姚	jiu2	418442
+峣	jiu2	659
+垚	jiu2	7357
+摇	jiu2	760187
+娆	jiu2	7824
+尧	jiu2	81442
+铫	jiu2	893
+扰	jiu3	189919
+舀	jiu3	30523
+绕	jiu3	534299
+要	jiu4	50753034
+耀	jiu5	136485
+鹞	jiu5	15588
+曜	jiu5	47619
+哟	jo2	1202461
+唷	jo2	87605
+锥	jui1	83950
+乳	jui3	496527
+蕊	jui3	50218
+馁	jui3	9005
 槥	jui5
-汭	jui5
 泑	jui5
-睿	jui5
-芮	jui5
-蚋	jui5
-裔	jui5
-釉	jui5
-锐	jui5
-旭	juk4
-沃	juk4
-郁	juk4
-欲	juk5
-浴	juk5
-狱	juk5
-玉	juk5
-肉	juk5
-育	juk5
-褥	juk5
-辱	juk5
-翁	jung1
-容	jung2
-戎	jung2
-浓	jung2
-溶	jung2
-熊	jung2
-熔	jung2
-绒	jung2
-茸	jung2
-融	jung2
-勇	jung3
-拥	jung3
-涌	jung3
-踊	jung3
-用	jung5
-甴	kaa2
+蚋	jui5	13073
+睿	jui5	148091
+锐	jui5	214711
+汭	jui5	235
+慧	jui5	252247
+枘	jui5	3292
+芮	jui5	38814
+釉	jui5	59952
+裔	jui5	63825
+彗	jui5	9892
+逳	juk4
+旭	juk4	110451
+昱	juk4	11579
+彧	juk4	14428
+煜	juk4	34918
+毓	juk4	50221
+沃	juk4	538756
+郁	juk4	72986
+欲	juk5	1022996
+玉	juk5	1226690
+褥	juk5	13917
+钰	juk5	15330
+狱	juk5	163093
+溽	juk5	1966
+肉	juk5	1987246
+育	juk5	374175
+淯	juk5	382
+浴	juk5	383709
+鬻	juk5	5093
+辱	juk5	68752
+蓐	juk5	905
+翁	jung1	115680
+邕	jung1	16284
+鹟	jung1	195
+痈	jung1	24292
+蓊	jung1	2611
+嗡	jung1	39858
+饔	jung1	40571
+滃	jung1	408
+雍	jung1	93522
+氄	jung2
+慵	jung2	11922
+蓉	jung2	130264
+墉	jung2	16210
+溶	jung2	263526
+绒	jung2	341746
+榕	jung2	39151
+茸	jung2	42596
+浓	jung2	468694
+佣	jung2	49751
+熊	jung2	599495
+熔	jung2	64077
+融	jung2	667435
+容	jung2	686901
+颙	jung2	8408
+戎	jung2	86976
+鄘	jung2	87
+臃	jung3	12755
+踊	jung3	16323
+俑	jung3	16947
+恿	jung3	21371
+涌	jung3	287505
+勇	jung3	330595
+甬	jung3	34961
+蛹	jung3	38291
+拥	jung3	408620
+冗	jung3	8693
+用	jung5	20512801
+甴	kaa2	976
 擖	kaa3
-佧	kaa4
-卡	kaa4
-咔	kaa4
-楷	kaai3
-啣	kaam1
-衔	kaam1
-槛	kaam3
-交	kaau1
-跤	kaau1
-嗘	kai1
-奚	kai1
-嵆	kai1
-徯	kai1
-溪	kai1
-稽	kai1
-谿	kai1
-鼷	kai1
-启	kai3
+咔	kaa4	44217
+佧	kaa4	476
+卡	kaa4	4800229
+楷	kaai3	11880
+啣	kaam1	108
+衔	kaam1	76493
+槛	kaam3	17182
+交	kaau1	4078349
+跤	kaau1	51826
+嗘	kai1	196
+奚	kai1	23553
+谿	kai1	279
+溪	kai1	362823
+鼷	kai1	422
+嵆	kai1	43
+徯	kai1	55
+稽	kai1	99974
 晵	kai3
-棨	kai3
-綮	kai3
-契	kai4
-甈	kai4
-克	kak4
-刻	kak4
-蠄	kam2
-冚	kam3
-勤	kan2
-懃	kan2
-芹	kan2
-近	kan3
-磕	kap4
-抠	kau1
-阄	kau1
-叩	kau4
-吼	kau4
-媾	kau4
-寇	kau4
-扣	kau4
-构	kau4
-筘	kau4
-蒄	kau4
-觏	kau4
-购	kau4
-瘸	ke2
-茄	ke2
-骑	ke2
-俱	kei1
-区	kei1
-姬	kei1
-岖	kei1
-拘	kei1
-羁	kei1
-躯	kei1
-驱	kei1
-驹	kei1
-其	kei2
-劬	kei2
-圻	kei2
-奇	kei2
-岐	kei2
-崎	kei2
-旗	kei2
-期	kei2
-棋	kei2
-歧	kei2
-沂	kei2
-淇	kei2
-渠	kei2
-琦	kei2
-琪	kei2
-癯	kei2
-瞿	kei2
-祁	kei2
-祈	kei2
-祺	kei2
-綦	kei2
-耆	kei2
-芪	kei2
-萁	kei2
-蕲	kei2
-蘧	kei2
-蜞	kei2
-衢	kei2
-跂	kei2
-骐	kei2
-骑	kei2
-鳍	kei2
-鸲	kei2
-麒	kei2
-企	kei3
-拒	kei3
-距	kei3
-踽	kei3
-倨	kei4
-冀	kei4
-据	kei4
+启	kai3	236984
+綮	kai3	2670
+棨	kai3	313
+甈	kai4	43
+契	kai4	58090
+劾	kak4	12378
+咳	kak4	217774
+克	kak4	3243129
+刻	kak4	549660
+蠄	kam2	180
+冚	kam3	3980
+勤	kan2	342172
+懃	kan2	49
+芹	kan2	49589
+近	kan3	4235874
+骾	kang3	48
+哽	kang3	9637
+揹	kang5	637
+磕	kap4	101496
+冚	kap4	3980
+阄	kau1	14691
+抠	kau1	81295
+叩	kau4	124647
+蒄	kau4	143
+构	kau4	216861
+购	kau4	3297746
+媾	kau4	5207
+寇	kau4	63157
+吼	kau4	635127
+觏	kau4	730
+筘	kau4	761
+扣	kau4	985803
+瘸	ke2	30887
+茄	ke2	80473
+骑	ke2	894226
+驱	kei1	156538
+羁	kei1	19642
+姬	kei1	201450
+俱	kei1	350111
+拘	kei1	46628
+躯	kei1	54857
+区	kei1	6058071
+驹	kei1	63339
+岖	kei1	902
+蜞	kei2	1005
+劬	kei2	10410
+萁	kei2	11085
+祈	kei2	127280
+奇	kei2	1314345
+衢	kei2	13220
+麒	kei2	14427
+鸲	kei2	15153
+其	kei2	16606563
+琪	kei2	167487
+骐	kei2	17616
+綦	kei2	1811
+芪	kei2	19425
+鳍	kei2	21719
+瞿	kei2	23647
+祁	kei2	24150
+祺	kei2	24483
+蘧	kei2	3065
+期	kei2	3391242
+岐	kei2	34404
+蕲	kei2	3511
+棋	kei2	351159
+沂	kei2	35207
+歧	kei2	36153
+耆	kei2	38501
+淇	kei2	40584
+圻	kei2	5293
+崎	kei2	52972
+癯	kei2	7281
+跂	kei2	79
+旗	kei2	822686
+琦	kei2	86136
+渠	kei2	88136
+骑	kei2	894226
+拒	kei3	348828
+企	kei3	755803
+踽	kei3	804
+距	kei3	960719
 澽	kei4
-璩	kei4
-裾	kei4
-踞	kei4
-遽	kei4
-醵	kei4
-骥	kei4
-却	kiek3
-妗	kiem1
-禁	kiem1
-衾	kiem1
-衿	kiem1
-襟	kiem1
-噙	kiem2
-擒	kiem2
-檎	kiem2
-琴	kiem2
-禽	kiem2
-钳	kiem2
-妗	kiem3
-圈	kien1
-强	kieng2
-强	kieng3
-吸	kiep3
-级	kiep3
-给	kiep3
-仇	kieu2
-俅	kieu2
-巯	kieu2
-毬	kieu2
-求	kieu2
-犰	kieu2
-球	kieu2
-莍	kieu2
-虬	kieu2
-裘	kieu2
-訄	kieu2
-赇	kieu2
-逑	kieu2
-舅	kieu3
-跷	kieu4
-剧	kik4
-缄	kim2
-钳	kim2
-乾	kin2
-拳	kin2
-权	kin2
-虔	kin2
-蜷	kin2
-颧	kin2
-倾	king1
-凝	king2
-澄	king2
-琼	king2
-顷	king3
-揭	kip3
-缺	kit3
-乔	kiu2
-侨	kiu2
-峤	kiu2
-桥	kiu2
-硚	kiu2
-翘	kiu2
-荍	kiu2
-荞	kiu2
-跷	kiu2
-鞒	kiu2
-韭	kiu3
-窍	kiu4
-翘	kiu4
-岢	ko1
-柯	ko1
-苛	ko1
-诃	ko1
-侉	koi2
-丐	koi4
-忾	koi4
-慨	koi4
-戤	koi4
-暨	koi4
-概	koi4
-溉	koi4
-磕	koi4
-钙	koi4
-确	kok3
-霍	kok3
-狂	kong2
-扩	kong4
-抗	kong4
-旷	kong4
-矿	kong4
-靠	kou4
-箍	ku1
-喹	kui1
-奎	kui1
-盔	kui1
-蝰	kui1
-魁	kui1
-傀	kui3
-侩	kui4
-愦	kui4
-桧	kui4
-浍	kui4
-溃	kui4
-烩	kui4
-狯	kui4
-绘	kui4
-缋	kui4
-聩	kui4
-荟	kui4
-郐	kui4
-馈	kui4
-鲙	kui4
-曲	kuk4
-款	kun3
-盥	kun3
-穷	kung2
-孔	kung3
-豁	kut3
-侉	kwaa1
-垮	kwaa1
-夸	kwaa1
-挎	kwaa1
-胯	kwaa1
-跨	kwaa1
-骻	kwaa1
-挂	kwaa4
-诖	kwaa4
-呙	kwaai2
-块	kwaai4
-快	kwaai4
-筷	kwaai4
-框	kwaang1
-眶	kwaang1
-亏	kwai1
-窥	kwai1
-规	kwai1
-夔	kwai2
-携	kwai2
-暌	kwai2
-畦	kwai2
-睽	kwai2
-葵	kwai2
-逵	kwai2
-馗	kwai2
-揆	kwai3
-阕	kwai3
-愧	kwai4
-餽	kwai4
-均	kwan1
-坤	kwan1
-崑	kwan1
-昆	kwan1
-琨	kwan1
-筠	kwan1
-醌	kwan1
-钧	kwan1
-锟	kwan1
-鲲	kwan1
-群	kwan2
-裙	kwan2
-囷	kwan3
-壶	kwan3
-悃	kwan3
-捃	kwan3
-捆	kwan3
-溷	kwan3
-菌	kwan3
-阃	kwan3
-麇	kwan3
-困	kwan4
-窘	kwan4
-窟	kwat4
-啦	laa1
-喇	laa1
-鞡	laa1
-啦	laa2
-旯	laa4
-罅	laa4
-拉	laai1
-癞	laai4
-籁	laai5
-荔	laai5
-藾	laai5
-赉	laai5
-赖	laai5
-酹	laai5
-婪	laam2
-岚	laam2
-篮	laam2
-蓝	laam2
-褴	laam2
-揽	laam3
-榄	laam3
-漤	laam3
-览	laam3
+踞	kei4	10371
+据	kei4	10733608
+璩	kei4	11010
+骥	kei4	12116
+裾	kei4	12613
+遽	kei4	13532
+醵	kei4	6533
+倨	kei4	7400
+冀	kei4	76924
+却	kiek3	13636799
+㑢	kiek3	23761000
+衿	kiem1	18539
+衾	kiem1	24736
+襟	kiem1	29154
+禁	kiem1	509388
+妗	kiem1	52569
+噙	kiem2	17502
+琴	kiem2	459858
+禽	kiem2	667626
+钳	kiem2	79532
+檎	kiem2	9617
+擒	kiem2	97100
+妗	kiem3	52569
+圈	kien1	1451007
+犟	kieng2	15207
+糨	kieng2	196
+强	kieng2	5385400
+镪	kieng3	1331
+强	kieng3	5385400
+襁	kieng3	624
+伋	kiep3	205
+汲	kiep3	26420
+给	kiep3	28952371
+岌	kiep3	3388
+级	kiep3	4629630
+吸	kiep3	703781
+噱	kiet4	4151
+毬	kieu2	1739
+仇	kieu2	229355
+虬	kieu2	25496
+俅	kieu2	28854
+逑	kieu2	33587
+求	kieu2	3503239
+犰	kieu2	364
+球	kieu2	4056497
+莍	kieu2	48
+赇	kieu2	484
+裘	kieu2	48670
+巯	kieu2	6276
+訄	kieu2	84
+舅	kieu3	74532
+跷	kieu4	30037
+剧	kik4	1453125
+虢	kik4	19044
+亟	kik4	41559
+隙	kik4	71867
+缄	kim2	3529
+钳	kim2	79532
+乾	kin2	129129
+蜷	kin2	16040
+虔	kin2	16630
+权	kin2	3040475
+拳	kin2	463106
+颧	kin2	6756
+倾	king1	242344
+矜	king1	9583
+琼	king2	136106
+凝	king2	362260
+擎	king2	38067
+澄	king2	88478
+庼	king3	37
+顷	king3	42367
+苘	king3	485
+揭	kip3	174295
+噘	kit3	11574
+蕨	kit3	11806
+獗	kit3	12266
+缺	kit3	1294752
+炔	kit3	20755
+撅	kit3	31202
+蹶	kit3	3246
+阙	kit3	46708
+孓	kit3	4933
+厥	kit3	72100
+橛	kit3	9566
+桥	kiu2	1253425
+荞	kiu2	13221
+侨	kiu2	147450
+峤	kiu2	16560
+乔	kiu2	229726
+翘	kiu2	263984
+荍	kiu2	295
+跷	kiu2	30037
+鞒	kiu2	31884
+硚	kiu2	694
+韭	kiu3	10249
+翘	kiu4	263984
+窍	kiu4	75123
+柯	ko1	123994
+诃	ko1	36174
+苛	ko1	36964
+岢	ko1	44900
+侉	koi2	3400
+磕	koi4	101496
+溉	koi4	11388
+戤	koi4	166
+慨	koi4	19974
+暨	koi4	398765
+钙	koi4	489093
+丐	koi4	51047
+忾	koi4	847
+概	koi4	97885
+搉	kok3
+	kok3
+悫	kok3	1474
+霍	kok3	190269
+确	kok3	430102
+榷	kok3	48587
+藿	kok3	5671
+壑	kok3	59074
+攉	kok3	687
+攫	kok3	8265
+矍	kok3	9599
+敲	kok4	363988
+抗	kong1	1822678
+亢	kong1	35732
+钪	kong1	36970
+腔	kong1	424261
+夯	kong1	82975
+诳	kong2	26205
+狂	kong2	862456
+夼	kong3	2319
+慷	kong3	25906
+逛	kong3	430820
+抗	kong4	1822678
+犷	kong4	2190
+伉	kong4	2703
+旷	kong4	35649
+纩	kong4	478
+扩	kong4	549462
+炕	kong4	60756
+矿	kong4	657214
+邝	kong4	6842
+圹	kong4	7539
+靠	kou4	3446143
+箍	ku1	63219
+盔	kui1	19132
+蝰	kui1	2512
+喹	kui1	26526
+魁	kui1	43165
+奎	kui1	73494
+傀	kui3	1776
+馈	kui4	109069
+狯	kui4	1607
+绘	kui4	169933
+聩	kui4	1738
+烩	kui4	21984
+鲙	kui4	222
+愦	kui4	22421
+侩	kui4	2428
+缋	kui4	3953
+桧	kui4	7255
+郐	kui4	812
+溃	kui4	88727
+荟	kui4	9337
+浍	kui4	998
+蛐	kuk4	15305
+麴	kuk4	4937
+曲	kuk4	939018
+盥	kun3	4426
+款	kun3	5828063
+杛	kung1
+䓖	kung2
+筇	kung2	11503
+跫	kung2	25768
+穹	kung2	41505
+邛	kung2	4771
+穷	kung2	518129
+孔	kung3	562965
+豁	kut3	37035
+括	kut3	47735
+垮	kwaa1	149582
+夸	kwaa1	168775
+骻	kwaa1	31
+胯	kwaa1	33469
+侉	kwaa1	3400
+挎	kwaa1	44136
+跨	kwaa1	962445
+挂	kwaa4	1936786
+诖	kwaa4	35210
+呙	kwaai2	10620
+孬	kwaai2	9675
+尯	kwaai3	201
+块	kwaai4	3871951
+筷	kwaai4	40501
+快	kwaai4	8057227
+趏	kwaak3
+框	kwaang1	170545
+眶	kwaang1	42470
+亏	kwai1	336624
+规	kwai1	398739
+窥	kwai1	48604
+暌	kwai2	11930
+馗	kwai2	13769
+夔	kwai2	14320
+逵	kwai2	17788
+畦	kwai2	19516
+携	kwai2	276770
+睽	kwai2	4521
+葵	kwai2	60195
+揆	kwai3	12124
+阕	kwai3	17058
+餽	kwai4	45
+愧	kwai4	53713
+锟	kwan1	11246
+鲲	kwan1	13315
+筠	kwan1	14936
+昆	kwan1	188119
+坤	kwan1	205799
+崑	kwan1	3049
+钧	kwan1	49576
+均	kwan1	5327272
+琨	kwan1	6605
+醌	kwan1	7755
+群	kwan2	1928885
+裙	kwan2	586946
+捆	kwan3	116197
+麇	kwan3	1329
+悃	kwan3	1544
+壶	kwan3	213884
+捃	kwan3	365
+囷	kwan3	622
+菌	kwan3	631587
+阃	kwan3	7212
+溷	kwan3	942
+困	kwan4	1238238
+窘	kwan4	41725
+屈	kwat4	165337
+窟	kwat4	39466
+崛	kwat5	22272
+倔	kwat5	30909
+扃	kwing1	675
+䌹	kwing3
+炅	kwing3	15943
+炯	kwing3	16363
+迥	kwing3	20027
+冏	kwing3	3073
+坰	kwing3	337
+泂	kwing3	62
+诇	kwing4
+鞡	laa1	135
+喇	laa1	256421
+啦	laa1	8307871
+啦	laa2	8307871
+旯	laa4	14604
+罅	laa4	33384
+拉	laai1	4195602
+癞	laai4	9066
+籁	laai5	11010
+酹	laai5	1205
+赖	laai5	306104
+赉	laai5	3088
+荔	laai5	34142
+藾	laai5	51
+蓝	laam2	1606392
+褴	laam2	1998
+婪	laam2	24275
+篮	laam2	403185
+岚	laam2	72843
+漤	laam3	123
+揽	laam3	139785
+榄	laam3	21803
+览	laam3	68928
 㨫	laam5
-揽	laam5
-滥	laam5
-缆	laam5
-舰	laam5
-艦	laam5
-栏	laan1
-兰	laan2
-拦	laan2
-栏	laan2
-澜	laan2
-谰	laan2
-镧	laan2
-阑	laan2
-懒	laan3
-烂	laan5
-冷	laang3
-腊	laap5
-蜡	laap5
-辣	laat5
-捞	laau1
+滥	laam5	121500
+揽	laam5	139785
+艦	laam5	1902
+舰	laam5	270822
+缆	laam5	54470
+栏	laan1	334162
+澜	laan2	108766
+谰	laan2	18966
+拦	laan2	297604
+栏	laan2	334162
+阑	laan2	35630
+镧	laan2	5495
+兰	laan2	892685
+懒	laan3	311595
+烂	laan5	611515
+冷	laang3	2914595
+䲞	laap3
+擸	laap3	45
+蜡	laap5	66906
+腊	laap5	70831
+濑	laat3	23857
+瘌	laat5	1131
+邋	laat5	1161
+辣	laat5	555532
+捞	laau1	398640
+捞	laau2	398640
 𫐥	laau4
-拉	lai1
-犁	lai2
-藜	lai2
-黎	lai2
-黧	lai2
-澧	lai3
-礼	lai3
-蠡	lai3
-醴	lai3
-丽	lai5
-例	lai5
-俪	lai5
-励	lai5
-厉	lai5
-疠	lai5
-砺	lai5
-粝	lai5
-荔	lai5
-蛎	lai5
-隶	lai5
-勒	lak5
-肋	lak5
-冧	lam1
-临	lam2
-林	lam2
-淋	lam2
-琳	lam2
-痳	lam2
-霖	lam2
-林	lam4
-仑	lan2
-伦	lan2
-囵	lan2
-嶙	lan2
-抡	lan2
-沦	lan2
-璘	lan2
-磷	lan2
-纶	lan2
-轮	lan2
-遴	lan2
-邻	lan2
-鳞	lan2
-麟	lan2
-吝	lan5
-蔺	lan5
-论	lan5
-躏	lan5
-棱	lang2
-笠	lap4
-立	lap5
-律	lat5
-率	lat5
-粟	lat5
-蒟	lau1
-褛	lau1
-偻	lau2
-刘	lau2
-喽	lau2
-娄	lau2
-旈	lau2
-楼	lau2
-榴	lau2
-流	lau2
-浏	lau2
-溇	lau2
-琉	lau2
-留	lau2
-瘤	lau2
-硫	lau2
-耧	lau2
-蒌	lau2
-蝼	lau2
-鎏	lau2
-骝	lau2
-髅	lau2
-搂	lau3
-柳	lau3
-篓	lau3
-绺	lau3
-缕	lau3
-褛	lau3
-漏	lau4
-溜	lau5
-漏	lau5
-熘	lau5
-瘘	lau5
-遛	lau5
-镂	lau5
-镏	lau5
-陋	lau5
-飗	lau5
-馏	lau5
-哩	le1
-黐	le1
-罅	le4
-厘	lei2
-梨	lei2
-漓	lei2
-犛	lei2
-狸	lei2
-玏	lei2
-璃	lei2
-离	lei2
-篱	lei2
-骊	lei2
-俚	lei3
-娌	lei3
-履	lei3
-旅	lei3
-李	lei3
-浬	lei3
-理	lei3
+拉	lai1	4195602
+黧	lai2	1071
+黎	lai2	375795
+犁	lai2	63453
+藜	lai2	9308
+礼	lai3	1149541
+醴	lai3	11872
+蠡	lai3	34920
+澧	lai3	6456
+疠	lai5	1092
+粝	lai5	11144
+隶	lai5	19589
+蛎	lai5	23182
+荔	lai5	34142
+砺	lai5	36451
+励	lai5	40774
+俪	lai5	50989
+例	lai5	6020041
+丽	lai5	801765
+厉	lai5	95614
+叻	lak5	107477
+泐	lak5	1086
+竻	lak5	109
+鳓	lak5	1216
+簕	lak5	452
+肋	lak5	70410
+勒	lak5	747079
+冧	lam1	8138
+霖	lam2	105590
+痳	lam2	165
+林	lam2	1684704
+琳	lam2	172680
+淋	lam2	217008
+临	lam2	513408
+林	lam4	1684704
+囵	lan2	10297
+邻	lan2	116950
+嶙	lan2	14304
+沦	lan2	23611
+磷	lan2	236469
+轮	lan2	2393416
+璘	lan2	2628
+遴	lan2	3124
+伦	lan2	457446
+仑	lan2	50544
+抡	lan2	59007
+麟	lan2	62860
+纶	lan2	90452
+鳞	lan2	90489
+躏	lan5	448
+蔺	lan5	5529
+吝	lan5	8293
+论	lan5	964136
+嶙	lang2	14304
+棱	lang2	46966
+掕	lang5	152
+笠	lap4	140405
+立	lap5	1812106
+垃	lap5	6426
+甩	lat4	387308
+率	lat5	1114208
+律	lat5	192494
+栗	lat5	40585
+粟	lat5	54303
+蒟	lau1	1724
+褛	lau1	3922
+偻	lau2	11219
+硫	lau2	137890
+耧	lau2	1413
+浏	lau2	14182
+溇	lau2	156
+榴	lau2	17328
+流	lau2	2295279
+留	lau2	2327376
+琉	lau2	24381
+娄	lau2	26668
+鎏	lau2	27690
+楼	lau2	3562632
+喽	lau2	356655
+旈	lau2	43
+骝	lau2	4460
+瘤	lau2	479913
+蝼	lau2	539
+蒌	lau2	5791
+刘	lau2	865830
+髅	lau2	8725
+缕	lau3	131603
+搂	lau3	174225
+篓	lau3	18502
+绺	lau3	21622
+褛	lau3	3922
+柳	lau3	421347
+漏	lau4	388172
+陋	lau5	11909
+镂	lau5	13023
+熘	lau5	15091
+溜	lau5	187838
+遛	lau5	32694
+镏	lau5	33938
+漏	lau5	388172
+飗	lau5	39
+馏	lau5	6414
+瘘	lau5	65108
+黐	le1	1798
+哩	le1	317569
+罅	le4	33384
+玏	lei2	1133
+漓	lei2	11459
+璃	lei2	14096
+骊	lei2	14135
+离	lei2	1951415
+梨	lei2	244661
+篱	lei2	26155
+狸	lei2	55511
+犛	lei2	58
+厘	lei2	616316
 艃	lei3
-里	lei3
-鲤	lei3
-喱	lei4
-俐	lei5
-利	lei5
-吏	lei5
-滤	lei5
-猁	lei5
-痢	lei5
-脷	lei5
-莅	lei5
-莉	lei5
-虑	lei5
-蜊	lei5
+娌	lei3	12608
+理	lei3	1336681
+李	lei3	1406196
+里	lei3	19397088
+俚	lei3	26806
+浬	lei3	3311
+鲤	lei3	36796
+旅	lei3	671324
+履	lei3	75378
+喱	lei4	17588
 鬁	lei5
-掠	liek5
-略	liek5
-舔	liem3
-凉	lieng2
-梁	lieng2
-粮	lieng2
-粱	lieng2
-良	lieng2
-量	lieng2
-两	lieng3
-亮	lieng5
-谅	lieng5
-量	lieng5
-猎	liep5
-寥	lieu3
-缭	lieu3
-鬏	lieu3
-力	lik5
-历	lik5
-奁	lim2
-帘	lim2
-廉	lim2
-蠊	lim2
-镰	lim2
-敛	lim3
-殓	lim3
-脸	lim3
-楞	lim4
-敛	lim5
-怜	lin2
-撵	lin2
-涟	lin2
-琏	lin2
-联	lin2
-莲	lin2
-裢	lin2
-辇	lin2
-连	lin2
-鲢	lin2
-捷	lin4
-连	lin4
-恋	lin5
-楝	lin5
-炼	lin5
-练	lin5
-辇	lin5
-链	lin5
-凌	ling2
-灵	ling2
-菱	ling2
-铃	ling2
-陵	ling2
+痢	lei5	115498
+脷	lei5	1258
+滤	lei5	145672
+莅	lei5	15178
+利	lei5	2188187
+俐	lei5	22330
+莉	lei5	289743
+猁	lei5	404
+蜊	lei5	525
+虑	lei5	72874
+吏	lei5	84445
+掠	liek5	130963
+撂	liek5	23050
+略	liek5	857487
+舔	liem3	126023
+粱	lieng2	14639
+量	lieng2	2270483
+辆	lieng2	2823548
+良	lieng2	513149
+梁	lieng2	521813
+凉	lieng2	612508
+粮	lieng2	625425
+莨	lieng2	7585
+魉	lieng3	12770
+两	lieng3	32745515
+俩	lieng3	961026
+亮	lieng5	2008674
+量	lieng5	2270483
+谅	lieng5	24622
+辆	lieng5	2823548
+猎	liep5	138082
+寥	lieu3	11871
+缭	lieu3	16608
+鬏	lieu3	558
+㔹	lik4
+㘦	lik4
+叻	lik4	107477
+苈	lik5	11013
+栎	lik5	12420
+疬	lik5	1484
+砾	lik5	17670
+历	lik5	195414
+鬲	lik5	3610
+力	lik5	4877765
+轹	lik5	603
+沥	lik5	74891
+跞	lik5	8880
+帘	lim2	110317
+镰	lim2	14478
+蠊	lim2	29951
+廉	lim2	475795
+奁	lim2	6795
+敛	lim3	118170
+脸	lim3	3762905
+殓	lim3	4535
+楞	lim4	95589
+敛	lim5	118170
+怜	lin2	102120
+裢	lin2	10714
+辇	lin2	11260
+涟	lin2	20453
+联	lin2	2277044
+撵	lin2	29572
+莲	lin2	338427
+连	lin2	5495219
+鲢	lin2	5887
+琏	lin2	6185
+连	lin4	5495219
+练	lin5	1075898
+辇	lin5	11260
+炼	lin5	340933
+楝	lin5	5810
+链	lin5	644335
+恋	lin5	720370
+睖	ling2
 零	ling2
-岭	ling3
-领	ling3
-令	ling5
-另	ling5
-列	lit5
-劣	lit5
-烈	lit5
-裂	lit5
-僚	liu2
-嫽	liu2
-寥	liu2
-寮	liu2
-撩	liu2
-暸	liu2
-潦	liu2
-燎	liu2
-獠	liu2
-疗	liu2
-瞭	liu2
-聊	liu2
-辽	liu2
-镣	liu2
-鹩	liu2
-了	liu3
-蓼	liu3
-寥	liu5
-尥	liu5
-廖	liu5
-撂	liu5
-料	liu5
-蓼	liu5
-啰	lo1
-啰	lo2
-猡	lo2
-箩	lo2
-罗	lo2
-脶	lo2
-萝	lo2
-螺	lo2
-逻	lo2
-锣	lo2
-骡	lo2
-倮	lo3
-捰	lo3
-臝	lo3
+酃	ling2	10233
+灵	ling2	1033034
+薐	ling2	114
+凌	ling2	129651
+菱	ling2	137689
+苓	ling2	16117
+愣	ling2	177612
+陵	ling2	211299
+玲	ling2	218131
+聆	ling2	23062
+翎	ling2	23491
+棂	ling2	2393
+铃	ling2	260629
+蛉	ling2	26460
+羚	ling2	28474
+伶	ling2	30016
+〇	ling2	33495
+鸰	ling2	3511
+龄	ling2	351306
+绫	ling2	44993
+棱	ling2	46966
+堎	ling2	647
+柃	ling2	652
+瓴	ling2	6749
+囹	ling2	8189
+鲮	ling2	834
+塄	ling2	872
+楞	ling2	95589
+领	ling3	1607298
+岭	ling3	301026
+靓	ling4	412388
+令	ling5	2339519
+另	ling5	3363879
+冽	lit5	10230
+劣	lit5	107828
+列	lit5	1317848
+捩	lit5	1398
+埒	lit5	1627
+烈	lit5	163290
+裂	lit5	268925
+暸	liu2	1012
+潦	liu2	11081
+寥	liu2	11871
+瞭	liu2	12068
+僚	liu2	17594
+疗	liu2	183272
+辽	liu2	197357
+燎	liu2	20766
+獠	liu2	26377
+寮	liu2	30098
+撩	liu2	48682
+镣	liu2	5970
+聊	liu2	747801
+鹩	liu2	8857
+嫽	liu2	90
+了	liu3	255733044
+蓼	liu3	4445
+料	liu5	1034394
+寥	liu5	11871
+撂	liu5	23050
+蓼	liu5	4445
+尥	liu5	4814
+廖	liu5	63482
+啰	lo1	31750
+螺	lo2	112164
+脶	lo2	123
+罗	lo2	1382523
+骡	lo2	14271
+萝	lo2	153199
+逻	lo2	18565
+箩	lo2	26987
+啰	lo2	31750
+猡	lo2	678
+锣	lo2	71772
 蓏	lo3
-裸	lo3
-逻	lo5
-崃	loi2
-徕	loi2
-来	loi2
-涞	loi2
-睐	loi2
-莱	loi2
-铼	loi2
-睐	loi5
-耒	loi5
-莱	loi5
-烙	lok3
-络	lok3
-酪	lok3
-骆	lok3
-乐	lok5
-落	lok5
-廊	long2
-狼	long2
-郎	long2
-朗	long3
-浪	long5
-唠	lou1
-捞	lou1
-劳	lou2
-卢	lou2
-垆	lou2
-崂	lou2
-庐	lou2
-炉	lou2
-牢	lou2
-痨	lou2
-胪	lou2
-芦	lou2
-轳	lou2
-醪	lou2
-铹	lou2
-颅	lou2
-驴	lou2
-鲈	lou2
-鸬	lou2
-佬	lou3
-卤	lou3
-姥	lou3
-掳	lou3
-栳	lou3
-橹	lou3
-潦	lou3
-老	lou3
-虏	lou3
-铑	lou3
-鰽	lou3
-鲁	lou3
-劳	lou4
-涝	lou4
-涝	lou5
-潞	lou5
-璐	lou5
-路	lou5
-露	lou5
-鹭	lou5
-蔂	lui1
+臝	lo3	112
+裸	lo3	346507
+捰	lo3	4903200
+倮	lo3	6592
+逻	lo5	18565
+徕	loi2	13007
+来	loi2	37970033
+铼	loi2	4232
+涞	loi2	45461
+莱	loi2	569412
+睐	loi2	6599
+崃	loi2	8737
+莱	loi5	569412
+睐	loi5	6599
+耒	loi5	7263
+络	lok3	143184
+珞	lok3	14417
+酪	lok3	19414
+骼	lok3	19874
+硌	lok3	20614
+赂	lok3	21033
+骆	lok3	26093
+雒	lok3	40571
+烙	lok3	53741
+恪	lok3	55474
+洛	lok3	567976
+铬	lok3	72119
+饹	lok3	723
+荦	lok5	1074
+乐	lok5	1580076
+落	lok5	1924707
+泺	lok5	5217
+踉	long2	10375
+廊	long2	119855
+啷	long2	19992
+稂	long2	240
+琅	long2	32720
+嫏	long2	34
+螂	long2	3475
+郎	long2	498739
+榔	long2	8249
+狼	long2	857228
+锒	long2	8723
+㙟	long3
+㮾	long3
+朗	long3	263544
+烺	long3	774
+锒	long3	8723
+浪	long5	528832
+唠	lou1	32398
+捞	lou1	398640
+垆	lou2	1090
+铹	lou2	121
+醪	lou2	14425
+痨	lou2	16712
+牢	lou2	172077
+驴	lou2	193281
+颅	lou2	193610
+卢	lou2	205221
+胪	lou2	20878
+鲈	lou2	26662
+劳	lou2	297850
+炉	lou2	327229
+庐	lou2	35741
+鸬	lou2	41044
+轳	lou2	514
+芦	lou2	51576
+崂	lou2	6770
+栳	lou3	1015
+卤	lou3	104258
+佬	lou3	1091355
+潦	lou3	11081
+铑	lou3	3412
+橹	lou3	48527
+掳	lou3	56636
+老	lou3	6717974
+虏	lou3	69415
+鲁	lou3	707380
+姥	lou3	71440
+鰽	lou3	79
+劳	lou4	297850
+涝	lou4	53779
+潞	lou5	29148
+璐	lou5	53621
+涝	lou5	53779
+路	lou5	5824732
+鹭	lou5	67087
+露	lou5	688731
 𨂐	lui1
-嫘	lui2
-檑	lui2
-礌	lui2
-缧	lui2
-羸	lui2
-蕾	lui2
-镭	lui2
-雷	lui2
-侣	lui3
-儡	lui3
-吕	lui3
-垒	lui3
-屡	lui3
-磊	lui3
-累	lui3
-铝	lui3
+蔂	lui1	47
+缧	lui2	10731
+檑	lui2	1136
+嫘	lui2	12012
+雷	lui2	1264293
+镭	lui2	21390
+礌	lui2	246
+蕾	lui2	255241
+羸	lui2	4304
+儡	lui3	1017
+屡	lui3	168761
+吕	lui3	182566
+累	lui3	2090262
+侣	lui3	48728
+磊	lui3	57646
+铝	lui3	636720
+垒	lui3	69990
 噒	lui4
-唳	lui5
-戾	lui5
-泪	lui5
-类	lui5
-累	lui5
-酹	lui5
+酹	lui5	1205
+戾	lui5	14999
+累	lui5	2090262
+类	lui5	3542739
+唳	lui5	3633
+泪	lui5	771654
+辘	luk4	1507
+碌	luk4	88396
 六	luk5
-录	luk5
-禄	luk5
-绿	luk5
-陆	luk5
-鹿	luk5
-娈	lun2
-峦	lun2
-栾	lun2
-滦	lun2
-銮	lun2
-鸾	lun2
-卵	lun3
-乱	lun5
-笼	lung2
-聋	lung2
-隆	lung2
-龙	lung2
-垄	lung3
-拢	lung3
-笼	lung3
-陇	lung3
-弄	lung5
-吗	maa1
-孖	maa1
-嘛	maa2
-麻	maa2
-妈	maa3
-嫲	maa3
-犸	maa3
-玛	maa3
-码	maa3
-蚂	maa3
-马	maa3
-妈	maa4
-骂	maa5
-埋	maai2
-霾	maai2
-买	maai3
-荬	maai3
-劢	maai5
-卖	maai5
-迈	maai5
-蛮	maan2
-鳗	maan2
-晚	maan3
+绿	luk5	1070761
+禄	luk5	183476
+逯	luk5	19176
+氯	luk5	204701
+甪	luk5	2199
+鹿	luk5	271119
+戳	luk5	351930
+陆	luk5	403679
+渌	luk5	49102
+簏	luk5	498
+录	luk5	836935
+箓	luk5	908
+娈	lun2	1405
+滦	lun2	22430
+峦	lun2	22781
+銮	lun2	33307
+鸾	lun2	51131
+栾	lun2	9685
+卵	lun3	149224
+乱	lun5	1678814
+䆔	lung1
+泷	lung2	10175
+珑	lung2	11342
+笼	lung2	172664
+窿	lung2	20570
+龙	lung2	2295906
+咙	lung2	2761
+隆	lung2	337687
+胧	lung2	46202
+聋	lung2	62209
+拢	lung3	154672
+笼	lung3	172664
+垅	lung3	18836
+垄	lung3	35568
+陇	lung3	46744
+篢	lung3	90
+㟖	lung5
+梇	lung5
+弄	lung5	1533656
+捋	lut5	29798
+呒	m2	26848
+孖	maa1	10261
+吗	maa1	10975592
+嘛	maa2	2432483
+麻	maa2	458163
+嫲	maa3	13826
+妈	maa3	2938594
+马	maa3	3232602
+玛	maa3	378615
+蚂	maa3	5846
+码	maa3	679751
+犸	maa3	994
+妈	maa4	2938594
+骂	maa5	1086847
+霾	maai2	57591
+埋	maai2	650188
+荬	maai3	743
+买	maai3	7979402
+卖	maai5	3193070
+迈	maai5	403327
+劢	maai5	8398
+擘	maak3	2701
+鳗	maan2	23350
+蛮	maan2	639203
+晚	maan3	3391123
 万	maan5
-墁	maan5
-幔	maan5
-慢	maan5
-曼	maan5
-漫	maan5
-熳	maan5
-蔓	maan5
-谩	maan5
-镘	maan5
-馒	maan5
-鳗	maan5
-盲	maang2
-勐	maang3
-猛	maang3
-艋	maang3
-蜢	maang3
-锰	maang3
-孟	maang5
-抹	maat3
-袜	maat5
-矛	maau2
-茅	maau2
-茆	maau2
-蟊	maau2
-卯	maau3
-昴	maau3
-泖	maau3
-牡	maau3
-铆	maau3
-貌	maau5
-㓟	mai1
-迷	mai2
-醚	mai2
-弭	mai3
-敉	mai3
-昧	mai3
-沵	mai3
-祢	mai3
-米	mai3
-芈	mai3
-眯	mai4
+墁	maan5	1262
+熳	maan5	13820
+谩	maan5	149056
+鳗	maan5	23350
+漫	maan5	451060
+幔	maan5	46588
+镘	maan5	508
+蔓	maan5	72294
+馒	maan5	8788
+曼	maan5	910263
+慢	maan5	943706
+盲	maang2	160886
+勐	maang3	12477
+蜢	maang3	6773
+猛	maang3	727943
+锰	maang3	88747
+艋	maang3	9593
+孟	maang5	172203
+抹	maat3	383617
+袜	maat5	182849
+蟊	maau2	18031
+矛	maau2	51402
+茆	maau2	5184
+茅	maau2	60477
+昴	maau3	12518
+牡	maau3	130738
+铆	maau3	15726
+卯	maau3	31048
+泖	maau3	749
+貌	maau5	157905
+㓟	mai1	1297350
+醚	mai2	51782
+迷	mai2	994114
+沵	mai3	10233
+芈	mai3	10284
+祢	mai3	22486
+敉	mai3	3141
+弭	mai3	3616
+米	mai3	5878861
+昧	mai3	78706
+眯	mai4	152490
 䍘	mai5
-瞇	mai5
-袂	mai5
-谜	mai5
-迷	mai5
-脉	mak5
-陌	mak5
-麦	mak5
-默	mak5
+瞇	mai5	1505
+谜	mai5	181324
+袂	mai5	18552
+迷	mai5	994114
+掰	mak4	102448
+唛	mak4	11554
+擘	mak4	2701
+貘	mak5	1414
+蓦	mak5	14384
+默	mak5	160049
+貊	mak5	1674
+墨	mak5	280540
+脉	mak5	400381
+麦	mak5	568433
+陌	mak5	87287
 炇	man1
-岷	man2
-文	man2
-旻	man2
-旼	man2
-民	man2
-珉	man2
-纹	man2
-苠	man2
-蚊	man2
-闻	man2
-雯	man2
-刎	man3
-吻	man3
-悯	man3
-抿	man3
-敏	man3
-泯	man3
-湣	man3
-闵	man3
-闽	man3
-鳘	man3
-黾	man3
-文	man4
-汶	man5
-问	man5
-掤	mang1
-氓	mang2
-盟	mang2
-萌	mang2
-密	mat5
-蜜	mat5
-侔	mau2
-哞	mau2
-毪	mau2
-牟	mau2
-眸	mau2
-缪	mau2
-蛑	mau2
-谋	mau2
-亩	mau3
-某	mau3
-冒	mau5
-懋	mau5
-瞀	mau5
-缪	mau5
-茂	mau5
-袤	mau5
-谬	mau5
-贸	mau5
-咩	me2
-咩	me4
-孖	me4
-溦	mei1
-嵋	mei2
-弥	mei2
-微	mei2
-楣	mei2
+雯	man2	110017
+民	man2	1839741
+蚊	man2	187913
+岷	man2	25987
+旼	man2	2649
+旻	man2	29105
+苠	man2	400
+文	man2	4290202
+珉	man2	44151
+纹	man2	505807
+闻	man2	623222
+闽	man3	156175
+湣	man3	179
+刎	man3	2125
+泯	man3	27421
+敏	man3	339366
+黾	man3	40615
+吻	man3	472036
+抿	man3	54057
+鳘	man3	631
+闵	man3	66273
+悯	man3	8295
+文	man4	4290202
+汶	man5	23413
+问	man5	6740338
+掤	mang1	60
+氓	mang2	10087
+萌	mang2	1539247
+盟	mang2	232015
+乜	mat4	232002
+物	mat5	2962972
+勿	mat5	347277
+蜜	mat5	458810
+密	mat5	481292
+眸	mau2	113268
+侔	mau2	13195
+蛑	mau2	16235
+缪	mau2	24076
+毪	mau2	273
+谋	mau2	360120
+哞	mau2	6447
+牟	mau2	94836
+亩	mau3	1441551
+某	mau3	3535457
+袤	mau5	1407
+懋	mau5	14251
+茂	mau5	152461
+谬	mau5	19526
+缪	mau5	24076
+贸	mau5	342408
+瞀	mau5	481
+冒	mau5	762821
+咩	me2	679786
+孖	me4	10261
+咩	me4	679786
+咪	mei1	394187
+溦	mei1	466
+㳽	mei2
 渳	mei2
-湄	mei2
-溦	mei2
-猕	mei2
-猸	mei2
-眉	mei2
-糜	mei2
-薇	mei2
-郿	mei2
-镅	mei2
-鹛	mei2
-娓	mei3
-尾	mei3
-糜	mei3
-縻	mei3
-美	mei3
-镁	mei3
+弥	mei2	108409
+楣	mei2	14366
+薇	mei2	148401
+湄	mei2	17187
+猸	mei2	239
+眉	mei2	327735
+溦	mei2	466
+鹛	mei2	5483
+郿	mei2	561
+嵋	mei2	68939
+微	mei2	7121151
+糜	mei2	72372
+镅	mei2	8028
+猕	mei2	915
+趘	mei3
+镁	mei3	139415
+縻	mei3	3602
+糜	mei3	72372
+美	mei3	8175894
+尾	mei3	899590
+娓	mei3	9415
 㳽	mei4
-媚	mei4
-味	mei5
-寐	mei5
-未	mei5
-没	mei5
-免	mien3
-冕	mien3
-勉	mien3
-娩	mien3
-喵	mieu1
-猫	mieu2
-猫	mieu4
-觅	mik5
-棉	min2
-眠	min2
-绵	min2
-丏	min3
-免	min3
-沔	min3
-湎	min3
-眄	min3
-缅	min3
-腼	min3
-面	min5
-冥	ming2
-名	ming2
-明	ming2
-铭	ming2
-鸣	ming2
-命	ming5
-灭	mit5
-描	miu2
-苗	miu2
-锚	miu2
-鹋	miu2
-杪	miu3
-杳	miu3
-淼	miu3
-渺	miu3
-眇	miu3
-秒	miu3
-窈	miu3
-缈	miu3
-藐	miu3
-邈	miu3
-瞄	miu4
-妙	miu5
-庙	miu5
-么	mo1
-摩	mo1
-馍	mo1
-魔	mo1
-磨	mo2
-摸	mo4
-磨	mo5
+媚	mei4	114307
+味	mei5	1103919
+没	mei5	17613557
+寐	mei5	21919
+未	mei5	52527000
+冕	mien3	15756
+勉	mien3	26595
+娩	mien3	4497
+免	mien3	548515
+𠵴	mieng5
+挽	miet3	104019
+喵	mieu1	317483
+猫	mieu2	1748687
+猫	mieu4	1748687
+汩	mik5	2209
+觅	mik5	72953
+眠	min2	148301
+绵	min2	66733
+棉	min2	723341
+湎	min3	11014
+腼	min3	1856
+丏	min3	297
+缅	min3	41540
+沔	min3	4213
+免	min3	548515
+眄	min3	789
+面	min5	5188966
+溟	ming2	10025
+冥	ming2	127186
+名	ming2	15519462
+洺	ming2	2017
+明	ming2	2263980
+鸣	ming2	330028
+瞑	ming2	3796
+酩	ming2	3982
+茗	ming2	41398
+铭	ming2	87803
+皿	ming3	73670
+命	ming5	1093409
+蔑	mit5	11592
+蠛	mit5	22423
+灭	mit5	503790
+篾	mit5	7501
+苗	miu2	374573
+描	miu2	50794
+锚	miu2	56063
+鹋	miu2	8293
+杳	miu3	15472
+渺	miu3	16133
+窈	miu3	19879
+秒	miu3	2206221
+眇	miu3	4206
+藐	miu3	4391
+淼	miu3	53420
+邈	miu3	7860
+缈	miu3	7910
+杪	miu3	8002
+瞄	miu4	83069
+庙	miu5	190245
+妙	miu5	354999
+魔	mo1	1526863
+摩	mo1	339498
+馍	mo1	49692
+么	mo1	5139471
+磨	mo2	481348
+摸	mo4	682316
 礳	mo5
-耱	mo5
-蘑	mo5
-幕	mok3
-摸	mok3
-漠	mok3
-膜	mok3
-莫	mok3
-膜	mok5
-莫	mok5
-亡	mong2
-忘	mong2
-忙	mong2
-芒	mong2
-茫	mong2
-网	mong3
-莽	mong3
-蟒	mong3
-望	mong5
+磨	mo5	481348
+耱	mo5	725
+蘑	mo5	8251
+莫	mok3	1086168
+膜	mok3	1268186
+漠	mok3	34995
+幕	mok3	676709
+摸	mok3	682316
+莫	mok5	1086168
+膜	mok5	1268186
+芒	mong1	135673
+铓	mong1	192
+杧	mong1	46
+硭	mong1	9088
+氓	mong2	10087
+芒	mong2	135673
+忘	mong2	1604281
+牤	mong2	1706
+忙	mong2	1911546
+亡	mong2	374282
+虻	mong2	49841
+茫	mong2	84754
+网	mong3	10013950
+罔	mong3	12974
+魍	mong3	21237
+莽	mong3	32862
+惘	mong3	3330
+辋	mong3	4279
+蟒	mong3	44871
+望	mong5	1480170
+妄	mong5	62411
 㚪	mou2
-嫫	mou2
-巫	mou2
-摹	mou2
-旄	mou2
-无	mou2
-模	mou2
-毋	mou2
-毛	mou2
-牦	mou2
-膜	mou2
-芜	mou2
-诬	mou2
-谟	mou2
-冇	mou3
-妩	mou3
-拇	mou3
-武	mou3
-母	mou3
-舞	mou3
-鹉	mou3
-姆	mou4
-眊	mou4
-耄	mou4
-髦	mou4
-务	mou5
-募	mou5
-勿	mou5
-墓	mou5
-婺	mou5
-帽	mou5
-慕	mou5
-戊	mou5
-暮	mou5
-物	mou5
-雾	mou5
-骛	mou5
-鹜	mou5
-媒	mui2
-枚	mui2
-梅	mui2
-煤	mui2
-玫	mui2
+膜	mou2	1268186
+巫	mou2	133905
+诬	mou2	15323
+毛	mou2	1958184
+牦	mou2	1959
+芜	mou2	21723
+摹	mou2	235339
+毋	mou2	32004
+谟	mou2	44171
+模	mou2	596205
+嫫	mou2	7676
+无	mou2	94271570
+旄	mou2	9904
+冇	mou3	226951
+鹉	mou3	3964
+武	mou3	687632
+妩	mou3	7686
+舞	mou3	817781
+拇	mou3	88651
+母	mou3	983780
+耄	mou4	28684
+髦	mou4	38679
+姆	mou4	701369
+眊	mou4	83
+鹜	mou5	15592
+暮	mou5	159061
+骛	mou5	17467
+慕	mou5	185191
+婺	mou5	25787
+募	mou5	262448
+墓	mou5	353631
+务	mou5	461234
+帽	mou5	522069
+戊	mou5	54204
+雾	mou5	546590
 脄	mui2
-脢	mui2
-莓	mui2
-酶	mui2
-霉	mui2
-侮	mui3
-每	mui3
+枚	mui2	1074410
+脢	mui2	122
+媒	mui2	167102
+玫	mui2	185702
+霉	mui2	283796
+酶	mui2	551763
+莓	mui2	55934
+梅	mui2	679100
+煤	mui2	860367
 黣	mui3
-妹	mui4
-味	mui5
-妹	mui5
-瑁	mui5
-眛	mui5
-魅	mui5
-覆	muk4
-木	muk5
-牧	muk5
-目	muk5
-扪	mun1
-们	mun2
-扪	mun2
-瞒	mun2
-钔	mun2
-门	mun2
-颟	mun2
-懑	mun3
-满	mun3
-螨	mun3
-闷	mun4
-蒙	mung2
-梦	mung5
-抹	mut3
-沫	mut3
-末	mut5
-没	mut5
-拿	naa2
-乸	naa3
-哪	naa3
-那	naa3
+侮	mui3	15065
+每	mui3	5904552
+妹	mui4	1445566
+味	mui5	1103919
+妹	mui5	1445566
+魅	mui5	150336
+瑁	mui5	26970
+眛	mui5	552
+覆	muk4	188746
+目	muk5	1050061
+牧	muk5	278351
+木	muk5	2844320
+扪	mun1	15783
+瞒	mun2	146996
+颟	mun2	154
+扪	mun2	15783
+们	mun2	2962827
+门	mun2	4739059
+钔	mun2	7459
+懑	mun3	1301
+满	mun3	2457939
+螨	mun3	38360
+闷	mun4	403859
+懞	mung2	132
+矇	mung2	2208
+朦	mung2	22958
+艨	mung2	3056
+蠓	mung2	31633
+濛	mung2	34501
+礞	mung2	389
+曚	mung2	503
+獴	mung2	671
+蒙	mung2	741156
+儚	mung3	195
+懵	mung3	59247
+瞢	mung4	635
+梦	mung5	2302502
+秣	mut3	3413
+抹	mut3	383617
+沫	mut3	50412
+殁	mut5	10913
+没	mut5	17613557
+末	mut5	2289579
+妺	mut5	2856
+眜	mut5	33
+靺	mut5	330
+茉	mut5	45325
+沫	mut5	50412
+拿	naa2	4903114
+那	naa3	21808185
+哪	naa3	2578497
+乸	naa3	982000
 婎	naai2
-乃	naai3
-奶	naai3
-氖	naai3
-艿	naai3
-带	naai4
-喃	naam1
-南	naam2
-囡	naam2
-楠	naam2
-男	naam2
-罱	naam2
-蝻	naam2
-腩	naam3
-难	naan2
-赧	naan3
-难	naan5
-纳	naap5
-捺	naat5
+氖	naai3	185476
+艿	naai3	62563
+乃	naai3	780143
+奶	naai3	901467
+带	naai4	8410064
+喃	naam1	48135
+罱	naam2	14191
+囡	naam2	15892
+楠	naam2	164476
+南	naam2	2099386
+男	naam2	3847599
+蝻	naam2	861
+腩	naam3	36267
+𨂾	naam4
+难	naan2	3149843
+赧	naan3	2370
+难	naan5	3149843
+纳	naap5	1218571
+讷	naap5	16609
+钠	naap5	277027
+呐	naap5	530828
+衲	naap5	61280
+肭	naap5	9899
+捺	naat5	8413
 峱	naau2
-硇	naau2
-铙	naau2
-锚	naau2
-孬	naau3
-挠	naau3
-淖	naau5
-闹	naau5
-呢	nai2
-坭	nai2
-妮	nai2
-尼	nai2
-泥	nai2
-苨	nai2
-铌	nai2
-胒	nai4
-怩	nai5
-昵	nai5
-腻	nai5
-腍	nam2
-凛	nam3
-廪	nam3
-恁	nam3
-懔	nam3
-捻	nam3
+硇	naau2	11947
+铙	naau2	2794
+锚	naau2	56063
+挠	naau3	162839
+孬	naau3	9675
+闹	naau5	1057543
+淖	naau5	114894
+苨	nai2	103
+呢	nai2	12641044
+尼	nai2	1508346
+妮	nai2	179798
+坭	nai2	3860
+铌	nai2	4757
+泥	nai2	496926
+胒	nai4	2344200
+腻	nai5	174429
+昵	nai5	36072
+怩	nai5	690
+黏	nak4	64946
+腍	nam2	637
 檁	nam3
-谂	nam3
-衽	nam4
-撚	nan3
-能	nang2
-粒	nap4
-嬲	nau1
-鳅	nau1
-妞	nau3
-扭	nau3
-杻	nau3
-狃	nau3
-纽	nau3
-钮	nau3
-耨	nau5
-呢	ne1
-呢	ne3
-你	nei3
-女	nei3
-饵	nei4
+懔	nam3	14361
+恁	nam3	22005
+谂	nam3	30190
+廪	nam3	3417
+凛	nam3	46567
+捻	nam3	58027
+衽	nam4	7352
+撚	nan3	5579
+蹬	nang1	111261
+能	nang2	23909882
+㑷	nang3
+𠹌	nang3
+褦	nang4	103
+凹	nap4	179948
+粒	nap4	680883
+肭	nat4	9899
+𢗉	nat5
+鳅	nau1	3821
+嬲	nau1	62307
+杻	nau3	100
+纽	nau3	135913
+钮	nau3	28003
+扭	nau3	314545
+狃	nau3	401
+妞	nau3	435341
+耨	nau5	4076
+呢	ne1	12641044
+呢	ne3	12641044
+女	nei3	5946513
+你	nei3	88487705
+饵	nei4	23949
+唔	ng2	2067201
+嗯	ng2	886946
 䥺	ngaa2
-岈	ngaa2
-牙	ngaa2
-芽	ngaa2
-蚜	ngaa2
-衙	ngaa2
-佤	ngaa3
-瓦	ngaa3
-雅	ngaa3
-伢	ngaa5
-犽	ngaa5
-砑	ngaa5
-讶	ngaa5
-厓	ngaai2
-啀	ngaai2
-崖	ngaai2
-挨	ngaai2
-捱	ngaai2
-涯	ngaai2
-皑	ngaai2
-睚	ngaai2
-啮	ngaai4
-乂	ngaai5
-刈	ngaai5
-砹	ngaai5
-艾	ngaai5
-额	ngaak5
-啱	ngaam1
-岩	ngaam2
-癌	ngaam2
-啱	ngaam4
-碾	ngaan2
-顽	ngaan2
-颜	ngaan2
-眼	ngaan3
-雁	ngaan5
-硬	ngaang5
-崤	ngaau2
-淆	ngaau2
-肴	ngaau2
-咬	ngaau3
+岈	ngaa2	1194
+芽	ngaa2	153103
+蚜	ngaa2	19200
+衙	ngaa2	44581
+牙	ngaa2	799512
+瓦	ngaa3	643853
+雅	ngaa3	700311
+佤	ngaa3	7555
+犽	ngaa5	1388
+砑	ngaa5	20250
+伢	ngaa5	20789
+讶	ngaa5	56831
+崖	ngaai2	140594
+捱	ngaai2	25727
+挨	ngaai2	292699
+皑	ngaai2	2989
+涯	ngaai2	35556
+厓	ngaai2	373
+睚	ngaai2	3998
+啀	ngaai2	88
+啮	ngaai4	12270
+砹	ngaai5	11357
+艾	ngaai5	341050
+刈	ngaai5	48550
+乂	ngaai5	881
+额	ngaak5	1416917
+啱	ngaam1	56547000
+癌	ngaam2	449459
+岩	ngaam2	593435
+啱	ngaam4	56547000
+顽	ngaan2	19755
+颜	ngaan2	467302
+碾	ngaan2	87171
+眼	ngaan3	3645724
+雁	ngaan5	125141
+硬	ngaang5	865284
+歹	ngaat3	18835
+淆	ngaau2	2619
+肴	ngaau2	27946
+崤	ngaau2	6505
+咬	ngaau3	570258
 𠱓	ngai1
-倪	ngai2
-危	ngai2
-岿	ngai2
-嵬	ngai2
-巍	ngai2
-猊	ngai2
-輗	ngai2
-霓	ngai2
-鲵	ngai2
-麑	ngai2
-睨	ngai3
-舣	ngai3
-蚁	ngai3
-伪	ngai5
-呓	ngai5
-羿	ngai5
-艺	ngai5
-诣	ngai5
-魏	ngai5
-吟	ngam2
-任	ngam5
-嚚	ngan2
-垠	ngan2
-狺	ngan2
-鄞	ngan2
-银	ngan2
-龈	ngan2
-哏	ngan4
+嵬	ngai2	12137
+巍	ngai2	137469
+危	ngai2	263446
+鲵	ngai2	2646
+岿	ngai2	2815
+霓	ngai2	29852
+麑	ngai2	44
+倪	ngai2	49274
+猊	ngai2	5256
+輗	ngai2	76
+舣	ngai3	534
+蚁	ngai3	73985
+睨	ngai3	9880
+呓	ngai5	14997
+魏	ngai5	205402
+诣	ngai5	24023
+伪	ngai5	242379
+艺	ngai5	477606
+羿	ngai5	5857
+呃	ngak4	264569
+吟	ngam2	109857
+任	ngam5	1869955
+狺	ngan2	102
+银	ngan2	1811595
+龈	ngan2	21683
+嚚	ngan2	26
+垠	ngan2	2962
+鄞	ngan2	7378
+哏	ngan4	4241928
 垽	ngan5
-勾	ngau1
-抠	ngau1
-挎	ngau1
-钩	ngau1
-牛	ngau2
-偶	ngau3
-藕	ngau3
+哏	ngang4	4241928
+噏	ngap4	975
+瞌	ngap5	2546
+迄	ngat4	11812
+纥	ngat4	3910
+讫	ngat4	9621
+疙	ngat5	1722
+圪	ngat5	3562
+屼	ngat5	670
+杌	ngat5	7224
+兀	ngat5	74308
+靰	ngat5	79
+仡	ngat5	932
+勾	ngau1	253957
+钩	ngau1	408751
+挎	ngau1	44136
+抠	ngau1	81295
+牛	ngau2	2731763
+藕	ngau3	87668
+偶	ngau3	887676
 㓷	ngei4
 狋	ngi2
-抑	ngik4
-逆	ngik5
-仍	nging2
-凝	nging2
-刑	nging2
-型	nging2
-形	nging2
-迎	nging2
-孽	ngit3
-揭	ngit3
-俄	ngo2
-哦	ngo2
-娥	ngo2
-峨	ngo2
-硪	ngo2
-莪	ngo2
-蛾	ngo2
-讹	ngo2
-锇	ngo2
-鹅	ngo2
-我	ngo3
-卧	ngo5
-饿	ngo5
-呆	ngoi2
-騃	ngoi3
-碍	ngoi5
-艾	ngoi5
-乐	ngok5
-岳	ngok5
-腭	ngok5
-岸	ngon5
-昂	ngong2
-嗷	ngou2
-嶅	ngou2
-廒	ngou2
-敖	ngou2
-熬	ngou2
-獒	ngou2
-翱	ngou2
-聱	ngou2
-螯	ngou2
-遨	ngou2
-鏊	ngou2
-骜	ngou2
-鳌	ngou2
+抑	ngik4	146753
+鹝	ngik5
+逆	ngik5	288234
+形	nging2	1035735
+型	nging2	2317516
+刑	nging2	246306
+礽	nging2	2730
+凝	nging2	362260
+仍	nging2	3736587
+扔	nging2	539699
+迎	nging2	567805
+镍	ngit3	108417
+揭	ngit3	174295
+羯	ngit3	277692
+挈	ngit3	3130
+臬	ngit3	3687
+谒	ngit3	45000
+蝎	ngit3	484311
+碣	ngit3	5048
+孽	ngit3	59687
+孑	ngit3	6368
+锇	ngo2	12116
+讹	ngo2	16198
+鹅	ngo2	181178
+娥	ngo2	33169
+峨	ngo2	44605
+蛾	ngo2	49747
+硪	ngo2	55238
+哦	ngo2	6312883
+莪	ngo2	92235
+俄	ngo2	925633
+我	ngo3	169391220
+饿	ngo5	1268808
+卧	ngo5	649368
+呆	ngoi2	949165
+騃	ngoi3	138
+碍	ngoi5	132019
+艾	ngoi5	341050
+㗁	ngok2	41787000
+俼	ngok3
+偔	ngok3	41787700
+湂	ngok5
+𫖵	ngok5
+腭	ngok5	11205
+噩	ngok5	12480
+岳	ngok5	137793
+锷	ngok5	15783
+乐	ngok5	1580076
+萼	ngok5	15860
+鹫	ngok5	26510
+鳄	ngok5	51008
+鹗	ngok5	51340
+鄂	ngok5	52189
+愕	ngok5	98638
+岸	ngon5	328251
+昂	ngong2	256773
+獒	ngou2	11342
+鏊	ngou2	15134
+鳌	ngou2	161967
+遨	ngou2	1725
+嗷	ngou2	220094
+翱	ngou2	22310
+骜	ngou2	2395
+熬	ngou2	347110
+聱	ngou2	414
+嶅	ngou2	478
+敖	ngou2	62717
+廒	ngou2	679
+螯	ngou2	9389
 㥿	ngou5
-傲	ngou5
-骜	ngou5
-呢	ni1
-呢	ni3
-呢	ni4
-鲇	niem2
-捏	nien3
+骜	ngou5	2395
+傲	ngou5	323369
+呢	ni1	12641044
+呢	ni3	12641044
+呢	ni4	12641044
+喏	niek2	8527600
+偌	niek3	8527700
+鲇	niem2	18966
+捏	nien3	485798
 脌	nien4
-娘	nieng1
-娘	nieng2
-酿	nieng5
-溺	nik5
-拈	nim1
-黏	nim1
-粘	nim2
-黏	nim2
-稔	nim3
-拈	nim4
-捻	nim4
-埝	nim5
-念	nim5
-年	nin2
-宁	ning2
-捏	nip3
-摄	nip3
-聂	nip3
-茑	niu3
-袅	niu3
-鸟	niu3
-尿	niu5
-脲	niu5
-挼	no1
-娜	no2
-挪	no2
-那	no2
-娜	no3
-捰	no3
-懦	no5
-糯	no5
-苶	noi4
-奈	noi5
-柰	noi5
-耐	noi5
-萘	noi5
-褦	noi5
-鼐	noi5
-诺	nok5
-囊	nong1
-囊	nong2
-瓤	nong2
-奴	nou2
-孥	nou2
-努	nou3
-弩	nou3
-恼	nou3
-脑	nou3
-怒	nou5
-内	nui5
-暖	nun3
-嫩	nun5
-农	nung2
-浓	nung2
-脓	nung2
-坷	o1
-屙	o1
-珂	o1
-疴	o1
-轲	o1
-钶	o1
-哦	o2
-嗳	o2
-婀	o3
-哦	o4
-哀	oi1
-埃	oi1
-锿	oi1
-嫒	oi4
-爱	oi4
-瑷	oi4
-恶	ok3
-垵	on1
-安	on1
-桉	on1
-氨	on1
-胺	on1
-铵	on1
-鞍	on1
-安	on4
-按	on4
-案	on4
-噢	ou2
-媪	ou3
-奥	ou4
-岙	ou4
-懊	ou4
-澳	ou4
-袄	ou4
-俳	paai2
-排	paai2
-棑	paai2
-牌	paai2
-簰	paai2
-派	paai4
-拍	paak3
-柏	paak3
-魄	paak3
-扳	paan1
-攀	paan1
-盼	paan4
-襻	paan4
-堋	paang2
-彭	paang2
-朋	paang2
-棚	paang2
-澎	paang2
-硼	paang2
-绷	paang2
-膨	paang2
-蟛	paang2
-鹏	paang2
-搒	paang3
+娘	nieng1	848047
+娘	nieng2	848047
+酿	nieng5	91459
+瘪	niep3	37303
+镊	niep5	6151
+溺	nik5	33485
+拈	nim1	25028
+黏	nim1	64946
+粘	nim2	508727
+黏	nim2	64946
+稔	nim3	7304
+拈	nim4	25028
+捻	nim4	58027
+埝	nim5	2120
+念	nim5	840215
+年	nin2	59830333
+柠	ning2	18058
+泞	ning2	1888
+咛	ning2	24659
+聍	ning2	343
+狞	ning2	5886
+宁	ning2	600372
+拧	ning4	206355
+佞	ning5	5659
+镍	nip3	108417
+摄	nip3	1379993
+湼	nip3	1693
+慑	nip3	25132
+滠	nip3	275
+臬	nip3	3687
+捏	nip3	485798
+歙	nip3	5195
+聂	nip3	58631
+蹑	nip3	8056
+捏	nit4	485798
+鸟	niu3	1318454
+茑	niu3	2105
+袅	niu3	21842
+脲	niu5	25674
+尿	niu5	510104
+挼	no1	153
+挪	no2	132884
+那	no2	21808185
+娜	no2	528590
+捰	no3	4903200
+娜	no3	528590
+懦	no5	27481
+糯	no5	53188
+苶	noi4	92
+褦	noi5	103
+鼐	noi5	13645
+萘	noi5	26053
+奈	noi5	277515
+柰	noi5	6544
+耐	noi5	686032
+诺	nok5	816452
+囊	nong1	498487
+瓤	nong2	20605
+囊	nong2	498487
+曩	nong3	3414
+裆	nong5	40957
+孥	nou2	1475
+奴	nou2	223027
+恼	nou3	107822
+脑	nou3	1541078
+弩	nou3	57568
+努	nou3	81925
+怒	nou5	549615
+内	nui5	14386353
+搙	nuk4
+朒	nuk4
+恧	nuk4	228
+暖	nun3	749840
+嫩	nun5	351618
+㶶	nung1
+脓	nung2	112372
+浓	nung2	468694
+农	nung2	782404
+秾	nung4	460
+屙	o1	13945
+疴	o1	2108
+钶	o1	255
+珂	o1	27750
+轲	o1	5679
+坷	o1	9098
+嗳	o2	23694
+哦	o2	6312883
+婀	o3	11915
+哦	o4	6312883
+哀	oi1	115480
+锿	oi1	4471
+埃	oi1	816737
+瑷	oi4	1469
+嫒	oi4	15900
+爱	oi4	50753650
+恶	ok3	520605
+垩	ok3	6360
+安	on1	1721298
+氨	on1	217670
+胺	on1	288537
+铵	on1	34719
+桉	on1	5452
+垵	on1	6133
+鞍	on1	62275
+安	on4	1721298
+案	on4	3017056
+按	on4	4351295
+戆	ong4	18254
+噢	ou2	898518
+媪	ou3	15840
+奥	ou4	1549280
+懊	ou4	17893
+澳	ou4	387981
+袄	ou4	40695
+岙	ou4	6904
+牌	paai2	1698170
+排	paai2	2474218
+俳	paai2	26270
+棑	paai2	39
+簰	paai2	622
+派	paai4	2568036
+胉	paak3
+柏	paak3	109145
+粕	paak3	138596
+拍	paak3	3552042
+帕	paak3	384047
+珀	paak3	40600
+魄	paak3	44597
+攀	paan1	150682
+扳	paan1	203747
+盼	paan4	294932
+襻	paan4	5658
+彭	paang2	106953
+朋	paang2	119804
+澎	paang2	13455
+棚	paang2	146792
+鹏	paang2	231825
+蟛	paang2	25410
+堋	paang2	33207
+硼	paang2	33317
+膨	paang2	39423
+绷	paang2	87557
 𢪋	paang3
-怕	paap4
-抛	paau1
-刨	paau2
-匏	paau2
-咆	paau2
-庖	paau2
-铇	paau2
-麅	paau2
-跑	paau3
-泡	paau4
-炮	paau4
-疱	paau4
-批	pai1
-砒	pai1
-纰	pai1
-贫	pan2
-频	pan2
-颦	pan2
-牝	pan3
-喷	pan4
-乓	pang1
-凭	pang2
-甏	pang2
-匹	pat4
-脬	pau1
-剖	pau3
-泡	pau3
-呸	pe5
-帔	pei1
-披	pei1
-纰	pei1
-胚	pei1
-呸	pei2
-枇	pei2
-毗	pei2
-琵	pei2
-疲	pei2
-皮	pei2
-脾	pei2
-膍	pei2
-蚍	pei2
-裨	pei2
-貔	pei2
-邳	pei2
-郫	pei2
-鈚	pei2
-丕	pei3
-圮	pei3
-婢	pei3
-媲	pei3
+搒	paang3	32
+怕	paap4	2249707
+抛	paau1	494397
+匏	paau2	12852
+铇	paau2	229
+咆	paau2	4700
+麅	paau2	56
+庖	paau2	59019
+刨	paau2	67828
+跑	paau3	2925078
+泡	paau4	1043821
+疱	paau4	20956
+炮	paau4	411025
+批	pai1	1097903
+纰	pai1	1119
+砒	pai1	3933
+贫	pan2	214108
+频	pan2	448235
+颦	pan2	9338
+牝	pan3	3349
+喷	pan4	564803
+乓	pang1	25004
+甏	pang2	7139
+凭	pang2	904476
+匹	pat4	347449
+脬	pau1	495
+泡	pau3	1043821
+剖	pau3	111815
+呸	pe5	127858
+纰	pei1	1119
+披	pei1	236545
+胚	pei1	75287
+帔	pei1	753
+郫	pei2	1054
+枇	pei2	12777
+呸	pei2	127858
+膍	pei2	130
+蚍	pei2	16210
+疲	pei2	163883
+皮	pei2	1661628
+裨	pei2	23584
+毗	pei2	28240
+脾	pei2	360186
+鈚	pei2	42
+琵	pei2	6357
+貔	pei2	673
+邳	pei2	7813
 狉	pei3
-痞	pei3
-脾	pei3
-被	pei3
-邳	pei3
-鄙	pei3
-屁	pei4
-譬	pei4
-编	pien3
-片	pien4
-嫖	pieu2
-瓢	pieu2
-薸	pieu2
-殍	pieu3
-瞟	pieu3
-鳔	pieu3
-僻	pik4
-劈	pik4
-辟	pik4
-偏	pin1
-扁	pin1
-犏	pin1
-篇	pin1
-编	pin1
-翩	pin1
-蝙	pin1
-褊	pin1
-蹁	pin1
-便	pin2
-姘	pin2
-胼	pin2
-骈	pin2
-片	pin4
-遍	pin4
-骗	pin4
-拼	ping1
-坪	ping2
-屏	ping2
-平	ping2
-瓶	ping2
-萍	ping2
-聘	ping4
-撇	pit3
-漂	piu1
-缥	piu1
-螵	piu1
-飘	piu1
-漂	piu4
-票	piu4
-缥	piu4
-鳔	piu4
-坡	po1
-婆	po2
-叵	po3
-笸	po3
-跛	po3
-钷	po3
-颇	po3
-破	po4
-扑	pok3
-朴	pok3
-庞	pong2
-旁	pong2
-蚌	pong3
-逋	pou1
-铺	pou1
-匍	pou2
-浦	pou2
-浮	pou2
-莆	pou2
-葡	pou2
-蒲	pou2
-袍	pou2
-哺	pou3
-圃	pou3
-抱	pou3
-普	pou3
-氆	pou3
-浦	pou3
-溥	pou3
-脯	pou3
-谱	pou3
-酺	pou3
-镨	pou3
-铺	pou4
-倍	pui1
-坯	pui1
-胚	pui1
-培	pui2
-菩	pui2
-蓓	pui2
-裴	pui2
-赔	pui2
-醅	pui2
-锫	pui2
-陪	pui2
-佩	pui4
-沛	pui4
-配	pui4
-霈	pui4
-呸	pui5
-潘	pun1
-番	pun1
-槃	pun2
-盆	pun2
-盘	pun2
-磐	pun2
-磻	pun2
-蟠	pun2
-蹒	pun2
-判	pun4
-泮	pun4
-绊	pun4
-篷	pung2
-蓬	pung2
-碰	pung5
-泼	put3
-沙	saa1
-痧	saa1
-砂	saa1
-纱	saa1
-莎	saa1
-裟	saa1
-鲨	saa1
-挱	saa4
-侪	saai2
-柴	saai2
-豺	saai2
-噬	saai3
-舐	saai3
-晒	saai4
-衫	saam1
-钐	saam1
-删	saan1
-刪	saan1
-姗	saan1
-山	saan1
-栅	saan1
-珊	saan1
-舢	saan1
-跚	saan1
-闩	saan1
-潺	saan2
-汕	saan4
-涮	saan4
-疝	saan4
-篡	saan4
-讪	saan4
-牲	saang1
-生	saang1
-笙	saang1
+丕	pei3	13362
+圮	pei3	1763
+痞	pei3	25580
+被	pei3	30434636
+脾	pei3	360186
+婢	pei3	47396
+鄙	pei3	48647
+邳	pei3	7813
+媲	pei3	9717
+屁	pei4	422147
+譬	pei4	7389
+编	pien3	1030076
+片	pien4	5059940
+嫖	pieu2	38086
+瓢	pieu2	44269
+薸	pieu2	71
+殍	pieu3	311
+瞟	pieu3	52330
+鳔	pieu3	794
+躄	pik4	106
+薜	pik4	11310
+辟	pik4	116097
+劈	pik4	230366
+擗	pik4	257
+嬖	pik4	29780
+僻	pik4	49274
+癖	pik4	51076
+霹	pik4	5824
+编	pin1	1030076
+偏	pin1	1313020
+翩	pin1	13646
+篇	pin1	1781666
+扁	pin1	277996
+蹁	pin1	295
+犏	pin1	391
+褊	pin1	888
+蝙	pin1	966
+便	pin2	5274816
+胼	pin2	558
+骈	pin2	9529
+姘	pin2	9872
+遍	pin4	1234983
+片	pin4	5059940
+骗	pin4	796125
+骿	ping1
+乒	ping1	119568
+娉	ping1	15052
+俜	ping1	15269
+拼	ping1	818379
+枰	ping2	100020
+评	ping2	1152120
+萍	ping2	164291
+坪	ping2	171930
+瓶	ping2	1855268
+平	ping2	2051618
+抨	ping2	2056
+怦	ping2	2649
+帡	ping2	29
+偋	ping2	34
+苹	ping2	51208
+屏	ping2	871591
+砰	ping2	94460
+聘	ping4	215253
+骋	ping4	47650
+撇	pit3	111199
+氕	pit3	177
+瞥	pit3	77075
+漂	piu1	145690
+螵	piu1	213
+飘	piu1	574789
+缥	piu1	9984
+漂	piu4	145690
+票	piu4	2277946
+鳔	piu4	794
+缥	piu4	9984
+坡	po1	231796
+婆	po2	267095
+钷	po3	1493
+笸	po3	15138
+跛	po3	30974
+叵	po3	41978
+颇	po3	523737
+破	po4	1672339
+朴	pok3	127180
+扑	pok3	688954
+艕	pong2
+耪	pong2	13643
+磅	pong2	210074
+膀	pong2	27114
+滂	pong2	4663
+傍	pong2	57733
+彷	pong2	7283
+庞	pong2	76096
+旁	pong2	831624
+鳑	pong2	90
+蚌	pong3	21693
+谤	pong4	12748
+逋	pou1	12758
+铺	pou1	664867
+蒲	pou2	114130
+袍	pou2	152306
+浦	pou2	153531
+莆	pou2	29013
+匍	pou2	2911
+浮	pou2	614773
+葡	pou2	98468
+溥	pou3	13088
+氆	pou3	138
+浦	pou3	153531
+抱	pou3	2062074
+镨	pou3	2179
+脯	pou3	24495
+哺	pou3	39865
+谱	pou3	626010
+圃	pou3	65642
+普	pou3	879872
+酺	pou3	94
+铺	pou4	664867
+倍	pui1	2405792
+坯	pui1	54971
+胚	pui1	75287
+培	pui2	149595
+醅	pui2	1739
+陪	pui2	2067094
+蓓	pui2	22582
+菩	pui2	22749
+锫	pui2	3587
+赔	pui2	379049
+裴	pui2	40449
+霈	pui4	1223
+配	pui4	1510209
+佩	pui4	242094
+沛	pui4	31855
+呸	pui5	127858
+潘	pun1	210446
+番	pun1	389259
+槃	pun2	12016
+蟠	pun2	32093
+盘	pun2	4002759
+盆	pun2	444317
+磻	pun2	513
+磐	pun2	52276
+蹒	pun2	658
+泮	pun4	12923
+绊	pun4	24626
+判	pun4	468135
+蓬	pung1	86156
+篷	pung2	34155
+蓬	pung2	86156
+碰	pung4	428001
+碰	pung5	428001
+酦	put3	105
+泼	put3	149905
+莎	saa1	220774
+纱	saa1	231056
+砂	saa1	369973
+裟	saa1	4447
+痧	saa1	4829
+鲨	saa1	53128
+沙	saa1	840812
+挱	saa4	39
+柴	saai2	203789
+侪	saai2	4561
+豺	saai2	6568
+噬	saai3	112408
+舐	saai3	22938
+晒	saai4	852005
+衫	saam1	535689
+钐	saam1	8204
+珊	saan1	108037
+姗	saan1	10833
+刪	saan1	19702
+山	saan1	3059848
+舢	saan1	3566
+删	saan1	364260
+跚	saan1	6714
+栅	saan1	74764
+闩	saan1	8779
+潺	saan2	6804
+篡	saan4	11502
+疝	saan4	40182
+汕	saan4	53117
+涮	saan4	73132
+讪	saan4	8515
 鼪	saang1
+牲	saang1	36371
+生	saang1	4223429
+笙	saang1	66468
 㨘	saang3
-霎	saap3
-炸	saap5
-杀	saat3
-洒	saat3
-煞	saat3
-耍	saat3
+霎	saap3	14098
+煠	saap5	129
+炸	saap5	472513
+刹	saat3	128194
+洒	saat3	232833
+煞	saat3	234901
+杀	saat3	2577297
+耍	saat3	458802
 弰	saau1
-捎	saau1
-梢	saau1
-筲	saau1
-艄	saau1
-蛸	saau1
-鞘	saau1
-稍	saau3
-哨	saau4
-捎	saau4
-潲	saau4
-哨	saau5
-筛	sai1
-使	sai3
-驶	sai3
-世	sai4
-势	sai4
-抛	sai4
-贳	sai4
-噬	sai5
-誓	sai5
-逝	sai5
-参	sam1
-森	sam1
-深	sam1
-琛	sam1
-郴	sam1
-岑	sam2
+鞘	saau1	140278
+筲	saau1	1650
+梢	saau1	173001
+捎	saau1	78196
+蛸	saau1	844
+艄	saau1	9633
+稍	saau3	627418
+哨	saau4	113803
+潲	saau4	4105
+捎	saau4	78196
+哨	saau5	113803
+筛	sai1	131178
+使	sai3	11626156
+驶	sai3	202721
+世	sai4	1452037
+势	sai4	1616707
+抛	sai4	494397
+贳	sai4	645
+噬	sai5	112408
+逝	sai5	206247
+誓	sai5	88940
+琛	sam1	113873
+郴	sam1	11475
+深	sam1	3016729
+参	sam1	687603
+森	sam1	721431
 帎	sam2
-忱	sam2
-椹	sam2
-涔	sam2
-葚	sam2
-谌	sam2
-婶	sam3
-审	sam3
-沈	sam3
-渖	sam3
+涔	sam2	12215
+忱	sam2	15774
+岑	sam2	18470
+椹	sam2	493
+葚	sam2	6961
+谌	sam2	71488
 谉	sam3
-渗	sam4
-甚	sam5
-葚	sam5
-伸	san1
-呻	san1
-娠	san1
-珅	san1
-申	san1
-砷	san1
-绅	san1
-胂	san1
-身	san1
-唇	san2
-宸	san2
-晨	san2
-淳	san2
-神	san2
-纯	san2
-臣	san2
-莼	san2
-谆	san2
-辰	san2
-醇	san2
-吮	san3
-肫	san3
-肾	san3
-蜃	san3
-呻	san4
-瞬	san4
-舜	san4
-慎	san5
-顺	san5
-涩	sap4
-湿	sap4
+审	sam3	305416
+沈	sam3	310587
+婶	sam3	36159
+渖	sam3	7703
+渗	sam4	157518
+葚	sam5	6961
+甚	sam5	886305
+珅	san1	1244
+娠	san1	1424
+胂	san1	15378
+伸	san1	334820
+呻	san1	3669
+砷	san1	46329
+绅	san1	53540
+身	san1	5878144
+申	san1	734307
+纯	san2	1024627
+醇	san2	171513
+辰	san2	173471
+神	san2	3160397
+宸	san2	35275
+唇	san2	409479
+晨	san2	496513
+臣	san2	555479
+谆	san2	6767
+淳	san2	69175
+莼	san2	9999
+肫	san3	14317
+蜃	san3	16752
+吮	san3	34112
+肾	san3	789785
+瞬	san4	112356
+舜	san4	122343
+呻	san4	3669
+慎	san5	150732
+顺	san5	962005
+涩	sap4	141793
+湿	sap4	894586
 十	sap5
-拾	sap5
-失	sat4
-室	sat4
-瑟	sat4
-虱	sat4
-实	sat5
-术	sat5
-述	sat5
-收	sau1
-馊	sau1
-仇	sau2
-愁	sau2
-守	sau3
-手	sau3
-首	sau3
-兽	sau4
-狩	sau4
-瘦	sau4
-受	sau5
-售	sau5
-寿	sau5
-授	sau5
-绶	sau5
-赊	se1
-佘	se2
-畬	se2
-蛇	se2
-輋	se2
-捨	se3
-社	se3
-舍	se3
-舍	se4
-赦	se4
-射	se5
-麝	se5
-书	si1
-匙	si1
-妤	si1
-尸	si1
-师	si1
-抒	si1
-施	si1
+拾	sap5	269445
+什	sap5	728022
+室	sat4	1553500
+虱	sat4	21593
+瑟	sat4	229379
+失	sat4	831203
+实	sat5	1742380
+沭	sat5	2117
+术	sat5	2244605
+述	sat5	292816
+鉥	sat5	40
+寔	sat5	414
+馊	sau1	22846
+收	sau1	3272015
+仇	sau2	229355
+愁	sau2	378137
+手	sau3	13266506
+首	sau3	3204713
+守	sau3	707800
+狩	sau4	11630
+瘦	sau4	1219941
+兽	sau4	566768
+售	sau5	1064366
+绶	sau5	13278
+授	sau5	214164
+寿	sau5	345987
+受	sau5	5687973
+赊	se1	10706
+佘	se2	30403
+蛇	se2	471482
+輋	se2	78
+畬	se2	897
+社	se3	1241976
+捨	se3	26632
+舍	se3	561905
+赦	se4	40545
+舍	se4	561905
+射	se5	1049212
+麝	se5	7205
 汿	si1
-浉	si1
-狮	si1
-舒	si1
-蛳	si1
-诗	si1
-输	si1
-酾	si1
-儒	si2
-匙	si2
-埘	si2
-时	si2
-殊	si2
-莳	si2
-薯	si2
-蜍	si2
-鲥	si2
-使	si3
-史	si3
-屎	si3
-市	si3
-暑	si3
-铈	si3
-黍	si3
-鼠	si3
-使	si4
-嗜	si4
-处	si4
-庶	si4
-弑	si4
-恕	si4
-戍	si4
-试	si4
-谥	si4
-事	si5
-仕	si5
-侍	si5
-士	si5
-峙	si5
-恃	si5
-是	si5
-杮	si5
-树	si5
-氏	si5
-澍	si5
-狮	si5
-示	si5
-竖	si5
-视	si5
-豉	si5
-伤	sieng1
-商	sieng1
-偿	sieng2
-尝	sieng2
-常	sieng2
-上	sieng3
-赏	sieng3
-上	sieng5
-尚	sieng5
-啬	sik4
-式	sik4
-色	sik4
-蚀	sik4
-适	sik4
-释	sik4
-饰	sik4
-石	sik5
-食	sik5
-婵	sim2
-澶	sim2
-禅	sim2
-蝉	sim2
-蟾	sim2
-闪	sim3
-陕	sim3
-赡	sim5
-烟	sin1
-胭	sin1
-膻	sin1
-船	sin2
-缮	sin3
-膳	sin3
-蟮	sin3
-鄯	sin3
-鳝	sin3
-扇	sin4
-煽	sin4
-骟	sin4
+蛳	si1	12017
+输	si1	1344879
+师	si1	1677856
+抒	si1	18011
+舒	si1	231485
+狮	si1	266843
+酾	si1	314
+尸	si1	329691
+书	si1	3571022
+施	si1	642732
+匙	si1	76424
+妤	si1	9652
+诗	si1	971646
+浉	si1	98
+儒	si2	126802
+薯	si2	192989
+时	si2	28073337
+埘	si2	2840
+莳	si2	3708
+鲥	si2	439
+匙	si2	76424
+殊	si2	80854
+蜍	si2	917
+市	si3	11152653
+使	si3	11626156
+史	si3	1313694
+铈	si3	4177
+暑	si3	57849
+屎	si3	620027
+鼠	si3	861310
+黍	si3	9423
+使	si4	11626156
+嗜	si4	119894
+试	si4	1747663
+庶	si4	23567
+恕	si4	239155
+戍	si4	26993
+弑	si4	29294
+处	si4	5080805
+谥	si4	61867
+豉	si5	12099
+树	si5	1531418
+竖	si5	156559
+仕	si5	168976
+是	si5	171296602
+侍	si5	181878
+澍	si5	1912
+峙	si5	25498
+狮	si5	266843
+氏	si5	384322
+恃	si5	39704
+杮	si5	601
+士	si5	690065
+示	si5	766556
+视	si5	915617
+事	si5	9941650
+硕	siek5	206440
+伤	sieng1	3129697
+殇	sieng1	31371
+墒	sieng1	43013
+商	sieng1	4853106
+熵	sieng1	8925
+觞	sieng1	9345
+偿	sieng2	115946
+嫦	sieng2	21341
+常	sieng2	3201158
+尝	sieng2	677278
+裳	sieng2	81498
+绱	sieng3	15013
+赏	sieng3	253305
+上	sieng3	66509925
+尚	sieng5	1214692
+上	sieng5	66509925
+轼	sik4	15037
+释	sik4	182597
+式	sik4	1867715
+适	sik4	216920
+色	sik4	2462542
+饰	sik4	282187
+饬	sik4	30455
+穑	sik4	33992
+识	sik4	447834
+拭	sik4	48474
+铯	sik4	6166
+螫	sik4	6553
+蚀	sik4	81611
+啬	sik4	8929
+食	sik5	1642346
+石	sik5	1764580
+蚀	sik5	81611
+禅	sim2	143887
+婵	sim2	26733
+蟾	sim2	32112
+澶	sim2	4299
+蝉	sim2	59706
+闪	sim3	695502
+陕	sim3	77142
+赡	sim5	88508
+烟	sin1	1013494
+膻	sin1	11577
+胭	sin1	4983
+船	sin2	1254500
+蟮	sin3	108495
+鳝	sin3	12213
+缮	sin3	16028
+膳	sin3	43346
+鄯	sin3	9507
+骟	sin4	1591
+煽	sin4	28784
+扇	sin4	377833
 䦅	sin5
-善	sin5
-墡	sin5
-嬗	sin5
-擅	sin5
-升	sing1
-声	sing1
-乘	sing2
-城	sing2
-成	sing2
-承	sing2
-绳	sing2
-诚	sing2
-圣	sing4
-胜	sing4
-盛	sing5
-闪	sip3
-涉	sip5
-设	sit3
-说	sit3
-折	sit5
-舌	sit5
-蚀	sit5
-烧	siu1
-苕	siu2
-轺	siu2
-韶	siu2
-髫	siu2
-龆	siu2
-少	siu3
-少	siu4
+嬗	sin5	12108
+墡	sin5	40
+善	sin5	569121
+擅	sin5	70107
+胜	sing1	2051530
+升	sing1	2241323
+声	sing1	5062333
+成	sing2	10176702
+绳	sing2	177640
+承	sing2	303065
+丞	sing2	38356
+城	sing2	3889587
+宬	sing2	419
+渑	sing2	4261
+铖	sing2	5712
+蝇	sing2	61401
+乘	sing2	703129
+盛	sing2	786198
+诚	sing2	839621
+胜	sing4	2051530
+蛏	sing4	22097
+圣	sing4	779347
+嵊	sing5	20914
+塍	sing5	2242
+晟	sing5	59661
+剩	sing5	676977
+盛	sing5	786198
+闪	sip3	695502
+涉	sip5	539750
+设	sit3	1550144
+说	sit3	52966771
+䞌	sit5
+折	sit5	1201290
+舌	sit5	198373
+蚀	sit5	81611
+烧	siu1	1272294
+苕	siu2	10542
+龆	siu2	32329
+韶	siu2	32499
+轺	siu2	577
+髫	siu2	672
+少	siu3	4710056
+少	siu4	4710056
 兆	siu5
-劭	siu5
-卲	siu5
-绍	siu5
-肇	siu5
-邵	siu5
-卅	slaa1
-卅	slaa2
-屣	slaai3
-徙	slaai3
+劭	siu5	20172
+卲	siu5	219
+绍	siu5	49320
+肇	siu5	65089
+邵	siu5	68028
+卅	slaa1	33160
+卅	slaa2	33160
 枲	slaai3
-玺	slaai3
-葸	slaai3
-蓰	slaai3
-赛	slaai4
+玺	slaai3	21844
+蓰	slaai3	227
+徙	slaai3	28336
+葸	slaai3	722
+屣	slaai3	960
+赛	slaai4	2340983
 三	slaam1
-叁	slaam1
-糁	slaam3
-散	slaan3
-馓	slaan3
-伞	slaan4
-散	slaan4
-犀	slai1
-西	slai1
-洗	slai3
-婿	slai4
-细	slai4
-塞	slak4
-心	slam1
-芯	slam1
-新	slan1
-莘	slan1
-薪	slan1
-辛	slan1
-锌	slan1
-峋	slan2
-徇	slan2
-循	slan2
-恂	slan2
-旬	slan2
-栒	slan2
-殉	slan2
-珣	slan2
-荀	slan2
-询	slan2
-郇	slan2
-驯	slan2
-榫	slan3
-笋	slan3
-筍	slan3
-隼	slan3
-信	slan4
-汛	slan4
-烬	slan4
-荩	slan4
-讯	slan4
-赆	slan4
-迅	slan4
-僧	slang1
-恤	slat4
-息	slat4
-膝	slat4
-修	slau1
-羞	slau1
-脩	slau1
-锼	slau1
-馐	slau1
-搜	slau3
-擞	slau3
-艘	slau3
-薮	slau3
-嗽	slau4
-漱	slau4
-琇	slau4
-秀	slau4
-绣	slau4
-锈	slau4
-些	sle1
-写	sle3
-卸	sle4
-泻	sle4
-丝	slei1
-厮	slei1
-厶	slei1
-司	slei1
-咝	slei1
-思	slei1
-撕	slei1
-斯	slei1
-澌	slei1
-私	slei1
-缌	slei1
+叁	slaam1	38882
+糁	slaam3	10002
+散	slaan3	836764
+馓	slaan3	8710
+伞	slaan4	384672
+散	slaan4	836764
+潵	slaat3	537
+撒	slaat3	661031
+萨	slaat3	755347
+犀	slai1	20987
+西	slai1	3002467
+洗	slai3	1458451
+细	slai4	1009007
+婿	slai4	21930
+窣	slak4	1209
+塞	slak4	862854
+芯	slam1	324906
+心	slam1	8813238
+新	slan1	21776749
+辛	slan1	227428
+莘	slan1	26754
+锌	slan1	312637
+薪	slan1	392218
+栒	slan2	137
+旬	slan2	140378
+循	slan2	142134
+峋	slan2	14405
+询	slan2	151559
+殉	slan2	16532
+荀	slan2	24573
+郇	slan2	2514
+恂	slan2	2934
+珣	slan2	3216
+徇	slan2	5174
+驯	slan2	85903
+榫	slan3	10566
+筍	slan3	1752
+隼	slan3	50886
+笋	slan3	85584
+汛	slan4	194333
+讯	slan4	3002258
+荩	slan4	34350
+赆	slan4	377
+烬	slan4	4673
+信	slan4	5386015
+迅	slan4	97696
+僧	slang1	190449
+擤	slang4	4435
+扱	slap4	156
+膝	slap4	199820
+飒	slap4	25351
+圾	slap4	4427
+靸	slap4	59
+膝	slat4	199820
+戌	slat4	23528
+恤	slat4	245886
+息	slat4	849932
+修	slau1	1179366
+羞	slau1	148280
+馐	slau1	57309
+锼	slau1	6184
+脩	slau1	855
+薮	slau3	16654
+擞	slau3	35196
+搜	slau3	510490
+艘	slau3	694812
+秀	slau4	1301263
+绣	slau4	164473
+漱	slau4	20672
+琇	slau4	5060
+锈	slau4	57965
+嗽	slau4	69443
+些	sle1	2344133
+写	sle3	4943588
+泻	sle4	157427
+卸	sle4	186862
 罳	slei1
-胥	slei1
-谞	slei1
-锶	slei1
-需	slei1
-须	slei1
-飔	slei1
-鸶	slei1
-死	slei3
+厶	slei1	11215
+胥	slei1	11727
+俬	slei1	1374
+锶	slei1	14450
+丝	slei1	1520442
+缌	slei1	15349
+撕	slei1	214520
+需	slei1	2166327
+谞	slei1	221
+咝	slei1	26152
+斯	slei1	3020797
+司	slei1	534563
+厮	slei1	64770
+鸶	slei1	6514
+飔	slei1	69
+须	slei1	786049
+澌	slei1	822
+私	slei1	863807
+思	slei1	869211
+死	slei3	7572512
 四	slei4
-泗	slei4
-絮	slei4
-肆	slei4
-驷	slei4
-削	sliek3
-厢	slieng1
-相	slieng1
-箱	slieng1
-镶	slieng1
-想	slieng3
-相	slieng4
-息	slik4
-悉	slik4
-惜	slik4
-昔	slik4
-析	slik4
-熄	slik4
-锡	slik4
-仙	slin1
-先	slin1
-喧	slin1
-宣	slin1
-揎	slin1
-渲	slin1
-瑄	slin1
-籼	slin1
-萱	slin1
-谖	slin1
-鲜	slin1
-旋	slin2
-漩	slin2
-璇	slin2
-冼	slin3
-廯	slin3
-癣	slin3
-藓	slin3
-跣	slin3
-选	slin3
-铣	slin3
-鲜	slin3
-倩	slin4
-线	slin4
-缐	slin4
-腺	slin4
-镍	slin4
-霰	slin4
-馓	slin4
-篆	slin5
-羡	slin5
-星	sling1
-猩	sling1
-腥	sling1
-省	sling3
-醒	sling3
-姓	sling4
-性	sling4
-屑	slit3
-泄	slit3
-薛	slit3
-雪	slit3
-宵	sliu1
-消	sliu1
-潇	sliu1
-硝	sliu1
-箫	sliu1
-萧	sliu1
-蛸	sliu1
+泗	slei4	26699
+絮	slei4	33063
+肆	slei4	61179
+驷	slei4	6223
+削	sliek3	165948
+厢	slieng1	130920
+骧	slieng1	27067
+相	slieng1	2913113
+湘	slieng1	323682
+廂	slieng1	3293
+瓖	slieng1	57
+襄	slieng1	62000
+箱	slieng1	917157
+镶	slieng1	98246
+想	slieng3	21944953
+鲞	slieng3	2951
+相	slieng4	2913113
+皙	slik4	11868
+鎴	slik4	1215
+淅	slik4	13290
+蟋	slik4	1426
+晰	slik4	14817
+惜	slik4	186897
+锡	slik4	204521
+窸	slik4	2050
+昔	slik4	333156
+媳	slik4	37916
+熄	slik4	43398
+息	slik4	849932
+蜥	slik4	8801
+悉	slik4	95557
+析	slik4	97111
+螅	slik4	99908
+籼	slin1	12370
+宣	slin1	211406
+喧	slin1	25815
+瑄	slin1	27316
+揎	slin1	403
+谖	slin1	40668
+渲	slin1	46445
+萱	slin1	53065
+先	slin1	5527005
+鲜	slin1	568177
+仙	slin1	873313
+旋	slin2	195347
+璇	slin2	44169
+漩	slin2	5619
+跣	slin3	10113
+廯	slin3	113
+选	slin3	3449795
+铣	slin3	36082
+鲜	slin3	568177
+癣	slin3	59741
+冼	slin3	7165
+藓	slin3	7893
+镍	slin4	108417
+倩	slin4	132070
+腺	slin4	149934
+霰	slin4	16302
+缐	slin4	281
+线	slin4	4287870
+馓	slin4	8710
+篆	slin5	20667
+羡	slin5	38077
+腥	sling1	105920
+眚	sling1	1075
+星	sling1	2177002
+狌	sling1	39
+惺	sling1	68412
+猩	sling1	73105
+醒	sling3	1096276
+省	sling3	6536068
+性	sling4	2837077
+鏽	sling4	328
+姓	sling4	446188
+屑	slip3	136462
+㨝	slip4
+屑	slit3	136462
+雪	slit3	1707566
+鳕	slit3	2129
+躞	slit3	230
+楔	slit3	35057
+泄	slit3	360654
+燮	slit3	36630
+亵	slit3	5996
+绁	slit3	818
+薛	slit3	94634
 蠂	sliu1
-逍	sliu1
-销	sliu1
-霄	sliu1
-魈	sliu1
-小	sliu3
-筱	sliu3
-啸	sliu4
-笑	sliu4
-唆	slo1
-嗦	slo1
-娑	slo1
-挲	slo1
-梭	slo1
-睃	slo1
-羧	slo1
-蓑	slo1
-唢	slo3
-琐	slo3
-蓑	slo3
-锁	slo3
-腮	sloi1
-鳃	sloi1
-㘔	sloi4
-索	slok3
-丧	slong1
-嗓	slong1
-桑	slong1
-丧	slong4
-搔	slou1
-稣	slou1
-缫	slou1
-臊	slou1
-苏	slou1
-酥	slou1
-须	slou1
-骚	slou1
-叟	slou3
-嫂	slou3
-扫	slou3
-瞍	slou3
-嗉	slou4
-埽	slou4
-塑	slou4
-愬	slou4
-扫	slou4
-溯	slou4
-素	slou4
-诉	slou4
-榱	slui1
-縗	slui1
-绥	slui1
-蕤	slui1
-虽	slui1
-墅	slui3
-绪	slui3
-髓	slui3
-岁	slui4
-碎	slui4
-燧	slui5
-瑞	slui5
-穗	slui5
-繸	slui5
-遂	slui5
-邃	slui5
-隧	slui5
-宿	sluk4
-粟	sluk4
-肃	sluk4
-俗	sluk5
-孙	slun1
-狲	slun1
-荪	slun1
-酸	slun1
-损	slun3
-囟	slun4
-巽	slun4
-算	slun4
-蒜	slun4
-逊	slun4
-松	slung1
-耸	slung3
-宋	slung4
-送	slung4
-梳	so1
-疎	so1
-疏	so1
-蔬	so1
-傻	so2
-所	so3
-疏	so4
-朔	sok3
-双	song1
-霜	song1
-床	song2
-爽	song3
-霜	song4
-数	sou3
-数	sou4
-衰	sui1
-垂	sui2
-谁	sui2
-水	sui3
-帅	sui4
-税	sui4
-说	sui4
-睡	sui5
-叔	suk4
-属	suk5
-熟	suk5
-蜀	suk5
-赎	suk5
-崇	sung2
-他	taa1
-她	taa1
-它	taa1
+潇	sliu1	18044
+魈	sliu1	22186
+萧	sliu1	291912
+逍	sliu1	35300
+消	sliu1	383567
+霄	sliu1	39070
+销	sliu1	394473
+宵	sliu1	42475
+硝	sliu1	48094
+箫	sliu1	56040
+蛸	sliu1	844
+小	sliu3	20674943
+筱	sliu3	35214
+笑	sliu4	7352124
+啸	sliu4	93731
+羧	slo1	10644
+挲	slo1	1333
+唆	slo1	13746
+梭	slo1	144299
+嗦	slo1	37223
+蓑	slo1	4876
+娑	slo1	50430
+睃	slo1	985
+琐	slo3	11169
+唢	slo3	362
+蓑	slo3	4876
+锁	slo3	527022
+鳃	sloi1	10826
+腮	sloi1	49526
+㗷	sloi4
+㘔	sloi4	4639665
+索	slok3	538853
+丧	slong1	161015
+嗓	slong1	26753
+桑	slong1	501165
+颡	slong3	1631
+嗓	slong3	26753
+磉	slong3	297
+搡	slong3	3169
+丧	slong4	161015
+臊	slou1	13273
+缫	slou1	13700
+酥	slou1	159781
+稣	slou1	17433
+搔	slou1	22182
+骚	slou1	245050
+须	slou1	786049
+苏	slou1	981343
+嫂	slou3	153052
+瞍	slou3	395
+扫	slou3	489647
+叟	slou3	65733
+素	slou4	1315634
+嗉	slou4	13368
+塑	slou4	181227
+溯	slou4	24563
+诉	slou4	254511
+埽	slou4	30333
+愬	slou4	373
+扫	slou4	489647
+虽	slui1	1354009
+縗	slui1	167
+绥	slui1	19052
+蕤	slui1	3551
+榱	slui1	5396
+绪	slui3	28365
+墅	slui3	30696
+髓	slui3	97379
+岁	slui4	8215534
+碎	slui4	954760
+隧	slui5	10682
+穗	slui5	174601
+繸	slui5	30
+燧	slui5	4023
+遂	slui5	410824
+邃	slui5	4507
+瑞	slui5	773511
+蓿	sluk4	10432
+傈	sluk4	1303
+夙	sluk4	13426
+宿	sluk4	222472
+粟	sluk4	54303
+肃	sluk4	73424
+俗	sluk5	202367
+狲	slun1	3339
+孙	slun1	444962
+荪	slun1	6266
+酸	slun1	808391
+损	slun3	657852
+巽	slun4	12945
+囟	slun4	13961
+蒜	slun4	156170
+逊	slun4	161023
+算	slun4	2182170
+崧	slung1	15718
+淞	slung1	19049
+嵩	slung1	48885
+松	slung1	808666
+菘	slung1	8875
+嵸	slung3
+耸	slung3	139072
+悚	slung3	3694
+怂	slung3	80959
+竦	slung3	87533
+𩠌	slung4
+宋	slung4	462273
+送	slung4	4686241
+梳	so1	118985
+疏	so1	159319
+疎	so1	163
+蔬	so1	79720
+傻	so2	1518788
+所	so3	15084080
+疏	so4	159319
+槊	sok3	11400
+搠	sok3	1968
+溯	sok3	24563
+嗦	sok3	37223
+蒴	sok3	644
+朔	sok3	71247
+泷	song1	10175
+孀	song1	17777
+霜	song1	518921
+双	song1	5535180
+鹴	song1	69
+床	song2	1756978
+爽	song3	722715
+霜	song4	518921
+数	sou3	3821613
+数	sou4	3821613
+衰	sui1	315261
+垂	sui2	267752
+谁	sui2	8548190
+水	sui3	8153040
+税	sui4	1241660
+帅	sui4	1519852
+说	sui4	52966771
+睡	sui5	4464165
+缩	suk4	399051
+叔	suk4	544436
+菽	suk5	11958
+塾	suk5	12657
+蜀	suk5	134628
+属	suk5	1538814
+熟	suk5	655997
+赎	suk5	68927
+孰	suk5	77213
+淑	suk5	86733
+崇	sung2	72602
+恤	sut4	245886
+它	taa1	12176287
+她	taa1	26689468
+他	taa1	67051085
 舦	taai3
-舵	taai3
-太	taai4
-态	taai4
-汰	taai4
-泰	taai4
-肽	taai4
-酞	taai4
-钛	taai4
-贪	taam1
+舵	taai3	58424
+肽	taai4	103284
+钛	taai4	108324
+太	taai4	15451106
+汰	taai4	27478
+态	taai4	310157
+泰	taai4	733233
+酞	taai4	9885
+贪	taam1	265270
 㖊	taam2
-寻	taam2
-惔	taam2
-昙	taam2
-沉	taam2
-浔	taam2
-潭	taam2
-痰	taam2
-蕈	taam2
-覃	taam2
-谈	taam2
-谭	taam2
-郯	taam2
-鲟	taam2
-淡	taam3
-探	taam4
-坍	taan1
-摊	taan1
-滩	taan1
-瘫	taan1
-坛	taan2
-弹	taan2
-檀	taan2
-坦	taan3
-妲	taan3
-忐	taan3
-怛	taan3
-毯	taan3
-疸	taan3
-袒	taan3
-靼	taan3
-叹	taan4
-炭	taan4
-碳	taan4
-塌	taap3
-塔	taap3
-榻	taap3
-梯	tai1
-绨	tai1
-锑	tai1
-啼	tai2
-堤	tai2
-提	tai2
-缇	tai2
-褆	tai2
-蹄	tai2
-醍	tai2
-鍉	tai2
-题	tai2
+覃	taam2	11965
+谈	taam2	1744406
+潭	taam2	175935
+昙	taam2	21751
+痰	taam2	254025
+鲟	taam2	26053
+浔	taam2	39827
+惔	taam2	52
+沉	taam2	536317
+蕈	taam2	5464
+郯	taam2	5845
+寻	taam2	677002
+谭	taam2	92287
+淡	taam3	1115330
+探	taam4	541079
+滩	taan1	162657
+摊	taan1	397879
+坍	taan1	7123
+瘫	taan1	89694
+坛	taan2	183858
+檀	taan2	35809
+弹	taan2	616661
+坦	taan3	164198
+靼	taan3	20359
+怛	taan3	2277
+袒	taan3	22823
+忐	taan3	2827
+妲	taan3	5177
+毯	taan3	79292
+疸	taan3	998
+炭	taan4	136451
+碳	taan4	221182
+叹	taan4	503673
+塌	taap3	150912
+榻	taap3	65817
+鳎	taap3	71275
+塔	taap3	927739
+遢	taat3	1019
+闼	taat3	12166
+蹋	taat3	37545
+挞	taat3	50393
+鳎	taat3	71275
+梯	tai1	132045
+锑	tai1	20756
+绨	tai1	4501
 騠	tai2
-体	tai3
-娣	tai3
-弟	tai3
-睇	tai3
-剃	tai4
-啻	tai4
-嚏	tai4
-屉	tai4
-替	tai4
-涕	tai4
-薙	tai4
-贷	tai4
+题	tai2	1396225
+堤	tai2	182656
+提	tai2	2031257
+醍	tai2	2502
+缇	tai2	34325
+啼	tai2	38432
+鍉	tai2	47
+蹄	tai2	73686
+褆	tai2	739
+体	tai3	2615500
+娣	tai3	30357
+弟	tai3	351721
+睇	tai3	681147
 鐟	tai4
-氹	tam3
-吞	tan1
-饨	tan1
-腯	tan2
-鹑	tan2
-汆	tan3
-盾	tan3
-钝	tan3
+薙	tai4	1123
+啻	tai4	18756
+涕	tai4	30558
+嚏	tai4	5418
+贷	tai4	572208
+剃	tai4	59940
+替	tai4	831817
+屉	tai4	8605
+氹	tam3	7481
+吞	tan1	243083
+饨	tan1	25363
+腯	tan2	34
+鹑	tan2	76499
+盾	tan3	157872
+钝	tan3	43585
+汆	tan3	7107
 㧷	tan4
-褪	tan4
-滕	tang2
-疼	tang2
-籐	tang2
-縢	tang2
-腾	tang2
-藤	tang2
-螣	tang2
-誉	tang2
-誊	tang2
+褪	tan4	149082
+疼	tang2	1148361
+螣	tang2	174
+縢	tang2	228
+藤	tang2	318068
+誊	tang2	3457
+籐	tang2	424
+滕	tang2	43972
+腾	tang2	478175
+誉	tang2	96212
 墱	tang4
-偷	tau1
+佮	tap4	37
 鍮	tau1
-头	tau2
-投	tau2
-骰	tau2
+偷	tau1	787363
+骰	tau2	25857
+投	tau2	2587278
+头	tau2	5670592
 㪗	tau3
-唞	tau3
-透	tau4
-艇	tieng3
-涂	tieu2
-惕	tik4
-添	tim1
-黇	tim1
-甜	tim2
-菾	tim2
-忝	tim3
-恬	tim3
-憇	tim3
-掭	tim3
-舔	tim3
-天	tin1
-填	tin2
-滇	tin2
-田	tin2
-畋	tin2
-磌	tin2
-钿	tin2
-阗	tin2
-餮	tin3
-厅	ting1
-听	ting1
-汀	ting1
-亭	ting2
-停	ting2
-庭	ting2
-廷	ting2
-挺	ting3
-帖	tip3
-贴	tip3
-叠	tip5
-铁	tit3
-佻	tiu1
-挑	tiu1
-祧	tiu1
-条	tiu2
-笤	tiu2
-调	tiu2
-迢	tiu2
-鲦	tiu2
-窕	tiu3
-眺	tiu4
-粜	tiu4
-脁	tiu4
+唞	tau3	1212
+透	tau4	806646
+艇	tieng3	112860
+涂	tieu2	482353
+忒	tik4	119730
+裼	tik4	16279
+剔	tik4	23262
+忑	tik4	3861
+踢	tik4	675568
+铽	tik4	715
+趯	tik4	74
+惕	tik4	8312
+惆	tik4	9134
+黇	tim1	112
+添	tim1	471052
+菾	tim2	44
+甜	tim2	514502
+憇	tim3	106
+舔	tim3	126023
+掭	tim3	205
+忝	tim3	21629
+恬	tim3	23056
+天	tin1	20457907
+钿	tin2	10155
+田	tin2	1035114
+畋	tin2	12490
+填	tin2	338850
+磌	tin2	62
+滇	tin2	64223
+阗	tin2	8881
+餮	tin3	13144
+厅	ting1	1076884
+汀	ting1	220361
+听	ting1	6519997
+婷	ting2	115901
+蜓	ting2	13348
+渟	ting2	168
+停	ting2	2136065
+亭	ting2	297487
+庭	ting2	316123
+葶	ting2	3827
+廷	ting2	47757
+霆	ting2	9612
+侹	ting3
+珽	ting3	1356
+梃	ting3	1432
+挺	ting3	2333515
+铤	ting3	3753
+听	ting4	6519997
+贴	tip3	1476887
+帖	tip3	336987
+萜	tip3	5646
+叠	tip5	287909
+铁	tit3	1322217
+祧	tiu1	1189
+佻	tiu1	1750
+挑	tiu1	783658
+调	tiu2	1731453
+笤	tiu2	19496
+鲦	tiu2	223
+迢	tiu2	4346
+条	tiu2	7169519
+窕	tiu3	17017
 艞	tiu4
-跳	tiu4
-拖	to1
-佗	to2
-坨	to2
+眺	tiu4	11191
+跳	tiu4	1383525
+脁	tiu4	46
+粜	tiu4	7822
+拖	to1	851421
 拕	to2
-柁	to2
-沱	to2
-跎	to2
-陀	to2
-驮	to2
-驼	to2
-鸵	to2
-鼍	to2
-妥	to3
-椭	to3
-沲	to3
-舵	to3
-铊	to3
-唾	to4
-胎	toi1
-苔	toi1
-台	toi2
-怠	toi2
-抬	toi2
-枱	toi2
-苔	toi2
-跆	toi2
-邰	toi2
-骀	toi2
-鲐	toi2
-托	tok3
-汤	tong1
-烫	tong1
-唐	tong2
-堂	tong2
-塘	tong2
-棠	tong2
-糖	tong2
-躺	tong3
-烫	tong4
-趟	tong4
-叨	tou1
-滔	tou1
-绦	tou1
-韬	tou1
-饕	tou1
-啕	tou2
-图	tou2
-屠	tou2
-徒	tou2
-掏	tou2
-桃	tou2
-洮	tou2
-涂	tou2
-涛	tou2
-淘	tou2
-焘	tou2
-绹	tou2
-茶	tou2
-萄	tou2
-逃	tou2
-途	tou2
-酴	tou2
-陶	tou2
-土	tou3
-肚	tou3
-芏	tou3
-讨	tou3
-钍	tou3
-倒	tou4
-兔	tou4
-吐	tou4
-堍	tou4
-套	tou4
-莵	tou4
-推	tui1
-颓	tui2
-腿	tui3
-蜕	tui4
-退	tui4
-秃	tuk4
-湍	tun1
-团	tun2
-囤	tun2
-屯	tun2
-抟	tun2
-臀	tun2
-豚	tun2
-鲀	tun2
-断	tun3
-通	tung1
-同	tung2
-桐	tung2
-瞳	tung2
-童	tung2
-筒	tung2
-铜	tung2
-桶	tung3
-统	tung3
-痛	tung4
-屋	uk4
-梧	ung2
+佗	to2	12634
+陀	to2	138036
+柁	to2	1448
+鼍	to2	18674
+跎	to2	20246
+沱	to2	30761
+鸵	to2	43662
+驮	to2	54894
+驼	to2	65523
+坨	to2	65708
+铊	to3	11247
+沲	to3	152
+妥	to3	161199
+椭	to3	33265
+舵	to3	58424
+唾	to4	7988
+胎	toi1	361434
+苔	toi1	69075
+枱	toi2	1750
+邰	toi2	2908
+怠	toi2	398298
+台	toi2	4332149
+抬	toi2	433234
+苔	toi2	69075
+骀	toi2	694
+鲐	toi2	703
+跆	toi2	7323
+扤	tok3
+萚	tok3
+跅	tok3
+橐	tok3	15157
+拓	tok3	159042
+庹	tok3	17644
+饦	tok3	178
+讬	tok3	333
+托	tok3	872107
+柝	tok3	878
+㓥	tong1
+汤	tong1	1170725
+烫	tong1	317907
+搪	tong2	10001
+糖	tong2	1022424
+螗	tong2	168
+膛	tong2	26219
+螳	tong2	3010
+塘	tong2	307873
+瑭	tong2	4042
+樘	tong2	5293
+唐	tong2	574855
+堂	tong2	680518
+棠	tong2	71798
+镗	tong2	7416
+蹚	tong3	1897
+帑	tong3	4125
+倘	tong3	42461
+耥	tong3	465
+傥	tong3	6963
+淌	tong3	77056
+躺	tong3	949479
+烫	tong4	317907
+趟	tong4	463790
+滔	tou1	16982
+韬	tou1	23067
+绦	tou1	43954
+饕	tou1	58181
+叨	tou1	60413
+屠	tou2	102668
+淘	tou2	1087214
+焘	tou2	1504
+途	tou2	166727
+陶	tou2	167687
+萄	tou2	17404
+涛	tou2	174634
+荼	tou2	21696
+徒	tou2	237765
+桃	tou2	258602
+酴	tou2	263
+绹	tou2	274
+洮	tou2	3461
+啕	tou2	355
+涂	tou2	482353
+掏	tou2	482607
+图	tou2	6477513
+逃	tou2	776543
+土	tou3	1314154
+钍	tou3	15333
+肚	tou3	359892
+讨	tou3	390632
+芏	tou3	44045
+堍	tou4	1448
+倒	tou4	2399404
+莵	tou4	31
+套	tou4	3797896
+兔	tou4	541187
+吐	tou4	961490
+推	tui1	1941834
+颓	tui2	26602
+腿	tui3	1573181
+退	tui4	1270521
+蜕	tui4	34028
+秃	tuk4	78266
+湍	tun1	28685
+抟	tun2	15377
+屯	tun2	157612
+臀	tun2	193713
+豚	tun2	21015
+团	tun2	2641624
+囤	tun2	51015
+鲀	tun2	605
+断	tun3	1127238
+蓪	tung1
+囱	tung1	17612
+通	tung1	2079919
+峂	tung2
+獞	tung2
+茼	tung2	1081
+铜	tung2	1209979
+憧	tung2	12850
+炯	tung2	16363
+仝	tung2	1910
+砼	tung2	28045
+狪	tung2	281
+筒	tung2	295683
+艟	tung2	3002
+幢	tung2	302989
+僮	tung2	32063
+佟	tung2	36407
+侗	tung2	56847
+彤	tung2	65180
+同	tung2	7036037
+瞳	tung2	90458
+桐	tung2	95554
+童	tung2	971489
+潼	tung2	9833
+捅	tung3	182660
+统	tung3	389683
+桶	tung3	657514
+疼	tung4	1148361
+痛	tung4	2058117
+侻	tut3
+脱	tut3	623349
+屋	uk4	1143991
+壅	ung1	16222
+鼯	ung2	1150
+浯	ung2	11957
+牾	ung2	1519
+唔	ung2	2067201
+梧	ung2	25591
+吾	ung2	595303
+蜈	ung2	7950
+郚	ung2	96
+㧬	ung3
 五	ung3
-伍	ung3
-午	ung3
-瓮	ung4
-悟	ung5
-误	ung5
-哇	waa1
-哗	waa1
-娃	waa1
-挖	waa1
-搲	waa1
-洼	waa1
+午	ung3	156091
+伍	ung3	233162
+捂	ung3	266992
+仵	ung3	3286
+忤	ung3	5562
+迕	ung3	7597
+瓮	ung4	25573
+蕹	ung4	5761
+痦	ung5	136
+焐	ung5	14828
+悟	ung5	209648
+寤	ung5	22602
+晤	ung5	36177
+误	ung5	450649
 烓	waa1
-窪	waa1
-蛙	waa1
-华	waa2
-嬅	waa2
-桦	waa2
-还	waa2
-铧	waa2
-骅	waa2
-话	waa5
-歪	waai1
-怀	waai2
-槐	waai2
-淮	waai2
+𢱑	waa1
+哇	waa1	2121836
+洼	waa1	28390
+窪	waa1	404
+搲	waa1	43
+娃	waa1	501061
+哗	waa1	50635
+挖	waa1	693396
+蛙	waa1	72485
+嬅	waa2	18976
+桦	waa2	23664
+骅	waa2	3463
+华	waa2	37384720
+还	waa2	37384723
+铧	waa2	8502
+话	waa5	8663934
+歪	waai1	308017
 耲	waai2
-坏	waai5
-划	waak5
-域	waak5
-惑	waak5
-或	waak5
-画	waak5
-获	waak5
-弯	waan1
-湾	waan1
-圜	waan2
-嬛	waan2
-寰	waan2
-擐	waan2
-澴	waan2
-环	waan2
-还	waan2
-镮	waan2
-鬟	waan2
-挽	waan3
-绾	waan3
-鮸	waan3
-宦	waan5
-幻	waan5
-患	waan5
+淮	waai2	195638
+槐	waai2	64592
+怀	waai2	763178
+坏	waai5	1197540
+或	waak5	13198499
+劐	waak5	140
+棫	waak5	143
+获	waak5	1662883
+画	waak5	1754654
+嚄	waak5	2460
+阈	waak5	24708
+域	waak5	392098
+惑	waak5	66795
+划	waak5	708705
+蜮	waak5	793
+湾	waan1	303827
+弯	waan1	373266
+澴	waan2	108
+嬛	waan2	14719
+环	waan2	1472506
+鬟	waan2	2548
+还	waan2	37384723
+寰	waan2	40694
+圜	waan2	5621
+擐	waan2	571
+镮	waan2	87
+挽	waan3	104019
+鮸	waan3	277
+绾	waan3	29985
 槵	waan5
-漶	waan5
-玩	waan5
-豢	waan5
-横	waang2
-横	waang5
-挖	waat3
-滑	waat5
-威	wai1
-崴	wai1
-葳	wai1
-为	wai2
-唯	wai2
-围	wai2
-帏	wai2
-帷	wai2
-惟	wai2
-桅	wai2
-涠	wai2
-潍	wai2
-玮	wai2
-维	wai2
-违	wai2
-遗	wai2
-闱	wai2
-会	wai3
-伟	wai3
-委	wai3
-炜	wai3
-玮	wai3
-痿	wai3
-纬	wai3
-苇	wai3
-萎	wai3
-诿	wai3
-逶	wai3
-韦	wai3
-鲔	wai3
-喂	wai4
-尉	wai4
-慰	wai4
-熨	wai4
-畏	wai4
-秽	wai4
-蔚	wai4
-隈	wai4
-为	wai5
-位	wai5
-卫	wai5
-惠	wai5
-慧	wai5
-憓	wai5
-猬	wai5
-胃	wai5
-蕙	wai5
-蟪	wai5
-譓	wai5
-谓	wai5
-榅	wan1
-温	wan1
-瘟	wan1
-云	wan2
-匀	wan2
-昀	wan2
-晕	wan2
-浑	wan2
-涢	wan2
-畇	wan2
-纭	wan2
-耘	wan2
-芸	wan2
-郧	wan2
-馄	wan2
-魂	wan2
-允	wan3
-尹	wan3
+患	waan5	1204344
+幻	waan5	247119
+宦	waan5	36944
+玩	waan5	4207147
+豢	waan5	53245
+漶	waan5	757
+横	waang2	608083
+横	waang5	608083
+挖	waat3	693396
+猾	waat5	3154
+滑	waat5	720877
+崴	wai1	31285
+葳	wai1	3694
+威	wai1	685053
+惟	wai2	109536
+围	wai2	1121132
+涠	wai2	12346
+桅	wai2	12664
+遗	wai2	145881
+违	wai2	153353
+维	wai2	1541603
+闱	wai2	16928
+唯	wai2	2244851
+玮	wai2	28395
+潍	wai2	29226
+帷	wai2	47651
+为	wai2	57419345
+帏	wai2	7165
+韦	wai3	130713
+鲔	wai3	1524
+委	wai3	2020338
+伟	wai3	227825
+诿	wai3	25149
+苇	wai3	27904
+玮	wai3	28395
+炜	wai3	29221
+萎	wai3	30226
+会	wai3	58026863
+逶	wai3	6466
+痿	wai3	6742
+纬	wai3	89425
+喂	wai4	1042918
+秽	wai4	15127
+隈	wai4	1917
+熨	wai4	27198
+尉	wai4	27692
+蔚	wai4	58285
+慰	wai4	65615
+畏	wai4	78168
+蕙	wai5	11012
+位	wai5	14523517
+蟪	wai5	15715
+猬	wai5	2044
+谓	wai5	239897
+慧	wai5	252247
+惠	wai5	253641
+憓	wai5	34
+为	wai5	57419345
+卫	wai5	707943
+譓	wai5	71
+胃	wai5	887197
+瘟	wan1	43159
+温	wan1	601835
+榅	wan1	75
+馄	wan2	13091
+昀	wan2	13388
+云	wan2	1538719
+郧	wan2	16831
+耘	wan2	18727
+匀	wan2	226924
+纭	wan2	29126
+魂	wan2	458861
+芸	wan2	57727
+晕	wan2	650380
+畇	wan2	70
+浑	wan2	75371
+涢	wan2	99
 抎	wan3
-殒	wan3
-狁	wan3
-稳	wan3
-陨	wan3
-熨	wan5
-运	wan5
-韵	wan5
-屈	wat4
-郁	wat4
-核	wat5
-役	wik5
-疫	wik5
-荣	wing2
-萤	wing2
-营	wing2
-永	wing3
-咏	wing5
-泳	wing5
-颖	wing5
-倭	wo1
-埚	wo1
-娲	wo1
-挝	wo1
-涡	wo1
-窝	wo1
-窠	wo1
-莴	wo1
-蜗	wo1
-锅	wo1
-和	wo2
-禾	wo2
-涴	wo4
-咊	wo5
-和	wo5
-祸	wo5
-汪	wong1
-王	wong2
-皇	wong2
-簧	wong2
-蝗	wong2
-黄	wong2
-往	wong3
-枉	wong3
-旺	wong5
-乌	wu1
-呜	wu1
-圬	wu1
-坞	wu1
-污	wu1
-邬	wu1
-钨	wu1
-吴	wu2
-唬	wu2
-壶	wu2
-弧	wu2
-湖	wu2
-煳	wu2
-狐	wu2
-猢	wu2
-瑚	wu2
-瓠	wu2
-糊	wu2
-胡	wu2
-葫	wu2
-蝴	wu2
-醐	wu2
-鹕	wu2
-坞	wu3
-捂	wu3
-邬	wu3
-恶	wu4
+允	wan3	149306
+陨	wan3	49048
+狁	wan3	545
+尹	wan3	66116
+殒	wan3	7477
+稳	wan3	833141
+运	wan5	1826479
+韵	wan5	228470
+熨	wan5	27198
+屈	wat4	165337
+郁	wat4	72986
+核	wat5	1321706
+鹘	wat5	24505
+役	wik5	145664
+疫	wik5	77343
+莹	wing2	107525
+荧	wing2	10836
+蓥	wing2	1189
+荥	wing2	1741
+茔	wing2	1844
+滢	wing2	23294
+萤	wing2	28490
+嵘	wing2	29727
+蝾	wing2	308
+萦	wing2	31012
+荣	wing2	358919
+潆	wing2	3599
+营	wing2	864986
+永	wing3	497340
+泳	wing5	101498
+颖	wing5	129535
+颍	wing5	58487
+咏	wing5	89297
+莴	wo1	1068
+娲	wo1	16337
+窠	wo1	17773
+挝	wo1	22358
+涡	wo1	33216
+窝	wo1	467941
+埚	wo1	482
+蜗	wo1	60251
+倭	wo1	64676
+锅	wo1	978742
+和	wo2	118878434
+禾	wo2	154038
+禾	wo4	154038
+涴	wo4	321
+和	wo5	118878434
+祸	wo5	200816
+咊	wo5	45
+汪	wong1	207332
+塃	wong1	31
+喤	wong2
+癀	wong2	10225
+遑	wong2	13532
+蟥	wong2	154
+璜	wong2	20847
+鳇	wong2	212
+黄	wong2	2136383
+隍	wong2	2587
+瑝	wong2	305
+王	wong2	3366522
+徨	wong2	4155
+潢	wong2	4253
+篁	wong2	4350
+磺	wong2	43991
+惶	wong2	54945
+凰	wong2	55573
+簧	wong2	61719
+蝗	wong2	74501
+锽	wong2	77
+皇	wong2	818631
+煌	wong2	88582
+往	wong3	2499192
+枉	wong3	58086
+旺	wong5	578413
+污	wu1	142908
+呜	wu1	202329
+乌	wu1	405531
+钨	wu1	55637
+坞	wu1	63877
+邬	wu1	8823
+圬	wu1	914
+煳	wu2	10056
+瑚	wu2	10597
+鹕	wu2	10617
+湖	wu2	1124846
+狐	wu2	167881
+醐	wu2	1779
+糊	wu2	188680
+壶	wu2	213884
+弧	wu2	236785
+瓠	wu2	2786
+猢	wu2	2925
+蝴	wu2	3753
+吴	wu2	570612
+唬	wu2	66173
+葫	wu2	6911
+胡	wu2	834027
+捂	wu3	266992
+坞	wu3	63877
+邬	wu3	8823
+恶	wu4	520605
 嫮	wu5
-岵	wu5
-怙	wu5
-户	wu5
-扈	wu5
-沪	wu5
-祜	wu5
-芋	wu5
-鄂	wu5
-偎	wui1
-煨	wui1
-隈	wui1
-回	wui2
-徊	wui2
-洄	wui2
+扈	wu5	12493
+怙	wu5	1706
+户	wu5	2493060
+鄂	wu5	52189
+祜	wu5	6769
+芋	wu5	78233
+沪	wu5	851047
+岵	wu5	8916
+偎	wui1	18056
+隈	wui1	1917
+煨	wui1	33178
 絗	wui2
-茴	wui2
-蛔	wui2
-鮰	wui2
-会	wui5
-外	wui5
-汇	wui5
-烩	wui5
-完	wun2
-脘	wun2
-剜	wun3
-婉	wun3
-宛	wun3
-惋	wun3
-斡	wun3
-烷	wun3
-琬	wun3
-畹	wun3
-皖	wun3
-碗	wun3
-腕	wun3
-莞	wun3
-蜿	wun3
-豌	wun3
-换	wun5
-活	wut5
-吒	zaa1
-咋	zaa1
-咱	zaa1
-喳	zaa1
-奓	zaa1
-揸	zaa1
-楂	zaa1
-渣	zaa1
-猹	zaa1
-砟	zaa1
-齇	zaa1
-喳	zaa2
-拃	zaa3
-乍	zaa4
-咋	zaa4
-奓	zaa4
-姊	zaa4
-子	zaa4
-搾	zaa4
-柞	zaa4
-榨	zaa4
+洄	wui2	2225
+蛔	wui2	50803
+回	wui2	6341453
+茴	wui2	6506
+徊	wui2	68974
+鮰	wui2	886
+烩	wui5	21984
+会	wui5	58026863
+外	wui5	8587903
+汇	wui5	870912
+脘	wun2	10608
+完	wun2	4639664
+剜	wun3	10468
+腕	wun3	146849
+豌	wun3	1817
+琬	wun3	19053
+蜿	wun3	2285
+宛	wun3	31535
+烷	wun3	31608
+斡	wun3	32355
+惋	wun3	3238
+畹	wun3	42892
+莞	wun3	43722
+皖	wun3	62375
+碗	wun3	812983
+婉	wun3	97627
+换	wun5	3211325
+活	wut5	2974905
+喳	zaa1	10804
+砟	zaa1	15615
+吒	zaa1	20273
+猹	zaa1	212
+奓	zaa1	225
+齇	zaa1	27
+楂	zaa1	3017
+渣	zaa1	394194
+咋	zaa1	584442
+咱	zaa1	659613
+揸	zaa1	7381
+喳	zaa2	10804
+拃	zaa3	130
 溠	zaa4
-炸	zaa4
-秭	zaa4
-笫	zaa4
-紫	zaa4
 苲	zaa4
-诈	zaa4
-轧	zaa4
-鲊	zaa4
 鲝	zaa4
+乍	zaa4	109895
+榨	zaa4	124392
+奓	zaa4	225
+搾	zaa4	248
+鲊	zaa4	428
+柞	zaa4	4542
+炸	zaa4	472513
+咋	zaa4	584442
+诈	zaa4	62485
+轧	zaa4	91052
 厏	zaa5
-斋	zaai1
-债	zaai4
+斋	zaai1	100391
+债	zaai4	512049
 㩟	zaai5
 䍉	zaai5
-寨	zaai5
 攐	zaai5
-砦	zaai5
-窄	zaak3
-责	zaak3
-宅	zaak5
-择	zaak5
-摘	zaak5
-泽	zaak5
-簪	zaam1
-崭	zaam3
-斩	zaam3
-湛	zaam4
-暂	zaam5
-站	zaam5
-蘸	zaam5
-錾	zaam5
-煎	zaan1
-笺	zaan1
-攒	zaan3
-盏	zaan3
-氽	zaan4
-瓒	zaan4
-赞	zaan4
-趱	zaan4
-撰	zaan5
-栈	zaan5
-绽	zaan5
-赚	zaan5
-馔	zaan5
-争	zaang1
-峥	zaang1
-挣	zaang1
-狰	zaang1
-琤	zaang1
-睁	zaang1
-筝	zaang1
-诤	zaang1
-踭	zaang1
-铮	zaang1
+砦	zaai5	14329
+寨	zaai5	214048
+帻	zaak3	1273
+蚱	zaak3	13744
+赜	zaak3	24776
+笮	zaak3	25067
+窄	zaak3	308572
+责	zaak3	324324
+迮	zaak3	3312
+箦	zaak3	496
+啧	zaak3	70640
+择	zaak5	241310
+磔	zaak5	2666
+摘	zaak5	301094
+泽	zaak5	324818
+翟	zaak5	50047
+踯	zaak5	533
+宅	zaak5	599569
+谪	zaak5	6069
+掷	zaak5	84680
+簪	zaam1	14100
+崭	zaam3	16784
+斩	zaam3	291441
+湛	zaam4	43077
+錾	zaam5	23222
+暂	zaam5	379944
+站	zaam5	4876405
+蘸	zaam5	87750
+笺	zaan1	24957
+煎	zaan1	293170
+攒	zaan3	117171
+盏	zaan3	199898
+瓒	zaan4	31913
+氽	zaan4	5207
+趱	zaan4	637
+赞	zaan4	669468
+馔	zaan5	16956
+绽	zaan5	21311
+栈	zaan5	31802
+撰	zaan5	41646
+赚	zaan5	816967
 	zaang1
-诤	zaang4
-杂	zaap5
-铡	zaap5
-闸	zaap5
-扎	zaat3
-札	zaat3
-曱	zaat5
-嘲	zaau1
-找	zaau3
-抓	zaau3
-爪	zaau3
-笊	zaau3
-肘	zaau3
-菷	zaau3
-罩	zaau4
-棹	zaau5
+峥	zaang1	10316
+筝	zaang1	15793
+琤	zaang1	1748
+睁	zaang1	204039
+狰	zaang1	2495
+挣	zaang1	303672
+诤	zaang1	36191
+铮	zaang1	48852
+争	zaang1	937237
+踭	zaang1	959
+诤	zaang4	36191
+眨	zaap3	118443
+咂	zaap3	20807
+匝	zaap3	30752
+铡	zaap5	109636
+牐	zaap5	117
+闸	zaap5	168154
+杂	zaap5	384468
+札	zaat3	34810
+扎	zaat3	605845
+砸	zaat3	750800
+轧	zaat3	91052
+曱	zaat5	856
+嘲	zaau1	166764
+笊	zaau3	10683
+抓	zaau3	2070653
+爪	zaau3	269102
+菷	zaau3	60
+找	zaau3	8427695
+肘	zaau3	96484
+罩	zaau4	237866
 趠	zaau5
-踔	zaau5
-骤	zaau5
 𡯴	zaau5
-剂	zai1
-挤	zai1
-仔	zai3
-崽	zai3
-济	zai3
-跻	zai3
-霁	zai3
-齑	zai3
-制	zai4
-剂	zai4
-掣	zai4
-济	zai4
-祭	zai4
+踔	zaau5	29852
+棹	zaau5	3884
+骤	zaau5	82183
+挤	zai1	656881
+剂	zai1	788837
+跻	zai3	10673
+仔	zai3	1091899
+济	zai3	226003
+霁	zai3	6108
+崽	zai3	84201
+齑	zai3	9378
 穄	zai4
-际	zai4
-滞	zai5
-侧	zak4
-则	zak4
-斟	zam1
-椹	zam1
-砧	zam1
-箴	zam1
-针	zam1
-枕	zam3
-枕	zam4
-浸	zam4
-沉	zam5
-榛	zan1
-津	zan1
-溱	zan1
-獉	zan1
-珍	zan1
-甄	zan1
-真	zan1
-臻	zan1
-蓁	zan1
-螓	zan1
-准	zan3
+𫱝	zai4
+制	zai4	2057042
+祭	zai4	218711
+济	zai4	226003
+掣	zai4	23600
+际	zai4	301940
+剂	zai4	788837
+滞	zai5	165600
+鲗	zak4	130
+侧	zak4	1486856
+仄	zak4	20385
+昃	zak4	6213
+则	zak4	8161904
+斟	zam1	35738
+椹	zam1	493
+箴	zam1	6016
+针	zam1	657985
+砧	zam1	9095
+枕	zam3	231448
+浸	zam4	189952
+枕	zam4	231448
+沉	zam5	536317
+真	zan1	16020066
+珍	zan1	187789
+獉	zan1	217
+蓁	zan1	2708
+榛	zan1	30097
+津	zan1	391827
+臻	zan1	43628
+螓	zan1	5566
+甄	zan1	61528
+溱	zan1	7987
 埻	zan3
-展	zan3
-搌	zan3
-碾	zan3
-蹍	zan3
-辗	zan3
-俊	zan4
-圳	zan4
-峻	zan4
-振	zan4
-晋	zan4
-浚	zan4
-焌	zan4
-竣	zan4
-缙	zan4
-赈	zan4
-进	zan4
-镇	zan4
-隽	zan4
-震	zan4
-骏	zan4
-尽	zan5
-阵	zan5
-增	zang1
-曾	zang1
-赠	zang5
-执	zap4
-汁	zap4
-习	zap5
-袭	zap5
-集	zap5
-卒	zat4
-率	zat4
-质	zat4
-侄	zat5
-疾	zat5
+展	zan3	1601588
+准	zan3	1662405
+辗	zan3	30832
+搌	zan3	625
+碾	zan3	87171
+蹍	zan3	98
+骏	zan4	105592
+赈	zan4	11218
+圳	zan4	13058
+镇	zan4	1694888
+缙	zan4	19931
+晋	zan4	208870
+焌	zan4	260
+竣	zan4	27107
+峻	zan4	28278
+振	zan4	372536
+进	zan4	4814607
+隽	zan4	50504
+俊	zan4	533831
+震	zan4	597051
+浚	zan4	66918
+尽	zan5	1713976
+阵	zan5	788228
+缯	zang1	10229
+增	zang1	1754670
+噌	zang1	21526
+矰	zang1	43
+曾	zang1	4853783
+憎	zang1	65817
+罾	zang1	7225
+捵	zang3
+甑	zang4	37311
+赠	zang5	340001
+执	zap4	306407
+絷	zap4	622
+汁	zap4	666048
+集	zap5	1513931
+习	zap5	158319
+袭	zap5	278799
+椊	zat4
+锧	zat4
+率	zat4	1114208
+卒	zat4	113436
+蟀	zat4	11568
+质	zat4	1614742
+骘	zat4	2787
+摔	zat4	458168
+疾	zat5	386934
+侄	zat5	95470
 侜	zau1
-周	zau1
-啁	zau1
-州	zau1
-洲	zau1
-舟	zau1
-诌	zau1
-诹	zau1
-赒	zau1
-辀	zau1
-邹	zau1
-陬	zau1
-驺	zau1
-鲰	zau1
 鵃	zau1
-帚	zau3
-肘	zau3
-走	zau3
-酒	zau3
-㑇	zau4
-咒	zau4
-奏	zau4
-宙	zau4
-幼	zau4
-揍	zau4
-昼	zau4
-皱	zau4
-绉	zau4
-腠	zau4
-辏	zau4
-僦	zau5
-妯	zau5
-就	zau5
-岫	zau5
-纣	zau5
-胄	zau5
-荮	zau5
-袖	zau5
-酎	zau5
-骤	zau5
-鹫	zau5
-嗟	ze1
-遮	ze1
-姐	ze3
-毑	ze3
-者	ze3
-赭	ze3
-这	ze3
-锗	ze3
-借	ze4
-唶	ze4
-嗻	ze4
-柘	ze4
-蔗	ze4
-鹧	ze4
-榭	ze5
-谢	ze5
-兹	zei1
-咨	zei1
-姿	zei1
-孜	zei1
-孳	zei1
-嵫	zei1
-淄	zei1
-滋	zei1
-甾	zei1
-疵	zei1
-眦	zei1
-睢	zei1
-缁	zei1
-苴	zei1
-觜	zei1
-訾	zei1
-赀	zei1
-资	zei1
-跐	zei1
-辎	zei1
-鎡	zei1
-雌	zei1
-髭	zei1
+赒	zau1	108
+舟	zau1	151395
+驺	zau1	1597
+陬	zau1	1630
+诹	zau1	26190
+洲	zau1	276622
+辀	zau1	34
+鲰	zau1	359
+诌	zau1	3957
+周	zau1	5920956
+邹	zau1	66044
+啁	zau1	693
+州	zau1	903360
+走	zau3	10925488
+酒	zau3	2310770
+帚	zau3	7160
+肘	zau3	96484
+咒	zau4	122809
+宙	zau4	13525
+揍	zau4	141559
+奏	zau4	204637
+幼	zau4	226572
+辏	zau4	26703
+昼	zau4	29930
+皱	zau4	321971
+腠	zau4	3599
+㑇	zau4	62
+绉	zau4	7334
+岫	zau5	16736
+胄	zau5	22003
+妯	zau5	248
+鹫	zau5	26510
+袖	zau5	346551
+荮	zau5	49
+就	zau5	65012716
+酎	zau5	689
+纣	zau5	7376
+骤	zau5	82183
+僦	zau5	9398
+遮	ze1	182461
+啫	ze1	27790
+嗟	ze1	79054
+毑	ze3	1578
+姐	ze3	1998155
+锗	ze3	22539
+者	ze3	3409854
+赭	ze3	6688
+这	ze3	73252887
+嗻	ze4	1076
+借	ze4	1206612
+唶	ze4	142
+蔗	ze4	22632
+啫	ze4	27790
+鹧	ze4	5937
+柘	ze4	9982
+谢	ze5	642625
+榭	ze5	78308
 魮	zei1
-龇	zei1
-姊	zei3
-子	zei3
-紫	zei3
-伺	zei5
-似	zei5
-俟	zei5
-兕	zei5
-叙	zei5
-嗣	zei5
-姒	zei5
-字	zei5
-寺	zei5
-屿	zei5
-巳	zei5
-序	zei5
-汜	zei5
-溆	zei5
-牸	zei5
-祀	zei5
-耜	zei5
-聚	zei5
-自	zei5
-饲	zei5
-之	zi1
-侏	zi1
-吱	zi1
-支	zi1
-朱	zi1
-枙	zi1
-枝	zi1
-株	zi1
-椥	zi1
-楮	zi1
-洙	zi1
-猪	zi1
-珠	zi1
-知	zi1
-肢	zi1
-脂	zi1
-芝	zi1
-茱	zi1
-蛛	zi1
-蜘	zi1
-诛	zi1
-诸	zi1
-邾	zi1
-酯	zi1
-铢	zi1
-主	zi3
-只	zi3
-址	zi3
-拄	zi3
-指	zi3
-旨	zi3
-止	zi3
-煮	zi3
-砫	zi3
-纸	zi3
-者	zi3
-趾	zi3
-厔	zi4
-彘	zi4
-志	zi4
-挚	zi4
-智	zi4
-曙	zi4
-梽	zi4
-注	zi4
-炷	zi4
+淄	zei1	10310
+眦	zei1	15803
+辎	zei1	1810
+甾	zei1	18561
+疵	zei1	20363
+滋	zei1	206280
+兹	zei1	223347
+跐	zei1	226
+髭	zei1	2305
+姿	zei1	233193
+苴	zei1	2460
+龇	zei1	32023
+赀	zei1	3348
+鎡	zei1	37
+睢	zei1	37672
+咨	zei1	38033
+孜	zei1	42638
+孳	zei1	6287
+嵫	zei1	6400
+觜	zei1	746
+雌	zei1	78943
+缁	zei1	85049
+资	zei1	903521
+訾	zei1	9301
+姊	zei3	123247
+笫	zei3	32886
+子	zei3	4674640
+秭	zei3	518
+紫	zei3	768842
+叙	zei5	100290
+嗣	zei5	109950
+溆	zei5	11588
+似	zei5	1173198
+汜	zei5	12642
+牸	zei5	127
+耜	zei5	1419
+寺	zei5	260487
+俟	zei5	26878
+伺	zei5	28838
+祀	zei5	31973
+姒	zei5	3283
+兕	zei5	3372
+字	zei5	3389991
+序	zei5	495059
+屿	zei5	52785
+聚	zei5	568457
+自	zei5	6757888
+饲	zei5	83683
+巳	zei5	84900
+椥	zi1	1124
+酯	zi1	137624
+猪	zi1	1409322
+邾	zi1	1896
+之	zi1	20702277
+蛛	zi1	20717
+芝	zi1	210178
+知	zi1	2144891
+支	zi1	2693426
+蜘	zi1	2762
+茱	zi1	29664
+吱	zi1	30858
+枝	zi1	318755
+铢	zi1	32297
+脂	zi1	370797
+朱	zi1	375654
+枙	zi1	38
+楮	zi1	4497
+侏	zi1	5076
+株	zi1	567225
+诸	zi1	601299
+珠	zi1	623713
+洙	zi1	67609
+肢	zi1	80876
+诛	zi1	82771
+只	zi3	12513893
+纸	zi3	1756432
+址	zi3	266436
+拄	zi3	30408
+指	zi3	3355239
+者	zi3	3409854
+主	zi3	4249958
+止	zi3	690330
+趾	zi3	78077
+砫	zi3	84
+煮	zi3	877477
+旨	zi3	96546
 痓	zi4
-痣	zi4
-稚	zi4
-织	zi4
-置	zi4
-署	zi4
-至	zi4
-致	zi4
-著	zi4
-蛀	zi4
-觯	zi4
-贽	zi4
-踬	zi4
-轾	zi4
-郅	zi4
-铸	zi4
-雉	zi4
-驻	zi4
-鸷	zi4
-住	zi5
-信	zi5
-峙	zi5
-治	zi5
-痔	zi5
-箸	zi5
-勺	ziek3
-嚼	ziek3
-着	ziek3
-雀	ziek3
-着	ziek5
-将	zieng1
-张	zieng1
-樟	zieng1
-章	zieng1
-奖	zieng3
-掌	zieng3
-桨	zieng3
-蒋	zieng3
-长	zieng3
-仗	zieng4
-将	zieng4
-帐	zieng4
-涨	zieng4
-胀	zieng4
-账	zieng4
-酱	zieng4
-障	zieng4
-丈	zieng5
-仗	zieng5
-像	zieng5
-匠	zieng5
-杖	zieng5
-橡	zieng5
-象	zieng5
-剿	zieu3
-楸	zieu3
-即	zik4
-只	zik4
-积	zik4
-织	zik4
-绩	zik4
-职	zik4
-脊	zik4
-迹	zik4
-借	zik5
-值	zik5
-夕	zik5
-寂	zik5
-席	zik5
-直	zik5
-籍	zik5
-占	zim1
-尖	zim1
-沾	zim1
-玷	zim1
-瞻	zim1
-粘	zim1
-苫	zim1
-詹	zim1
-谵	zim1
-占	zim4
-渐	zim5
+致	zi4	1019768
+注	zi4	1174228
+雉	zi4	12243
+驻	zi4	1276661
+铸	zi4	131634
+炷	zi4	13334
+曙	zi4	15122
+置	zi4	1813326
+郅	zi4	182988
+贽	zi4	1866
+鸷	zi4	19470
+轾	zi4	196
+緻	zi4	201
+蛀	zi4	20902
+彘	zi4	2191
+署	zi4	241272
+挚	zi4	27565
+智	zi4	357833
+稚	zi4	36107
+织	zi4	362867
+觯	zi4	50206
+厔	zi4	57
+痣	zi4	57828
+志	zi4	596795
+踬	zi4	759
+著	zi4	878862
+梽	zi4	91
+至	zi4	9214980
+箸	zi5	10499
+治	zi5	1249249
+峙	zi5	25498
+痔	zi5	38764
+住	zi5	5674865
+斮	ziek3
+嚼	ziek3	120182
+雀	ziek3	134461
+勺	ziek3	164842
+铄	ziek3	2517
+酌	ziek3	29591
+杓	ziek3	43634
+着	ziek3	45143802
+灼	ziek3	63707
+芍	ziek3	66076
+妁	ziek3	796
+着	ziek5	45143802
+璋	zieng1	13449
+嫜	zieng1	2315
+浆	zieng1	288068
+樟	zieng1	31805
+獐	zieng1	3669
+彰	zieng1	38906
+漳	zieng1	40862
+将	zieng1	43057397
+章	zieng1	581089
+张	zieng1	6157733
+蟑	zieng1	6842
+礃	zieng3
+蒋	zieng3	206701
+仉	zieng3	378
+掌	zieng3	778552
+奖	zieng3	870492
+长	zieng3	8800220
+桨	zieng3	88043
+瘴	zieng4	13974
+胀	zieng4	141747
+涨	zieng4	1551489
+幛	zieng4	1604
+仗	zieng4	239748
+嶂	zieng4	24187
+酱	zieng4	361507
+账	zieng4	367755
+将	zieng4	43057397
+怅	zieng4	6583
+障	zieng4	70392
+帐	zieng4	877831
+杖	zieng5	151281
+象	zieng5	1681833
+仗	zieng5	239748
+丈	zieng5	301535
+橡	zieng5	33970
+匠	zieng5	74631
+像	zieng5	8411623
+楸	zieu3	12680
+剿	zieu3	35232
+踖	zik4
+稷	zik4	12025
+蹠	zik4	125
+只	zik4	12513893
+湜	zik4	1384
+鶺	zik4	152
+迹	zik4	152537
+帜	zik4	18611
+跖	zik4	19090
+摭	zik4	2202
+勣	zik4	2270
+蹐	zik4	33
+躇	zik4	3546
+织	zik4	362867
+炙	zik4	37225
+即	zik4	4635250
+瘠	zik4	4931
+积	zik4	539477
+炽	zik4	65389
+鲫	zik4	7203
+职	zik4	757269
+脊	zik4	76722
+绩	zik4	99360
+寂	zik5	111470
+借	zik5	1206612
+汐	zik5	17646
+直	zik5	1933805
+值	zik5	2802005
+籍	zik5	389551
+席	zik5	392006
+殖	zik5	80744
+藉	zik5	83712
+穸	zik5	9073
+埴	zik5	959
+夕	zik5	98307
+玷	zim1	2094
+苫	zim1	21946
+沾	zim1	234325
+尖	zim1	374732
+瞻	zim1	38799
+谵	zim1	4660
+粘	zim1	508727
+占	zim1	5480031
+詹	zim1	85120
+占	zim4	5480031
+渐	zim5	424596
 䏝	zin1
-专	zin1
-戋	zin1
-旃	zin1
-毡	zin1
-煎	zin1
-砖	zin1
-笺	zin1
 篅	zin1
-遄	zin1
-邅	zin1
-颛	zin1
-颤	zin1
 鱣	zin1
-鹯	zin1
-剪	zin3
-啭	zin3
-戬	zin3
-谫	zin3
-践	zin3
-转	zin3
-战	zin4
-溅	zin4
-牮	zin4
-箭	zin4
-荐	zin4
-践	zin4
-转	zin4
-颤	zin4
-饯	zin4
-传	zin5
-篆	zin5
-贱	zin5
-侦	zing1
-征	zing1
-晶	zing1
-正	zing1
-睛	zing1
-精	zing1
-蒸	zing1
-贞	zing1
-井	zing3
-整	zing3
-政	zing4
-正	zing4
-症	zing4
-证	zing4
-净	zing5
-郑	zing5
-静	zing5
-折	zip3
-接	zip3
-恰	zip5
-捷	zip5
-折	zit3
-浙	zit3
-截	zit5
-僬	ziu1
-劁	ziu1
-憔	ziu1
-招	ziu1
-朝	ziu1
-椒	ziu1
-樵	ziu1
-焦	ziu1
-瞧	ziu1
-礁	ziu1
-蕉	ziu1
-蘸	ziu1
-谯	ziu1
-鹪	ziu1
-嘦	ziu4
-曌	ziu4
-照	ziu4
+遄	zin1	10200
+戋	zin1	1063
+颤	zin1	154708
+旃	zin1	24495
+笺	zin1	24957
+鹯	zin1	25
+煎	zin1	293170
+毡	zin1	43445
+砖	zin1	452474
+颛	zin1	5554
+邅	zin1	59
+专	zin1	743811
+践	zin3	18666
+啭	zin3	1991
+谫	zin3	289
+戬	zin3	3142
+转	zin3	5637088
+剪	zin3	609643
+溅	zin4	107928
+颤	zin4	154708
+践	zin4	18666
+战	zin4	2281617
+牮	zin4	233
+饯	zin4	3741
+箭	zin4	413423
+荐	zin4	46585
+转	zin4	5637088
+传	zin5	1980953
+篆	zin5	20667
+贱	zin5	695342
+	zing1
+祯	zing1	10779
+桢	zing1	12459
+钲	zing1	15005
+怔	zing1	193240
+旌	zing1	20597
+帧	zing1	255088
+蒸	zing1	334845
+晶	zing1	340951
+睛	zing1	39765
+征	zing1	470659
+菁	zing1	53399
+正	zing1	5486379
+侦	zing1	64070
+贞	zing1	90919
+精	zing1	972971
+整	zing3	1390482
+拯	zing3	7307
+井	zing3	759271
+肼	zing3	8416
+证	zing4	2652143
+正	zing4	5486379
+政	zing4	579271
+症	zing4	998453
+净	zing5	1380450
+阱	zing5	3842
+郑	zing5	438878
+静	zing5	826823
+靖	zing5	85427
+摺	zip3	1055476
+詟	zip3	114
+折	zip3	1201290
+褶	zip3	27100
+媫	zip3	40
+接	zip3	4335624
+洽	zip5	103816
+睫	zip5	18186
+捷	zip5	182701
+恰	zip5	269661
+婕	zip5	41217
+䇽	zit3
+讦	zit3	1132
+折	zit3	1201290
+蜇	zit3	12387
+哲	zit3	127788
+淅	zit3	13290
+咄	zit3	13976
+浙	zit3	224293
+节	zit3	2419023
+拙	zit3	43592
+黠	zit3	6029
+喆	zit3	65972
+茁	zit3	7831
+黜	zit3	8149
+栉	zit3	8578
+截	zit5	423589
+绝	zit5	694899
+憔	ziu1	10004
+鹪	ziu1	11203
+椒	ziu1	169067
+朝	ziu1	1720059
+招	ziu1	1740670
+瞧	ziu1	372963
+樵	ziu1	38274
+僬	ziu1	3995
+焦	ziu1	430852
+劁	ziu1	528
+礁	ziu1	66879
+蕉	ziu1	72951
+蘸	ziu1	87750
+谯	ziu1	9836
 醀	ziu4
-召	ziu5
-诏	ziu5
-赵	ziu5
-邵	ziu5
-佐	zo3
-俎	zo3
-左	zo3
-诅	zo3
-阻	zo3
-做	zo5
-助	zo5
-唑	zo5
-坐	zo5
-座	zo5
-哉	zoi1
-栽	zoi1
-灾	zoi1
-宰	zoi3
-载	zoi3
-再	zoi4
-载	zoi4
-傤	zoi5
-在	zoi5
-捉	zok3
-桌	zok3
-凿	zok5
-择	zok5
-浊	zok5
-镯	zok5
-庄	zong1
-桩	zong1
-装	zong1
-赃	zong1
-壮	zong4
-葬	zong4
-撞	zong5
-昨	zong5
-状	zong5
-脏	zong5
-藏	zong5
-租	zou1
-糟	zou1
-遭	zou1
-早	zou3
-枣	zou3
-祖	zou3
-组	zou3
-蚤	zou3
-做	zou4
-灶	zou4
-唣	zou5
-柞	zou5
-皂	zou5
-祚	zou5
-造	zou5
-阼	zou5
-椎	zui1
-追	zui1
-锥	zui1
-隹	zui1
-骓	zui1
-咀	zui3
-嘴	zui3
-觜	zui3
-啐	zui4
-最	zui4
-槜	zui4
-赘	zui4
-醉	zui4
-坠	zui5
-缒	zui5
-罪	zui5
-膇	zui5
-赘	zui5
-嘱	zuk4
-烛	zuk4
-祝	zuk4
-竹	zuk4
-筑	zuk4
-粥	zuk4
-足	zuk4
-俗	zuk5
-族	zuk5
-续	zuk5
-轴	zuk5
-逐	zuk5
-尊	zun1
-撙	zun1
-樽	zun1
-遵	zun1
-鳟	zun1
-攥	zun3
-纂	zun3
-缵	zun3
-躜	zun3
-钻	zun4
-旋	zun5
-中	zung1
-宗	zung1
-忠	zung1
-棕	zung1
-盅	zung1
-纵	zung1
-终	zung1
-综	zung1
-舂	zung1
-踪	zung1
-钟	zung1
-鬃	zung1
-总	zung3
-种	zung3
-肿	zung3
-中	zung4
-众	zung4
-种	zung4
-粽	zung4
-纵	zung4
-仲	zung5
-讼	zung5
-诵	zung5
-重	zung5
-颂	zung5
+照	ziu4	1700910
+曌	ziu4	2152
+嘦	ziu4	377
+召	ziu5	144701
+赵	ziu5	526063
+邵	ziu5	68028
+诏	ziu5	89171
+阻	zo3	183452
+左	zo3	2033323
+佐	zo3	329982
+诅	zo3	4026
+俎	zo3	4906
+做	zo5	23494662
+坐	zo5	3800762
+座	zo5	4292815
+助	zo5	614194
+唑	zo5	71893
+哉	zoi1	131257
+栽	zoi1	220733
+灾	zoi1	242447
+载	zoi3	1940880
+宰	zoi3	218035
+再	zoi4	15399566
+载	zoi4	1940880
+在	zoi5	197672850
+傤	zoi5	223
+捉	zok3	189784
+桌	zok3	644930
+作	zok3	7189397
+择	zok5	241310
+镯	zok5	5647
+凿	zok5	62321
+浊	zok5	78555
+擢	zok5	8364
+濯	zok5	8759
+臧	zong1	20510
+装	zong1	2883466
+赃	zong1	31717
+桩	zong1	390857
+庄	zong1	465843
+妆	zong1	510198
+牂	zong1	541
+奘	zong1	8434
+壮	zong4	232680
+脏	zong4	236413
+葬	zong4	92980
+藏	zong5	1036630
+状	zong5	1250124
+脏	zong5	236413
+昨	zong5	254077
+怍	zong5	3477
+撞	zong5	728455
+糟	zou1	158874
+遭	zou1	764708
+租	zou1	877155
+蚤	zou3	23219
+祖	zou3	310595
+早	zou3	3857863
+组	zou3	6693387
+枣	zou3	93488
+灶	zou4	221090
+做	zou4	23494662
+祚	zou5	14428
+阼	zou5	1470
+柞	zou5	4542
+唣	zou5	464
+皂	zou5	67427
+造	zou5	697421
+追	zui1	1663868
+椎	zui1	175036
+隹	zui1	28485
+骓	zui1	3679
+锥	zui1	83950
+嘴	zui3	1451793
+咀	zui3	55038
+觜	zui3	746
+啐	zui4	14404
+最	zui4	19077013
+槜	zui4	40
+赘	zui4	59852
+醉	zui4	619055
+膇	zui5	144
+缒	zui5	15299
+坠	zui5	231361
+赘	zui5	59852
+罪	zui5	827194
+足	zuk4	1473404
+祝	zuk4	1526790
+筑	zuk4	228186
+竺	zuk4	34264
+嘱	zuk4	40538
+粥	zuk4	457471
+烛	zuk4	49968
+竹	zuk4	552477
+瘃	zuk4	91
+舳	zuk5	10407
+镞	zuk5	1853
+俗	zuk5	202367
+牍	zuk5	23766
+逐	zuk5	300542
+轴	zuk5	320815
+续	zuk5	456550
+族	zuk5	979281
+樽	zun1	31541
+尊	zun1	480362
+遵	zun1	66314
+鳟	zun1	748
+撙	zun1	897
+纂	zun3	15188
+缵	zun3	2102
+躜	zun3	296
+攥	zun3	45774
+钻	zun4	519019
+旋	zun5	195347
+钻	zun5	519019
+䝋	zung1
+钟	zung1	1058252
+螽	zung1	1264
+鬃	zung1	19007
+淙	zung1	20588
+综	zung1	297660
+纵	zung1	306436
+忠	zung1	330714
+盅	zung1	44390
+舂	zung1	4935
+棕	zung1	58993
+琮	zung1	6434
+踪	zung1	64794
+中	zung1	65460099
+终	zung1	659587
+宗	zung1	675931
+枞	zung1	8888
+摐	zung2	36
+种	zung3	14993403
+总	zung3	6443030
+肿	zung3	962001
+众	zung4	1009203
+种	zung4	14993403
+纵	zung4	306436
+粽	zung4	52657
+中	zung4	65460099
+颂	zung5	107140
+重	zung5	4004920
+讼	zung5	41914
+仲	zung5	433568
+诵	zung5	78457
+啜	zut4	16918
+嘬	zut4	7178
+
+## 以下单字拼音为额外补充
+亜	aa4	2367
+哎	aai1	1406038
+哎	aai2	1406038
+䓨	aang1
+隘	ai4	12070
+耙	baa3	80958
+㻞	baan1
+丬	baan5	267
+扒	baat3	185483
+丷	baat3	397
+仈	baat3	63
+濒	ban1	12777
+蹦	bang1	191207
+边	bin3	3385425
+亪	bin4
+仒	bing1	53
+仌	bing1	69
+亳	bok3	4232
+撲	bok4	20374
+仢	bok5
+磗	bok5
+铂	bok5	113598
+箔	bok5	18066
+鲌	bok5	194
+舶	bok5	26242
+亳	bok5	4232
+泊	bok5	84033
+僕	buk5	8716
+衩	caa1	13360
+丳	caan3
+仯	caau4
+仦	caau4	51
+荠	cai2	2076
+亝	cai2	39
+柒	cat4	23144
+揪	cau1	147408
+嘁	ci1	13600
+㕑	ci2
+乨	ci3
+仧	cieng2
+仩	cieng2	158
+呛	cieng4	122192
+嘁	cik4	13600
+醊	cit3
+切	cit3	1297335
+沏	cit3	15367
+啜	cit3	16918
+辄	cit3	21367
+撤	cit3	341586
+惙	cit3	38
+辍	cit3	40842
+辙	cit3	42097
+缀	cit3	63514
+澈	cit3	85883
+簇	cuk4	55180
+亍	cuk4	61123
+掸	daa5	15248
+亣	daai5	58
+㐤	daan1
+丆	daan1	81
+亶	daan5	445
+丼	dam3	1692
+䏙	dam4
+𠱁	dam4
+𧨾	dam4
+髧	dam4	58
+踸	dam5
+𧿒	dam5
+吨	dan1	3017990
+盹	dan3	11038
+瞪	dang1	314214
+乧	dau3	26
+啲	di5	51707
+掂	dim5	90462
+亇	ding1	1606
+叼	diu1	218680
+怼	dui3	50744
+蹲	dun1	418409
+仮	faan3	1312
+瞓	fan4	25910
+乀	fat4	1400
+仏	fat5	568
+弗	fik2	348917
+拂	fik2	92027
+弗	fik5	348917
+拂	fik5	92027
+夥	fo3	34922
+霍	fok3	190269
+乥	fu2
+乶	fu3
+乕	fu3	43
+幅	fuk4	2389602
+乫	gaa1
+㗎	gaa4
+丯	gaai4
+㹴	gaang1
+㩒	gam5
+扲	gam5	59
+淈	gat5	43
+奇	gei1	1314345
+其	gei1	16606563
+丌	gei1	2179
+仐	giem1	38
+缰	gieng1	20625
+乆	gieu3	202
+乣	gieu3	477
+丮	gik4
+亰	ging1	143
+仱	ging1	182
+兢	ging1	6350
+㐖	git3
+丩	giu1	29
+胳	gok3	6813
+乹	gon1
+亁	gon1	437
+仠	gon3	50
+嗗	gut2	364
+丱	gwaan4
+亀	gwai1	1556
+乤	haa5
+丅	haa5	1546
+掐	haap5	162775
+丂	haau3	74
+憨	ham1	82343
+炠	hap2
+烚	hap2	238
+㔩	hap5
+䐦	hap5
+盍	hap5	10146
+掐	hap5	162775
+阖	hap5	18237
+溘	hap5	204
+匼	hap5	35
+閤	hap5	521
+榼	hap5	66
+㸸	hau5
+噷	hiem2	125
+亯	hieng3	520
+湆	hiep3
+㐀	hieu1
+仚	hin1	162
+锨	hin1	17207
+谴	hin3	40973
+捍	hon3	16858
+捍	hon5	16858
+吭	hong1	49504
+肮	hong2	43226
+壕	hou2	27387
+仜	hung2
+曳	jai2	26908
+乑	jam2
+亻	jan2	4818
+仭	jan5	136
+丨	jat4	21744
+壹	jat4	96684
+丣	jau3
+亴	jau5
+亱	je5	71
+亐	ji1
+逾	ji2	203573
+隅	ji2	42350
+乁	ji2	60
+予	ji3	316328
+亄	ji4
+逾	ji5	203573
+䇦	jieng1
+嚷	jieng3	77163
+嚷	jieng5	77163
+乵	jim3
+奄	jim3	5971
+蔫	jin1	16351
+鸳	jin1	8303
+炫	jin2	313542
+赢	jing2	1668896
+乚	jit3	74
+庸	jung1	68181
+挍	kaau2	32
+㸸	kau4
+枢	kei1	31408
+丠	kei1	34
+畸	kei1	41581
+亓	kei2	22750
+𢲈	kik2
+揢	kik2	77
+乪	kik4	45
+仱	kim2	182
+黔	kim2	82281
+乹	kin2
+遏	kit3	16935
+亅	kit3	229
+乢	koi4
+吭	kong4	49504
+刽	kui4	2582
+丨	kwan3	21744
+摎	laau2
+仂	lak5	5166
+檩	lam3	2082
+冧	lam4	8138
+亃	lan2
+紊	lan5	13089
+咧	le1	285605
+咧	le2	285605
+咧	le3	285605
+咧	le4	285605
+𦧷	liem3
+両	lieng3	990
+雳	lik4	3380
+仂	lik5	5166
+亷	lim2	29
+咧	lit5	285605
+嘹	liu2	2780
+胳	lok3	6813
+㴖	lok5
+啷	long4	19992
+阆	long5	13987
+蒗	long5	178
+晾	long5	74924
+莨	long5	7585
+崀	long5	831
+擂	lui2	31901
+蟆	maa3	101509
+㓦	mak4
+靡	mei2	53503
+亹	mei3	68
+咪	mi1	394187
+咪	mi2	394187
+眯	mi5	152490
+咪	mi5	394187
+螟	ming2	9786
+仫	mo1	287
+蟆	mok3	101509
+瘼	mok3	639
+寞	mok3	64668
+瘼	mok5	639
+亾	mong2	685
+穆	muk5	182413
+苜	muk5	2386
+霂	muk5	259
+钼	muk5	64061
+睦	muk5	81403
+沐	muk5	85256
+亹	mun2	68
+檬	mung4	47309
+您	nei3	4560428
+匿	nei4	21346
+跴	ngaai3	41
+哎	ngaai5	1406038
+啮	ngaat5	12270
+齧	ngaat5	32
+毅	ngai5	64815
+扲	ngam2	59
+拰	ngam5	335
+仁	ngan4	592006
+岌	ngap5	3388
+屹	ngat5	5146
+㒖	ngau3
+吽	ngau5	6819
+肮	ngong1	43226
+𢆡	nien4
+㖏	nik4
+㧰	nik4
+掿	nik4	49
+慝	nik5	1196
+匿	nik5	21346
+昵	nik5	36072
+搦	nik5	546
+拧	ning5	206355
+㐡	no5
+扒	paa1	185483
+趴	paa1	304000
+扒	paa2	185483
+耙	paa2	80958
+爬	paa2	909062
+徘	paai2	10589
+濒	pan2	12777
+扒	pat5	185483
+拼	ping4	818379
+丿	pit3	4820
+剥	pok3	165554
+墣	pok5	94
+螃	pong2	2775
+徘	pui2	10589
+乷	saa1
+仨	saa1	58982
+啥	saa4	1978372
+甥	saang1	5589
+丗	sai4	1572
+秫	sat5	1093
+枢	si1	31408
+酗	si4	1805
+亊	si5	2872
+柿	si5	60853
+丄	sieng5	990
+乭	sik5
+阐	sim2	16800
+亶	sin5	445
+乗	sing2	1196
+乗	sing5	1196
+仨	slaam1	58982
+仐	slaan4	38
+嘶	slai1	108798
+嘶	slei1	108798
+亖	slei4	167
+𤗈	sliep4
+亗	slui4
+乺	so3
+亶	taan3	445
+𠃮	tam3
+𥧹	tam3
+凼	tam3	21382
+窞	tam3	98
+亠	tau2	145
+㐁	tim3
+乇	tok3	38301
+仛	tok3	72
+仐	tou1	38
+㐅	ung3
+丒	ung3	112
+紊	wan3	13089
+揾	wan3	8427700
+愠	wan4	20101
+酝	wan4	30399
+缊	wan4	305
+蕴	wan4	54307
+韫	wan4	7699
+蘊	wan4	815
+韞	wan4	86
+诨	wan5	32526
+恽	wan5	4499
+郓	wan5	4571
+哕	wok3	1264
+蠖	wok5	21980
+彟	wok5	284
+矱	wok5	43
+镬	wok5	7435
+亝	zaai1	39
+乇	zaak5	38301
+鸩	zam4	19623
+酖	zam4	56
+怎	zam4	865667
+朕	zam5	223515
+亼	zap5	352
+亽	zap5	475
+挃	zat4
+揤	zat5
+蒺	zat5	285
+膣	zat5	328
+窒	zat5	46774
+嫉	zat5	48853
+桎	zat5	901
+籽	zei3	197777
+𫱝	zei4
+唧	zi1	11515
+滓	zi3	9295
+乼	zi4
+丶	zi4	57049
+乿	zi5	119
+唧	zik4	11515
+植	zik5	223490
+丼	zing3	1692
+乴	zit3
+擳	zit4
+唧	zit4	11515
+滓	zoi3	9295
+丵	zok5	30
+沮	zui3	23269
+簇	zuk5	55180
+蹲	zun1	418409
