@@ -1,0 +1,292 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 阳江话方言熟语, 由 Lumen 手工整理, 使用简陋的工具生成
+# 部分存在读音缺失文字，但能从粤语中能找到的词汇则使用粤语词汇
+# 如发现存在错误读音, 请告知修改
+#
+# 参考网站:
+#   - https://jyut.net
+#   - https://www.zdic.net
+#   - https://www.hanyuguoxue.com
+#   - https://shyyp.net
+#
+# 熟语来源: 黄伯荣 《广东阳江方言研究》（2018，中山大学）
+# 不收录的情况:
+#     - 部分和普通话书面语一致的词汇
+#     - 有读音但缺失文字而且无法从粤语找到的词汇
+#
+# Author: Lumen <lumen01@qq.com>
+#
+
+---
+name: "jienggong.idioms"
+version: "2024.07.17"
+sort: by_weight
+...
+
+废柴	fai4 caai2	100000
+鸡颈	gai1 ging3	100000
+托水	tok3 sui3	100000
+白鸽眼	baak5 gaap3 ngaan3	100000
+煲猪肚	bou1 zi1 tou3	100000
+打保头	daa3 bou3 tau2	100000
+电灯胆	din5 dang1 daam3	100000
+渡仔佬	dou5 zai3 lou3	100000
+忽必烈	fat4 bit3 lit5	100000
+放白鸽	fong4 baak5 gaap3	100000
+过渡仔	go4 dou5 zai3	100000
+讲虾仔	gong3 haa1 zai3	100000
+二世祖	ji5 sai4 zou3	100000
+冇舵船	mou3 taai3 sin2	100000
+世界肉	sai4 gaai4 juk5	100000
+天井鸭	tin1 zing3 aap3	100000
+白狗争风	baak5 gau3 zaang1 fung1	100000
+𫣶贼打劫	bang5 cak5 daa3 gip3	100000
+𠕳水过镬	dap4 sui3 go4 wok5	100000
+独竹成林	duk5 zuk4 sing2 lam2	100000
+吃人骨灰	hik4 jan2 gwat4 fui1	100000
+看风驶𢃇	hon4 fung1 sai3 lei3	100000
+看米下水	hon4 mai3 haa3 sui3	100000
+一口系脷	jat4 hau3 hai5 lei5	100000
+肉烂采汤	juk5 laan5 coi3 tong1	100000
+六月落霜	luk5 jit5 lok5 song1	100000
+米煮成饭	mai3 zi3 sing2 faan5	100000
+戆婆等轿	ngong5 po2 dang3 giu5	100000
+识法犯法	sik4 faat3 faan5 faat3	100000
+新香旧臭	slan1 hieng1 gieu5 cau4	100000
+淡水长流	taam3 sui3 cieng2 lau2	100000
+睇𩠌食饭	tai3 slung4 sik5 faan5	100000
+挖肉做疮	waat3 juk5 zou4 cong1	100000
+补被补紧席	bou3 pei3 bou3 gan3 zik5	100000
+本地姜无辣	bun3 dei5 gieng1 mou2 laat5	100000
+出世遇黄巢	cat4 sai4 ji5 wong2 caau2	100000
+打死狗讲价	daa3 slei3 gau3 gong3 gaa4	100000
+饭熟无可忍	faan5 suk5 mou2 ho3 jan3	100000
+夹估买老牛	gap3 gu3 maai3 lou3 ngau2	100000
+狗死狗虱亡	gau3 slei3 gau3 sat4 mong2	100000
+赶狗入穷巷	gon3 gau3 jap5 kung2 hong5	100000
+讲笑讲成真	gong3 sliu4 gong3 sing2 zan1	100000
+故意踏差鞋	gu4 ji4 daap5 caa1 haai2	100000
+鲎壳𠕳无起	hau5 hok3 dap4 mou2 hei3	100000
+吃狗无持毛	hik4 gau3 mou2 ci2 mou2	100000
+看鬼无出相	hon4 gwai3 mou2 cat4 slieng4	100000
+好心无用斋	hou3 slam1 mou2 jung5 zaai1	100000
+人情紧过债	jan2 cing2 gan3 go4 zaai4	100000
+二八乱穿衣	ji5 baat3 lun5 cin1 ji1	100000
+二一添作五	ji5 jat4 tim1 zok3 ung3	100000
+阉鸡阉出肠	jim1 gai1 jim1 cat4 cieng2	100000
+老鼠记谷种	lou3 si3 gei4 guk4 zung3	100000
+雷公打豆腐	lui2 gung1 daa3 dau5 fu5	100000
+窿背佬下坎	lung4 bui4 lou3 haa3 ham4	100000
+马屎𫣶官威	maa3 si3 bang5 gun1 wai1	100000
+米筛遮大伯	mai3 sai1 ze1 daai5 baak3	100000
+无声狗咬人	mou2 sing1 gau3 ngaau3 jan2	100000
+无死甩层皮	mou2 slei3 lat4 cang2 pei2	100000
+冇窿挖出蛤	mou3 lung1 waat3 cat4 gap4	100000
+冇隆扲出鳝	mou3 lung2 ngam2 cat4 sin3	100000
+冇手安出脚	mou3 sau3 on1 cat4 giek3	100000
+危险过剃头	ngai2 him3 go4 tai4 tau2	100000
+便宜冇好嘢	pin2 ji2 mou3 hou3 je3	100000
+平宜无出外	ping2 ji2 mou2 cat4 wui5	100000
+平宜无好嘢	ping2 ji2 mou2 hou3 je3	100000
+杀人无使刀	saat3 jan2 mou2 sai3 dou1	100000
+杀人无眨眼	saat3 jan2 mou2 zaap3 ngaan3	100000
+心坚石凿穿	slam1 gin1 sik5 zok5 cin1	100000
+死过虾㑷曲	slei3 go4 haa1 nang3 kuk4	100000
+想快无得撚	slieng3 faai4 mou2 dak4 nan3	100000
+偷都太爷银	tau1 dou1 taai4 je2 ngan2	100000
+芋呷作蛇打	wu5 haap3 zok3 se2 daa3	100000
+赚钱买花戴	zaan5 cin2 maai3 faa1 daai4	100000
+周身卜碌刀	zau1 san1 buk4 luk4 dou1	100000
+知死无瞇眼	zi1 slei3 mou2 mai5 ngaan3	100000
+坐得高望得远	co3 dak4 gou1 mong5 dak4 jin3	100000
+番鬼佬屎都香	faan1 gwai3 lou3 si3 dou1 hieng1	100000
+家丑无好外扬	gaa1 cau3 mou2 hou3 wui5 jieng2	100000
+隔离屋饭焦香	gaak3 lei2 uk4 faan5 ziu1 hieng1	100000
+棺材也要锯角	gun1 coi2 je3 jiu4 gei4 gok3	100000
+看见都黄鳝尾	hon4 gin4 dou1 wong2 sin3 mei3	100000
+一粒米都爆罂	jat4 nap4 mai3 dou1 baau4 aang1	100000
+一停货一停钱	jat4 ting2 fo4 jat4 ting2 cin2	100000
+有你讲冇倩话	jau3 nei3 gong3 mou3 slin4 waa5	100000
+龙床无敌狗窦	lung2 cong2 mou2 dik5 gau3 dau4	100000
+买炮仗请人放	maai3 paau4 zieng5 cing3 jan2 fong4	100000
+卖麻糖舐巴掌	maai5 maa2 tong2 saai3 baa1 zieng3	100000
+明人无做暗事	ming2 jan2 mou2 zou4 am4 si5	100000
+无知天高地厚	mou2 zi1 tin1 gou1 dei5 hau3	100000
+冇狗押猫吃屎	mou3 gau3 aap3 mieu4 hik4 si3	100000
+冇油无得脱镬	mou3 jau2 mou2 dak4 tut3 wok5	100000
+炮仗一点就着	paau4 zieng5 jat4 dim3 zau5 ziek5	100000
+平宜柴烧烂镬	ping2 ji2 caai2 siu1 laan5 wok5	100000
+上床又想冚被	sieng3 cong2 jau5 slieng3 kap4 pei3	100000
+上得高跌得重	sieng3 dak4 gou1 dit3 dak4 cung3	100000
+画公仔画出肠	waak5 gung1 zai3 waak5 cat4 cieng2	100000
+知死华肯闭眼	zi1 slei3 waa2 hang3 bai4 ngaan3	100000
+纸无包得住火	zi3 mou2 baau1 dak4 zi5 fo3	100000
+张天师着鬼迷	zieng1 tin1 si1 ziek5 gwai3 mai2	100000
+阿太生仔使人教	aa1 taai4 saang1 zai3 sai3 jan2 gaau4	100000
+亲家华饿过客郎	can1 gaa1 waa2 ngo5 go4 hak3 long2	100000
+床头打跤床尾和	cong2 tau2 daa3 kaau1 cong2 mei3 wo2	100000
+大沟米，一身沙	daai5 gau1 mai3 jat4 san1 saa1	100000
+肥水无落别人田	fei2 sui3 mou2 lok5 bit5 jan2 tin2	100000
+鸡膥㑷密菢出仔	gai1 can1 nang3 mat5 bou5 cat4 zai3	100000
+鸡腿打人牙较软	gai1 tui3 daa3 jan2 ngaa2 gaau4 jin3	100000
+讲来讲去三幅被	gong3 loi2 gong3 hei4 slaam1 fuk4 pei3	100000
+好牛无吃回头草	hou3 ngau2 mou2 hik4 wui2 tau2 cou3	100000
+好心无得好来报	hou3 slam1 mou2 dak4 hou3 loi2 bou4	100000
+好猪仔无阉得坏	hou3 zi1 zai3 mou2 jim1 dak4 waai5	100000
+一尺风，三尺浪	jat4 cik4 fung1 slaam1 cik4 long5	100000
+一分钱，一分货	jat4 fan1 cin2 jat4 fan1 fo4	100000
+一家点火两家光	jat4 gaa1 dim3 fo3 lieng3 gaa1 gong1	100000
+一鸡衰，百鸡锥	jat4 gai1 sui1 baak3 gai1 jui1	100000
+一个麻雀分千兵	jat4 go5 maa2 ziek3 fan1 cin1 bing1	100000
+一下生，两下熟	jat4 haa3 saang1 lieng3 haa3 suk5	100000
+一人无敌两人计	jat4 jan2 mou2 dik5 lieng3 jan2 gai4	100000
+一日生，两日熟	jat4 jat5 saang1 lieng3 jat5 suk5	100000
+一样米吃百样人	jat4 jieng5 mai3 hik4 baak3 jieng5 jan2	100000
+一理通，百理明	jat4 lei3 tung1 baak3 lei3 ming2	100000
+一粒米也爱做饭	jat4 nap4 mai3 je3 oi4 zo5 faan5	100000
+一山华有一山高	jat4 saan1 waa2 jau3 jat4 saan1 gou1	100000
+由曱无知身臭臊	jau2 zaat5 mou2 zi1 san1 cau4 slou1	100000
+有钱使得鬼推磨	jau3 cin2 sai3 dak4 gwai3 tui1 mo5	100000
+有风无好尽驶𢃇	jau3 fung1 mou2 hou3 zan5 sai3 lei3	100000
+阉鸡无紧去阉猫	jim1 gai1 mou2 gan3 hei4 jim1 mieu4	100000
+远水无能救近火	jin3 sui3 mou2 nang2 gieu4 kan3 fo3	100000
+老虎头上钉虱乸	lou3 fu3 tau2 sieng5 ding1 sat4 naa3	100000
+老鼠想吃天鹅肉	lou3 si3 slieng3 hik4 tin1 ngo2 juk5	100000
+买炮仗放灶愿烧	maai3 paau4 zieng5 fong4 zou4 jin5 siu1	100000
+万丈高楼凭地起	maan5 zieng5 gou1 lau2 bang5 dei5 hei3	100000
+盲眼佬生盲眼仔	maang2 ngaan3 lou3 saang1 maang2 ngaan3 zai3	100000
+篾白杀人无用刀	mit5 baak5 saat3 jan2 mou2 jung5 dou1	100000
+无委讲至出厅底	mou2 wai3 gong3 zi4 cat4 ting1 dai3	100000
+年晚钱，饭后烟	nin2 maan3 cin2 faan5 hau5 jin1	100000
+屙屎落衭一时松	o1 si3 lok5 fu1 jat4 si2 slung1	100000
+屙屎无出怨地硬	o1 si3 mou2 cat4 jin4 dei5 ngaang5	100000
+山鸡走入凤凰群	saan1 gai1 zau3 jap5 fung5 wong2 kwan2	100000
+辰时开花卯时戴	san2 si2 hoi1 faa1 maau3 si2 daai4	100000
+顺得哥来失嫂意	san5 dak4 go4 loi2 sat4 slou3 ji4	100000
+十个指头有长短	sap5 go5 zi3 tau2 jau3 cieng2 dun3	100000
+手指拗入无拗出	sau3 zi3 aau3 jap5 mou2 aau3 cat4	100000
+瘦狗无忍得热屎	sau4 gau3 mou2 jan3 dak4 jit5 si3	100000
+屎𡱽花花计话人	si3 fat4 faa1 faa1 gai4 waa5 jan2	100000
+死过咸鱼曲过虾	slei3 go4 haam2 ji2 kuk4 go4 haa1	100000
+四两鸭仔探条颈	slei4 lieng3 aap3 zai3 taam4 tiu2 ging3	100000
+送芋之人思月饼	slung4 wu5 zi1 jan2 slei1 jit5 bing3	100000
+𧨾人上树拔都梯	tam4 jan2 sieng3 si5 baat5 dou1 tai1	100000
+偷鸡无紧蚀把米	tau1 gai1 mou2 gan3 sit5 baa3 mai3	100000
+头路多过磨柱花	tau2 lou5 do1 go4 mo2 ci3 faa1	100000
+头上无花花屎𡱽	tau2 sieng5 mou2 faa1 faa1 si3 an1	100000
+田螺无知身呢扭	tin2 lo2 mou2 zi1 san1 ne1 nau3	100000
+坏鬼先生多别字	waai5 gwai3 slin1 saang1 do1 bit5 zei5	100000
+画虎不成反类犬	waak5 fu3 bat4 sing2 faan3 lui5 hin3	100000
+芋呷水，两头流	wu5 haap3 sui3 lieng3 tau2 lau2	100000
+外低好看里头空	wui5 dai1 hou3 hon4 lei3 tau2 hung1	100000
+真金无怕红炉火	zan1 giem1 mou2 paa4 hung2 lou2 fo3	100000
+灶愿面前执大刀	zou4 jin5 min5 cin2 zap4 daai5 dou1	100000
+拆观音堂起关帝庙	caak3 gun1 jam1 tong2 hei3 gwaan1 dai4 miu5	100000
+撑得船来无打得鼓	caang1 dak4 sin2 loi2 mou2 daa3 dak4 gu3	100000
+拐仔过门槛都要钱	gwaai3 zai3 go4 mun2 kaam3 dou1 jiu4 cin2	100000
+一个钱绹十二个克	jat4 go5 cin2 tou2 sap5 ji5 go5 kak4	100000
+捰得上安无得下落	no3 dak4 sieng5 on1 mou2 dak4 haa5 lok5	100000
+性急无吃得热蕃薯	sling4 giep3 mou2 hik4 dak4 jit5 faan2 si2	100000
+白狗偷吃，黑狗担灾	baak5 gau3 tau1 hik4 hak4 gau3 daam1 zoi1	100000
+臭猪头碰紧饿鬼菩萨	cau4 zi1 tau2 pung4 gan3 ngo5 gwai3 pui2 slaat3	100000
+迟田莫耕，迟仔莫生	ci2 tin2 mok5 gaang1 ci2 zai3 mok5 saang1	100000
+打锣听音，讲话听声	daa3 lo2 ting1 jam1 gong3 waa5 ting1 sing1	100000
+打铜吃铜，打铁吃铁	daa3 tung2 hik4 tung2 daa3 tit3 hik4 tit3	100000
+带衣无寒，带米无饥	daai4 ji1 mou2 hon2 daai4 mai3 mou2 gei1	100000
+大人𨆓墙，细仔学样	daai5 jan2 kiem2 cieng2 slai4 zai3 hok5 jieng5	100000
+大姨生疮，捉二姨灸	daai5 ji2 saang1 cong1 zok3 ji5 ji2 gieu4	100000
+翻转系锣，覆转系鼓	faan1 zin4 hai5 lo2 muk4 zin4 hai5 gu3	100000
+公不离婆，秤不离砣	gung1 bat4 lei2 po2 cing4 bat4 lei2 to2	100000
+吃多屙多，搞多错多	hik4 do1 o1 do1 gaau3 do1 co4 do1	100000
+人有失错，马有失蹄	jan2 jau3 sat4 co4 maa3 jau3 sat4 tai2	100000
+人穷志短，马瘦毛长	jan2 kung2 zi4 dun3 maa3 sau4 mou2 cieng2	100000
+人怕伤心，树怕擘皮	jan2 paa4 sieng1 slam1 si5 paa4 mak4 pei2	100000
+入乡从俗，入水从湾	jap5 hieng1 cung2 zuk5 jap5 sui3 cung2 waan1	100000
+一个半斤，一个八两	jat4 go5 bun4 gan1 jat4 go5 baat3 lieng3	100000
+一粒米做无出一镬饭	jat4 nap4 mai3 zou4 mou2 cat4 jat4 wok5 faan5	100000
+一子错，满盘皆落索	jat4 zei3 co4 mun3 pun2 gaai1 lok5 slok3	100000
+日防夜防，家贼难防	jat5 fong2 je5 fong2 gaa1 cak5 naan2 fong2	100000
+有清吃清，有浊吃浊	jau3 cing1 hik4 cing1 jau3 zok5 hik4 zok5	100000
+有㑷大头，顶㑷大帽	jau3 nang3 daai5 tau2 ding3 nang3 daai5 mou5	100000
+有心生膥，冇心菢仔	jau3 slam1 saang1 can1 mou3 slam1 bou5 zai3	100000
+有粥吃粥，有饭吃饭	jau3 zuk4 hik4 zuk4 jau3 faan5 hik4 faan5	100000
+耳听为闻，眼见为真	ji3 ting1 wai2 man2 ngaan3 gin4 wai2 zan1	100000
+养儿防老，积谷防饥	jieng3 ji2 fong2 lou3 zik4 guk4 fong2 gei1	100000
+其做初一，我做初二	kei2 zou4 co1 jat4 ngo3 zou4 co1 ji5	100000
+麻雾谷谷，大鱼入屋	maa2 mou5 guk4 guk4 daai5 ji2 jap5 uk4	100000
+牛事未了，马事又来	ngau2 si5 mei5 liu3 maa3 si5 jau5 loi2	100000
+牛着牛当，马着马亡	ngau2 ziek5 ngau2 dong4 maa3 ziek5 maa3 mong2	100000
+上无到天，下无到地	sieng5 mou2 dou4 tin1 haa5 mou2 dou4 dei5	100000
+上无到洲，下无到岸	sieng5 mou2 dou4 zau1 haa5 mou2 dou4 ngon5	100000
+煎糍蘸醋，各人所好	zin1 cei2 dam4 cou4 gok3 jan2 so3 hou4	100000
+做船起屋，一两两六	zou4 sin2 hei3 uk4 jat4 lieng3 lieng3 luk5	100000
+亲了关帝，得罪了观音	can1 liu3 gwaan1 dai4 dak4 zui5 liu3 gun1 jam1	100000
+闲事少管，闲饭吃三碗	haan2 si5 siu3 gun3 haan2 faan5 hik4 slaam1 wun3	100000
+人矮心高，杀人无使刀	jan2 aai3 slam1 gou1 saat3 jan2 mou2 sai3 dou1	100000
+有样学样，冇样学世上	jau3 jieng5 hok5 jieng5 mou3 jieng5 hok5 sai4 sieng5	100000
+牡丹虽好，爱绿叶扶持	maau3 daan1 slui1 hou3 oi4 luk5 jip5 fu2 ci2	100000
+未到棺材头，眼泪无流	mei5 dou4 gun1 coi2 tau2 ngaan3 lui5 mou2 lau2	100000
+未吃三日豆腐，想升仙	mei5 hik4 slaam1 jat5 dau5 fu5 slieng3 sing1 slin1	100000
+无在起身早，尽在粥冻	mou2 zoi5 hei3 san1 zou3 zan5 zoi5 zuk4 dung4	100000
+泥菩萨过江，自身难保	nai2 pui2 slaat3 go4 gong1 zei5 san1 naan2 bou3	100000
+扭一个计，拧又一个计	nau3 jat4 go5 gai4 ning4 jau5 jat4 go5 gai4	100000
+手掌系肉，手背也系肉	sau3 zieng3 hai5 juk5 sau3 bui4 je3 hai5 juk5	100000
+青竹蛇儿口，黄蜂尾后针	cing1 zuk4 se2 ji2 hau3 wong2 fung1 mei3 hau5 zam1	100000
+滴水凑成河，粒米凑成箩	dik4 sui3 cau4 sing2 ho2 nap4 mai3 cau4 sing2 lo2	100000
+点火生亚大，打锣嫁亚奶	dim3 fo3 saang1 aa4 daai5 daa3 lo2 gaa4 aa4 naai3	100000
+独木不成林，独仔无人群	duk5 muk5 bat4 sing2 lam2 duk5 zai3 mou2 jan2 kwan2	100000
+家有千金，不敌日进一文	gaa1 jau3 cin1 giem1 bat4 dik5 jat5 zan4 jat4 man2	100000
+见高低头拜，见低屙尿濑	gin4 gou1 dai1 tau2 baai4 gin4 dai1 o1 niu5 laat3	100000
+行得夜路多，终归撞紧鬼	haang2 dak4 je5 lou5 do1 zung1 gwai1 cong4 gan3 gwai3	100000
+好事无出门，丑事传千里	hou3 si5 mou2 cat4 mun2 cau3 si5 cin2 cin1 lei3	100000
+人情为人情，数目爱分明	jan2 cing2 wai2 jan2 cing2 sou4 muk5 oi4 fan1 ming2	100000
+人多好种田，水多好爬船	jan2 do1 hou3 zung4 tin2 sui3 do1 hou3 paa2 sin2	100000
+人无千日好，花无百日红	jan2 mou2 cin1 jat5 hou3 faa1 mou2 baak3 jat5 hung2	100000
+人饿无识丑，鸡饿趯无走	jan2 ngo5 mou2 sik4 cau3 gai1 ngo5 dik4 mou2 zau3	100000
+一代好媳妇，三代好儿孙	jat4 doi5 hou3 slik4 fu5 slaam1 doi5 hou3 ji2 slun1	100000
+有被也天光，无被也天光	jau3 pei3 je3 tin1 gong1 mou2 pei3 je3 tin1 gong1	100000
+懒人多计轿，无系屎至尿	laan3 jan2 do1 gai4 giu5 mou2 hai5 si3 zi4 niu5	100000
+路遥知马力，日久见人心	lou5 jiu2 zi1 maa3 lik5 jat5 gieu3 gin4 jan2 slam1	100000
+盲眼佬钉竻，有开眼佬挑	maang2 ngaan3 lou3 ding1 lak5 jau3 hoi1 ngaan3 lou3 tiu1	100000
+明枪容易躲，暗箭实难防	ming2 cieng1 jung2 ji5 do3 am4 zin4 sat5 naan2 fong2	100000
+无到棺材头，眼泪未肯流	mou2 dou4 gun1 coi2 tau2 ngaan3 lui5 mei5 hang3 lau2	100000
+无怕无识货，至怕货比货	mou2 paa4 mou2 sik4 fo4 zi4 paa4 fo4 bei3 fo4	100000
+无听老人言，吃亏在眼前	mou2 ting1 lou3 jan2 jin2 hik4 kwai1 zoi5 ngaan3 cin2	100000
+木门对木门，竹门对竹门	muk5 mun2 dui4 muk5 mun2 zuk4 mun2 dui4 zuk4 mun2	100000
+男大映门风，女大羞人丛	naam2 daai5 jing3 mun2 fung1 nei3 daai5 slau1 jan2 cung2	100000
+瘦狗攀高栈，无攀好过攀	sau4 gau3 paan1 gou1 zaan5 mou2 paan1 hou3 go4 paan1	100000
+上屋搬下屋，冇见一箩谷	sieng5 uk4 bun1 haa5 uk4 mou3 gin4 jat4 lo2 guk4	100000
+三月冇清明，豆仔冇收成	slaam1 jit5 mou3 cing1 ming2 dau5 zai3 mou3 sau1 sing2	100000
+黄鳝过沙滩，无死脱身潺	wong2 sin3 go4 saa1 taan1 mou2 slei3 tut3 san1 saan2	100000
+住在茅寮下，势着放低头	zi5 zoi5 maau2 liu2 haa5 sai4 ziek3 fong4 dai1 tau2	100000
+在家千日好，出路半朝难	zoi5 gaa1 cin1 jat5 hou3 cat4 lou5 bun4 ziu1 naan2	100000
+早禾怕北风，迟禾怕夜雨	zou3 wo2 paa4 bak4 fung1 ci2 wo2 paa4 je5 ji3	100000
+千世无抬轿，抬轿撞紧亲家	cin1 sai4 mou2 toi2 giu5 toi2 giu5 zong5 gan3 can1 gaa1	100000
+打死一世蛤仔，无到一罂煲	daa3 slei3 jat4 sai4 gap4 zai3 mou2 dou4 jat4 aang1 bou1	100000
+好谷出好米，好夫娘生好仔	hou3 guk4 cat4 hou3 mai3 hou3 fu1 nieng2 saang1 hou3 zai3	100000
+你有㑷深水，俼有㑷长竹篙	nei3 jau3 nang3 sam1 sui3 juk4 jau3 nang3 cieng2 zuk4 gou1	100000
+住近城隍庙，无求得根好签	zi5 kan3 sing2 wong2 miu5 mou2 kieu2 dak4 gan1 hou3 cim1	100000
+系那谷出那米，系那娘出那仔	hai5 naa3 guk4 cat4 naa3 mai3 hai5 naa3 nieng2 cat4 naa3 zai3	100000
+一代姑，二代表，三代了了了	jat4 doi5 gu1 ji5 doi5 biu3 slaam1 doi5 liu3 liu3 liu3	100000
+你无嫌我箩疏，我无嫌你米碎	nei3 mou2 jim2 ngo3 lo2 so1 ngo3 mou2 jim2 nei3 mai3 slui4	100000
+朝红风，晚红雨，晏昼红街市	ziu1 hung2 fung1 maan3 hung2 ji3 aan4 zau4 hung2 gaai1 si3	100000
+钱爱用到正路上，钢要用在刀口上	cin2 oi4 jung5 dou4 zing4 lou5 sieng5 gong4 jiu4 jung5 zoi5 dou1 hau3 sieng5	100000
+大刀无磨成死铁，夫娘无打成妖孽	daai5 dou1 mou2 mo2 sing2 slei3 tit3 fu1 nieng2 mou2 daa3 sing2 jiu1 ngit3	100000
+踏破铁鞋无觅处，得来全不费工夫	daap5 po4 tit3 haai2 mou2 mik5 ci4 dak4 loi2 cin2 bat4 fai4 gung1 fu1	100000
+得罢手时需罢手，得饶人处且饶人	dak4 baa5 sau3 si2 slei1 baa5 sau3 dak4 jiu2 jan2 ci4 ce3 jiu2 jan2	100000
+交疍家，养鸭乸，你一揸，其一把	gaau1 xx gaa1 jieng3 aap3 naa3 nei3 jat4 zaa1 kei2 jat4 baa3	100000
+跟得好人得好话，跟得丑人执教化	gan1 dak4 hou3 jan2 dak4 hou3 waa5 gan1 dak4 cau3 jan2 zap4 gaau4 faa4	100000
+行船跑马三分命，生仔夫娘冇一成	haang2 sin2 paau3 maa3 slaam1 fan1 ming5 saang1 zai3 fu1 nieng2 mou3 jat4 sing2	100000
+好马不吃回头草，好女无嫁回头佬	hou3 maa3 bat4 hik4 wui2 tau2 cou3 hou3 nei3 mou2 gaa4 wui2 tau2 lou3	100000
+有恩无报非君子，有仇无报枉为人	jau3 an1 mou2 bou4 fei1 gwan1 zei3 jau3 sau2 mou2 bou4 wong3 wai2 jan2	100000
+强中自有强中手，恶人自有恶人磨	kieng2 zung1 zei5 jau3 kieng2 zung1 sau3 ok3 jan2 zei5 jau3 ok3 jan2 mo2	100000
+烂屋又遭连夜雨，行船至怕顶头风	laan5 uk4 jau5 zou1 lin2 je5 ji3 haang2 sin2 zi4 paa4 ding3 tau2 fung1	100000
+良药苦口利于病，忠言逆耳利于行	lieng2 jiek5 fu3 hau3 lei5 ji1 bing5 zung1 jin2 ngik5 ji3 lei5 ji1 haang2	100000
+落花有意随流水，流水无情枉费心	lok5 faa1 jau3 ji4 cui2 lau2 sui3 lau2 sui3 mou2 cing2 wong3 fai4 slam1	100000
+卖扇夫娘手遮月，卖花夫娘插竹叶	maai5 sin4 fu1 nieng2 sau3 ze1 jit5 maai5 faa1 fu1 nieng2 caap3 zuk4 jip5	100000
+算命先生不知死，地理先生无处埋	slun4 ming5 slin1 saang1 bat4 zi1 slei3 dei5 lei3 slin1 saang1 mou2 si4 maai2	100000
+画虎画皮难画骨，知人知面不知心	waak5 fu3 waak5 pei2 naan2 waak5 gwat4 zi1 jan2 zi1 min5 bat4 zi1 slam1	100000
+嫁鸡随鸡，嫁狗随狗，嫁着马骝浑山走	gaa4 gai1 cui2 gai1 gaa4 gau3 cui2 gau3 gaa4 ziek5 maa3 lau2 wan2 saan1 zau3	100000
+有份罗琴山顶都有份，冇份灶背挨也冇份	jau3 fan5 lo2 kiem2 saan1 ding3 dou1 jau3 fan5 mou3 fan5 zou4 bui4 ngaai2 je3 mou3 fan5	100000

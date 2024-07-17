@@ -11,7 +11,7 @@
 
 ---
 name: "jienggong.chars"
-version: "2024.07.04"
+version: "2024.07.17"
 sort: by_weight
 ...
 
@@ -45,6 +45,7 @@ sort: by_weight
 轭	aak3	2235
 握	aak3	371022
 厄	aak3	70732
+甖	aan1
 鷃	aan4	52
 晏	aan4	77763
 罂	aang1	15174
@@ -60,6 +61,7 @@ sort: by_weight
 拗	aau4	47198
 缢	ai4	10468
 翳	ai4	11220
+鈪	ak3	238
 媕	am1
 喑	am1	10770
 盦	am1	176
@@ -68,6 +70,7 @@ sort: by_weight
 愔	am1	582
 庵	am1	81945
 揞	am3	129
+捂	am3	266992
 黯	am3	30322
 谙	am3	35749
 鹌	am4	5777
@@ -92,6 +95,7 @@ sort: by_weight
 吽	au2	6819
 呕	au3	108720
 殴	au3	48358
+𬉼	au4
 沤	au4	27423
 疤	baa1	102459
 粑	baa1	131132
@@ -119,7 +123,7 @@ sort: by_weight
 湃	baai4	22592
 拜	baai4	586084
 败	baai5	786187
-百	baak3
+百	baak3	42271500
 伯	baak3	460289
 佰	baak3	64779
 铂	baak5	113598
@@ -136,11 +140,13 @@ sort: by_weight
 舨	baan3	4390
 坂	baan3	61685
 扮	baan4	180373
+𡌶	baan5
 扮	baan5	180373
 瓣	baan5	214857
 办	baan5	3111258
-八	baat3
+湴	baan5	817
 捌	baat3	37071
+八	baat3	42273000
 鼥	baat5
 魃	baat5	17372
 拔	baat5	448543
@@ -157,6 +163,7 @@ sort: by_weight
 豹	baau4	295572
 鲍	baau4	65531
 趵	baau4	7079
+䠥	bai1
 瞖	bai4
 蔽	bai4	44725
 闭	bai4	465561
@@ -197,6 +204,7 @@ sort: by_weight
 绷	bang1	87557
 呯	bang2	2977
 崩	bang3	177250
+𫣶	bang5
 凭	bang5	904476
 筚	bat4	1073
 跸	bat4	11041
@@ -241,6 +249,7 @@ sort: by_weight
 篦	bei3	4640
 仳	bei3	613
 睥	bei3	6623
+肶	bei3	768
 髀	bei3	8383
 畀	bei3	8563
 秘	bei4	249389
@@ -312,18 +321,19 @@ sort: by_weight
 瘪	bit3	37303
 鳖	bit3	50533
 别	bit5	5547188
+票	biu1	2277946
+飙	biu1	230387
+表	biu1	2602315
+镳	biu1	2737
+膘	biu1	29915
+彪	biu1	60250
+镖	biu1	61492
+骠	biu1	7098
+标	biu1	903959
 俵	biu3	1711
 裱	biu3	21273
-票	biu3	2277946
-飙	biu3	230387
 表	biu3	2602315
-镳	biu3	2737
-膘	biu3	29915
 婊	biu3	47303
-彪	biu3	60250
-镖	biu3	61492
-骠	biu3	7098
-标	biu3	903959
 波	bo1	1434798
 陂	bo1	15839
 坡	bo1	231796
@@ -354,8 +364,6 @@ sort: by_weight
 磅	bong5	210074
 镑	bong5	27096
 煲	bou1	229326
-彪	bou1	60250
-标	bou1	903959
 褓	bou3	1290
 补	bou3	1576887
 捕	bou3	158325
@@ -387,8 +395,8 @@ sort: by_weight
 辈	bui4	175432
 狈	bui4	25137
 褙	bui4	410
-枧	bui4	4347
 贝	bui4	457172
+梖	bui4	63
 邶	bui4	841
 背	bui5	1333515
 碚	bui5	22721
@@ -403,6 +411,7 @@ sort: by_weight
 瀑	buk5	31186
 濮	buk5	31917
 雹	buk5	32111
+樸	buk5	3238
 蹼	buk5	6499
 般	bun1	1378728
 搬	bun1	619148
@@ -566,9 +575,9 @@ sort: by_weight
 楫	cap4	2604
 戢	cap4	3940
 辑	cap4	82231
-七	cat4
 漆	cat4	199049
 出	cat4	23324245
+七	cat4	42273500
 䌷	cau1
 揫	cau1
 鹙	cau1
@@ -741,10 +750,10 @@ sort: by_weight
 椠	cim4	383
 堑	cim4	87812
 钎	cim4	9764
-千	cin1
 氚	cin1	12418
 迁	cin1	277862
 穿	cin1	3884646
+千	cin1	42271000
 芊	cin1	46503
 川	cin1	662673
 阡	cin1	9458
@@ -804,6 +813,7 @@ sort: by_weight
 朝	ciu2	1720059
 晁	ciu2	18712
 瞧	ciu2	372963
+愀	ciu3	31030
 沼	ciu3	40479
 悄	ciu3	49445
 撬	ciu4	106265
@@ -1053,12 +1063,14 @@ sort: by_weight
 特	dak5	3254880
 泵	dam1	180253
 抌	dam3	32
+蘸	dam4	87750
 敦	dan1	50632
 墩	dan1	96161
 盾	dan3	157872
 趸	dan3	30868
 囤	dan3	51015
 墩	dan3	96161
+蹾	dan4	241
 扽	dan4	340
 燉	dan4	4472
 顿	dan5	1213458
@@ -1108,9 +1120,9 @@ sort: by_weight
 涿	diek3	11137
 诼	diek3	14339
 琢	diek3	19992
-斫	diek3	21842
 椓	diek3	30
 啄	diek3	33051
+瘃	diek3	91
 𪜃	dieng5
 蹢	dik4
 滴	dik4	1816904
@@ -1135,6 +1147,7 @@ sort: by_weight
 店	dim4	3193100
 坫	dim4	646
 惦	dim4	9130
+𫠲	dim5
 颠	din1	157828
 巅	din1	35448
 癫	din1	76803
@@ -1210,7 +1223,7 @@ sort: by_weight
 掉	diu5	2809049
 铫	diu5	893
 铞	diu5	903
-多	do1
+多	do1	4712056
 哆	do1	84671
 垛	do3	19276
 跺	do3	22168
@@ -1332,6 +1345,8 @@ sort: by_weight
 侗	dung5	56847
 洞	dung5	857281
 夺	dut5	421202
+欸	ei2	24915
+诶	ei2	462483
 花	faa1	4562491
 化	faa4	1459853
 快	faai4	8057227
@@ -1439,6 +1454,7 @@ sort: by_weight
 弘	fang2	111939
 宏	fang2	333202
 淴	fat4
+𡱽	fat4
 唿	fat4	1423
 笏	fat4	17714
 弗	fat4	348917
@@ -1483,6 +1499,8 @@ sort: by_weight
 扉	fei1	7564
 肥	fei2	885961
 淝	fei2	9951
+𠯭	fik4
+𠯭	fik5
 揈	fing4
 稞	fo1	1574
 蝌	fo1	1872
@@ -1677,6 +1695,7 @@ sort: by_weight
 旮	gaa1	6408
 嘉	gaa1	657191
 傢	gaa1	7393
+格	gaa3	1373527
 尜	gaa3	1545
 尕	gaa3	15587
 缶	gaa3	17843
@@ -1729,6 +1748,7 @@ sort: by_weight
 鉴	gaam4	115857
 监	gaam4	1529721
 槛	gaam4	17182
+鑑	gaam4	1856
 艰	gaan1	15546
 间	gaan1	4464230
 菅	gaan1	9077
@@ -1861,6 +1881,7 @@ sort: by_weight
 鸠	gau1	53689
 岣	gau1	62184
 缑	gau1	7647
+勾	gau2	253957
 雠	gau2	9329
 狗	gau3	2568477
 枸	gau3	3159
@@ -1934,8 +1955,8 @@ sort: by_weight
 喼	giep5	330
 夹	giep5	531012
 笈	giep5	64394
-九	gieu3
 久	gieu3	1448556
+九	gieu3	42272500
 玖	gieu3	54488
 救	gieu4	1213869
 究	gieu4	153318
@@ -2047,21 +2068,21 @@ sort: by_weight
 杰	git5	431719
 竭	git5	56436
 鳜	git5	716
-敫	giu1	11406
-矫	giu1	117495
-徼	giu1	2889
-缴	giu1	387156
 娇	giu1	414655
 骄	giu1	71559
-纠	giu1	86045
-轿	giu3	100413
-峤	giu3	16560
+敫	giu3	11406
+矫	giu3	117495
+徼	giu3	2889
 缴	giu3	387156
+缴	giu3	387156
+挢	giu3	679
+纠	giu3	86045
 叫	giu4	7079928
 轿	giu5	100413
+峤	giu5	16560
+歌	go1	15758100
+哥	go1	15758600
 戈	go1	162604
-歌	go1	2763966
-哥	go1	3173650
 馃	go3	1143
 果	go3	15758000
 裹	go3	211446
@@ -2069,8 +2090,8 @@ sort: by_weight
 裸	go3	346507
 倮	go3	6592
 舸	go3	8735
+哥	go4	15758600
 过	go4	21257943
-哥	go4	3173650
 个	go5	87859759
 痎	goi1
 该	goi1	15641284
@@ -2259,6 +2280,7 @@ sort: by_weight
 拐	gwaai3	218089
 怪	gwaai4	1234837
 掴	gwaak3	10243
+国	gwaak3	4684995
 瘝	gwaan1
 关	gwaan1	1463591
 鳏	gwaan1	2959
@@ -2515,6 +2537,7 @@ sort: by_weight
 嬉	hei1	32730
 歔	hei1	339
 烯	hei1	35122
+圩	hei1	37171
 爔	hei1	41
 牺	hei1	4122
 吁	hei1	42249
@@ -2641,7 +2664,9 @@ sort: by_weight
 枭	hiu1	44326
 朽	hiu3	11649
 晓	hiu3	504575
+𪖐	hiu4
 吟	hm2	109857
+噷	hm2	125
 噷	hm5	125
 呵	ho1	301415
 河	ho2	1034613
@@ -2724,6 +2749,7 @@ sort: by_weight
 𧐢	hou2
 濠	hou2	27201
 豪	hou2	479243
+蚝	hou2	52399
 毫	hou2	605405
 好	hou3	41528330
 耗	hou4	266239
@@ -2767,12 +2793,12 @@ sort: by_weight
 烘	hung4	39202
 讧	hung4	574
 汞	hung4	68209
-亿	ik4
 膉	ik4
 忆	ik4	140727
 肊	ik4	172
 呃	ik4	264569
 益	ik4	314206
+亿	ik4	42270000
 谥	ik4	61867
 鹦	ing1	11520
 撄	ing1	1227
@@ -2793,6 +2819,7 @@ sort: by_weight
 呀	jaa2	4283819
 曰	jaa5	691498
 廿	jaa5	98213
+抓	jaau3	2070653
 爪	jaau3	269102
 𠯋	jai2
 兮	jai2	165360
@@ -2828,6 +2855,7 @@ sort: by_weight
 薳	jan3	42
 引	jan3	730393
 忍	jan3	758620
+膶	jan4	103
 润	jan4	598374
 牣	jan5
 刃	jan5	129232
@@ -2844,7 +2872,7 @@ sort: by_weight
 挹	jap4	5925
 邑	jap4	66672
 入	jap5	5523397
-一	jat4
+一	jat4	43000000
 日	jat5	42260866
 𢯎	jau1
 幽	jau1	149834
@@ -2868,6 +2896,7 @@ sort: by_weight
 攸	jau2	52331
 釉	jau2	59952
 蝤	jau2	682
+鱿	jau2	70160
 莜	jau2	7919
 邮	jau2	845557
 遒	jau2	8590
@@ -3027,7 +3056,6 @@ sort: by_weight
 懿	ji4	50245
 妪	ji4	5213
 殪	ji4	654
-二	ji5
 勚	ji5
 豫	ji5	110580
 裕	ji5	131014
@@ -3038,6 +3066,7 @@ sort: by_weight
 御	ji5	253088
 誊	ji5	3457
 驭	ji5	38232
+二	ji5	43226500
 愈	ji5	452575
 异	ji5	548855
 寓	ji5	63128
@@ -3331,10 +3360,10 @@ sort: by_weight
 釉	jui5	59952
 裔	jui5	63825
 彗	jui5	9892
-逳	juk4
 旭	juk4	110451
 昱	juk4	11579
 彧	juk4	14428
+逳	juk4	1990000
 煜	juk4	34918
 毓	juk4	50221
 沃	juk4	538756
@@ -3501,6 +3530,7 @@ sort: by_weight
 醵	kei4	6533
 倨	kei4	7400
 冀	kei4	76924
+𠳞	kiek2
 却	kiek3	13636799
 㑢	kiek3	23761000
 衿	kiem1	18539
@@ -3508,6 +3538,7 @@ sort: by_weight
 襟	kiem1	29154
 禁	kiem1	509388
 妗	kiem1	52569
+𨆓	kiem2
 噙	kiem2	17502
 琴	kiem2	459858
 禽	kiem2	667626
@@ -3550,6 +3581,7 @@ sort: by_weight
 隙	kik4	71867
 缄	kim2	3529
 钳	kim2	79532
+钏	kim2	9265
 乾	kin2	129129
 蜷	kin2	16040
 虔	kin2	16630
@@ -3588,6 +3620,7 @@ sort: by_weight
 鞒	kiu2	31884
 硚	kiu2	694
 韭	kiu3	10249
+跷	kiu3	30037
 翘	kiu4	263984
 窍	kiu4	75123
 柯	ko1	123994
@@ -3721,7 +3754,7 @@ sort: by_weight
 捆	kwan3	116197
 麇	kwan3	1329
 悃	kwan3	1544
-壶	kwan3	213884
+壸	kwan3	213
 捃	kwan3	365
 囷	kwan3	622
 菌	kwan3	631587
@@ -3729,8 +3762,11 @@ sort: by_weight
 溷	kwan3	942
 困	kwan4	1238238
 窘	kwan4	41725
+闩	kwang4	8779
 屈	kwat4	165337
 窟	kwat4	39466
+䘿	kwat5
+𪥕	kwat5
 崛	kwat5	22272
 倔	kwat5	30909
 扃	kwing1	675
@@ -3749,6 +3785,8 @@ sort: by_weight
 旯	laa4	14604
 罅	laa4	33384
 拉	laai1	4195602
+𡥧	laai4
+孻	laai4	52
 癞	laai4	9066
 籁	laai5	11010
 酹	laai5	1205
@@ -3828,6 +3866,7 @@ sort: by_weight
 淋	lam2	217008
 临	lam2	513408
 林	lam4	1684704
+临	lam5	513408
 囵	lan2	10297
 邻	lan2	116950
 嶙	lan2	14304
@@ -3885,6 +3924,7 @@ sort: by_weight
 绺	lau3	21622
 褛	lau3	3922
 柳	lau3	421347
+溜	lau4	187838
 漏	lau4	388172
 陋	lau5	11909
 镂	lau5	13023
@@ -3932,10 +3972,12 @@ sort: by_weight
 蜊	lei5	525
 虑	lei5	72874
 吏	lei5	84445
+樏	liek5
 掠	liek5	130963
 撂	liek5	23050
 略	liek5	857487
 舔	liem3	126023
+楞	liem4	95589
 粱	lieng2	14639
 量	lieng2	2270483
 辆	lieng2	2823548
@@ -3952,6 +3994,7 @@ sort: by_weight
 谅	lieng5	24622
 辆	lieng5	2823548
 猎	liep5	138082
+𢩪	lieu3
 寥	lieu3	11871
 缭	lieu3	16608
 鬏	lieu3	558
@@ -3996,7 +4039,7 @@ sort: by_weight
 链	lin5	644335
 恋	lin5	720370
 睖	ling2
-零	ling2
+袊	ling2
 酃	ling2	10233
 灵	ling2	1033034
 薐	ling2	114
@@ -4013,7 +4056,8 @@ sort: by_weight
 蛉	ling2	26460
 羚	ling2	28474
 伶	ling2	30016
-〇	ling2	33495
+〇	ling2	3356879
+零	ling2	3357000
 鸰	ling2	3511
 龄	ling2	351306
 绫	ling2	44993
@@ -4054,6 +4098,7 @@ sort: by_weight
 嫽	liu2	90
 了	liu3	255733044
 蓼	liu3	4445
+缭	liu4	16608
 料	liu5	1034394
 寥	liu5	11871
 撂	liu5	23050
@@ -4108,6 +4153,7 @@ sort: by_weight
 廊	long2	119855
 啷	long2	19992
 稂	long2	240
+郞	long2	3243
 琅	long2	32720
 嫏	long2	34
 螂	long2	3475
@@ -4117,10 +4163,12 @@ sort: by_weight
 锒	long2	8723
 㙟	long3
 㮾	long3
+𠺘	long3
 朗	long3	263544
 烺	long3	774
 锒	long3	8723
 浪	long5	528832
+𢫘	lou1
 唠	lou1	32398
 捞	lou1	398640
 垆	lou2	1090
@@ -4133,6 +4181,7 @@ sort: by_weight
 卢	lou2	205221
 胪	lou2	20878
 鲈	lou2	26662
+蟧	lou2	29
 劳	lou2	297850
 炉	lou2	327229
 庐	lou2	35741
@@ -4161,6 +4210,7 @@ sort: by_weight
 鹭	lou5	67087
 露	lou5	688731
 𨂐	lui1
+雷	lui1	1264293
 蔂	lui1	47
 缧	lui2	10731
 檑	lui2	1136
@@ -4179,6 +4229,7 @@ sort: by_weight
 铝	lui3	636720
 垒	lui3	69990
 噒	lui4
+累	lui4	2090262
 酹	lui5	1205
 戾	lui5	14999
 累	lui5	2090262
@@ -4187,7 +4238,7 @@ sort: by_weight
 泪	lui5	771654
 辘	luk4	1507
 碌	luk4	88396
-六	luk5
+樚	luk5
 绿	luk5	1070761
 禄	luk5	183476
 逯	luk5	19176
@@ -4196,6 +4247,7 @@ sort: by_weight
 鹿	luk5	271119
 戳	luk5	351930
 陆	luk5	403679
+六	luk5	43224000
 渌	luk5	49102
 簏	luk5	498
 录	luk5	836935
@@ -4209,6 +4261,7 @@ sort: by_weight
 卵	lun3	149224
 乱	lun5	1678814
 䆔	lung1
+窿	lung1	20570
 泷	lung2	10175
 珑	lung2	11342
 笼	lung2	172664
@@ -4224,9 +4277,11 @@ sort: by_weight
 垄	lung3	35568
 陇	lung3	46744
 篢	lung3	90
+䆔	lung4
 㟖	lung5
 梇	lung5
 弄	lung5	1533656
+捋	lut4	29798
 捋	lut5	29798
 呒	m2	26848
 孖	maa1	10261
@@ -4240,6 +4295,7 @@ sort: by_weight
 蚂	maa3	5846
 码	maa3	679751
 犸	maa3	994
+𰪪	maa4
 妈	maa4	2938594
 骂	maa5	1086847
 霾	maai2	57591
@@ -4252,12 +4308,13 @@ sort: by_weight
 擘	maak3	2701
 鳗	maan2	23350
 蛮	maan2	639203
+晩	maan3	17309
 晚	maan3	3391123
-万	maan5
 墁	maan5	1262
 熳	maan5	13820
 谩	maan5	149056
 鳗	maan5	23350
+万	maan5	42270500
 漫	maan5	451060
 幔	maan5	46588
 镘	maan5	508
@@ -4335,8 +4392,10 @@ sort: by_weight
 闵	man3	66273
 悯	man3	8295
 文	man4	4290202
+缗	man4	8322
 汶	man5	23413
 问	man5	6740338
+𠵼	mang1
 掤	mang1	60
 氓	mang2	10087
 萌	mang2	1539247
@@ -4586,6 +4645,7 @@ sort: by_weight
 靺	mut5	330
 茉	mut5	45325
 沫	mut5	50412
+嗱	naa2	4224
 拿	naa2	4903114
 那	naa3	21808185
 哪	naa3	2578497
@@ -4634,6 +4694,7 @@ sort: by_weight
 腻	nai5	174429
 昵	nai5	36072
 怩	nai5	690
+麬	nak4	48
 黏	nak4	64946
 腍	nam2	637
 檁	nam3
@@ -4734,6 +4795,7 @@ sort: by_weight
 羿	ngai5	5857
 呃	ngak4	264569
 吟	ngam2	109857
+儑	ngam4
 任	ngam5	1869955
 狺	ngan2	102
 银	ngan2	1811595
@@ -4786,6 +4848,7 @@ sort: by_weight
 碣	ngit3	5048
 孽	ngit3	59687
 孑	ngit3	6368
+荛	ngiu2	1217
 锇	ngo2	12116
 讹	ngo2	16198
 鹅	ngo2	181178
@@ -4804,7 +4867,6 @@ sort: by_weight
 碍	ngoi5	132019
 艾	ngoi5	341050
 㗁	ngok2	41787000
-俼	ngok3
 偔	ngok3	41787700
 湂	ngok5
 𫖵	ngok5
@@ -4821,6 +4883,7 @@ sort: by_weight
 愕	ngok5	98638
 岸	ngon5	328251
 昂	ngong2	256773
+戆	ngong5	18254
 獒	ngou2	11342
 鏊	ngou2	15134
 鳌	ngou2	161967
@@ -4913,6 +4976,7 @@ sort: by_weight
 弩	nou3	57568
 努	nou3	81925
 怒	nou5	549615
+女	nui3	5946513
 内	nui5	14386353
 搙	nuk4
 朒	nuk4
@@ -4952,6 +5016,7 @@ sort: by_weight
 安	on4	1721298
 案	on4	3017056
 按	on4	4351295
+𠮴	ong3
 戆	ong4	18254
 噢	ou2	898518
 媪	ou3	15840
@@ -4960,6 +5025,8 @@ sort: by_weight
 澳	ou4	387981
 袄	ou4	40695
 岙	ou4	6904
+琶	paa2	36459
+怕	paa4	2249707
 牌	paai2	1698170
 排	paai2	2474218
 俳	paai2	26270
@@ -4989,7 +5056,6 @@ sort: by_weight
 绷	paang2	87557
 𢪋	paang3
 搒	paang3	32
-怕	paap4	2249707
 抛	paau1	494397
 匏	paau2	12852
 铇	paau2	229
@@ -5170,6 +5236,7 @@ sort: by_weight
 佩	pui4	242094
 沛	pui4	31855
 呸	pui5	127858
+伏	puk4	265367
 潘	pun1	210446
 番	pun1	389259
 槃	pun2	12016
@@ -5196,6 +5263,7 @@ sort: by_weight
 痧	saa1	4829
 鲨	saa1	53128
 沙	saa1	840812
+𬕍	saa4
 挱	saa4	39
 柴	saai2	203789
 侪	saai2	4561
@@ -5225,6 +5293,7 @@ sort: by_weight
 生	saang1	4223429
 笙	saang1	66468
 㨘	saang3
+省	saang3	6536068
 霎	saap3	14098
 煠	saap5	129
 炸	saap5	472513
@@ -5241,6 +5310,7 @@ sort: by_weight
 蛸	saau1	844
 艄	saau1	9633
 稍	saau3	627418
+䈾	saau4
 哨	saau4	113803
 潲	saau4	4105
 捎	saau4	78196
@@ -5306,8 +5376,8 @@ sort: by_weight
 顺	san5	962005
 涩	sap4	141793
 湿	sap4	894586
-十	sap5
 拾	sap5	269445
+十	sap5	42272000
 什	sap5	728022
 室	sat4	1553500
 虱	sat4	21593
@@ -5516,8 +5586,8 @@ sort: by_weight
 葸	slaai3	722
 屣	slaai3	960
 赛	slaai4	2340983
-三	slaam1
 叁	slaam1	38882
+三	slaam1	43226000
 糁	slaam3	10002
 散	slaan3	836764
 馓	slaan3	8710
@@ -5528,6 +5598,7 @@ sort: by_weight
 萨	slaat3	755347
 犀	slai1	20987
 西	slai1	3002467
+茜	slai1	93400
 洗	slai3	1458451
 细	slai4	1009007
 婿	slai4	21930
@@ -5565,6 +5636,7 @@ sort: by_weight
 迅	slan4	97696
 僧	slang1	190449
 擤	slang4	4435
+𢶍	slap4
 扱	slap4	156
 膝	slap4	199820
 飒	slap4	25351
@@ -5614,9 +5686,9 @@ sort: by_weight
 私	slei1	863807
 思	slei1	869211
 死	slei3	7572512
-四	slei4
 泗	slei4	26699
 絮	slei4	33063
+四	slei4	43225000
 肆	slei4	61179
 驷	slei4	6223
 削	sliek3	165948
@@ -5632,6 +5704,8 @@ sort: by_weight
 想	slieng3	21944953
 鲞	slieng3	2951
 相	slieng4	2913113
+扱	sliep4	156
+𣬬	sliep5
 皙	slik4	11868
 鎴	slik4	1215
 淅	slik4	13290
@@ -5773,6 +5847,7 @@ sort: by_weight
 髓	slui3	97379
 岁	slui4	8215534
 碎	slui4	954760
+䍁	slui5
 隧	slui5	10682
 穗	slui5	174601
 繸	slui5	30
@@ -6019,6 +6094,7 @@ sort: by_weight
 祧	tiu1	1189
 佻	tiu1	1750
 挑	tiu1	783658
+跳	tiu2	1383525
 调	tiu2	1731453
 笤	tiu2	19496
 鲦	tiu2	223
@@ -6037,9 +6113,11 @@ sort: by_weight
 柁	to2	1448
 鼍	to2	18674
 跎	to2	20246
+砣	to2	25421
 沱	to2	30761
 鸵	to2	43662
 驮	to2	54894
+舵	to2	58424
 驼	to2	65523
 坨	to2	65708
 铊	to3	11247
@@ -6091,6 +6169,7 @@ sort: by_weight
 傥	tong3	6963
 淌	tong3	77056
 躺	tong3	949479
+搪	tong4	10001
 烫	tong4	317907
 趟	tong4	463790
 滔	tou1	16982
@@ -6184,11 +6263,11 @@ sort: by_weight
 蜈	ung2	7950
 郚	ung2	96
 㧬	ung3
-五	ung3
 午	ung3	156091
 伍	ung3	233162
 捂	ung3	266992
 仵	ung3	3286
+五	ung3	43224500
 忤	ung3	5562
 迕	ung3	7597
 瓮	ung4	25573
@@ -6222,6 +6301,7 @@ sort: by_weight
 槐	waai2	64592
 怀	waai2	763178
 坏	waai5	1197540
+𡱮	waak5
 或	waak5	13198499
 劐	waak5	140
 棫	waak5	143
@@ -6247,6 +6327,7 @@ sort: by_weight
 挽	waan3	104019
 鮸	waan3	277
 绾	waan3	29985
+鲩	waan3	3599
 槵	waan5
 患	waan5	1204344
 幻	waan5	247119
@@ -6643,6 +6724,7 @@ sort: by_weight
 俊	zan4	533831
 震	zan4	597051
 浚	zan4	66918
+𰗦	zan5
 尽	zan5	1713976
 阵	zan5	788228
 缯	zang1	10229
@@ -6653,6 +6735,7 @@ sort: by_weight
 憎	zang1	65817
 罾	zang1	7225
 捵	zang3
+增	zang3	1754670
 甑	zang4	37311
 赠	zang5	340001
 执	zap4	306407
@@ -6730,6 +6813,7 @@ sort: by_weight
 柘	ze4	9982
 谢	ze5	642625
 榭	ze5	78308
+螆	zei1
 魮	zei1
 淄	zei1	10310
 眦	zei1	15803
@@ -6755,6 +6839,7 @@ sort: by_weight
 缁	zei1	85049
 资	zei1	903521
 訾	zei1	9301
+嗣	zei3	109950
 姊	zei3	123247
 笫	zei3	32886
 子	zei3	4674640
@@ -7032,6 +7117,7 @@ sort: by_weight
 节	zit3	2419023
 拙	zit3	43592
 黠	zit3	6029
+疖	zit3	6050
 喆	zit3	65972
 茁	zit3	7831
 黜	zit3	8149
@@ -7202,12 +7288,23 @@ sort: by_weight
 啜	zut4	16918
 嘬	zut4	7178
 
-## 以下单字拼音为额外补充
+# 以下单字读音未收录在 《广东阳江方言研究》
+# 根据个人经验以及参考粤语读音整理
+# 如发现存在错误读音, 请告知修改
+# 参考网站:
+#   - https://jyut.net
+#   - https://www.zdic.net
+#   - https://www.hanyuguoxue.com
+#   - https://shyyp.net
+
 亜	aa4	2367
 哎	aai1	1406038
 哎	aai2	1406038
 䓨	aang1
 隘	ai4	12070
+蒽	an1	23115
+洇	an1	3024
+扤	at4
 耙	baa3	80958
 㻞	baan1
 丬	baan5	267
@@ -7233,12 +7330,14 @@ sort: by_weight
 僕	buk5	8716
 衩	caa1	13360
 丳	caan3
+皱	caau2	321971
 仯	caau4
 仦	caau4	51
 荠	cai2	2076
 亝	cai2	39
 柒	cat4	23144
 揪	cau1	147408
+茨	cei4	190261
 嘁	ci1	13600
 㕑	ci2
 乨	ci3
@@ -7246,6 +7345,11 @@ sort: by_weight
 仩	cieng2	158
 呛	cieng4	122192
 嘁	cik4	13600
+彳	cik4	3371
+仟	cin1	28382
+氰	cing1	30947
+鼱	cing1	58
+腈	cing1	8537
 醊	cit3
 切	cit3	1297335
 沏	cit3	15367
@@ -7257,43 +7361,65 @@ sort: by_weight
 辙	cit3	42097
 缀	cit3	63514
 澈	cit3	85883
+矬	co4	2570
+昶	cong3	8646
 簇	cuk4	55180
 亍	cuk4	61123
+熜	cung1	241
+橦	cung2	366
+凇	cung2	47612
 掸	daa5	15248
+傣	daai3	16192
 亣	daai5	58
 㐤	daan1
 丆	daan1	81
+疍	daan5	1117
 亶	daan5	445
 丼	dam3	1692
 䏙	dam4
-𠱁	dam4
-𧨾	dam4
 髧	dam4	58
 踸	dam5
 𧿒	dam5
+礅	dan1	1035
 吨	dan1	3017990
 盹	dan3	11038
+楯	dan3	2350
+沌	dan3	8658
+炖	dan4	269357
 瞪	dang1	314214
+揼	dap5	318
 乧	dau3	26
+嗲	de3	197425
 啲	di5	51707
+剢	diek2
+嗒	diep2	28614
+吊	dieu4	380002
 掂	dim5	90462
 亇	ding1	1606
+腚	ding5	15820
 叼	diu1	218680
 怼	dui3	50744
+㞘	duk4
+厾	duk4	96
 蹲	dun1	418409
+籪	dun5
 仮	faan3	1312
 瞓	fan4	25910
+泓	fang2	30619
+揈	fang3
 乀	fat4	1400
 仏	fat5	568
 弗	fik2	348917
 拂	fik2	92027
 弗	fik5	348917
 拂	fik5	92027
+捹	fing4
 夥	fo3	34922
 霍	fok3	190269
 乥	fu2
 乶	fu3
 乕	fu3	43
+绔	fu4	1834
 幅	fuk4	2389602
 乫	gaa1
 㗎	gaa4
@@ -7301,7 +7427,9 @@ sort: by_weight
 㹴	gaang1
 㩒	gam5
 扲	gam5	59
+穊	gat5
 淈	gat5	43
+𨳊	gau4
 奇	gei1	1314345
 其	gei1	16606563
 丌	gei1	2179
@@ -7315,11 +7443,16 @@ sort: by_weight
 兢	ging1	6350
 㐖	git3
 丩	giu1	29
+摷	giu3	107
 胳	gok3	6813
 乹	gon1
 亁	gon1	437
 仠	gon3	50
+梏	guk5	542
+涫	gun1	39089
+琯	gun3	2742
 嗗	gut2	364
+𧊅	gwaai3
 丱	gwaan4
 亀	gwai1	1556
 乤	haa5
@@ -7339,13 +7472,18 @@ sort: by_weight
 閤	hap5	521
 榼	hap5	66
 㸸	hau5
+禧	hei1	44579
+禧	hei3	44579
+気	hei4	13756
 噷	hiem2	125
 亯	hieng3	520
 湆	hiep3
 㐀	hieu1
+芡	him4	27766
 仚	hin1	162
 锨	hin1	17207
 谴	hin3	40973
+芡	hin4	27766
 捍	hon3	16858
 捍	hon5	16858
 吭	hong1	49504
@@ -7358,15 +7496,29 @@ sort: by_weight
 仭	jan5	136
 丨	jat4	21744
 壹	jat4	96684
+鼬	jau2	10450
 丣	jau3
 亴	jau5
 亱	je5	71
 亐	ji1
+濡	ji2	10802
+嚅	ji2	1684
 逾	ji2	203573
+狳	ji2	208
+襦	ji2	2435
+萸	ji2	29715
+腴	ji2	3349
+喁	ji2	3713
+瑗	ji2	3972
 隅	ji2	42350
+嵎	ji2	564
 乁	ji2	60
+媛	ji2	71029
+薷	ji2	9731
 予	ji3	316328
+瑀	ji3	5371
 亄	ji4
+臆	ji4	4789
 逾	ji5	203573
 䇦	jieng1
 嚷	jieng3	77163
@@ -7375,11 +7527,15 @@ sort: by_weight
 奄	jim3	5971
 蔫	jin1	16351
 鸳	jin1	8303
+纨	jin2	2320
 炫	jin2	313542
 赢	jing2	1668896
 乚	jit3	74
+俼	juk4	1995000
 庸	jung1	68181
+搅	kaau2	230179
 挍	kaau2	32
+蚯	kau2	7985
 㸸	kau4
 枢	kei1	31408
 丠	kei1	34
@@ -7397,18 +7553,25 @@ sort: by_weight
 吭	kong4	49504
 刽	kui4	2582
 丨	kwan3	21744
+濑	laai5	23857
+唥	laang2	70
+唥	laang4	70
 摎	laau2
 仂	lak5	5166
 檩	lam3	2082
 冧	lam4	8138
 亃	lan2
+悋	lan5
 紊	lan5	13089
+岦	lap5	39
 咧	le1	285605
 咧	le2	285605
 咧	le3	285605
 咧	le4	285605
+𢃇	lei3
 𦧷	liem3
 両	lieng3	990
+鹩	lieu4	8857
 雳	lik4	3380
 仂	lik5	5166
 亷	lim2	29
@@ -7416,23 +7579,35 @@ sort: by_weight
 嘹	liu2	2780
 胳	lok3	6813
 㴖	lok5
+𢲲	long4
 啷	long4	19992
 阆	long5	13987
 蒗	long5	178
 晾	long5	74924
 莨	long5	7585
 崀	long5	831
+泸	lou2	14115
 擂	lui2	31901
+戮	luk5	29495
+孪	lun2	18646
+挛	lun2	34854
 蟆	maa3	101509
+嫚	maan5	2706
 㓦	mak4
+掹	mam1	1456
+焖	man1	78265
 靡	mei2	53503
 亹	mei3	68
 咪	mi1	394187
 咪	mi2	394187
 眯	mi5	152490
 咪	mi5	394187
+汨	mik5	12190
+幂	mik5	123680
 螟	ming2	9786
+暝	ming3	10474
 仫	mo1	287
+麽	mo1	526746
 蟆	mok3	101509
 瘼	mok3	639
 寞	mok3	64668
@@ -7445,7 +7620,9 @@ sort: by_weight
 睦	muk5	81403
 沐	muk5	85256
 亹	mun2	68
+焖	mun4	78265
 檬	mung4	47309
+蚓	nan3	16652
 您	nei3	4560428
 匿	nei4	21346
 跴	ngaai3	41
@@ -7455,13 +7632,17 @@ sort: by_weight
 毅	ngai5	64815
 扲	ngam2	59
 拰	ngam5	335
+䟴	ngan4
 仁	ngan4	592006
 岌	ngap5	3388
 屹	ngat5	5146
 㒖	ngau3
+耦	ngau3	7762
 吽	ngau5	6819
 肮	ngong1	43226
+曲	nguk4	939018
 𢆡	nien4
+苶	nieu4	92
 㖏	nik4
 㧰	nik4
 掿	nik4	49
@@ -7471,16 +7652,27 @@ sort: by_weight
 搦	nik5	546
 拧	ning5	206355
 㐡	no5
+馕	nong2	23572
+驽	nou3	3740
+瑙	nou3	5140
+阿	o1	4486961
+盎	on1	32407
+啪	paa1	116305
 扒	paa1	185483
 趴	paa1	304000
 扒	paa2	185483
 耙	paa2	80958
 爬	paa2	909062
 徘	paai2	10589
+啪	paak2	116305
 濒	pan2	12777
 扒	pat5	185483
+撇	pik4	111199
+噼	pik4	4627
+鲆	ping2	33731
 拼	ping4	818379
 丿	pit3	4820
+钋	po3	14280
 剥	pok3	165554
 墣	pok5	94
 螃	pong2	2775
@@ -7489,44 +7681,84 @@ sort: by_weight
 仨	saa1	58982
 啥	saa4	1978372
 甥	saang1	5589
+睄	saau3	53
+𪘞	saau5
 丗	sai4	1572
+鲹	sam1	222
+鲺	sat4	207
 秫	sat5	1093
+畲	se2	41202
 枢	si1	31408
+纾	si1	41359
 酗	si4	1805
 亊	si5	2872
 柿	si5	60853
 丄	sieng5	990
 乭	sik5
+鼫	sik5
+炻	sik5	6781
 阐	sim2	16800
 亶	sin5	445
 乗	sing2	1196
 乗	sing5	1196
 仨	slaam1	58982
 仐	slaan4	38
+睄	slaau3	53
 嘶	slai1	108798
+荽	slai1	6084
+樨	slai1	653
+楯	slan2	2350
+飕	slau1	3357
+嗖	slau1	53884
 嘶	slei1	108798
 亖	slei4	167
+笥	slei4	44291
 𤗈	sliep4
+晳	slik4	1267
+氙	slin1	3456
+榍	slit3	5885
+荽	slui1	6084
 亗	slui4
+蹜	sluk4
+僳	sluk4	1022
+忪	slung1	1182
 乺	so3
+傣	taai4	16192
 亶	taan3	445
 𠃮	tam3
 𥧹	tam3
 凼	tam3	21382
 窞	tam3	98
+𠱁	tam4
+𧨾	tam4
+沌	tan2	8658
 亠	tau2	145
+倜	tik4	17930
 㐁	tim3
+殄	tin3	2321
 乇	tok3	38301
 仛	tok3	72
 仐	tou1	38
+菟	tou2	11168
+菟	tou4	11168
+酮	tung2	209707
+曈	tung2	3229
+橦	tung2	366
 㐅	ung3
 丒	ung3	112
+圩	wai2	37171
+韪	wai3	4330
+猥	wai4	12690
+渭	wai5	44704
+赟	wan1	28028
+沄	wan2	1022
 紊	wan3	13089
 揾	wan3	8427700
 愠	wan4	20101
 酝	wan4	30399
 缊	wan4	305
 蕴	wan4	54307
+蕰	wan4	554
 韫	wan4	7699
 蘊	wan4	815
 韞	wan4	86
@@ -7538,36 +7770,58 @@ sort: by_weight
 彟	wok5	284
 矱	wok5	43
 镬	wok5	7435
+湟	wong2	18262
+猥	wui1	12690
+媛	wun2	71029
 亝	zaai1	39
 乇	zaak5	38301
 鸩	zam4	19623
 酖	zam4	56
 怎	zam4	865667
+䘲	zam5
 朕	zam5	223515
 亼	zap5	352
 亽	zap5	475
 挃	zat4
+猝	zat4	9656
 揤	zat5
 蒺	zat5	285
 膣	zat5	328
+蛭	zat5	44429
 窒	zat5	46774
 嫉	zat5	48853
 桎	zat5	901
+塮	ze5	33
+耔	zei3	1130
 籽	zei3	197777
 𫱝	zei4
 唧	zi1	11515
+祗	zi1	21526
+咫	zi3	1782
+祗	zi3	21526
+徵	zi3	33197
+芷	zi3	35759
+梓	zi3	47960
+沚	zi3	526
+扺	zi3	721
 滓	zi3	9295
 乼	zi4
 丶	zi4	57049
 乿	zi5	119
 唧	zik4	11515
 植	zik5	223490
+徵	zing1	33197
+鼱	zing1	58
 丼	zing3	1692
 乴	zit3
 擳	zit4
+𢩦	zit4
 唧	zit4	11515
 滓	zoi3	9295
 丵	zok5	30
+狙	zui1	17953
 沮	zui3	23269
 簇	zuk5	55180
 蹲	zun1	418409
+忪	zung1	1182
+熜	zung3	241

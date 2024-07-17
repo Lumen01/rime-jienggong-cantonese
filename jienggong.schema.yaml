@@ -32,6 +32,9 @@ switches:
     reset: 1
   - name: full_shape
     states: [ 半角, 全角 ]
+  - name: mandarin_dict
+    states: [ 阳江话, 普通话 ]
+    reset: 1
   - name: ascii_punct
     states: [ 。，, ．， ]
   - name: extended_charset
@@ -63,6 +66,7 @@ engine:
   filters:
     - simplifier@simplification
     - simplifier@emoji_suggestion
+    - simplifier@mandarin_dict
     - reverse_lookup_filter@reverse_lookup
     - simplifier
     - uniquifier
@@ -103,9 +107,11 @@ speller:
 
 translator:
   dictionary: jienggong
+  # 设定用戶词典类型，可设tabledb〔文本〕或userdb〔二进制〕
+  #db_class: userdb
   enable_charset_filter: true
   spelling_hints: 9                   # 将该处改作 0，可以去除候选字后面个拼音提示
-  enable_user_dict: true              # 将该处改作 true，会根据你个输入习惯自动调整候选词个顺序
+  enable_user_dict: false              # 将该处改作 true，会根据你个输入习惯自动调整候选词个顺序
   enable_sentence: true               # 将该处改作 true，输入长句
   encode_commit_history: false        # 将该处改作 true，同时 enable_user_dict 也系 true，可以学习你个历史输入词语
   preedit_format:
@@ -143,6 +149,11 @@ simplifier:
 emoji_suggestion:
   opencc_config: emoji.chs.json
   option_name: emoji_suggestion
+  tips: all
+
+mandarin_dict:
+  opencc_config: jienggong_dict.json
+  option_name: mandarin_dict
   tips: all
 
 punctuator:

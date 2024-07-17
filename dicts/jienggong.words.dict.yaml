@@ -1,0 +1,2483 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 阳江话方言词汇, 由 Lumen 手工整理, 使用简陋的工具生成
+# 部分存在读音缺失文字，但能从粤语中能找到的词汇则使用粤语词汇
+# 如发现存在错误读音, 请告知修改
+#
+# 参考网站:
+#   - https://jyut.net
+#   - https://www.zdic.net
+#   - https://www.hanyuguoxue.com
+#   - https://shyyp.net
+#
+# 词汇来源: 黄伯荣 《广东阳江方言研究》（2018，中山大学）
+# 不收录的情况:
+#     - 单字
+#     - 部分和普通话书面语一致的词汇
+#     - 有读音但缺失文字而且无法从粤语找到的词汇
+#
+# Author: Lumen <lumen01@qq.com>
+#
+
+---
+name: "jienggong.words"
+version: "2024.07.17"
+sort: by_weight
+...
+
+阿爸	aa1 baa4	100000
+阿伯	aa1 baak3	100000
+桠杈	aa1 caa1	100000
+鸦鹊	aa1 ciek3	100000
+阿大	aa1 daai5	100000
+阿哥	aa1 go4	100000
+阿个	aa1 go5	100000
+阿姑	aa1 gu1	100000
+阿公	aa1 gung1	100000
+阿爷	aa1 je2	100000
+阿姨	aa1 ji2	100000
+阿妗	aa1 kiem3	100000
+阿舅	aa1 kieu3	100000
+阿孻	aa1 laai4	100000
+阿𡥧	aa1 laai4	100000
+阿嫲	aa1 maa3	100000
+阿妈	aa1 maa4	100000
+阿尾	aa1 mei3	100000
+阿姆	aa1 mou4	100000
+阿婆	aa1 po2	100000
+阿婶	aa1 sam3	100000
+阿叔	aa1 suk4	100000
+阿太	aa1 taai4	100000
+阿姐	aa1 ze3	100000
+哑吉	aa3 gat4	100000
+亚哥	aa4 go4	100000
+亚公	aa4 gung1	100000
+亚理	aa4 lei3	100000
+亚嫲	aa4 maa3	100000
+亚奶	aa4 naai3	100000
+亚婆	aa4 po2	100000
+亚婶	aa4 sam3	100000
+亚嫂	aa4 slou3	100000
+亚叔	aa4 suk4	100000
+矮敦	aai3 dan1	100000
+矮瓜	aai3 gwaa1	100000
+矮仔	aai3 zai3	100000
+晏觉	aan4 gaau4	100000
+晏仔	aan4 zai3	100000
+晏昼	aan4 zau4	100000
+鸭项	aap3 hong5	100000
+鸭仔	aap3 zai3	100000
+拗颈	aau4 ging3	100000
+拗事	aau4 si5	100000
+翳蔽	ai4 bai4	100000
+翳喉	ai4 hau2	100000
+翳腻	ai4 nai5	100000
+翳心	ai4 slam1	100000
+印仔	an4 zai3	100000
+𬒔肚	ang3 tou3	100000
+扤钉	at4 ding1	100000
+扤定	at4 ding5	100000
+扤扣	at4 kau4	100000
+欧冤	au1 jin1	100000
+欧流	au1 lau2	100000
+吽佬	au2 lou3	100000
+呕油	au3 jau2	100000
+呕皿	au3 ming3	100000
+呕水	au3 sui3	100000
+沤水	au4 sui3	100000
+沤仔	au4 zai3	100000
+巴闭	baa1 bai4	100000
+摆计	baai3 gai4	100000
+拜忌	baai4 gei5	100000
+拜候	baai4 hau5	100000
+拜尚	baai4 sieng5	100000
+拜堂	baai4 tong2	100000
+败世	baai5 sai4	100000
+败水	baai5 sui3	100000
+百罗	baak3 lo2	100000
+百足	baak3 zuk4	100000
+白鼻	baak5 bei5	100000
+白豆	baak5 dau5	100000
+白饭	baak5 faan5	100000
+白灰	baak5 fui1	100000
+白鸽	baak5 gaap3	100000
+白鸠	baak5 gau1	100000
+白日	baak5 jat5	100000
+白银	baak5 ngan2	100000
+白字	baak5 zei5	100000
+白撞	baak5 zong5	100000
+板蕉	baan3 ziu1	100000
+湴窿	baan5 lung2	100000
+𡌶窿	baan5 lung2	100000
+湴塘	baan5 tong2	100000
+包尾	baau1 mei3	100000
+包子	baau1 zei3	100000
+饱卜	baau3 buk4	100000
+爆拆	baau4 caak3	100000
+爆当	baau4 dong4	100000
+爆涓	baau4 gin1	100000
+崩莎	bang1 saa1	100000
+𫣶福	bang5 fuk4	100000
+𫣶赖	bang5 laai5	100000
+笔筒	bat4 tung2	100000
+不子	bat4 zei3	100000
+笔嘴	bat4 zui3	100000
+弼是	bat5 si5	100000
+踎墩	bau1 dan1	100000
+鼻䆔	bei5 lung1	100000
+鼻浓	bei5 nung2	100000
+鼻屎	bei5 si3	100000
+鼻水	bei5 sui3	100000
+边处	bin1 si4	100000
+边途	bin1 tou2	100000
+冰盘	bing1 pun2	100000
+秉性	bing3 sling4	100000
+表仔	biu1 zai3	100000
+波板	bo1 baan3	100000
+波饼	bo1 bing3	100000
+波泵	bo1 dam1	100000
+波鞋	bo1 haai2	100000
+波恤	bo1 sut4	100000
+波珠	bo1 zi1	100000
+驳壳	bok3 hok3	100000
+搏命	bok3 ming5	100000
+驳命	bok3 ming5	100000
+膊头	bok3 tau2	100000
+驳艇	bok3 tieng3	100000
+薄刀	bok5 dou1	100000
+薄鱼	bok5 ji2	100000
+帮衬	bong1 can4	100000
+帮手	bong1 sau3	100000
+煲茶	bou1 caa2	100000
+保头	bou3 tau2	100000
+布草	bou4 cou3	100000
+布癞	bou4 laai4	100000
+布朴	bou4 pok3	100000
+布衫	bou4 saam1	100000
+布证	bou4 zing4	100000
+背底	bui4 dai3	100000
+背晦	bui4 fui3	100000
+背尾	bui4 mei3	100000
+背篷	bui4 pung2	100000
+背驼	bui4 to2	100000
+背脊	bui4 zik4	100000
+背语	bui5 ji3	100000
+背手	bui5 sau3	100000
+背税	bui5 sui4	100000
+伏嫁	buk5 gaa4	100000
+樸子	buk5 zei3	100000
+本事	bun3 si5	100000
+本心	bun3 slam1	100000
+伴嫁	bun5 gaa4	100000
+钵头	but3 tau2	100000
+悖戾	but5 lui5	100000
+叉烧	caa1 siu1	100000
+茶瓶	caa2 ping2	100000
+茶枱	caa2 toi2	100000
+岔腮	caa4 sloi1	100000
+册花	caak3 faa1	100000
+铲山	caan3 saan1	100000
+插手	caap3 sau3	100000
+插田	caap3 tin2	100000
+插仔	caap3 zai3	100000
+炒粉	caau3 fan3	100000
+吵耳	caau3 ji3	100000
+齐家	cai2 gaa1	100000
+切肝	cai4 gon1	100000
+贼公	cak5 gung1	100000
+贼佬	cak5 lou3	100000
+贼婆	cak5 po2	100000
+贼头	cak5 tau2	100000
+沉实	cam2 sat5	100000
+亲家	can1 gaa1	100000
+膥脬	can1 pau1	100000
+巡行	can2 haang4	100000
+趁势	can4 sai4	100000
+缉畅	cap4 cieng4	100000
+出街	cat4 gaai1	100000
+出恭	cat4 gung1	100000
+出奇	cat4 kei2	100000
+出世	cat4 sai4	100000
+出声	cat4 sing1	100000
+丑鬼	cau3 gwai3	100000
+丑样	cau3 jieng5	100000
+丑生	cau3 saang1	100000
+臭货	cau4 fo4	100000
+臭丸	cau4 jin2	100000
+臭佬	cau4 lou3	100000
+臭馊	cau4 sau1	100000
+车货	ce1 fo4	100000
+车辘	ce1 luk4	100000
+扯索	ce3 slok3	100000
+磁漆	cei2 cat4	100000
+迟禾	ci2 wo2	100000
+翅仔	ci4 zai3	100000
+长气	cieng2 hei4	100000
+长衫	cieng2 saam1	100000
+赤眼	cik4 ngaan3	100000
+千秋	cin1 cau1	100000
+千祈	cin1 kei2	100000
+穿糖	cin1 tong2	100000
+钱甖	cin2 aan1	100000
+钱串	cin2 cin4	100000
+钱鸡	cin2 gai1	100000
+缠脚	cin2 giek3	100000
+前日	cin2 jat5	100000
+钱鳞	cin2 lan2	100000
+前时	cin2 si2	100000
+串连	cin4 lin4	100000
+清趣	cing1 cei4	100000
+青翠	cing1 cui4	100000
+清油	cing1 jau2	100000
+青拉	cing1 laai1	100000
+清私	cing1 slei1	100000
+秤砣	cing4 to2	100000
+妾侍	cip3 si5	100000
+潮气	ciu2 hei4	100000
+锄䦁	co2 bong1	100000
+坐监	co3 gaam1	100000
+坐月	co3 jit5	100000
+锉口	co4 hau3	100000
+攙车	coi2 ce1	100000
+彩数	coi3 sou4	100000
+菜果	coi4 go3	100000
+菜干	coi4 gon1	100000
+菜骨	coi4 gwat4	100000
+菜呷	coi4 haap3	100000
+戳汤	cok3 tong1	100000
+撞紧	cong4 gan3	100000
+粗口	cou1 hau3	100000
+槽行	cou2 hong2	100000
+草狗	cou3 gau3	100000
+吹鸡	cui1 gai1	100000
+吹烟	cui1 jin1	100000
+炊笼	cui1 lung2	100000
+槌角	cui2 gok3	100000
+槌头	cui2 tau2	100000
+槌仔	cui2 zai3	100000
+脆口	cui4 hau3	100000
+村下	cun1 haa5	100000
+村佬	cun1 lou3	100000
+村婆	cun1 po2	100000
+村仔	cun1 zai3	100000
+充阔	cung1 fut3	100000
+冲凉	cung1 lieng2	100000
+冲身	cung1 san1	100000
+重载	cung3 zoi5	100000
+打筹	daa3 cau2	100000
+打单	daa3 daan1	100000
+打风	daa3 fung1	100000
+打劫	daa3 gip3	100000
+打工	daa3 gung1	100000
+打益	daa3 ik4	100000
+打跤	daa3 kaau1	100000
+打脉	daa3 mak5	100000
+打赏	daa3 sieng3	100000
+打尚	daa3 sieng5	100000
+打蘸	daa3 zaam5	100000
+打仔	daa3 zai3	100000
+打緻	daa3 zi4	100000
+大伯	daai5 baak3	100000
+大髀	daai5 bei3	100000
+大齐	daai5 cai2	100000
+大蠘	daai5 ciet5	100000
+大虫	daai5 cung2	100000
+大毒	daai5 duk5	100000
+大吉	daai5 gat4	100000
+大苟	daai5 gau3	100000
+大哥	daai5 go1	100000
+大个	daai5 go5	100000
+大姑	daai5 gu1	100000
+大工	daai5 gung1	100000
+大戏	daai5 hei4	100000
+大血	daai5 hit3	100000
+大红	daai5 hung2	100000
+大一	daai5 jat4	100000
+大日	daai5 jat5	100000
+大肉	daai5 juk5	100000
+大褛	daai5 lau1	100000
+大佬	daai5 lou3	100000
+大碌	daai5 luk4	100000
+大面	daai5 min5	100000
+大牙	daai5 ngaa2	100000
+大婆	daai5 po2	100000
+大赏	daai5 sieng3	100000
+大嘥	daai5 slaai1	100000
+大嫂	daai5 slou3	100000
+大叔	daai5 suk4	100000
+大枱	daai5 toi2	100000
+大话	daai5 waa5	100000
+大姐	daai5 ze3	100000
+大姊	daai5 zei3	100000
+大支	daai5 zi1	100000
+大蕉	daai5 ziu1	100000
+担带	daam1 daai4	100000
+担枪	daam4 cieng1	100000
+淡月	daam5 jit5	100000
+单车	daan1 ce1	100000
+蛋堆	daan5 dui1	100000
+蛋挞	daan5 taat3	100000
+底㞘	dai3 duk4	100000
+底𡰪	dai3 duk4	100000
+底裤	dai3 fu4	100000
+抵吃	dai3 hik4	100000
+抵力	dai3 lik5	100000
+底衫	dai3 saam1	100000
+抵死	dai3 slei3	100000
+第尾	dai5 mei3	100000
+弟婶	dai5 sam3	100000
+得计	dak4 gai4	100000
+得闲	dak4 haan2	100000
+得好	dak4 hou4	100000
+得滞	dak4 zai5	100000
+特登	dak5 dang1	100000
+蹾臀	dan4 tun2	100000
+等试	dang3 si4	100000
+邓家	dang5 gaa1	100000
+𢯭牲	dang5 saang1	100000
+揼迳	dap5 gaang4	100000
+揼骨	dap5 gwat4	100000
+兜尿	dau1 niu5	100000
+斗霸	dau4 baa4	100000
+斗趣	dau4 cei4	100000
+斗木	dau4 muk5	100000
+逗火	dau5 fo3	100000
+豆角	dau5 gok3	100000
+窦含	dau5 ham2	100000
+豆米	dau5 mai3	100000
+痘皮	dau5 pei2	100000
+豆肚	dau5 tou3	100000
+地豆	dei5 dau5	100000
+地都	dei5 dou1	100000
+地鱼	dei5 ji2	100000
+地蒲	dei5 pou2	100000
+地鼠	dei5 si3	100000
+地拖	dei5 to1	100000
+地塘	dei5 tong2	100000
+地主	dei5 zi3	100000
+𪜃子	dieng5 zei3	100000
+趯生	dik4 saang1	100000
+𫠲顺	dim5 san5	100000
+电发	din5 faat3	100000
+电火	din5 fo3	100000
+电油	din5 jau2	100000
+电船	din5 sin2	100000
+电芯	din5 slam1	100000
+顶颈	ding3 ging3	100000
+定份	ding5 fan5	100000
+奀个	dit4 go5	100000
+丢格	diu1 gaa3	100000
+岧荛	diu2 ngiu2	100000
+吊颈	diu4 ging3	100000
+吊瘾	diu4 jan3	100000
+吊味	diu4 mei5	100000
+吊市	diu4 si3	100000
+钓仔	diu4 zai3	100000
+躲懒	do3 laan3	100000
+袋表	doi5 biu3	100000
+当差	dong1 caai1	100000
+当家	dong1 gaa1	100000
+到钟	dou4 zung1	100000
+堆蔂	dui1 lui1	100000
+碓坎	dui4 ham3	100000
+对时	dui4 si2	100000
+对岁	dui4 slui4	100000
+对嘴	dui4 zui3	100000
+㧻仔	duk4 zai3	100000
+独仔	duk5 zai3	100000
+东边	dung1 bin1	100000
+冻水	dung4 sui3	100000
+花旦	faa1 daan4	100000
+花飞	faa1 fei1	100000
+花家	faa1 gaa1	100000
+快脆	faai4 cui4	100000
+快手	faai4 sau3	100000
+番鸭	faan1 aap3	100000
+番枧	faan1 gaan3	100000
+番茄	faan1 ke2	100000
+翻生	faan1 saang1	100000
+番薯	faan1 si2	100000
+番摊	faan1 taan1	100000
+番芋	faan1 wu5	100000
+反转	faan3 zin4	100000
+饭壳	faan5 hok3	100000
+犯天	faan5 tin1	100000
+犯仔	faan5 zai3	100000
+饭焦	faan5 ziu1	100000
+发糕	faat3 gou1	100000
+发野	faat3 je3	100000
+发面	faat3 min5	100000
+发梦	faat3 mung5	100000
+发身	faat3 san1	100000
+发尸	faat3 si1	100000
+发市	faat3 si3	100000
+废柴	fai4 caai2	100000
+废甘	fai4 gam1	100000
+费事	fai4 si5	100000
+粉焙	fan3 bui5	100000
+粉皮	fan3 pei2	100000
+粉酥	fan3 slou1	100000
+粪厕	fan4 cei4	100000
+瞓觉	fan4 gaau4	100000
+粪箕	fan4 gei1	100000
+粪簏	fan4 luk5	100000
+菲林	fei1 lam2	100000
+飞鼠	fei1 si3	100000
+肥佬	fei2 lou3	100000
+肥婆	fei2 po2	100000
+肥仔	fei2 zai3	100000
+火杈	fo3 caa1	100000
+火鸠	fo3 gau1	100000
+伙记	fo3 gei4	100000
+火喉	fo3 hau2	100000
+火䆔	fo3 lung1	100000
+火船	fo3 sin2	100000
+火水	fo3 sui3	100000
+火头	fo3 tau2	100000
+火筒	fo3 tung2	100000
+火酒	fo3 zau3	100000
+火烛	fo3 zuk4	100000
+方钉	fong1 ding1	100000
+房仔	fong2 zai3	100000
+放晚	fong4 maan3	100000
+放朝	fong4 ziu1	100000
+符弗	fu2 fik4	100000
+虎毛	fu3 mou2	100000
+裤脚	fu4 giek3	100000
+裤头	fu4 tau2	100000
+灰佬	fui1 lou3	100000
+灰鼠	fui1 si3	100000
+幅辘	fuk4 luk4	100000
+蝠鼠	fuk4 si3	100000
+服侍	fuk5 si5	100000
+风柜	fung1 gwai5	100000
+风水	fung1 sui3	100000
+家斗	gaa1 dau4	100000
+家当	gaa1 dong4	100000
+家公	gaa1 gung1	100000
+家下	gaa1 haa5	100000
+家用	gaa1 jung5	100000
+家婆	gaa1 po2	100000
+家俬	gaa1 slei1	100000
+家志	gaa1 zi4	100000
+假冒	gaa3 mau5	100000
+假精	gaa3 zing1	100000
+架步	gaa4 bou5	100000
+架生	gaa4 saang1	100000
+架死	gaa4 slei3	100000
+架之	gaa4 zi1	100000
+嫁妆	gaa4 zong1	100000
+葭虎	gaa5 fu3	100000
+葭界	gaa5 gaai4	100000
+葭角	gaa5 gok3	100000
+葭拐	gaa5 gwaai3	100000
+葭𧊅	gaa5 gwaai3	100000
+葭子	gaa5 zei3	100000
+街担	gaai1 daam4	100000
+街巷	gaai1 hong5	100000
+街仔	gaai1 zai3	100000
+街招	gaai1 ziu1	100000
+戒方	gaai4 fong1	100000
+戒口	gaai4 hau3	100000
+间仔	gaan1 zai3	100000
+间中	gaan4 zung1	100000
+搿钱	gaap3 cin2	100000
+夹估	gaap3 gu3	100000
+夹万	gaap3 maan5	100000
+夹硬	gaap3 ngaang5	100000
+胶擦	gaau1 caat3	100000
+交带	gaau1 daai4	100000
+胶带	gaau1 daai4	100000
+交关	gaau1 gwaan1	100000
+胶鞋	gaau1 haai2	100000
+胶辘	gaau1 luk4	100000
+胶套	gaau1 tou4	100000
+搅趣	gaau3 cei4	100000
+搅鬼	gaau3 gwai3	100000
+搅笑	gaau3 sliu4	100000
+较尚	gaau4 sieng5	100000
+铰剪	gaau4 zin3	100000
+鸡肶	gai1 bei3	100000
+鸡膥	gai1 can1	100000
+鸡窦	gai1 dau4	100000
+鸡贩	gai1 faan4	100000
+鸡谷	gai1 guk4	100000
+鸡公	gai1 gung1	100000
+鸡项	gai1 hong5	100000
+鸡簏	gai1 luk5	100000
+鸡乸	gai1 naa3	100000
+鸡眼	gai1 ngaan3	100000
+鸡头	gai1 tau2	100000
+髻巾	gai4 gan1	100000
+髻簪	gai4 zaam1	100000
+偈油	gai5 jau2	100000
+甘罗	gam1 lo2	100000
+疳积	gam1 zik4	100000
+跟班	gan1 baan1	100000
+跟尾	gan1 mei3	100000
+跟手	gan1 sau3	100000
+根种	gan1 zung3	100000
+紧板	gan3 baan3	100000
+紧较	gan3 gaau4	100000
+紧要	gan3 jiu4	100000
+紧手	gan3 sau3	100000
+梗系	gang3 hai5	100000
+蛤蚧	gap4 gaai4	100000
+蛤邑	gap4 jap4	100000
+蛤蒟	gap4 lau1	100000
+蛤帽	gap4 mou5	100000
+机器	gei1 hei4	100000
+机船	gei1 sin2	100000
+几大	gei3 daai5	100000
+几多	gei3 do1	100000
+几久	gei3 gieu3	100000
+几何	gei3 ho2	100000
+几侨	gei3 kiu2	100000
+几韭	gei3 kiu3	100000
+几时	gei3 si2	100000
+几松	gei3 slung1	100000
+记紧	gei4 gan3	100000
+锯牙	gei4 ngaa2	100000
+寄生	gei4 saang1	100000
+寄声	gei4 sing1	100000
+记性	gei4 sling4	100000
+脚钵	giek3 but3	100000
+脚䏙	giek3 dam4	100000
+脚甲	giek3 gaap3	100000
+脚钏	giek3 kim2	100000
+脚眼	giek3 ngaan3	100000
+脚屋	giek3 uk4	100000
+脚踭	giek3 zaang1	100000
+脚掌	giek3 zieng3	100000
+脚迹	giek3 zik4	100000
+今晏	giem1 aan4	100000
+金鈪	giem1 ak3	100000
+金瓜	giem1 gwaa1	100000
+今日	giem1 jat5	100000
+金勾	giem1 ngau1	100000
+金塔	giem1 taap3	100000
+金针	giem1 zam1	100000
+今谢	giem1 ze5	100000
+金猪	giem1 zi1	100000
+今朝	giem1 ziu1	100000
+锦肉	giem3 juk5	100000
+舅龟	gieu5 gwai1	100000
+舅爷	gieu5 je2	100000
+舅娘	gieu5 nieng2	100000
+旧年	gieu5 nin2	100000
+旧时	gieu5 si2	100000
+旧水	gieu5 sui3	100000
+京炭	ging1 taan4	100000
+经济	ging1 zai4	100000
+颈柄	ging3 bing4	100000
+颈巾	ging3 gan1	100000
+颈渴	ging3 hot3	100000
+颈褛	ging3 lau1	100000
+颈链	ging3 lin5	100000
+果掉	go3 diu5	100000
+果个	go3 go5	100000
+果胒	go3 nai4	100000
+果排	go3 paai2	100000
+果时	go3 si2	100000
+果阵	go3 zan5	100000
+裹蒸	go3 zing1	100000
+裹粽	go3 zung4	100000
+过背	go4 bui4	100000
+过潮	go4 ciu2	100000
+过槽	go4 cou2	100000
+过家	go4 gaa1	100000
+过门	go4 mun2	100000
+过际	go4 zai4	100000
+改处	goi3 si4	100000
+缸瓦	gong1 ngaa3	100000
+讲嘴	gong3 zui3	100000
+杠仔	gong4 zai3	100000
+高斗	gou1 dau4	100000
+膏药	gou1 jiek5	100000
+高佬	gou1 lou3	100000
+孤寒	gu1 hon2	100000
+姑爷	gu1 je2	100000
+姑娘	gu1 nieng2	100000
+姑婆	gu1 po2	100000
+古肃	gu3 sluk4	100000
+古仔	gu3 zai3	100000
+古凿	gu3 zok5	100000
+古粽	gu3 zung4	100000
+顾式	gu4 sik4	100000
+谷爆	guk4 baau4	100000
+鞠躬	guk4 gung1	100000
+谷壳	guk4 hok3	100000
+谷牛	guk4 ngau2	100000
+焗发	guk5 faat3	100000
+焗气	guk5 hei4	100000
+焗盅	guk5 zung1	100000
+公鼻	gung1 bei5	100000
+公打	gung1 daa3	100000
+功夫	gung1 fu1	100000
+公响	gung1 hieng3	100000
+公仔	gung1 zai3	100000
+拱子	gung3 zei3	100000
+瓜咸	gwaa1 haam2	100000
+瓜仁	gwaa1 jan2	100000
+瓜米	gwaa1 mai3	100000
+瓜核	gwaa1 wat5	100000
+瓜子	gwaa1 zei3	100000
+寡情	gwaa3 cing2	100000
+寡佬	gwaa3 lou3	100000
+寡瘦	gwaa3 sau4	100000
+寡酒	gwaa3 zau3	100000
+褂仔	gwaa4 zai3	100000
+惯势	gwaan4 sai4	100000
+躀虫	gwaang4 cung2	100000
+刮瘦	gwaat3 sau4	100000
+归服	gwai1 fuk5	100000
+龟公	gwai1 gung1	100000
+龟婆	gwai1 po2	100000
+归天	gwai1 tin1	100000
+诡谲	gwai3 gwat4	100000
+鬼屎	gwai3 si3	100000
+鬼鼠	gwai3 si3	100000
+柜枱	gwai5 toi2	100000
+柜围	gwai5 wai2	100000
+滚搞	gwan3 gaau3	100000
+滚水	gwan3 sui3	100000
+骨牌	gwat4 paai2	100000
+骨子	gwat4 zei3	100000
+虾膥	haa1 can1	100000
+虾饺	haa1 gaau3	100000
+虾公	haa1 gung1	100000
+虾糠	haa1 hong1	100000
+虾仁	haa1 jan2	100000
+虾辘	haa1 luk4	100000
+下晏	haa5 aan4	100000
+下低	haa5 dai1	100000
+下底	haa5 dai3	100000
+下火	haa5 fo3	100000
+吓吓	haa5 haa5	100000
+下气	haa5 hei4	100000
+下落	haa5 lok5	100000
+下腭	haa5 ngok5	100000
+下贱	haa5 zin5	100000
+嚡柴	haai2 caai2	100000
+鞋抽	haai2 cau1	100000
+鞋膏	haai2 gou1	100000
+鞋楦	haai2 hin1	100000
+嚡惶	haai2 wong2	100000
+鞋踭	haai2 zaang1	100000
+蟹公	haai3 gung1	100000
+蟹贡	haai3 gung4	100000
+蟹掩	haai3 jim3	100000
+咸虾	haam2 haa1	100000
+咸神	haam2 san2	100000
+咸湿	haam2 sap4	100000
+喊做	haam4 zou4	100000
+悭悭	haan1 haan1	100000
+悭先	haan1 slin1	100000
+闲长	haan2 cieng2	100000
+闲时	haan2 si2	100000
+行藏	haang2 cong2	100000
+行街	haang2 gaai1	100000
+行行	haang2 haang5	100000
+行雷	haang2 lui2	100000
+行时	haang2 si2	100000
+行船	haang2 sin2	100000
+行运	haang2 wan5	100000
+呷醋	haap3 cou4	100000
+呷浪	haap3 long5	100000
+系得	hai5 dak4	100000
+黑心	hak4 slam1	100000
+磡头	ham4 tau2	100000
+痕图	han2 tou2	100000
+乞衣	hat4 ji1	100000
+乞儿	hat4 ji2	100000
+口角	hau3 gok3	100000
+口盅	hau3 zung1	100000
+后日	hau5 jat5	100000
+后尾	hau5 mei3	100000
+后生	hau5 saang1	100000
+墟巷	hei1 hong5	100000
+起福	hei3 fuk4	100000
+起号	hei3 hou5	100000
+起囊	hei3 nong1	100000
+起生	hei3 saang1	100000
+起势	hei3 sai4	100000
+起身	hei3 san1	100000
+起市	hei3 si3	100000
+起水	hei3 sui3	100000
+起头	hei3 tau2	100000
+去村	hei4 cun1	100000
+去货	hei4 fo4	100000
+去街	hei4 gaai1	100000
+去归	hei4 gwai1	100000
+去圩	hei4 hei1	100000
+气响	hei4 hieng3	100000
+戏桥	hei4 kiu2	100000
+香枧	hieng1 gaan3	100000
+香芹	hieng1 kan2	100000
+响名	hieng3 ming2	100000
+蚯蚓	hieu1 jan3	100000
+吃饮	hik4 jam3	100000
+吃酒	hik4 zau3	100000
+犬鱼	hin3 ji2	100000
+嚣离	hiu1 lei2	100000
+晓得	hiu3 dak4	100000
+开耕	hoi1 gaang1	100000
+开身	hoi1 san1	100000
+开水	hoi1 sui3	100000
+开枱	hoi1 toi2	100000
+海碗	hoi3 wun3	100000
+学口	hok5 hau3	100000
+学堂	hok5 tong2	100000
+看牛	hon4 ngau2	100000
+看小	hon4 sliu3	100000
+糠筛	hong1 sai1	100000
+糠头	hong1 tau2	100000
+糠仔	hong1 zai3	100000
+行情	hong2 cing2	100000
+行家	hong2 gaa1	100000
+巷口	hong5 hau3	100000
+巷尾	hong5 mei3	100000
+巷仔	hong5 zai3	100000
+渴市	hot3 si3	100000
+蚝矗	hou2 cuk4	100000
+蚝督	hou2 duk4	100000
+蚝豉	hou2 si5	100000
+蚝仔	hou2 zai3	100000
+毫子	hou2 zei3	100000
+好丑	hou3 cau3	100000
+好似	hou3 cei3	100000
+好彩	hou3 coi3	100000
+好得	hou3 dak4	100000
+好样	hou3 jieng5	100000
+好佬	hou3 lou3	100000
+好手	hou3 sau3	100000
+好事	hou3 si5	100000
+好声	hou3 sing1	100000
+好痛	hou3 tung4	100000
+好天	hou4 tin1	100000
+号着	hou5 ziek5	100000
+桓仔	hun2 zai3	100000
+红银	hung2 ngan2	100000
+英笔	ing1 bat4	100000
+𠮳𠮴	ing3 ong3	100000
+应承	ing4 sing2	100000
+应嘴	ing4 zui3	100000
+𠯋嘢	jai2 je3	100000
+阴毒	jam1 duk5	100000
+阴功	jam1 gung1	100000
+阴虚	jam1 hei1	100000
+阴湿	jam1 sap4	100000
+阴司	jam1 slei1	100000
+饮茶	jam3 caa2	100000
+饮酒	jam3 zau3	100000
+人工	jan2 gung1	100000
+人客	jan2 haak3	100000
+人士	jan2 si5	100000
+邑曳	jap4 jai4	100000
+入去	jap5 hei4	100000
+入来	jap5 loi2	100000
+入门	jap5 mun2	100000
+一了	jat4 liu3	100000
+一缗	jat4 man4	100000
+一胒	jat4 nai4	100000
+日间	jat5 gaan1	100000
+日头	jat5 tau2	100000
+𢯎仔	jau1 zai3	100000
+油𧊅	jau2 gwaai3	100000
+油膉	jau2 ik4	100000
+油麻	jau2 maa2	100000
+油帽	jau2 mou5	100000
+邮票	jau2 piu4	100000
+游水	jau2 sui3	100000
+油藤	jau2 tang2	100000
+油纸	jau2 zi3	100000
+椰菜	je2 coi4	100000
+野鸡	je3 gai1	100000
+嘢吃	je3 hik4	100000
+野妹	je3 mui4	100000
+野仔	je3 zai3	100000
+夜间	je5 gaan1	100000
+夜学	je5 hok5	100000
+夜鹤	je5 hok5	100000
+夜宵	je5 sliu1	100000
+衣车	ji1 ce1	100000
+依自	ji1 zei5	100000
+鱼摆	ji2 baai3	100000
+鱼花	ji2 faa1	100000
+鱼腐	ji2 fu5	100000
+鱼干	ji2 gon1	100000
+鱼稿	ji2 gou3	100000
+如古	ji2 gu3	100000
+鱼约	ji2 jiek3	100000
+鱼丸	ji2 jin2	100000
+鱼近	ji2 kan3	100000
+鱼竻	ji2 lak5	100000
+鱼肋	ji2 lak5	100000
+鱼泡	ji2 paau4	100000
+姨婆	ji2 po2	100000
+鱼镬	ji2 wok5	100000
+鱼汁	ji2 zap4	100000
+姨丈	ji2 zieng5	100000
+椅搭	ji3 daap3	100000
+耳镜	ji3 ging4	100000
+椅贡	ji3 gung4	100000
+雨褛	ji3 lau1	100000
+耳窿	ji3 lung2	100000
+耳牌	ji3 paai2	100000
+椅披	ji3 pei1	100000
+椅拼	ji3 ping1	100000
+耳屎	ji3 si3	100000
+倚侍	ji3 si5	100000
+雨水	ji3 sui3	100000
+耳仔	ji3 zai3	100000
+耳盅	ji3 zung1	100000
+洳逳	ji4 juk4	100000
+洳水	ji4 sui3	100000
+异格	ji5 gaak3	100000
+异心	ji5 slam1	100000
+二指	ji5 zi3	100000
+约莫	jiek3 mok3	100000
+药单	jiek5 daan1	100000
+洋漆	jieng2 cat4	100000
+洋鼓	jieng2 gu3	100000
+洋号	jieng2 hou5	100000
+洋楼	jieng2 lau2	100000
+羊咩	jieng2 me4	100000
+洋遮	jieng2 ze1	100000
+淹尖	jim1 zim1	100000
+檐口	jim2 hau3	100000
+盐漏	jim2 lau4	100000
+厌足	jim4 zuk4	100000
+烟尘	jin1 can2	100000
+烟火	jin1 fo3	100000
+烟筒	jin1 tung2	100000
+烟仔	jin1 zai3	100000
+烟灶	jin1 zou4	100000
+圆钉	jin2 ding1	100000
+芫茜	jin2 slai1	100000
+圆枱	jin2 toi2	100000
+园威	jin2 wai1	100000
+丸仔	jin2 zai3	100000
+软熟	jin3 suk5	100000
+影相	jing3 slieng4	100000
+叶贴	jip5 tip3	100000
+月大	jit5 daai5	100000
+月尾	jit5 mei3	100000
+月小	jit5 sliu3	100000
+月头	jit5 tau2	100000
+热头	jit5 tau2	100000
+月中	jit5 zung1	100000
+要紧	jiu4 gan3	100000
+肉饼	juk5 bing3	100000
+肉蛇	juk5 se2	100000
+肉猪	juk5 zi1	100000
+绒裤	jung2 fu4	100000
+甴曱	kaa2 zaat5	100000
+卡世	kaa4 sai4	100000
+搅场	kaau2 cieng2	100000
+搅档	kaau2 dong4	100000
+契弟	kai4 dai5	100000
+契爷	kai4 je2	100000
+契女	kai4 nei3	100000
+契娘	kai4 nieng1	100000
+契仔	kai4 zai3	100000
+蠄蟧	kam2 lou2	100000
+蠄蜍	kam2 si2	100000
+勤力	kan2 lik5	100000
+拘礼	kei1 lai3	100000
+其也	kei2 je3	100000
+奇理	kei2 lei3	100000
+禁谂	kiem1 nam3	100000
+襟章	kiem1 zieng1	100000
+琴蛇	kiem2 se2	100000
+求其	kieu2 kei2	100000
+虔诚	kin2 sing2	100000
+倾偈	king1 gai5	100000
+缺他	kit3 taa1	100000
+桥凳	kiu2 dang4	100000
+侉佬	koi2 lou3	100000
+侉妹	koi2 mui4	100000
+侉婆	koi2 po2	100000
+侉仔	koi2 zai3	100000
+狂忙	kong2 mong2	100000
+尯佬	kwaai3 lou3	100000
+亏佬	kwai1 lou3	100000
+均是	kwan1 si5	100000
+困怅	kwan4 zieng4	100000
+𪥕恤	kwat5 slat4	100000
+癞痂	laai4 gaa1	100000
+赖夜	laai5 je5	100000
+榄子	laam3 zei3	100000
+缆豆	laam5 dau5	100000
+栏河	laan2 ho2	100000
+懒佬	laan3 lou3	100000
+烂货	laan5 fo4	100000
+烂口	laan5 hau3	100000
+烂仔	laan5 zai3	100000
+䲞鱼	laap3 ji2	100000
+擸𢶍	laap3 slap4	100000
+腊味	laap5 mei5	100000
+腊蔗	laap5 ze4	100000
+濑屎	laat3 si3	100000
+辣蛆	laat5 cei1	100000
+邋遢	laat5 taat3	100000
+捞篱	laau1 lei2	100000
+捞笃	laau2 duk4	100000
+捞手	laau2 sau3	100000
+𫐥卯	laau4 maau3	100000
+黎话	lai2 waa5	100000
+礼手	lai3 sau3	100000
+礼事	lai3 si5	100000
+勒登	lak5 dang1	100000
+簕竹	lak5 zuk4	100000
+林累	lam4 lui4	100000
+论夜	lan5 je5	100000
+论尽	lan5 zan5	100000
+笠衫	lap4 saam1	100000
+岦岌	lap5 kiep3	100000
+立乱	lap5 lun5	100000
+立心	lap5 slam1	100000
+垃圾	lap5 slap4	100000
+甩身	lat4 san1	100000
+褛仔	lau1 zai3	100000
+楼地	lau2 dei5	100000
+楼下	lau2 haa5	100000
+漏夜	lau5 je5	100000
+漏寿	lau5 sau5	100000
+漏就	lau5 zau5	100000
+离谱	lei2 pou3	100000
+里头	lei3 tau2	100000
+利家	lei5 gaa1	100000
+利事	lei5 si5	100000
+利息	lei5 slik4	100000
+脷仔	lei5 zai3	100000
+樏仔	liek5 zai3	100000
+凉粉	lieng2 fan3	100000
+良强	lieng2 kieng2	100000
+两家	lieng3 gaa1	100000
+㔹仔	lik4 zai3	100000
+疬核	lik5 wat5	100000
+镰仔	lim2 zai3	100000
+莲花	lin2 faa1	100000
+莲米	lin2 mai3	100000
+灵动	ling2 dung5	100000
+零琼	ling2 king2	100000
+伶俐	ling2 lei5	100000
+靓仔	ling4 zai3	100000
+令仔	ling5 zai3	100000
+另自	ling5 zei5	100000
+撩天	liu2 tin1	100000
+寮仔	liu2 zai3	100000
+了事	liu3 si5	100000
+箩斗	lo2 dau3	100000
+逻田	lo5 tin2	100000
+来晏	loi2 aan4	100000
+来日	loi2 jat5	100000
+来晚	loi2 maan3	100000
+来年	loi2 nin2	100000
+来世	loi2 sai4	100000
+来蛇	loi2 se2	100000
+来朝	loi2 ziu1	100000
+来早	loi2 zou3	100000
+落泊	lok5 bok5	100000
+落雹	lok5 buk5	100000
+落泵	lok5 dam1	100000
+落去	lok5 hei4	100000
+落笠	lok5 lap4	100000
+落力	lok5 lik5	100000
+落雷	lok5 lui2	100000
+落水	lok5 sui3	100000
+落堂	lok5 tong2	100000
+落仔	lok5 zai3	100000
+落着	lok5 ziek5	100000
+郎家	long2 gaa1	100000
+郞家	long2 gaa1	100000
+狼狂	long2 kong2	100000
+廊仔	long2 zai3	100000
+𢲲仔	long4 zai3	100000
+浪桥	long5 kiu2	100000
+晾凉	long5 lieng2	100000
+𢫘嘢	lou1 je3	100000
+𢫘须	lou1 slou1	100000
+老大	lou3 daai5	100000
+老番	lou3 faan1	100000
+老格	lou3 gaak3	100000
+老举	lou3 gei3	100000
+老公	lou3 gung1	100000
+老襟	lou3 kiem1	100000
+老女	lou3 nei3	100000
+老娘	lou3 nieng2	100000
+老同	lou3 tung2	100000
+佬仔	lou3 zai3	100000
+老子	lou3 zei3	100000
+路鸦	lou5 aa1	100000
+路货	lou5 fo4	100000
+露风	lou5 fung1	100000
+路用	lou5 jung5	100000
+路线	lou5 slin4	100000
+路水	lou5 sui3	100000
+雷公	lui2 gung1	100000
+累坠	lui5 zui5	100000
+乱讲	lun5 gong3	100000
+龙脷	lung2 lei5	100000
+聋佬	lung2 lou3	100000
+孖辫	maa1 bin1	100000
+孖女	maa1 nei3	100000
+孖仔	maa1 zai3	100000
+麻茶	maa2 caa2	100000
+麻蛋	maa2 daan5	100000
+麻鹤	maa2 hok5	100000
+麻油	maa2 jau2	100000
+麻蒙	maa2 mung2	100000
+麻糖	maa2 tong2	100000
+麻仔	maa2 zai3	100000
+麻雀	maa2 ziek3	100000
+马布	maa3 bou4	100000
+马公	maa3 gung1	100000
+马寡	maa3 gwaa3	100000
+马汗	maa3 hon5	100000
+马有	maa3 jau3	100000
+马骝	maa3 lau2	100000
+马乸	maa3 naa3	100000
+马闸	maa3 zaap5	100000
+马仔	maa3 zai3	100000
+码子	maa3 zei3	100000
+马鬃	maa3 zung1	100000
+𰪪素	maa4 slou4	100000
+埋栏	maai2 laan1	100000
+埋泥	maai2 nai2	100000
+卖鸭	maai5 aap3	100000
+蛮犁	maan2 lai2	100000
+蛮皮	maan2 pei2	100000
+晚黑	maan3 hak4	100000
+晩黑	maan3 hak4	100000
+晚黄	maan3 wong2	100000
+晩黄	maan3 wong2	100000
+晚造	maan3 zou5	100000
+盲佬	maang2 lou3	100000
+盲婆	maang2 po2	100000
+盲仔	maang2 zai3	100000
+袜头	maat5 tau2	100000
+卯仔	maau3 zai3	100000
+㓟丁	mai1 ding1	100000
+㓟家	mai1 gaa1	100000
+㓟书	mai1 si1	100000
+米鼻	mai3 bei5	100000
+米担	mai3 daam4	100000
+米筛	mai3 sai1	100000
+米碎	mai3 slui4	100000
+米头	mai3 tau2	100000
+米证	mai3 zing4	100000
+米疖	mai3 zit3	100000
+瞇洋	mai5 jieng2	100000
+唛头	mak4 tau2	100000
+唛仔	mak4 zai3	100000
+墨笔	mak5 bat4	100000
+墨斗	mak5 dau4	100000
+墨砚	mak5 jin5	100000
+墨屎	mak5 si3	100000
+蚊虫	man2 cung2	100000
+蚊激	man2 gik4	100000
+蚊子	man2 zei3	100000
+掤鸡	mang1 gai1	100000
+乜子	mat4 zei3	100000
+密实	mat5 sat5	100000
+密梳	mat5 so1	100000
+孖带	me4 daai4	100000
+溦溦	mei1 mei1	100000
+溦丝	mei1 slei1	100000
+眉头	mei2 tau2	100000
+尾春	mei3 can1	100000
+尾冬	mei3 dung1	100000
+尾路	mei3 lou5	100000
+尾仔	mei3 zai3	100000
+未爽	mei5 song3	100000
+棉褛	min2 lau1	100000
+面前	min5 cin2	100000
+面墩	min5 dan1	100000
+面风	min5 fung1	100000
+面架	min5 gaa4	100000
+面盆	min5 pun2	100000
+面䍁	min5 slui5	100000
+面条	min5 tiu2	100000
+篾白	mit5 baak5	100000
+篾青	mit5 cing1	100000
+篾仔	mit5 zai3	100000
+庙背	miu5 bui4	100000
+庙祝	miu5 zuk4	100000
+摩打	mo1 daa3	100000
+杧仔	mong1 zai3	100000
+杧子	mong1 zei3	100000
+望口	mong5 hau3	100000
+无该	mou2 goi1	100000
+无系	mou2 hai5	100000
+无好	mou2 hou3	100000
+无使	mou2 sai3	100000
+无委	mou2 wai3	100000
+无谓	mou2 wai5	100000
+毛仔	mou2 zai3	100000
+冇见	mou3 gin4	100000
+冇行	mou3 hong2	100000
+雾水	mou5 sui3	100000
+媒公	mui2 gung1	100000
+梅肉	mui2 juk5	100000
+妹仔	mui5 zai3	100000
+木毒	muk5 duk5	100000
+木瓜	muk5 gwaa1	100000
+木虱	muk5 sat4	100000
+门槛	mun2 kaam3	100000
+门闩	mun2 kwang4	100000
+门楣	mun2 mei2	100000
+门磌	mun2 tin2	100000
+懵懂	mung3 dung3	100000
+懵送	mung3 slung4	100000
+那下	naa3 haa3	100000
+那阵	naa3 zan5	100000
+乃处	naai3 si4	100000
+南乳	naam2 jui3	100000
+难为	naan2 wai2	100000
+纳仔	naap3 zai3	100000
+衲婆	naap5 po2	100000
+衲仔	naap5 zai3	100000
+泥湴	nai2 baan5	100000
+泥轿	nai2 giu5	100000
+泥霉	nai2 mui2	100000
+泥嬲	nai2 nau1	100000
+泥心	nai2 slam1	100000
+泥仔	nai2 zai3	100000
+腻凤	nai5 fung5	100000
+腻喉	nai5 hau2	100000
+撚化	nan3 faa4	100000
+能械	nang2 haai5	100000
+㑷子	nang3 zei3	100000
+𠹌子	nang3 zei3	100000
+粒仔	nap4 zai3	100000
+扭偈	nau3 gai5	100000
+牙擦	ngaa2 caat3	100000
+牙软	ngaa2 jin3	100000
+牙罅	ngaa2 le4	100000
+牙屎	ngaa2 si3	100000
+瓦坑	ngaa3 haang1	100000
+瓦口	ngaa3 hau3	100000
+瓦钦	ngaa3 hiem1	100000
+伢仔	ngaa5 zai3	100000
+崖鹰	ngaai2 ing1	100000
+捱刑	ngaai2 jing2	100000
+捱牛	ngaai2 ngau2	100000
+崖鹘	ngaai2 wat5	100000
+眼浅	ngaan3 cin3	100000
+眼瞓	ngaan3 fan4	100000
+眼眶	ngaan3 kwaang1	100000
+眼眉	ngaan3 mei2	100000
+眼核	ngaan3 wat5	100000
+硬颈	ngaang5 ging3	100000
+咬脚	ngaau3 giek3	100000
+咬身	ngaau3 san1	100000
+蚁入	ngai3 jap5	100000
+吟噆	ngam2 caam3	100000
+儑鸡	ngam4 gai1	100000
+银包	ngan2 baau1	100000
+银宝	ngan2 bou3	100000
+银钱	ngan2 cin2	100000
+银纸	ngan2 zi3	100000
+䟴脚	ngan4 giek3	100000
+勾头	ngau1 tau2	100000
+牛牯	ngau2 gu3	100000
+牛公	ngau2 gung1	100000
+牛气	ngau2 hei4	100000
+牛栏	ngau2 laan2	100000
+牛佬	ngau2 lou3	100000
+牛簏	ngau2 luk5	100000
+牛乸	ngau2 naa3	100000
+牛牸	ngau2 zei5	100000
+牛精	ngau2 zing1	100000
+㓷颈	ngei4 ging3	100000
+鹅膥	ngo2 can1	100000
+戆佬	ngong5 lou3	100000
+戆婆	ngong5 po2	100000
+戆仔	ngong5 zai3	100000
+傲鼻	ngou5 bei5	100000
+镊仔	niep5 zai3	100000
+稔子	nim3 zei3	100000
+年庚	nin2 gaang1	100000
+年晚	nin2 maan3	100000
+年时	nin2 si2	100000
+挢扪	niu3 mun1	100000
+尿龟	niu5 gwai1	100000
+尿胀	niu5 zieng4	100000
+那霍	no2 kok3	100000
+捰吃	no3 hik4	100000
+捰命	no3 ming5	100000
+内伤	nui5 sieng1	100000
+暖水	nun3 sui3	100000
+屙血	o1 hit3	100000
+屙尿	o1 niu5	100000
+屙屎	o1 si3	100000
+屙肚	o1 tou3	100000
+爱呕	oi4 au3	100000
+恶佬	ok3 lou3	100000
+扒钱	paa2 cin2	100000
+扒灰	paa2 fui1	100000
+扒摇	paa2 jiu2	100000
+扒挖	paa2 waat3	100000
+怕丑	paa4 cau3	100000
+刨口	paau2 hau3	100000
+刨仔	paau2 zai3	100000
+炮仗	paau4 zieng5	100000
+皮蛋	pei2 daan5	100000
+皮喼	pei2 giep5	100000
+皮篢	pei2 lung3	100000
+鄙耻	pei3 ci3	100000
+被单	pei3 daan1	100000
+被袋	pei3 doi5	100000
+嫖舍	pieu2 se4	100000
+片烟	pin4 jin1	100000
+片糖	pin4 tong2	100000
+婆仔	po2 zai3	100000
+破身	po4 san1	100000
+破相	po4 slieng4	100000
+膀船	pong2 sin2	100000
+旁屋	pong2 uk4	100000
+蒲瓜	pou2 gwaa1	100000
+袍鱼	pou2 ji2	100000
+铺尾	pou4 mei3	100000
+铺面	pou4 min5	100000
+呸蠘	pui5 ciet5	100000
+沙尘	saa1 can2	100000
+沙鸡	saa1 gai1	100000
+沙记	saa1 gei4	100000
+沙马	saa1 maa3	100000
+沙钻	saa1 zun4	100000
+𬕍仔	saa4 zai3	100000
+晒油	saai4 jau2	100000
+晒棚	saai4 paang2	100000
+晒相	saai4 slieng4	100000
+衫衩	saam1 caa1	100000
+衫裤	saam1 fu4	100000
+衫脚	saam1 giek3	100000
+衫扣	saam1 kau4	100000
+衫里	saam1 lei3	100000
+衫领	saam1 ling3	100000
+衫袖	saam1 zau5	100000
+山坳	saan1 aau4	100000
+山鸡	saan1 gai1	100000
+山窿	saan1 lung2	100000
+潺虫	saan2 cung2	100000
+生膥	saang1 can1	100000
+生虫	saang1 cung2	100000
+生疔	saang1 ding1	100000
+生鸡	saang1 gai1	100000
+生咸	saang1 haam2	100000
+生空	saang1 hung1	100000
+生油	saang1 jau2	100000
+生嘢	saang1 je3	100000
+生野	saang1 je3	100000
+生肉	saang1 juk5	100000
+生米	saang1 mai3	100000
+生面	saang1 min5	100000
+生牛	saang1 ngau2	100000
+生手	saang1 sau3	100000
+生糁	saang1 slaam3	100000
+生水	saang1 sui3	100000
+生精	saang1 zing1	100000
+筲筋	saau1 gan1	100000
+筲箕	saau1 gei1	100000
+驶得	sai3 dak4	100000
+使黑	sai3 hak4	100000
+驶口	sai3 hau3	100000
+驶气	sai3 hei4	100000
+驶咪	sai3 mi5	100000
+驶牛	sai3 ngau2	100000
+世界	sai4 gaai4	100000
+势凶	sai4 hung1	100000
+世艺	sai4 ngai5	100000
+势着	sai4 ziek5	100000
+誓愿	sai5 jin5	100000
+身粗	san1 cou1	100000
+身热	san1 jit5	100000
+唇舌	san2 sit5	100000
+肫花	san3 faa1	100000
+顺笔	san5 bat4	100000
+失引	sat4 jan3	100000
+失阳	sat4 jieng2	100000
+虱乸	sat4 naa3	100000
+收箕	sau1 gei1	100000
+收口	sau1 hau3	100000
+收尾	sau1 mei3	100000
+收水	sau1 sui3	100000
+手袜	sau3 maat5	100000
+手踭	sau3 zaang1	100000
+手凿	sau3 zok5	100000
+寿板	sau5 baan3	100000
+书房	si1 fong2	100000
+时步	si2 bou5	100000
+薯焙	si2 bui5	100000
+时旧	si2 gieu5	100000
+薯贡	si2 gung4	100000
+时兴	si2 hing4	100000
+薯莨	si2 lieng2	100000
+时年	si2 nin2	100000
+屎布	si3 bou4	100000
+屎蛆	si3 cei1	100000
+屎忽	si3 fat4	100000
+屎坑	si3 haang1	100000
+屎畦	si3 kwai2	100000
+屎桶	si3 tung3	100000
+鼠志	si3 zi4	100000
+屎胀	si3 zieng4	100000
+试跟	si4 gan1	100000
+试尿	si4 niu5	100000
+试辰	si4 san2	100000
+处所	si4 so3	100000
+试水	si4 sui3	100000
+树桠	si5 aa1	100000
+是必	si5 bit3	100000
+士胆	si5 daam3	100000
+是但	si5 daan5	100000
+士的	si5 dik4	100000
+树胶	si5 gaau1	100000
+事干	si5 gon4	100000
+树拐	si5 gwaai3	100000
+豉油	si5 jau2	100000
+树尾	si5 mei3	100000
+事熟	si5 suk5	100000
+事话	si5 waa5	100000
+树乍	si5 zaa4	100000
+上门	sieng3 mun2	100000
+上田	sieng3 tin2	100000
+上堂	sieng3 tong2	100000
+上晏	sieng5 aan4	100000
+上高	sieng5 gou1	100000
+上下	sieng5 haa5	100000
+上向	sieng5 hieng4	100000
+上也	sieng5 je3	100000
+上腭	sieng5 ngok5	100000
+上水	sieng5 sui3	100000
+上作	sieng5 zok3	100000
+色笔	sik4 bat4	100000
+识得	sik4 dak4	100000
+色水	sik4 sui3	100000
+色子	sik4 zei3	100000
+石牯	sik5 gu3	100000
+石碌	sik5 luk4	100000
+石仔	sik5 zai3	100000
+船脚	sin2 giek3	100000
+声喉	sing1 hau2	100000
+声口	sing1 hau3	100000
+声气	sing1 hei4	100000
+成日	sing2 jat5	100000
+闪令	sip3 ling5	100000
+设若	sit3 jiek5	100000
+䞌底	sit5 dai3	100000
+烧酒	siu1 zau3	100000
+烧猪	siu1 zi1	100000
+韶菜	siu2 coi4	100000
+三板	slaam1 baan3	100000
+三鸟	slaam1 niu3	100000
+散工	slaan3 gung1	100000
+散学	slaan4 hok5	100000
+犀利	slai1 lei5	100000
+西装	slai1 zong1	100000
+细妈	slai4 maa3	100000
+细娘	slai4 nieng2	100000
+细婶	slai4 sam3	100000
+细仔	slai4 zai3	100000
+塞督	slak4 duk4	100000
+心定	slam1 ding5	100000
+心机	slam1 gei1	100000
+心口	slam1 hau3	100000
+心乐	slam1 lok5	100000
+心狼	slam1 long2	100000
+心牲	slam1 saang1	100000
+心兽	slam1 sau4	100000
+心事	slam1 si5	100000
+心淡	slam1 taam3	100000
+心焦	slam1 ziu1	100000
+新府	slan1 fu3	100000
+新人	slan1 jan2	100000
+新鲜	slan1 slin1	100000
+信肉	slan4 juk5	100000
+信筒	slan4 tung2	100000
+擤鼻	slang4 bei5	100000
+飒口	slap4 hau3	100000
+飒星	slap4 sling1	100000
+飒碎	slap4 slui4	100000
+膝头	slat4 tau2	100000
+丝发	slei1 faat3	100000
+思疑	slei1 ji2	100000
+斯文	slei1 man2	100000
+死火	slei3 fo3	100000
+死瘟	slei3 wan1	100000
+死主	slei3 zi3	100000
+四柱	slei4 ci3	100000
+四幅	slei4 fuk4	100000
+四处	slei4 si4	100000
+四位	slei4 wai5	100000
+相啱	slieng1 ngaam1	100000
+相思	slieng1 slei1	100000
+相底	slieng4 dai3	100000
+𣬬毛	sliep5 mou2	100000
+先生	slin1 saang1	100000
+线鸡	slin4 gai1	100000
+线公	slin4 gung1	100000
+雪糕	slit3 gou1	100000
+雪水	slit3 sui3	100000
+雪条	slit3 tiu2	100000
+小胆	sliu3 daam3	100000
+小格	sliu3 gaak3	100000
+小工	sliu3 gung1	100000
+小鬼	sliu3 gwai3	100000
+小妹	sliu3 mui5	100000
+小弟	sliu3 tai3	100000
+蓑衫	slo3 saam1	100000
+锁匙	slo3 si2	100000
+索窖	slok3 gaau4	100000
+酥粉	slou1 fan3	100000
+酥口	slou1 hau3	100000
+须刨	slou1 paau2	100000
+臊鼠	slou1 si3	100000
+酥炸	slou1 zaa4	100000
+扫把	slou4 baa3	100000
+碎纸	slui4 zi3	100000
+粟米	sluk4 mai3	100000
+酸菜	slun1 coi4	100000
+巽门	slun4 mun2	100000
+蒜藕	slun4 ngau3	100000
+傻佬	so2 lou3	100000
+傻仔	so2 zai3	100000
+所恃	so3 si5	100000
+嗦油	sok3 jau2	100000
+数簿	sou4 bou5	100000
+衰公	sui1 gung1	100000
+衰鬼	sui1 gwai3	100000
+衰仔	sui1 zai3	100000
+水鸭	sui3 aap3	100000
+水笔	sui3 bat4	100000
+水车	sui3 ce1	100000
+水槽	sui3 cou2	100000
+水大	sui3 daai5	100000
+水脚	sui3 giek3	100000
+水干	sui3 gon1	100000
+水糕	sui3 gou1	100000
+水鞋	sui3 haai2	100000
+水客	sui3 haak3	100000
+水喉	sui3 hau2	100000
+水壳	sui3 hok3	100000
+水衣	sui3 ji1	100000
+水利	sui3 lei5	100000
+水路	sui3 lou5	100000
+水帽	sui3 mou5	100000
+水船	sui3 sin2	100000
+水头	sui3 tau2	100000
+睡梦	sui5 mung5	100000
+叔爷	suk4 je2	100000
+缩水	suk4 sui3	100000
+叔侄	suk4 zat5	100000
+熟咸	suk5 haam2	100000
+熟烟	suk5 jin1	100000
+熟手	suk5 sau3	100000
+太过	taai4 go4	100000
+太公	taai4 gung1	100000
+太婆	taai4 po2	100000
+痰罐	taam2 gun4	100000
+淡情	taam3 cing2	100000
+探米	taam4 mai3	100000
+叹记	taan4 gei4	100000
+锑罂	tai1 aang1	100000
+剃刀	tai4 dou1	100000
+褪脚	tan4 giek3	100000
+偷卷	tau1 gin3	100000
+头口	tau2 hau3	100000
+头壳	tau2 hok3	100000
+头蜡	tau2 laap5	100000
+头路	tau2 lou5	100000
+头毛	tau2 mou2	100000
+头先	tau2 slin1	100000
+唞气	tau3 hei4	100000
+透风	tau4 fung1	100000
+艇仔	tieng3 zai3	100000
+涂仔	tieu2 zai3	100000
+天丑	tin1 cau3	100000
+天光	tin1 gong1	100000
+天公	tin1 gung1	100000
+天好	tin1 hou3	100000
+天阴	tin1 jam1	100000
+天棚	tin1 paang2	100000
+天收	tin1 sau1	100000
+天闪	tin1 sip3	100000
+天星	tin1 sling1	100000
+天水	tin1 sui3	100000
+天井	tin1 zing3	100000
+田垌	tin2 dung5	100000
+田鸡	tin2 gai1	100000
+田基	tin2 gei1	100000
+田寮	tin2 liu2	100000
+田螺	tin2 lo2	100000
+田威	tin2 wai1	100000
+厅底	ting1 dai3	100000
+听闻	ting1 man2	100000
+铁线	tit3 slin4	100000
+铁闸	tit3 zaap5	100000
+铁蔗	tit3 ze4	100000
+拖挞	to1 taat3	100000
+拖桶	to1 tung3	100000
+拕累	to2 lui5	100000
+塘鸭	tong2 aap3	100000
+塘蒿	tong2 hou1	100000
+糖水	tong2 sui3	100000
+塘仔	tong2 zai3	100000
+糖仔	tong2 zai3	100000
+烫斗	tong4 dau3	100000
+图诉	tou2 slou4	100000
+肚卜	tou3 buk4	100000
+肚刺	tou3 cik4	100000
+土狗	tou3 gau3	100000
+肚腩	tou3 naam3	100000
+肚囊	tou3 nong2	100000
+肚屙	tou3 o1	100000
+土主	tou3 zi3	100000
+兔仔	tou4 zai3	100000
+秃骨	tuk4 gwat4	100000
+秃头	tuk4 tau2	100000
+团峦	tun2 lun2	100000
+断断	tun3 dun5	100000
+断尾	tun3 mei3	100000
+铜绿	tung2 luk5	100000
+同志	tung2 zi4	100000
+脱色	tut3 sik4	100000
+屋𡰪	uk4 duk4	100000
+屋间	uk4 gaan1	100000
+屋己	uk4 gei3	100000
+屋料	uk4 liu5	100000
+屋上	uk4 sieng5	100000
+屋主	uk4 zi3	100000
+屋脊	uk4 zik4	100000
+蕹菜	ung4 coi4	100000
+华离	waa2 lei2	100000
+话知	waa5 zi1	100000
+坏鬼	waai5 gwai3	100000
+坏骨	waai5 gwat4	100000
+𡱮钉	waak5 ding1	100000
+𡱮鱼	waak5 ji2	100000
+还嘴	waan2 zui3	100000
+鲩鱼	waan3 ji2	100000
+横𫠲	waang2 dim5	100000
+横人	waang2 jan2	100000
+滑漏	waat5 lau5	100000
+威水	wai1 sui3	100000
+围夹	wai2 giep5	100000
+围杆	wai2 gon1	100000
+喂狗	wai4 gau3	100000
+为喉	wai5 hau2	100000
+魂精	wan2 zing1	100000
+揾笨	wan3 ban5	100000
+稳磌	wan3 tin2	100000
+稳阵	wan3 zan5	100000
+禾枪	wo2 cieng1	100000
+禾草	wo2 cou3	100000
+禾束	wo2 cuk4	100000
+禾虫	wo2 cung2	100000
+禾巷	wo2 hong5	100000
+禾狸	wo2 lei2	100000
+禾镰	wo2 lim2	100000
+禾落	wo2 lok5	100000
+禾事	wo2 si5	100000
+涴错	wo4 cok3	100000
+咊贺	wo5 ho5	100000
+镬㞘	wok5 duk4	100000
+镬𡰪	wok5 duk4	100000
+镬耳	wok5 ji3	100000
+镬涮	wok5 saan4	100000
+黄蜂	wong2 fung1	100000
+黄糖	wong2 tong2	100000
+旺月	wong5 jit5	100000
+旺相	wong5 slieng4	100000
+污糟	wu1 zou1	100000
+芋羹	wu5 gaang1	100000
+芋呷	wu5 haap3	100000
+芋子	wu5 zei3	100000
+回二	wui2 ji5	100000
+回尾	wui2 mei3	100000
+回示	wui2 si5	100000
+外低	wui5 dai1	100000
+外家	wui5 gaa1	100000
+外公	wui5 gung1	100000
+外佬	wui5 lou3	100000
+外母	wui5 mou3	100000
+外婆	wui5 po2	100000
+外甥	wui5 saang1	100000
+外水	wui5 sui3	100000
+外太	wui5 taai4	100000
+碗缿	wun3 hong3	100000
+斋菜	zaai1 coi4	100000
+斋口	zaai1 hau3	100000
+斋身	zaai1 san1	100000
+争交	zaang1 gaau1	100000
+闸刀	zaap5 dou1	100000
+曱甴	zaat5 kaa2	100000
+趠袊	zaau5 ling2	100000
+仔爷	zai3 je2	100000
+仔娘	zai3 nieng1	100000
+滞运	zai5 wan5	100000
+鲗鱼	zak4 ji2	100000
+砧板	zam1 baan3	100000
+针顶	zam1 ding3	100000
+针紧	zam1 gan3	100000
+执菜	zap4 coi4	100000
+执阄	zap4 kau1	100000
+执漏	zap4 lau5	100000
+执拾	zap4 sap5	100000
+卒之	zat4 zi1	100000
+侄仔	zat5 zai3	100000
+揤仔	zat5 zai3	100000
+周流	zau1 lau2	100000
+周时	zau1 si2	100000
+走贼	zau3 cak5	100000
+走假	zau3 gaa3	100000
+走鸡	zau3 gai1	100000
+走卷	zau3 gin3	100000
+走挹	zau3 jap4	100000
+酒楼	zau3 lau2	100000
+酒凹	zau3 nap4	100000
+走身	zau3 san1	100000
+走水	zau3 sui3	100000
+昼钉	zau4 ding1	100000
+昼鱼	zau4 ji2	100000
+遮瞒	ze1 mun2	100000
+蔗呷	ze4 haap3	100000
+蔗扑	ze4 pok3	100000
+蔗渣	ze4 zaa1	100000
+姊夫	zei3 fu1	100000
+子细	zei3 slai4	100000
+字粒	zei5 nap4	100000
+自恃	zei5 si5	100000
+字帖	zei5 tip3	100000
+自在	zei5 zoi5	100000
+知得	zi1 dak4	100000
+猪兜	zi1 dau1	100000
+猪花	zi1 faa1	100000
+支光	zi1 gong1	100000
+猪红	zi1 hung2	100000
+猪栏	zi1 laan1	100000
+猪郎	zi1 long2	100000
+猪唛	zi1 mak4	100000
+猪皿	zi1 ming3	100000
+猪乸	zi1 naa3	100000
+知实	zi1 sat5	100000
+猪中	zi1 zung1	100000
+纸钱	zi3 cin2	100000
+纸鹞	zi3 jiu5	100000
+纸媒	zi3 mui2	100000
+纸撚	zi3 nan3	100000
+纸扑	zi3 pok3	100000
+置家	zi4 gaa1	100000
+箸笼	zi5 lung2	100000
+雀枪	ziek3 cieng1	100000
+雀公	ziek3 gung1	100000
+雀乸	ziek3 naa3	100000
+着衫	ziek3 saam1	100000
+雀仔	ziek3 zai3	100000
+着愀	ziek5 ciu3	100000
+着吊	ziek5 diu4	100000
+着风	ziek5 fung1	100000
+着紧	ziek5 gan3	100000
+着霍	ziek5 kok3	100000
+着数	ziek5 sou4	100000
+将就	zieng1 zau5	100000
+掌心	zieng3 slam1	100000
+炙火	zik4 fo3	100000
+即刻	zik4 kak4	100000
+积了	zik4 liu3	100000
+织箦	zik4 zaak3	100000
+直系	zik5 hai5	100000
+粘米	zim1 mai3	100000
+煎糍	zin1 cei2	100000
+煎堆	zin1 dui1	100000
+箭猪	zin4 zi1	100000
+贱格	zin5 gaa3	100000
+井头	zing3 tau2	100000
+整制	zing3 zai4	100000
+症候	zing4 hau5	100000
+正梁	zing4 lieng2	100000
+净系	zing5 hai5	100000
+节瓜	zit3 gwaa1	100000
+绝嗣	zit5 zei3	100000
+蕉子	ziu1 zei3	100000
+朝早	ziu1 zou3	100000
+照镜	ziu4 ging4	100000
+阻滞	zo3 zai5	100000
+在行	zoi5 hong2	100000
+在意	zoi5 ji4	100000
+在心	zoi5 slam1	100000
+捉鲎	zok3 hau5	100000
+作色	zok3 sik4	100000
+装精	zong1 zing1	100000
+装整	zong1 zing3	100000
+撞板	zong5 baan3	100000
+昨日	zong5 jat5	100000
+遭瘟	zou1 wan1	100000
+早排	zou3 paai2	100000
+早造	zou3 zou5	100000
+灶前	zou4 cin2	100000
+灶冲	zou4 cung1	100000
+做得	zou4 dak4	100000
+做队	zou4 dui5	100000
+做冬	zou4 dung1	100000
+灶𡱽	zou4 fat4	100000
+灶君	zou4 gwan1	100000
+做下	zou4 haa3	100000
+做戏	zou4 hei4	100000
+做肉	zou4 juk5	100000
+做中	zou4 zung1	100000
+做种	zou4 zung3	100000
+竹篙	zuk4 gou1	100000
+竹头	zuk4 tau2	100000
+足蟀	zuk4 zat4	100000
+竹蔗	zuk4 ze4	100000
+樽椊	zun1 zat4	100000
+终归	zung1 gwai1	100000
+中意	zung1 ji4	100000
+中褛	zung1 lau1	100000
+矮瓜丁	aai3 gwaa1 ding1	100000
+矮磨锉	aai3 mo5 co4	100000
+矮屎䏙	aai3 si3 dam4	100000
+鸭脚包	aap3 giek3 baau1	100000
+鸭膶肠	aap3 jan4 cieng2	100000
+鸭乸掌	aap3 naa3 zieng3	100000
+拗狗屎	aau4 gau3 si3	100000
+翳翳子	ai4 ai4 zei3	100000
+拜太公	baai4 taai4 gung1	100000
+败家六	baai5 gaa1 luk5	100000
+败家仔	baai5 gaa1 zai3	100000
+败主狗	baai5 zi3 gau3	100000
+百爷公	baak3 je2 gung1	100000
+百罗雀	baak3 lo2 ziek3	100000
+白白子	baak5 baak5 zei3	100000
+白鼻佬	baak5 bei5 lou3	100000
+白灰带	baak5 fui1 daai4	100000
+白鸽眼	baak5 gaap3 ngaan3	100000
+白肭肭	baak5 nat4 nat4	100000
+白话戏	baak5 waa5 hei4	100000
+八脚佬	baat3 giek3 lou3	100000
+八卦婆	baat3 gwaa4 po2	100000
+饱饱子	baau3 baau3 zei3	100000
+䠥脚鸭	bai1 giek3 aap3	100000
+弊家火	bai5 gaa1 fo3	100000
+弊屎火	bai5 si3 fo3	100000
+笨屎强	ban5 si3 kieng2	100000
+崩口碗	bang3 hau3 wun3	100000
+鼻轮梗	bei5 lan2 gang3	100000
+鼻梁梗	bei5 lieng2 gang3	100000
+菠薐菜	bo1 ling2 coi4	100000
+波罗子	bo1 lo2 zei3	100000
+簸箕下	bo4 gei1 haa5	100000
+薄页页	bok5 jip5 jip5	100000
+补镬佬	bou3 wok5 lou3	100000
+背底奶	bui4 dai3 naai3	100000
+背底婆	bui4 dai3 po2	100000
+背窿窿	bui4 lung2 lung2	100000
+背尾婆	bui4 mei3 po2	100000
+背脊骨	bui4 zik4 gwat4	100000
+卜箕下	buk4 gei1 haa5	100000
+卜辘仔	buk4 luk4 zai3	100000
+半缆站	bun4 laam5 zaam5	100000
+半桶水	bun4 tung3 sui3	100000
+茶罂仔	caa2 aang1 zai3	100000
+撑船佬	caang1 sin2 lou3	100000
+炒鱿鱼	caau3 jau2 ji2	100000
+齐辑辑	cai2 cap4 cap4	100000
+齐邑邑	cai2 jap4 jap4	100000
+亲家嫲	can1 gaa1 maa3	100000
+七埕酒	cat4 cing2 zau3	100000
+出婚婆	cat4 fan1 po2	100000
+出水鱼	cat4 sui3 ji2	100000
+出头天	cat4 tau2 tin1	100000
+臭臭子	cau4 cau4 zei3	100000
+臭屎字	cau4 si3 zei5	100000
+车大炮	ce1 daai5 paau4	100000
+车衣机	ce1 ji1 gei1	100000
+车仔佬	ce1 zai3 lou3	100000
+扯白藤	ce3 baak5 tang2	100000
+扯唇舌	ce3 san2 sit5	100000
+扯索婆	ce3 slok3 po2	100000
+趣过翅	cei4 go4 ci4	100000
+雉鸡尾	ci1 gai1 mei3	100000
+前时人	cin2 si2 jan2	100000
+青悲悲	cing1 bei1 bei1	100000
+清清形	cing1 cing1 jing2	100000
+青光瓮	cing1 gong1 ung4	100000
+青头仔	cing1 tau2 zai3	100000
+青竹碑	cing1 zuk4 bei1	100000
+财主佬	coi2 zi3 lou3	100000
+床脚尾	cong2 giek3 mei3	100000
+槽行佬	cou2 hong2 lou3	100000
+草花头	cou3 faa1 tau2	100000
+吹筒仔	cui1 tung2 zai3	100000
+槌角筋	cui2 gok3 gan1	100000
+脆缉缉	cui4 cap4 cap4	100000
+脆筒仔	cui4 tung2 zai3	100000
+冲凉房	cung1 lieng2 fong2	100000
+充能械	cung1 nang2 haai5	100000
+重林泵	cung3 lam1 dam1	100000
+打边炉	daa3 bin1 lou2	100000
+打保头	daa3 bou3 tau2	100000
+打柴狗	daa3 caai2 gau3	100000
+打洞翻	daa3 dung5 faan1	100000
+打功夫	daa3 gung1 fu1	100000
+打工仔	daa3 gung1 zai3	100000
+打烂碟	daa3 laan5 dip5	100000
+打锣锤	daa3 lo2 cui2	100000
+打麻雀	daa3 maa2 ziek3	100000
+打牙较	daa3 ngaa2 gaau4	100000
+打失茶	daa3 sat4 caa2	100000
+打水围	daa3 sui3 wai2	100000
+打铁佬	daa3 tit3 lou3	100000
+打堂枚	daa3 tong2 mui2	100000
+打雀眼	daa3 ziek3 ngaan3	100000
+大茶根	daai5 caa2 gan1	100000
+大前日	daai5 cin2 jat5	100000
+大花厂	daai5 faa1 cong3	100000
+大花炮	daai5 faa1 paau4	100000
+大番薯	daai5 faan1 si2	100000
+大髻佬	daai5 gai4 lou3	100000
+大光灯	daai5 gong1 dang1	100000
+大工舦	daai5 gung1 taai3	100000
+大后日	daai5 hau5 jat5	100000
+大耀垌	daai5 jiu5 dung5	100000
+大肉桂	daai5 juk5 gwai4	100000
+大克屎	daai5 kak4 si3	100000
+大碌藕	daai5 luk4 ngau3	100000
+大碌竹	daai5 luk4 zuk4	100000
+大粒佬	daai5 nap4 lou3	100000
+大炮友	daai5 paau4 jau3	100000
+大树脚	daai5 si5 giek3	100000
+大心肝	daai5 slam1 gon1	100000
+大头狗	daai5 tau2 gau3	100000
+大头帽	daai5 tau2 mou5	100000
+大拖水	daai5 to1 sui3	100000
+大肚婆	daai5 tou3 po2	100000
+大桶竹	daai5 tung3 zuk4	100000
+大围罟	daai5 wai2 gu1	100000
+大王公	daai5 wong2 gung1	100000
+大姐嫂	daai5 ze3 slou3	100000
+大姐仔	daai5 ze3 zai3	100000
+担仔佬	daam4 zai3 lou3	100000
+丹桂树	daan1 gwai4 si5	100000
+抵腍逋	dai3 nam2 pou1	100000
+䏙䏙圆	dam4 dam4 jin2	100000
+等试辰	dang3 si4 san2	100000
+邓家佬	dang5 gaa1 lou3	100000
+邓家婆	dang5 gaa1 po2	100000
+邓家仔	dang5 gaa1 zai3	100000
+𢯭仔婆	dang5 zai3 po2	100000
+揼骨佬	dap5 gwat4 lou3	100000
+揼骨女	dap5 gwat4 nei3	100000
+斗木佬	dau4 muk5 lou3	100000
+豆腐博	dau5 fu5 bok3	100000
+豆腐花	dau5 fu5 faa1	100000
+豆腐头	dau5 fu5 tau2	100000
+地豆银	dei5 dau5 ngan2	100000
+点称边	dim3 cing4 bin1	100000
+电胆仔	din5 daam3 zai3	100000
+电单车	din5 daan1 ce1	100000
+电灯杉	din5 dang1 caam4	100000
+电灯胆	din5 dang1 daam3	100000
+顶头风	ding3 tau2 fung1	100000
+订髻奴	ding4 gai4 nou2	100000
+钓鱼公	diu4 ji2 gung1	100000
+多头路	do1 tau2 lou5	100000
+多头纹	do1 tau2 man2	100000
+荡荡光	dong5 dong5 gong1	100000
+碓齿唛	dui4 ci3 mak4	100000
+独睡床	duk5 sui5 cong2	100000
+独头佬	duk5 tau2 lou3	100000
+花卜碌	faa1 buk4 luk4	100000
+花豆虫	faa1 dau5 cung2	100000
+花豆呃	faa1 dau5 ngak4	100000
+花阶砖	faa1 gaai1 zin1	100000
+花口物	faa1 hau3 mat5	100000
+花喇喇	faa1 laa1 laa1	100000
+花楞子	faa1 lim4 zei3	100000
+花面佬	faa1 min5 lou3	100000
+花头鸭	faa1 tau2 aap3	100000
+花磌女	faa1 tin2 nei3	100000
+花肚君	faa1 tou3 gwan1	100000
+花子佬	faa1 zei3 lou3	100000
+番鸭变	faan1 aap3 bin4	100000
+番菠萝	faan1 bo1 lo2	100000
+翻跟斗	faan1 gan1 dau3	100000
+番鬼佬	faan1 gwai3 lou3	100000
+番鬼婆	faan1 gwai3 po2	100000
+番薯树	faan1 si2 si5	100000
+番头婆	faan1 tau2 po2	100000
+番桃子	faan1 tou2 zei3	100000
+饭匙骨	faan5 si2 gwat4	100000
+发膥撬	faat3 can1 ciu4	100000
+发凸仔	faat3 dat5 zai3	100000
+发鸡盲	faat3 gai1 maang2	100000
+发羊吊	faat3 jieng2 diu4	100000
+发落瘼	faat3 lok5 mok5	100000
+发筲筋	faat3 saau1 gan1	100000
+发肚胀	faat3 tou3 zieng4	100000
+睏晏觉	fan4 aan4 gaau4	100000
+瞓晏觉	fan4 aan4 gaau4	100000
+肥朒朒	fei2 nuk4 nuk4	100000
+肥腯腯	fei2 tan2 tan2	100000
+火爆都	fo3 baau4 dou1	100000
+火柴支	fo3 caai2 zi1	100000
+火船仔	fo3 sin2 zai3	100000
+火水灯	fo3 sui3 dang1	100000
+火水炉	fo3 sui3 lou2	100000
+放放光	fong4 fong4 gong1	100000
+夫娘乸	fu1 nieng2 naa3	100000
+夫娘婆	fu1 nieng2 po2	100000
+夫娘仔	fu1 nieng2 zai3	100000
+苦苦子	fu3 fu3 zei3	100000
+裤头部	fu4 tau2 bou5	100000
+裤头带	fu4 tau2 daai4	100000
+裤头䘿	fu4 tau2 kwat5	100000
+阔喇耙	fut3 laa2 paa2	100000
+家居布	gaa1 gei1 bou4	100000
+家下屋	gaa1 haa5 uk4	100000
+家口船	gaa1 hau3 sin2	100000
+假意趣	gaa3 ji4 cei4	100000
+芥兰头	gaai4 laan2 tau2	100000
+隔篱屋	gaak3 lei2 uk4	100000
+耕田佬	gaang1 tin2 lou3	100000
+胶箍仔	gaau1 ku1 zai3	100000
+搅儿嬉	gaau3 ji2 hei1	100000
+搅马仔	gaau3 maa3 zai3	100000
+教师仔	gaau4 si1 zai3	100000
+鸡膥螺	gai1 can1 lo2	100000
+鸡膥银	gai1 can1 ngan2	100000
+鸡笼掩	gai1 lung2 jim3	100000
+鸡乸菢	gai1 naa3 bou5	100000
+鸡屎疔	gai1 si3 ding1	100000
+鸡屎藤	gai1 si3 tang2	100000
+鸡心椒	gai1 slam1 ziu1	100000
+鸡踢椒	gai1 tik4 ziu1	100000
+鸡罩攥	gai1 zaau4 zun3	100000
+鸡仔饼	gai1 zai3 bing3	100000
+鸡仔咪	gai1 zai3 mei1	100000
+鸡竹妹	gai1 zuk4 mui4	100000
+髻簪螺	gai4 zaam1 lo2	100000
+蛤朒仔	gap4 nuk4 zai3	100000
+蛤仔纸	gap4 zai3 zi3	100000
+机器碟	gei1 hei4 dip5	100000
+机器针	gei1 hei4 zam1	100000
+脚马头	giek3 maa3 tau2	100000
+脚指尾	giek3 zi3 mei3	100000
+金鸡仔	giem1 gai1 zai3	100000
+金银引	giem1 ngan2 jan3	100000
+及第粥	giep5 dai5 zuk4	100000
+纠丝边	giu3 slei1 bin1	100000
+果班嘢	go3 baan1 je3	100000
+果份样	go3 fan5 jieng5	100000
+光荡荡	gong1 dong5 dong5	100000
+江瑶柱	gong1 jiu2 ci3	100000
+讲大话	gong3 daai5 waa5	100000
+讲大嘴	gong3 daai5 zui3	100000
+讲牙花	gong3 ngaa2 faa1	100000
+讲世界	gong3 sai4 gaai4	100000
+讲唇舌	gong3 san2 sit5	100000
+讲小嘴	gong3 sliu3 zui3	100000
+高脚佬	gou1 giek3 lou3	100000
+高踭鞋	gou1 zaang1 haai2	100000
+棺材佬	gun1 coi2 lou3	100000
+公仔牌	gung1 zai3 paai2	100000
+公仔书	gung1 zai3 si1	100000
+贡卡卡	gung4 kaa4 kaa4	100000
+瓜老趁	gwaa1 lou3 can4	100000
+瓜子树	gwaa1 zei3 si5	100000
+寡佬索	gwaa3 lou3 slok3	100000
+寡母婆	gwaa3 mou3 po2	100000
+褂仔鹤	gwaa4 zai3 hok5	100000
+归公佬	gwai1 gung1 lou3	100000
+鬼打晕	gwai3 daa3 wan2	100000
+鬼勾雀	gwai3 ngau1 ziek3	100000
+鬼钻风	gwai3 zun5 fung1	100000
+柜拖桶	gwai5 to1 tung3	100000
+柜枱桶	gwai5 toi2 tung3	100000
+虾膥钻	haa1 can1 zun4	100000
+虾婆弹	haa1 po2 taan2	100000
+下路仔	haa5 lou5 zai3	100000
+揩油水	haai1 jau2 sui3	100000
+嚡蠄蠄	haai2 kam2 kam2	100000
+鞋挞鱼	haai2 taat3 ji2	100000
+咸棒唥	haam2 fung3 laang2	100000
+咸成子	haam2 sing2 zei3	100000
+闲长时	haan2 cieng2 si2	100000
+闲时日	haan2 si2 jat5	100000
+行军床	haang2 gwan1 cong2	100000
+行船佬	haang2 sin2 lou3	100000
+黑胶绸	hak4 gaau1 cau2	100000
+黑黑子	hak4 hak4 zei3	100000
+黑叶仔	hak4 jip5 zai3	100000
+黑墨墨	hak4 mak5 mak5	100000
+含笑花	ham2 sliu4 faa1	100000
+合桶佬	hap5 tung3 lou3	100000
+乞米佬	hat4 mai3 lou3	100000
+口水花	hau3 sui3 faa1	100000
+口水尾	hau3 sui3 mei3	100000
+口水潺	hau3 sui3 saan2	100000
+后尾饮	hau5 mei3 jam3	100000
+后尾妈	hau5 mei3 maa4	100000
+后生仔	hau5 saang1 zai3	100000
+戏班佬	hei4 baan1 lou3	100000
+香香子	hieng1 hieng1 zei3	100000
+吃都鬼	hik4 dou1 gwai3	100000
+吃上田	hik4 sieng3 tin2	100000
+血流流	hit3 lau2 lau2	100000
+荷包袋	ho2 baau1 doi5	100000
+看牛仔	hon4 ngau2 zai3	100000
+好人事	hou3 jan2 si5	100000
+哭绥绥	huk4 slui1 slui1	100000
+红当当	hung2 dong1 dong1	100000
+红毛泥	hung2 mou2 nai2	100000
+英文水	ing1 man2 sui3	100000
+一缗钱	jat4 man4 cin2	100000
+一铺路	jat4 pou4 lou5	100000
+日记部	jat5 gei4 bou5	100000
+油勒仔	jau2 lak5 zai3	100000
+油流流	jau2 lau2 lau2	100000
+油麻蔺	jau2 maa2 lan5	100000
+椰菜仔	je2 coi4 zai3	100000
+椰子壳	je2 zei3 hok3	100000
+夜晚黑	je5 maan3 hak4	100000
+鱼眼鸡	ji2 ngaan3 gai1	100000
+鱼眼子	ji2 ngaan3 zei3	100000
+鱼头晕	ji2 tau2 wan2	100000
+耳疔疮	ji3 ding1 cong1	100000
+耳聋疔	ji3 lung2 ding1	100000
+二八天	ji5 baat3 tin1	100000
+二马机	ji5 maa3 gei1	100000
+二世祖	ji5 sai4 zou3	100000
+二四跳	ji5 slei4 tiu4	100000
+二叔公	ji5 suk4 gung1	100000
+羊屎鹤	jieng2 si3 hok5	100000
+仰靴靴	jieng3 he1 he1	100000
+烟仔头	jin1 zai3 tau2	100000
+圆眼子	jin2 ngaan3 zei3	100000
+元胎仔	jin2 toi1 zai3	100000
+丸子包	jin2 zei3 baau1	100000
+影相机	jing3 slieng4 gei1	100000
+月份牌	jit5 fan5 paai2	100000
+热呵呵	jit5 ho1 ho1	100000
+热热子	jit5 jit5 zei3	100000
+热水壶	jit5 sui3 wu2	100000
+月头婆	jit5 tau2 po2	100000
+玉荷包	juk5 ho2 baau1	100000
+卡码四	kaa4 maa3 slei4	100000
+搅麦糠	kaau2 mak5 hong1	100000
+契家佬	kai4 gaa1 lou3	100000
+契家婆	kai4 gaa1 po2	100000
+企人边	kei3 jan2 bin1	100000
+丐米佬	koi4 mai3 lou3	100000
+穷佬仔	kung2 lou3 zai3	100000
+尯脚佬	kwaai3 giek3 lou3	100000
+𪥕雷槌	kwat5 lui2 cui2	100000
+𪥕头巷	kwat5 tau2 hong5	100000
+𪥕头婆	kwat5 tau2 po2	100000
+蓝蓝子	laam2 laam2 zei3	100000
+揽平头	laam3 ping2 tau2	100000
+榄子核	laam3 zei3 wat5	100000
+懒饭蛇	laan3 faan5 se2	100000
+烂仔头	laan5 zai3 tau2	100000
+冷冷子	laang3 laang3 zei3	100000
+濑尿虾	laat3 niu5 haa1	100000
+犁晒霜	lai2 saai4 song1	100000
+犁头揰	lai2 tau2 cung4	100000
+礼衣边	lai3 ji1 bin1	100000
+笠衣仔	lap4 ji1 zai3	100000
+垃圾插	lap5 slap4 caap3	100000
+流民佬	lau2 man2 lou3	100000
+楼仔轿	lau2 zai3 giu5	100000
+脷仔落	lei5 zai3 lok5	100000
+两公婆	lieng3 gung1 po2	100000
+两仔爷	lieng3 zai3 je2	100000
+两仔娘	lieng3 zai3 nieng1	100000
+萝卜仔	lo2 buk4 zai3	100000
+螺丝拔	lo2 slei1 baa5	100000
+螺丝批	lo2 slei1 pai1	100000
+箩围匝	lo2 wai2 zaap3	100000
+来路货	loi2 lou5 fo4	100000
+落大水	lok5 daai5 sui3	100000
+落水仔	lok5 sui3 zai3	100000
+𠺘口盅	long3 hau3 zung1	100000
+老伯太	lou3 baak3 taai4	100000
+老板婆	lou3 baan3 po2	100000
+老举寨	lou3 gei3 zaai5	100000
+老姑婆	lou3 gu1 po2	100000
+老公仔	lou3 gung1 zai3	100000
+老婆仔	lou3 po2 zai3	100000
+雷公打	lui2 gung1 daa3	100000
+雷公狗	lui2 gung1 gau3	100000
+雷公响	lui2 gung1 hieng3	100000
+雷公笋	lui2 gung1 slan3	100000
+辘架床	luk4 gaa4 cong2	100000
+碌水鼓	luk4 sui3 gu3	100000
+龙捰水	lung2 no3 sui3	100000
+䆔背佬	lung4 bui4 lou3	100000
+麻桥仔	maa2 kiu2 zai3	100000
+麻麻子	maa2 maa2 zei3	100000
+麻媚仔	maa2 mei4 zai3	100000
+麻雀斑	maa2 ziek3 baan1	100000
+马鲛孙	maa3 gaau1 slun1	100000
+马骝狂	maa3 lau2 kong2	100000
+马铃薯	maa3 ling2 si2	100000
+马蹄子	maa3 tai2 zei3	100000
+码子筒	maa3 zei3 tung2	100000
+马嘱铃	maa3 zuk4 ling2	100000
+晚间黑	maan3 gaan1 hak4	100000
+盲眼佬	maang2 ngaan3 lou3	100000
+抹枱布	maat3 toi2 bou4	100000
+迷迷帝	mai2 mai2 dai4	100000
+米屎苋	mai3 si3 haan5	100000
+米碎兰	mai3 slui4 laan2	100000
+米碎仔	mai3 slui4 zai3	100000
+唛仔油	mak4 zai3 jau2	100000
+墨斗仔	mak5 dau4 zai3	100000
+墨鱼船	mak5 ji2 sin2	100000
+墨墨黑	mak5 mak5 hak4	100000
+蚊火仔	man2 fo3 zai3	100000
+问花婆	man5 faa1 po2	100000
+问米佬	man5 mai3 lou3	100000
+𠵼扭湿	mang1 nau3 sap4	100000
+尾龙骨	mei3 lung2 gwat4	100000
+㳽㳽基	mei4 mei4 gei1	100000
+未臭馟	mei5 cau4 cui2	100000
+未交捞	mei5 gaau1 laau2	100000
+棉布螆	min2 bou4 zei1	100000
+面脂墩	min5 zi1 dan1	100000
+望口狗	mong5 hau3 gau3	100000
+望瞭岭	mong5 liu2 ling3	100000
+无忿得	mou2 fan5 dak4	100000
+无记得	mou2 gei4 dak4	100000
+无识丑	mou2 sik4 cau3	100000
+无心忿	mou2 slam1 fan5	100000
+无相干	mou2 slieng1 gon1	100000
+无通气	mou2 tung1 hei4	100000
+无话得	mou2 waa5 dak4	100000
+无济事	mou2 zai4 si5	100000
+冇彩数	mou3 coi3 sou4	100000
+冇得弹	mou3 dak4 taan2	100000
+冇交捞	mou3 gaau1 laau2	100000
+冇几久	mou3 gei3 gieu3	100000
+冇所谓	mou3 so3 wai5	100000
+冇舵船	mou3 to2 sin2	100000
+妹仔大	mui5 zai3 daai5	100000
+妹仔屎	mui5 zai3 si3	100000
+扪身布	mun1 san1 bou4	100000
+门企星	mun2 kei3 sling1	100000
+那份样	naa3 fan5 jieng5	100000
+南风螺	naam2 fung1 lo2	100000
+泥鸡仔	nai2 gai1 zai3	100000
+尼姑婆	nai2 gu1 po2	100000
+泥水佬	nai2 sui3 lou3	100000
+牙较骨	ngaa2 gaau4 gwat4	100000
+牙衣衣	ngaa2 ji1 ji1	100000
+牙兰豆	ngaa2 laan2 dau5	100000
+牙哨哨	ngaa2 saau5 saau5	100000
+牙𪘞𪘞	ngaa2 saau5 saau5	100000
+跴死蚁	ngaai3 slei3 ngai3	100000
+啮仔佬	ngaai4 zai3 lou3	100000
+眼爆爆	ngaan3 baau4 baau4	100000
+眼清清	ngaan3 cing1 cing1	100000
+眼凸凸	ngaan3 dat5 dat5	100000
+眼反反	ngaan3 faan3 faan3	100000
+眼吉吉	ngaan3 gat4 gat4	100000
+眼金金	ngaan3 giem1 giem1	100000
+眼光光	ngaan3 gong1 gong1	100000
+眼谷谷	ngaan3 guk4 guk4	100000
+眼靴靴	ngaan3 he1 he1	100000
+眼意意	ngaan3 ji4 ji4	100000
+眼𣬬毛	ngaan3 liep4 mou2	100000
+眼瞇瞇	ngaan3 mai5 mai5	100000
+眼文文	ngaan3 man2 man2	100000
+眼毛长	ngaan3 mou2 cieng2	100000
+眼矇朦	ngaan3 mung2 mung2	100000
+眼斩斩	ngaan3 zaam3 zaam3	100000
+眼睛银	ngaan3 zing1 ngan2	100000
+眼佐佐	ngaan3 zo3 zo3	100000
+硬梆梆	ngaang5 bong1 bong1	100000
+硬𪖐𪖐	ngaang5 hiu4 hiu4	100000
+牛打𢩪	ngau2 daa3 lieu3	100000
+牛角垌	ngau2 gok3 dung5	100000
+牛黄友	ngau2 wong2 jau3	100000
+鹅膥形	ngo2 can1 nging2	100000
+饿饿子	ngo5 ngo5 zei3	100000
+年卅晚	nin2 slaa1 maan3	100000
+捰柴佬	no3 caai2 lou3	100000
+捰牙佬	no3 ngaa2 lou3	100000
+内伤佬	nui5 sieng1 lou3	100000
+嫩粒粒	nun5 nap4 nap4	100000
+安生精	on1 saang1 zing1	100000
+耙田脑	paa2 tin2 nou3	100000
+抛浪头	paau1 long5 tau2	100000
+泡打粉	paau4 daa3 fan3	100000
+泡淡水	paau4 taam3 sui3	100000
+贫贫屁	pan2 pan2 pei4	100000
+贫婆婢	pan2 po2 pei3	100000
+琵琶骨	pei2 paa2 gwat4	100000
+皮头胸	pei2 tau2 hung1	100000
+平懒坦	ping2 laan3 taan3	100000
+婆栏仔	po2 laan2 zai3	100000
+婆婆娑	po2 po2 slo1	100000
+婆仔粮	po2 zai3 lieng2	100000
+沙尘友	saa1 can2 jau3	100000
+沙地鱼	saa1 dei5 ji2	100000
+沙罗虫	saa1 lo2 cung2	100000
+沙信螺	saa1 slan4 lo2	100000
+衫扣公	saam1 kau4 gung1	100000
+衫扣乸	saam1 kau4 naa3	100000
+山头髻	saan1 tau2 gai4	100000
+生龟佬	saang1 gwai1 lou3	100000
+生意佬	saang1 ji4 lou3	100000
+生勾勾	saang1 ngau1 ngau1	100000
+生猪瘃	saang1 zi1 diek3	100000
+世界肉	sai4 gaai4 juk5	100000
+神经病	san2 ging1 bing5	100000
+顺应喉	san5 ing4 hau2	100000
+湿湿子	sap4 sap4 zei3	100000
+十一贡	sap5 jat4 gung4	100000
+实的的	sat5 dik4 dik4	100000
+手扶仔	sau3 fu2 zai3	100000
+师公佬	si1 gung1 lou3	100000
+薯粉丸	si2 fan3 jin2	100000
+时辰钟	si2 san2 zung1	100000
+屎粪簏	si3 fan4 luk5	100000
+屎忽窿	si3 fat4 lung2	100000
+屎忽尾	si3 fat4 mei3	100000
+屎忽腯	si3 fat4 tan2	100000
+士曲线	si5 kuk4 slin4	100000
+事熟证	si5 suk5 zing4	100000
+石蚬仔	sik5 hin4 zai3	100000
+闪闪光	sip3 sip3 gong1	100000
+烧炮仗	siu1 paau4 zieng5	100000
+三八仔	slaam1 baat3 zai3	100000
+西洋菜	slai1 jieng2 coi4	100000
+西门濑	slai1 mun2 laat3	100000
+西南天	slai1 naam2 tin1	100000
+洗衫板	slai3 saam1 baan3	100000
+洗身盆	slai3 san1 pun2	100000
+细佬仔	slai4 lou3 zai3	100000
+细汶仔	slai4 man5 zai3	100000
+心镊镊	slam1 niep5 niep5	100000
+心思思	slam1 slei1 slei1	100000
+新出物	slan1 cat4 mat5	100000
+新束束	slan1 cuk4 cuk4	100000
+新学手	slan1 hok5 sau3	100000
+新郎公	slan1 long2 gung1	100000
+新鲜佬	slan1 slin1 lou3	100000
+羞人丛	slau1 jan2 cung2	100000
+擞发冷	slau3 faat3 laang3	100000
+死佬碌	slei3 lou3 luk4	100000
+死佬头	slei3 lou3 tau2	100000
+死仔头	slei3 zai3 tau2	100000
+四块板	slei4 kwaai4 baan3	100000
+四面壳	slei4 min5 hok3	100000
+相思仔	slieng1 slei1 zai3	100000
+先时人	slin1 si2 jan2	100000
+线仔绒	slin4 zai3 jung2	100000
+雪梨蔗	slit3 lei2 ze4	100000
+笑微微	sliu4 mei2 mei2	100000
+索路多	slok3 lou5 do1	100000
+丧丧声	slong5 slong5 sing1	100000
+扫把星	slou4 baa3 sling1	100000
+粟仔米	sluk4 zai3 mai3	100000
+酸酸子	slun1 slun1 zei3	100000
+酸枝椅	slun1 zi1 ji3	100000
+酸枝木	slun1 zi1 muk5	100000
+双企人	song1 kei3 jan2	100000
+双孖仔	song1 me4 zai3	100000
+水沟埒	sui3 gau1 lit5	100000
+水流流	sui3 lau2 lau2	100000
+水流鹅	sui3 lau2 ngo2	100000
+水爬靓	sui3 paa2 ling4	100000
+淡淡子	taam3 taam3 zei3	100000
+探米佬	taam4 mai3 lou3	100000
+探米婆	taam4 mai3 po2	100000
+提箩仔	tai2 lo2 zai3	100000
+替面女	tai4 min5 nei3	100000
+剃眼眉	tai4 ngaan3 mei2	100000
+剃头佬	tai4 tau2 lou3	100000
+褪脊肋	tan4 zik4 lak5	100000
+偷阴阴	tau1 jam1 jam1	100000
+头耷耷	tau2 dap4 dap4	100000
+头壳顶	tau2 hok3 ding3	100000
+头雷雷	tau2 lui2 lui2	100000
+头勾勾	tau2 ngau1 ngau1	100000
+头崇崇	tau2 sung2 sung2	100000
+唞大气	tau3 daai5 hei4	100000
+甜甜子	tim2 tim2 zei3	100000
+天好天	tin1 hou3 tin1	100000
+天热天	tin1 jit5 tin1	100000
+天冷天	tin1 laang3 tin1	100000
+天曚曚	tin1 mung2 mung2	100000
+天鹅绒	tin1 ngo2 jung2	100000
+天井鸭	tin1 zing3 aap3	100000
+听闻讲	ting1 man2 gong3	100000
+跳皮仔	tiu4 pei2 zai3	100000
+拖风鱼	to1 fung1 ji2	100000
+拖鱼船	to1 ji2 sin2	100000
+拖唇舌	to1 san2 sit5	100000
+拖死蛇	to1 slei3 se2	100000
+驮膥蟹	to2 can1 haai3	100000
+驮仔乸	to2 zai3 naa3	100000
+托大脚	tok3 daai5 giek3	100000
+秃统鬼	tuk4 tung3 gwai3	100000
+铜鼓帽	tung2 gu3 mou5	100000
+同志仔	tung2 zi4 zai3	100000
+痛痛子	tung4 tung4 zei3	100000
+五月节	ung3 jit5 zit3	100000
+五楞子	ung3 lim4 zei3	100000
+横丫肠	waang2 aa1 cieng2	100000
+滑捋捋	waat5 lut4 lut4	100000
+滑头仔	waat5 tau2 zai3	100000
+滑脱脱	waat5 tut5 tut5	100000
+喂狗蟹	wai4 gau3 haai3	100000
+为喉筋	wai5 hau2 gan1	100000
+揾老趁	wan3 lou3 can4	100000
+禾秆草	wo2 gon3 cou3	100000
+禾谷仔	wo2 guk4 zai3	100000
+和事佬	wo2 si5 lou3	100000
+黄钢痴	wong2 gong4 ci1	100000
+黄芽白	wong2 ngaa2 baak5	100000
+黄皮头	wong2 pei2 tau2	100000
+黄皮子	wong2 pei2 zei3	100000
+黄丝蚁	wong2 slei1 ngai3	100000
+污糟猫	wu1 zou1 mieu4	100000
+胡镰须	wu2 lim2 slou1	100000
+胡须佬	wu2 slou1 lou3	100000
+胡子兵	wu2 zei3 bing1	100000
+胡椒粉	wu2 ziu1 fan3	100000
+外江佬	wui5 gong1 lou3	100000
+外甥孙	wui5 saang1 slun1	100000
+外太公	wui5 taai4 gung1	100000
+外头人	wui5 tau2 jan2	100000
+浸浸凉	zam4 zam4 lieng2	100000
+珍珠粟	zan1 zi1 sluk4	100000
+周身刀	zau1 san1 dou1	100000
+走马蚁	zau3 maa3 ngai3	100000
+走无甩	zau3 mou2 lat4	100000
+酒糟菜	zau3 zou1 coi4	100000
+子丑寅	zei3 cau3 jan2	100000
+自由女	zei5 jau2 nei3	100000
+猪肠卷	zi1 cieng2 gin3	100000
+猪肠碌	zi1 cieng2 luk4	100000
+猪肉佬	zi1 juk5 lou3	100000
+猪疬子	zi1 lik5 zei3	100000
+猪郎公	zi1 long2 gung1	100000
+猪乸菜	zi1 naa3 coi4	100000
+猪尿囊	zi1 niu5 nong1	100000
+猪屎喳	zi1 si3 zaa1	100000
+猪头唛	zi1 tau2 mak4	100000
+之字曲	zi1 zei5 kuk4	100000
+纸媒匣	zi3 mui2 haap5	100000
+纸媒筒	zi3 mui2 tung2	100000
+纸扎佬	zi3 zaat3 lou3	100000
+治鼠猫	zi5 si3 mieu4	100000
+着大激	ziek5 daai5 gik4	100000
+煎糍仔	zin1 cei2 zai3	100000
+井底蛙	zing3 dai3 waa1	100000
+朝头早	ziu1 tau2 zou3	100000
+照正讲	ziu4 zing4 gong3	100000
+捉生公	zok3 saang1 gung1	100000
+捉仔佬	zok3 zai3 lou3	100000
+做丑人	zou4 cau3 jan2	100000
+做鞋佬	zou4 haai2 lou3	100000
+做戏佬	zou4 hei4 lou3	100000
+做人客	zou4 jan2 hak3	100000
+做田佬	zou4 tin2 lou3	100000
+嘴长长	zui3 cieng2 cieng2	100000
+嘴𪖐𪖐	zui3 hiu4 hiu4	100000
+嘴赠赠	zui3 zang5 zang5	100000
+嘴尖尖	zui3 zim1 zim1	100000
+醉酒佬	zui4 zau3 lou3	100000
+矮屎磨锉	aai3 si3 mo5 co4	100000
+矮屎木笃	aai3 si3 muk5 duk4	100000
+吽吽窦窦	au2 au2 dau5 dau5	100000
+败水皇帝	baai5 sui3 wong2 dai4	100000
+白面水鸡	baak5 min5 sui3 gai1	100000
+车天辘地	ce1 tin1 luk4 dei5	100000
+黐手黐脚	ci1 sau3 ci1 giek3	100000
+清清趣趣	cing1 cing1 cei4 cei4	100000
+村儿村仔	cun1 ji2 cun1 zai3	100000
+大吉利是	daai5 gat4 lei5 si5	100000
+大你个钱	daai5 nei3 go5 cin2	100000
+大早留晨	daai5 zou3 lau2 san2	100000
+大早留头	daai5 zou3 lau2 tau2	100000
+揼揼岌岌	dap5 dap5 kiep3 kiep3	100000
+地理先生	dei5 lei3 slin1 saang1	100000
+颠颠废废	din1 din1 fai4 fai4	100000
+钉儿钉仔	ding1 ji2 ding1 zai3	100000
+快快脆脆	faai4 faai4 cui4 cui4	100000
+肥头朒耳	fei2 tau2 nuk4 ji3	100000
+火烧火濑	fo3 siu1 fo3 laat3	100000
+鸡儿鸡仔	gai1 ji2 gai1 zai3	100000
+今生今世	giem1 saang1 giem1 sai4	100000
+个学个样	go5 hok5 go5 jieng5	100000
+虾人虾物	haa1 jan2 haa1 mat5	100000
+鞋儿鞋仔	haai2 ji2 haai2 zai3	100000
+黑古窿冬	hak4 gu3 lung1 dung1	100000
+黑鬼窿冬	hak4 gwai3 lung1 dung1	100000
+一时一样	jat4 si2 jat4 jieng5	100000
+一听二望	jat4 ting4 ji5 mong5	100000
+融融末末	jung2 jung2 mut4 mut4	100000
+狂狂忙忙	kong2 kong2 mong2 mong2	100000
+规规矩矩	kwai1 kwai1 gei3 gei3	100000
+栏头过耳	laan2 tau2 go4 ji3	100000
+勒时勒刻	lak5 si2 lak5 kak4	100000
+立立乱乱	lap5 lap5 lun5 lun5	100000
+留命等运	lau2 ming5 dang3 wan5	100000
+漏漏就就	lau5 lau5 zau5 zau5	100000
+伶修俐俐	ling2 slau1 lei5 lei5	100000
+落狗毛水	lok5 gau3 mou2 sui3	100000
+落水仔粉	lok5 sui3 zai3 fan3	100000
+落水仔溦	lok5 sui3 zai3 mei1	100000
+老老实实	lou3 lou3 sat5 sat5	100000
+累人累物	lui5 jan2 lui5 mat5	100000
+六毫二子	luk5 hou2 ji5 zei3	100000
+六六局局	luk5 luk5 guk5 guk5	100000
+盲天黑蒂	maang2 tin1 hak4 dai4	100000
+摩摩梭梭	mo1 mo1 slo1 slo1	100000
+摸摸挱挱	mo4 mo4 saa4 saa4	100000
+无情白事	mou2 cing2 baak5 si5	100000
+无理无论	mou2 lei3 mou2 lan5	100000
+无能计得	mou2 nang2 gai4 dak4	100000
+无声无气	mou2 sing1 mou2 hei4	100000
+帽儿帽仔	mou5 ji2 mou5 zai3	100000
+妹儿妹仔	mui4 ji2 mui4 zai3	100000
+妹仔人家	mui5 zai3 jan2 gaa1	100000
+木头公仔	muk5 tau2 gung1 zai3	100000
+乃流改勃	naai3 lau2 goi3 but5	100000
+男人大丈	naam2 jan2 daai5 zieng5	100000
+眼泪流流	ngaan3 lui5 lau2 lau2	100000
+瓶儿瓶仔	ping2 ji2 ping2 zai3	100000
+婆儿婆仔	po2 ji2 po2 zai3	100000
+晒热头黄	saai4 jit5 tau2 wong2	100000
+生生猛猛	saang1 saang1 maang3 maang3	100000
+蛇头鼠眼	se2 tau2 si3 ngaan3	100000
+事事熟熟	si5 si5 suk5 suk5	100000
+三姑六婆	slaam1 gu1 luk5 po2	100000
+斯斯文文	slei1 slei1 man2 man2	100000
+死马勒凸	slei3 maa3 lak5 dat5	100000
+笑意笑意	sliu4 ji4 sliu4 ji4	100000
+疏堂兄弟	so1 tong2 hing1 dai5	100000
+疏过落北	so4 go4 lok5 bak4	100000
+水过鸭背	sui3 go4 aap3 bui4	100000
+褪脚爬蹄	tan4 giek3 paa2 tai2	100000
+头男长女	tau2 naam2 zieng3 nei3	100000
+天狗吃日	tin1 gau3 hik4 jat5	100000
+天狗吃月	tin1 gau3 hik4 jit5	100000
+天公赖屎	tin1 gung1 laai5 si3	100000
+稳稳阵阵	wan3 wan3 zan5 zan5	100000
+胡须勒凸	wu2 slou1 lak5 dat5	100000
+碗儿碗仔	wun3 ji2 wun3 zai3	100000
+雀儿雀仔	ziek3 ji2 ziek3 zai3	100000
+尖头利角	zim1 tau2 lei5 gok3	100000
+揞鸡鱼箩仆	am3 gai1 ji2 lo2 buk5	100000
+一肚心无落	jat4 tou3 slam1 mou2 lok5	100000
+无打得眼甩	mou2 daa3 dak4 ngaan3 lat4	100000
+木头公仔戏	muk5 tau2 gung1 zai3 hei4	100000
