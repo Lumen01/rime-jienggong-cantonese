@@ -1,0 +1,18 @@
+# Rime schema
+# encoding: utf-8
+
+patch:
+  schema/+:
+    name: 袖珍简拼
+
+  translator/+:
+    spelling_hints: 8
+    comment_format:
+      - xform/([nl])v/$1ü/
+      - xform/([nl])ue/$1üe/
+      - xform/([jqxy])v/$1u/
+
+  reverse_lookup/+:
+    tips: 〈笔画〉
+
+  punctuator/import_preset: symbols
