@@ -1,0 +1,14 @@
+patch:
+  schema_list:
+    - schema: jienggong             # 阳江话拼音方案
+    - schema: pinyin_simp           # 普通话拼音方案
+    - schema: easy_en               # 英文方案
+
+  menu:
+    page_size: 5                    # 菜单长度
+
+  switcher/+:
+    option_list_separator: "·"      # 选项分隔符
+    save_options/+:                 # 开关设置保持
+      - simp_trad
+      - hk_simp

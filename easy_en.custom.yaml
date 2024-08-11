@@ -1,0 +1,13 @@
+﻿# Rime schema
+# vim: set sw=2 sts=2 et:
+# encoding: utf-8
+
+patch:
+  schema/version: "2024.06.13"
+  easy_en:
+    split_sentence: true
+    enable_sentence: true
+
+  engine/filters:
+    - uniquifier
+    - lua_filter@*en_spacer
