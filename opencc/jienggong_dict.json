@@ -1,0 +1,16 @@
+{
+  "name": "Jienggong Waa Dictionary",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "jienggong_dict.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "text",
+      "file": "jienggong_dict.txt"
+    }
+  }]
+}

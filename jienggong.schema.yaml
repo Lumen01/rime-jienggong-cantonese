@@ -11,7 +11,6 @@ schema:
   description: |-
     阳江话方言拼音方案
       - https://github.com/Lumen01/rime-jienggong-cantonese
-
     特点：
       - 支持声调显示及输入
       - 使用 pinyin_simp 作为普通话反查
@@ -61,6 +60,7 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - script_translator
+    - table_translator@custom_phrase
     - lua_translator@date_translator        # librime-lua 输入动态时间和日期
     - table_translator@english
   filters:
@@ -88,10 +88,10 @@ speller:
 
     # 对于讲海话个人, 根据习惯, 遇到 [sl] 音都发 [s], 因此
     # 取消下一行注释, 将 sl 并入 s, 「星」读作「声」, 「姓」读作「胜」
-    #- derive/^sl([aeiou])/s$1/
+    #- derive/^sl([aeiou])/s$1/    
 
     # 取消下一行注释, 优化 x -> sl, 输入[x] 可以得到输入 [sl] 的效果，提升输入效率
-    - derive/^sl([aeiou])/x$1/
+    - derive/^sl([aeiou])/x$1/    
 
     - derive/^j([aeiou])/y$1/     # 容错 j -> y
     - derive/aa(?=\d)/a/          # 容错
@@ -111,7 +111,7 @@ translator:
   #db_class: userdb
   enable_charset_filter: true
   spelling_hints: 9                   # 将该处改作 0，可以去除候选字后面个拼音提示
-  enable_user_dict: false              # 将该处改作 true，会根据你个输入习惯自动调整候选词个顺序
+  enable_user_dict: true              # 将该处改作 true，会根据你个输入习惯自动调整候选词个顺序
   enable_sentence: true               # 将该处改作 true，输入长句
   encode_commit_history: false        # 将该处改作 true，同时 enable_user_dict 也系 true，可以学习你个历史输入词语
   preedit_format:
@@ -121,6 +121,14 @@ translator:
     - xform/([aeioumngptk])q/${1}1/
     - xform/([aeioumngptk])r/${1}2/
     - xform/([aeioumngptk])v/${1}3/
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase          # 可以修改这里，改成自己的 txt 文件
+  db_class: stabledb                # 只读数据库，无法动态调频；设为 tabledb 可以动态调频
+  enable_completion: false          # 补全提示
+  enable_sentence: false            # 禁止造句
+  initial_quality: 1                # custom_phrase 的权重
 
 reverse_lookup:
   tag: reverse_lookup

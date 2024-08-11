@@ -1,0 +1,237 @@
+# Rime dictionary
+# mim: set ts=8 sw=8 noet:
+# encoding: utf-8
+#
+# custom_phrases - Custom Phrases
+#
+# 此文件用于收录自定义的词组
+# 文件格式：以 Tab 分割：词汇<Tab>编码<Tab>权重
+# version: "2024.08.02"
+
+km/h	cd	999
+km/h	sc	999
+km/h 	kmh	999
+RMB	jmb	1887
+RMB	rmb	1887
+CNY	rmb	1888
+CNY	jmb	1888
+CN¥	jmb	1888
+CN¥	jmb	1888
+¥	jmb	1889
+¥	rmb	1889
+￥	rmb	1886
+￥	jmb	1886
+USD	usd	1000
+$	usd	999
+美元	usd	998
+美金	usd	996
+💵	usd	995
+HK$	hkd	888
+HKD	hkd	887
+港币	hkd	887
+港元	hkd	887
+SG$	sgd	777
+SGD	sgd	776
+新币	sgd	775
+新家坡币	sgd	774
+新家坡元	sgd	773
+HK	hk	1001
+Hong Kong	hk	1002
+香港	hk	10000
+GNU/Linux	linu	9999
+Linux	linux	9998
+Unix	unix	999
+Ubuntu	ubuntu	999
+Debian	debian	999
+OpenSuSE	suse	999
+SUSE Linux Enterprise Server	suse	999
+RedHat	redh	999
+CentOS	cent	999
+ArchLinux	arch	999
+Fedora	fedo	999
+http://	mqfh	999
+https://	mqfh	998
+www.	mz	997
+.com	mz	995
+.net	mz	994
+.org	mz	993
+.xxx	mz	992
+.com.cn	mz	991
+.cn	mz	989
+.us	mz	988
+.en	mz	987
+.de	mz	986
+.sg	mz	985
+@	jg	9
+@	dzjg	9
+@	at	9
+@qq.com	dzjg	9
+@163.com	dzjg	9
+@126.com	dzjg	8
+@gmail.com	dzjg	7
+@live.com	dzjg	6
+ESC	esc	10000
+⎋	esc	10000
+Tab	tab	10000
+↹	tab	10000
+⌘	comm	10000
+⌘	cmd	10000
+⌥	option	10000
+⌥	alt	10000
+⇧	shif	10000
+⇪	caps	10000
+⌃	control	10000
+⌃	ctrl	10000
+↩	return	10000
+⌅	enter	10000
+Mac	mac	799789
+⌚️	aw	10000
+💻	mbp	10000
+⌨️	keyboard	10000
+🖥	imac	10000
+🖱	mm	10000
+MacBook Pro	macbookpro	999666
+MacBook Air	macbookair	7863
+Mac Pro	macpro	23435
+Mac OS X	macosx	234550
+macOS	macosx	8789
+iPhone	iphone	3454
+iOS	ios	345670
+iPad	ipad	345672
+HomePod	hp	8789
+HomePod Mini	hpm	8789
+Dos	dos
+Windows wind	2345669
+❖	wind	2345670
+Windows 95	wind	987
+Windows 98	wind	9875
+Windows 2000	wind	987865
+Windows ME	wind	234432
+Windows XP	wind	387665
+Windows Vista	wind	245467654
+Windows 10	wind	1876
+http	http	999
+HTTP	http	999
+80	http	996
+http://	http	997
+https	http	999
+HTTPS	http	998
+https://	htts	997
+443	htts	996
+github.com	gith	997
+GitHub	gith	998
+pornhub.com	porn	997
+Pornhub	porn	997
+P站	porn	996
+V2EX	ve	2
+v2ex.com	ve	1
+Rime	rime	4
+鼠须管	rime	3
+https://rime.im/	rime	2
+Squirrel	rime	1
+App Store	as	2
+Apple Store	as	1
+AppleCare+	ac	1
+Apple ID	aid
+Apple Music	am	2
+AiMesh	am	1
+AirPods	ap	4
+Apple Pay	ap	3
+Alipay	ap	2
+Apple TV	atv
+Apple Watch	aw
+Android	az
+App Cleaner & Uninstaller	acu
+Chrome	ch	2
+Clubhouse	ch
+ClashX	cla
+CleanMyMac X	cmm	1
+Command	cm	1
+Control	ct	2
+CarPlay	cp	1
+CleanShot X	cs
+Enpass	enp
+Emoji	em
+gfwlist	gfw
+GitHub Desktop	gh	1
+GitHub	gh	2
+Gmail	gm
+Google	google
+Google Pay	googlepay
+Google Play	googlplay	2
+Google Voice	gv
+Gboard	gb
+Handoff	handoff
+Hi	hi
+HyperSwitch	hs
+iCloud	icloud
+Illustrator	ill
+iStat Menus	ism
+iWork	iw	4
+iTunes	itunes
+iMac	imac	2
+iMac Pro	imac	1	
+Keynote	kn
+koolproxy	kpr
+koolshare	ks
+LINE	line
+Mac Mini	macmini	1
+macOS	macos	2
+macOS Big Sur	macos	1
+macOS Monterey	macos	2
+macOS Ventura	macos	2
+Markdown	md
+Microsoft	mic	2
+Microsoft Office	mic	1
+Netflix	nf	
+MacBook Pro	mbp
+MacBook Air	mba
+Messenger	ms
+㎡	gyoy
+Numbers	nb	1
+1Password	one	2
+OneDrive	one	1
+openwrt	ow
+Option	ot
+Outlook	ol	2
+outlook.com	ol	1
+Parallels Desktop	pd
+Paragon NTFS	pn
+Photoshop	ps
+Paypal	pp
+Pro	pro
+QQ	qq
+qq.com	qq
+Quantumult	quan
+PyCharm	pycharm
+Pages	pg
+readme.md	rm
+ScreenBar Plus	sbp	1
+Shadowrocket	sds	3	
+Shadowsocks	sds	2
+ShadowsocksX-NG-R8	sds	1
+Safari	sf	2
+Shift	sf	1
+SHIELD TV	stv
+SSD	ssd	2
+Spotify	sp	1
+Spark	sp	2
+Sublime Text	sbt
+Telegram	tg
+Twitter	tt
+Type-C	tc	
+Typora	ty
+TeamViewer	tv
+USB-C	usb
+Up主	upzhu
+U盘	usb
+WH-1000XM2	sn
+WhatsApp	wa
+WeChat	wc	2
+WeChat	tmwy	2
+微信	tmwy	2
+YouTube	yt
+YouTube Premium	yp
+Firewall	firewall
+ChatGPT	chatgpt
+Vidhub	vidh

@@ -11,7 +11,7 @@
 
 ---
 name: "jienggong.chars"
-version: "2024.07.17"
+version: "2024.08.10"
 sort: by_weight
 ...
 
@@ -1344,6 +1344,7 @@ sort: by_weight
 栋	dung5	478280
 侗	dung5	56847
 洞	dung5	857281
+嘟	dut1	67715
 夺	dut5	421202
 欸	ei2	24915
 诶	ei2	462483
@@ -2587,6 +2588,7 @@ sort: by_weight
 庥	hieu1	17481
 咻	hieu1	20898
 髹	hieu1	2281
+坵	hieu1	305
 休	hieu1	309236
 蚯	hieu1	7985
 邱	hieu1	82438
@@ -2668,6 +2670,7 @@ sort: by_weight
 吟	hm2	109857
 噷	hm2	125
 噷	hm5	125
+啈	hng2	52
 呵	ho1	301415
 河	ho2	1034613
 何	ho2	1186523
@@ -4752,6 +4755,7 @@ sort: by_weight
 厓	ngaai2	373
 睚	ngaai2	3998
 啀	ngaai2	88
+𠊎	ngaai4
 啮	ngaai4	12270
 砹	ngaai5	11357
 艾	ngaai5	341050
@@ -6294,6 +6298,7 @@ sort: by_weight
 华	waa2	37384720
 还	waa2	37384723
 铧	waa2	8502
+搲	waa3	43
 话	waa5	8663934
 歪	waai1	308017
 耲	waai2
@@ -6895,7 +6900,6 @@ sort: by_weight
 址	zi3	266436
 拄	zi3	30408
 指	zi3	3355239
-者	zi3	3409854
 主	zi3	4249958
 止	zi3	690330
 趾	zi3	78077
@@ -7575,6 +7579,7 @@ sort: by_weight
 雳	lik4	3380
 仂	lik5	5166
 亷	lim2	29
+拎	ling4	159892
 咧	lit5	285605
 嘹	liu2	2780
 胳	lok3	6813
@@ -7602,6 +7607,7 @@ sort: by_weight
 咪	mi2	394187
 眯	mi5	152490
 咪	mi5	394187
+擗	mik4	257
 汨	mik5	12190
 幂	mik5	123680
 螟	ming2	9786
@@ -7650,6 +7656,7 @@ sort: by_weight
 匿	nik5	21346
 昵	nik5	36072
 搦	nik5	546
+拎	ning4	159892
 拧	ning5	206355
 㐡	no5
 馕	nong2	23572

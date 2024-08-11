@@ -1,26 +1,22 @@
-# Rime 阳江话拼音输入方案
+# Rime 阳江话拼音输入方案方案
 
-[toc]
+我手写我心的方言输入方案🫶🏻
 
-## 说明
+![输入方案](./images/jienggongwaa.png)
 
-读音来源：《广东阳江方言研究》（2018，中山大学）
+<hr>
 
-本方案已覆盖《现代汉语常用字表》常用字 3500 字。详见 [常用字(2500字)](https://www.zdic.net/zd/zb/cc1/)  和 [次常用字(1000字)](https://www.zdic.net/zd/zb/cc2/)。
+### 前置说明
 
-基本单字词典：`dicts/jienggong.chars.dict.yaml` 
+**[RIME 输入法安装](https://lumen01.github.io/jienggongwaa/01.rime-installation.html)**
 
-手工补充单字词典：`dicts/jienggong_manual.chars.dict.yaml`
+　　阳江话拼音输入方案基于 RIME 输入法引擎实现，要使用阳江话拼音打字，首先安装 RIME 输入法。
 
-## RIME 输入法下载和安装
+**[阳江话拼音方案](https://lumen01.github.io/jienggongwaa/03.jienggongwaa-pingjam.html)**
 
-[RIME 官方网站](https://rime.im)
+　　先了解这部分拼音的内容，才能流畅的使用阳江话拼音打字。
 
-[RIME 输入法引擎下载](https://rime.im/download/) 
-
-[RIME 官方 Wiki 文档](https://github.com/rime/home/wiki)
-
-## 方案基本功能说明
+<hr>
 
 ### 声调输入
 
@@ -28,7 +24,7 @@
 
 在输入拼音字母之后，可以继续输入声调来缩小选字范围，提升输入效率：
 
-<img src="./images/tones.gif" alt="声母" style="zoom:60%;" />
+![声调](./images/tones.gif)
 
 1. `q`: 一声，输入`fuq` 打出 「夫」
 2. `r`: 二声，输入`fur`打出「扶」
@@ -42,7 +38,7 @@
 
 ##### [gw-] 和 [kw-] 的消失
 
-在有些地方，年轻人已经不区分`瓜`和`家`了，都读作`家`；不区分`夸`和`卡`，都读作`卡`  ，意味着**[gw-]**和**[kw-]**正在消失。
+在有些地方，年轻人已经不区分`瓜`和`家`了，都读作`家`；不区分`夸`和`卡`，都读作`卡`  ，意味着 `[gw-]` 和 `[kw-]` 正在消失。
 
 如果你的习惯是不区分，这个时候可以调整方案文件 `jienggong.schema.yaml` 的 `speller/algebra:` 下的内容：
 
@@ -53,13 +49,15 @@
 
 ##### 海话母语人群的 [sl]  声母
 
-阳江市境内的海话母语人群遇到声母[sl]的时候都发声母[s]的音，本方案也做了兼容。
+阳江市境内的海话母语人群遇到声母 `[sl]` 的时候都发声母 `[s]` 的音，本方案也做了兼容。
 
 ```yaml
     # 对于讲海话个人, 根据习惯, 遇到 [sl] 音都发 [s], 因此
     # 取消下一行注释, 将 sl 并入 s, 「星」读作「声」, 「姓」读作「胜」
     - derive/^sl([aeiou])/s$1/
 ```
+
+***注意：这是输入方案层面的兼容，并不代表拼音如此***
 
 #### 容错
 
@@ -88,65 +86,44 @@
 
 方案支持简体和繁体输入。
 
-<img src="./images/simp_trad.gif" alt="声母" style="zoom:60%;" />
+![繁体](./images/simp_trad.gif)
 
 ### Emoji 输入
 
-<img src="./images/emoji.gif" alt="声母" style="zoom:60%;" />
+![Emoji](./images/emoji.gif)
 
 ### 英文输入
 
 本方案支持中英混输，直接打英文单词即可。
 
+![English](./images/english.gif)
+
+输入英文单词之后，方案会自动在单词之后补充一个空格，如果不需要这个功能，可以把`engine/filters`内的行注释掉：
+
+```yaml
+    - lua_filter@*en_spacer
+```
+
 ### 反查
 
-当遇到一时无法想起阳江话拼音个时候，按**`**键可以使用普通话拼音反查阳江话拼音。
+当遇到一时无法想起阳江话拼音个时候，按**`**键（在数字键 1 的左边）可以使用普通话拼音反查阳江话拼音。
 
-<img src="./images/reverse_lookup.gif" alt="声母" style="zoom:60%;" />
+![反查](./images/reverse_lookup.gif)
 
 ### 特殊符号
 
 输入`/`开启特殊符号的输入。
 
-<img src="./images/icons.gif" alt="声母" style="zoom:60%;" />
+![特殊符号](./images/icons.gif)
 
-## 阳江话拼音的声、韵、调
+要完全了解本方案功能请前往 **[阳江话拼音方案详细介绍](https://lumen01.github.io/jienggongwaa/04.rime-jienggongwaa-details.html)** 
 
-在真正开始打字之前，你还需要学习一下阳江话的拼音。
+### 小额赞助❤️
 
-这个方案参考了 [香港语言学学会粤语拼音方案](https://jyutping.org/jyutping/)，所以两个方案非常相似，有粤语和阳江话基础的前提下，只要花大约一两小时就可以一并学会本阳江话拼音和 [粤拼](https://lshk.org/jyutping-scheme/) 。
+很高兴阳江话拼音输入方案能够帮助到您。
 
-### 声母
+本项目全由个人在业余时间设计、开发、维护，如果觉得项目不错，可以请我喝个咖啡☕️
 
-连同零声母在内，阳江话一共有 21 个声母。
+![donation](./images/donation.png)
 
-![声母](./images/001.jpg)
-
--  声母 **[sl]** 发音为 **[[ɬ](https://zh.wikipedia.org/wiki/清齒齦邊擦音)]** ，但 QWERTY 键盘没有这个键，所以使用 **[sl]** 两个字母键作为它的拼音输入。
-- 部分零声母开又韵的字音开头有喉塞音 **[ʔ]** ，如“英” **[ʔiŋ]** 、 “益” **[ʔik]** 等，我们将其简化为零声母，不标出来。
-
-### 韵腹
-
-![韵腹](./images/002.jpg)
-
-### 韵尾
-
-![韵尾](./images/003.jpg)
-
-### 韵母
-
-![鼻辅音韵母](./images/004.jpg)
-
-
-
-### 鼻辅音韵母
-
-![鼻辅音韵母](./images/005.jpg)
-
-- 它们不和声母相拼，只做叹词用。
-
-### 声调
-
-![声调](./images/006.jpg)
-
-声调标在音节后面，如 **fu1（夫）**，**fu2 （扶）**。
+最后，祝打字愉快 🫶🏻
