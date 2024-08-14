@@ -11,7 +11,7 @@
 
 ---
 name: "jienggong.chars"
-version: "2024.08.10"
+version: "2024.08.15"
 sort: by_weight
 ...
 
@@ -2087,6 +2087,7 @@ sort: by_weight
 馃	go3	1143
 果	go3	15758000
 裹	go3	211446
+粿	go3	2147
 蜾	go3	333
 裸	go3	346507
 倮	go3	6592
