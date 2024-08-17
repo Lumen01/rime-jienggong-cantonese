@@ -9,6 +9,6 @@ patch:
 
   switcher/+:
     option_list_separator: "·"      # 选项分隔符
-    save_options/+:                 # 开关设置保持
-      - simp_trad
-      - hk_simp
+    #save_options/+:                 # 开关设置保持
+    #  - simp_trad
+    #  - hk_simp

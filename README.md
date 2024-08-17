@@ -1,12 +1,12 @@
-# Rime 阳江话拼音输入方案方案
+# Rime 阳江话拼音输入方案
 
-我手写我心的方言输入方案🫶🏻
+我手写我心的阳江话拼音输入方案🫶🏻
 
 ![输入方案](./images/jienggongwaa.png)
 
-<hr>
 
-### 前置说明
+
+## 前置说明
 
 **[RIME 输入法安装](https://lumen01.github.io/jienggongwaa/01.rime-installation.html)**
 
@@ -16,7 +16,7 @@
 
 　　先了解这部分拼音的内容，才能流畅的使用阳江话拼音打字。
 
-<hr>
+## 方案快速上手指南
 
 ### 声调输入
 
@@ -90,6 +90,8 @@
 
 ### Emoji 输入
 
+蠄蟧 `🕷️`、纸鹞 `🪁`、崩莎 `🦋`
+
 ![Emoji](./images/emoji.gif)
 
 ### 英文输入
@@ -118,12 +120,10 @@
 
 要完全了解本方案功能请前往 **[阳江话拼音方案详细介绍](https://lumen01.github.io/jienggongwaa/04.rime-jienggongwaa-details.html)** 
 
-### 小额赞助❤️
+## 结语❤️
 
 很高兴阳江话拼音输入方案能够帮助到您。
 
-本项目全由个人在业余时间设计、开发、维护，如果觉得项目不错，可以请我喝个咖啡☕️
-
-![donation](./images/donation.png)
+本项目长期更新，欢迎提 [PR](https://github.com/Lumen01/rime-jienggong-cantonese/pulls) :-)
 
 最后，祝打字愉快 🫶🏻
