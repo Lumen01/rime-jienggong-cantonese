@@ -11,7 +11,7 @@
 
 ---
 name: "jienggong.chars"
-version: "2024.08.15"
+version: "2024.08.21"
 sort: by_weight
 ...
 
@@ -1645,6 +1645,10 @@ sort: by_weight
 髋	fun1	34231
 欢	fun1	391132
 獾	fun1	55855
+桓	fun2	242477
+垣	fun2	37447
+洹	fun2	39828
+萑	fun2	8820
 焕	fun3	58780
 唤	fun4	141280
 奂	fun4	29015
@@ -2770,10 +2774,6 @@ sort: by_weight
 咍	hui5	63
 哭	huk4	2479603
 酷	huk5	653363
-桓	hun2	242477
-垣	hun2	37447
-洹	hun2	39828
-萑	hun2	8820
 讻	hung1
 胸	hung1	1081533
 崆	hung1	16248

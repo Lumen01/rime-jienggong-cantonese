@@ -22,7 +22,7 @@
 
 ---
 name: "jienggong.words"
-version: "2024.08.11"
+version: "2024.08.21"
 sort: by_weight
 ...
 
@@ -452,6 +452,7 @@ sort: by_weight
 幅辘	fuk4 luk4	100000
 蝠鼠	fuk4 si3	100000
 服侍	fuk5 si5	100000
+桓仔	fun2 zai3	100000
 风柜	fung1 gwai5	100000
 风水	fung1 sui3	100000
 家斗	gaa1 dau4	100000
@@ -758,7 +759,6 @@ sort: by_weight
 好痛	hou3 tung4	100000
 好天	hou4 tin1	100000
 号着	hou5 ziek5	100000
-桓仔	hun2 zai3	100000
 红银	hung2 ngan2	100000
 英笔	ing1 bat4	100000
 𠮳𠮴	ing3 ong3	100000
