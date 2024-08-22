@@ -22,7 +22,7 @@
 
 ---
 name: "jienggong.words"
-version: "2024.08.21"
+version: "2024.08.23"
 sort: by_weight
 ...
 
@@ -577,12 +577,12 @@ sort: by_weight
 颈渴	ging3 hot3	100000
 颈褛	ging3 lau1	100000
 颈链	ging3 lin5	100000
-果掉	go3 diu5	100000
-果个	go3 go5	100000
-果胒	go3 nai4	100000
-果排	go3 paai2	100000
-果时	go3 si2	100000
-果阵	go3 zan5	100000
+𠮶掉	go3 diu5	100000
+𠮶个	go3 go5	100000
+𠮶胒	go3 nai4	100000
+𠮶排	go3 paai2	100000
+𠮶时	go3 si2	100000
+𠮶阵	go3 zan5	100000
 裹蒸	go3 zing1	100000
 裹粽	go3 zung4	100000
 过背	go4 bui4	100000
@@ -1973,8 +1973,8 @@ sort: by_weight
 金银引	giem1 ngan2 jan3	100000
 及第粥	giep5 dai5 zuk4	100000
 纠丝边	giu3 slei1 bin1	100000
-果班嘢	go3 baan1 je3	100000
-果份样	go3 fan5 jieng5	100000
+𠮶班嘢	go3 baan1 je3	100000
+𠮶份样	go3 fan5 jieng5	100000
 光荡荡	gong1 dong5 dong5	100000
 江瑶柱	gong1 jiu2 ci3	100000
 讲大话	gong3 daai5 waa5	100000
