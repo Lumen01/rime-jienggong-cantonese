@@ -11,7 +11,7 @@
 
 ---
 name: "jienggong.chars"
-version: "2024.08.21"
+version: "2024.08.23"
 sort: by_weight
 ...
 
@@ -3963,7 +3963,6 @@ sort: by_weight
 鲤	lei3	36796
 旅	lei3	671324
 履	lei3	75378
-喱	lei4	17588
 鬁	lei5
 痢	lei5	115498
 脷	lei5	1258
@@ -7574,6 +7573,7 @@ sort: by_weight
 咧	le3	285605
 咧	le4	285605
 𢃇	lei3
+劙	lei4
 𦧷	liem3
 両	lieng3	990
 鹩	lieu4	8857
