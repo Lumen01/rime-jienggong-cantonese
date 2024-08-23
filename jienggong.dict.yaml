@@ -9,7 +9,7 @@
 
 ---
 name: "jienggong"
-version: "2024.06.22"
+version: "2024.08.12"
 sort: by_weight
 vocabulary: essay-jienggong
 
@@ -18,5 +18,6 @@ import_tables:
   - dicts/jienggong_manual.chars
   - dicts/jienggong.words
   - dicts/jienggong.idioms
+  - dicts/jienggong.admin
   - dicts/sogou_words
 ...
