@@ -1,0 +1,74 @@
+# Rime schema
+# encoding: utf-8
+
+__include: jienggong.schema:/
+
+schema:
+  schema_id: jienggong_ipa
+  name: '阳江话拼音（IPA版）'
+  version: "2024.08.24"
+  author:
+    - Lumen <lumen01@qq.com>
+
+  description: |-
+    阳江话方言拼音方案
+      - https://github.com/Lumen01/rime-jienggong-cantonese
+    特点：
+      - 支持 IPA 显示
+      - 支持声调显示及输入
+      - 使用 pinyin_simp 作为普通话反查
+      - 添加 easy_en 实现中英混输
+
+translator:
+  dictionary: jienggong
+  # 设定用戶词典类型，可设tabledb〔文本〕或userdb〔二进制〕
+  #db_class: userdb
+  prism: jienggong_ipa
+  enable_charset_filter: true
+  spelling_hints: 5                   # 将该处改作 0，可以去除候选字后面个拼音提示
+  enable_user_dict: true              # 将该处改作 true，会根据你个输入习惯自动调整候选词个顺序
+  enable_sentence: true               # 将该处改作 true，输入长句
+  encode_commit_history: false        # 将该处改作 true，同时 enable_user_dict 也系 true，可以学习你个历史输入词语
+  #comment_format:                     # 提示码自定义
+  #  - xlit/12345/¹²³⁴⁵/               # Comment 声调改为上标
+
+  preedit_format:
+    - xform/x/ɬ/                                     # x 改为ɬ
+    - xform/ng/ŋ/                                    # ng 改为 ŋ
+    - xform/^| |'/,/                                 # 音节处理
+
+    - xform/(,|h)(m|ŋ)(qq?|rr?|vv?)?(?=$|,)/$1$2̍$3/  # 鼻音韵
+    - xform/m̍/m̩/                                     # 改变符号位置 
+
+    - xform/aa/ɑ/                                    # a 类，临时改写 aa 为 ɑ
+    - xlit/aɑoe/ɐaɔɛ/                                # 还原为音标
+    - xform/ɔu/ou/                                   # ɔ 类，与 u 结合为 ou
+    - xform/ɛi/eɪ/                                   # ɛ 类，与 e 结合为 eɪ
+    - xform/iɛ([umnŋptk])/iæ$1/                      # ɛ 类，与[umnŋptk]结合变为 æ
+    - xform/i(ŋ|k)/e$1/                              # i 类，与[ŋk]结合变为 e
+    - xform/ai/aɪ/                                   # i 类，ai → aɪ
+    - xform/u(ŋ|k)/o$1/                              # u 类，与[ŋk]结合变为 o
+    - xform/(ɐ|a)u/$1ʊ/                              # u 类，u → ʊ
+
+    - xform/a|ɔ|ɛ|i|u/$&ː/                           # 标示长元音
+    - xform/([ːɐoæe][iu])ː/$1̯/                       # 标示双元音
+    - xform/[ːɐoæe][ptk]/$&̚/                         # 标示入声调
+    - xform/ːæ/æ/                                    # ɛ 类韵母前面有声母时，韵头 i 轻而短
+
+    - xform/,([ptc]|kw?)/$&ʰ/                        # 标示送气
+    - xform/[kg]w/kʷ/                                # 标示圆唇音
+    - xform/c|z/t͡s/                                  # 塞擦音
+    - xlit/bdg/ptk/                                  # 改为清音
+
+    - xform/,(e[ŋk])/,ʔ$1/                           # 特定零声母有喉塞音
+    - xform/sl([ɐæeiou])/ɬ$2/                        # 转写[sl]为[ɬ]
+
+    # 曲线法声调
+    - xform/qq/˨˦/                                   # 第 5 声
+    - xform/rr/˥˦/                                   # 第 4 声
+    - xform/v/˨˩/                                    # 第 3 声
+    - xform/r/˦˧/                                    # 第 2 声
+    - xform/q/˧/                                     # 第 1 声
+
+    - xform/^,//                                     # 起始的,无捰
+    - xform/,/./                                     # 使用.来划分音节
