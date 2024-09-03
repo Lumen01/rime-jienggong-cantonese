@@ -11,7 +11,7 @@
 
 ---
 name: "jienggong.chars"
-version: "2024.08.23"
+version: "2024.09.04"
 sort: by_weight
 ...
 
@@ -7448,7 +7448,7 @@ sort: by_weight
 㐖	git3
 丩	giu1	29
 摷	giu3	107
-𠮶	go3
+𠮶	go3	73252887
 胳	gok3	6813
 乹	gon1
 亁	gon1	437
@@ -7685,6 +7685,7 @@ sort: by_weight
 剥	pok3	165554
 墣	pok5	94
 螃	pong2	2775
+菩	pou2	22749
 徘	pui2	10589
 乷	saa1
 仨	saa1	58982
