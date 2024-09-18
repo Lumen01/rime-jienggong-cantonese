@@ -11,7 +11,7 @@
 
 ---
 name: "jienggong.chars"
-version: "2024.09.04"
+version: "2024.09.18"
 sort: by_weight
 ...
 
@@ -316,7 +316,6 @@ sort: by_weight
 病	bing5	2893603
 蹩	bit3	11994
 必	bit3	1341390
-鳌	bit3	161967
 憋	bit3	255887
 瘪	bit3	37303
 鳖	bit3	50533

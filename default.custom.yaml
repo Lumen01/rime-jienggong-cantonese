@@ -1,6 +1,7 @@
 patch:
   schema_list:
     - schema: jienggong             # 阳江话拼音方案
+    - schema: jienggong_ipa         # 阳江话拼音方案（IPA 版）
     - schema: pinyin_simp           # 普通话拼音方案
     - schema: easy_en               # 英文方案
 
