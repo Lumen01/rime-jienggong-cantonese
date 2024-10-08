@@ -33,7 +33,7 @@ translator:
   #  - xlit/12345/¹²³⁴⁵/               # Comment 声调改为上标
 
   preedit_format:
-    - xform/x/ɬ/                                     # x 改为ɬ
+    - xform/(sl|x)/ɬ/                                # sl/x 改为 ɬ
     - xform/ng/ŋ/                                    # ng 改为 ŋ
     - xform/^| |'/,/                                 # 音节处理
 
@@ -61,7 +61,6 @@ translator:
     - xlit/bdg/ptk/                                  # 改为清音
 
     - xform/,(e[ŋk])/,ʔ$1/                           # 特定零声母有喉塞音
-    - xform/sl([ɐæeiou])/ɬ$2/                        # 转写[sl]为[ɬ]
 
     # 曲线法声调
     - xform/qq/˨˦/                                   # 第 5 声
