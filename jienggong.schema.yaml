@@ -86,6 +86,9 @@ speller:
     # 取消下一行注释, 优化 x -> sl, 输入[x] 可以得到输入 [sl] 的效果，提升输入效率
     - derive/^sl([aeiou])/x$1/    
 
+    # 取消下一行注释，简化 ie 韵腹拼写为 e，提升输入效率
+    - derive/ie([umnptk]|ng)/e$1/
+
     - derive/^j([aeiou])/y$1/     # 容错 j -> y
     - derive/aa(?=\d)/a/          # 容错
     - derive/\d//                 # 忽略声调
