@@ -108,7 +108,6 @@ translator:
   enable_sentence: true               # 将该处改作 true，输入长句
   encode_commit_history: false        # 将该处改作 true，同时 enable_user_dict 也系 true，可以学习你个历史输入词语
   preedit_format:
-    - xform/x([aeiou])/sl$1/
     - xform/([aeioumngptk])qq/${1}4/
     - xform/([aeioumngptk])rr/${1}5/
     - xform/([aeioumngptk])q/${1}1/
