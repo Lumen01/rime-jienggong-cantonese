@@ -33,6 +33,7 @@ translator:
   #  - xlit/12345/¹²³⁴⁵/               # Comment 声调改为上标
 
   preedit_format:
+    - xform/^y/j/                                    # y 改为 j
     - xform/(sl|x)/ɬ/                                # sl/x 改为 ɬ
     - xform/ng/ŋ/                                    # ng 改为 ŋ
     - xform/^| |'/,/                                 # 音节处理
@@ -44,7 +45,7 @@ translator:
     - xlit/aɑoe/ɐaɔɛ/                                # 还原为音标
     - xform/ɔu/ou/                                   # ɔ 类，与 u 结合为 ou
     - xform/ɛi/eɪ/                                   # ɛ 类，与 e 结合为 eɪ
-    - xform/iɛ([umnŋptk])/iæ$1/                      # ɛ 类，与[umnŋptk]结合变为 æ
+    - xform/i?ɛ([umnŋptk])/iæ$1/                     # ɛ 类，与[umnŋptk]结合变为 æ
     - xform/i(ŋ|k)/e$1/                              # i 类，与[ŋk]结合变为 e
     - xform/ai/aɪ/                                   # i 类，ai → aɪ
     - xform/u(ŋ|k)/o$1/                              # u 类，与[ŋk]结合变为 o
